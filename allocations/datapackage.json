@@ -1,0 +1,125 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "path": "data/product_sector_allocations.csv",
+      "profile": "tabular-data-resource",
+      "name": "product_sector_allocations",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "product",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Construction",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Mechanical Engineering",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Automotive",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Electrical",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Other Transport",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Tubes",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Metal Goods",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Other sectors",
+            "type": "number",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "path": "data/sector_yield_losses.csv",
+      "profile": "tabular-data-resource",
+      "name": "sector_yield_losses",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "product",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Construction",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Mechanical Engineering",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Automotive",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Electrical",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Other Transport",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Tubes",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Metal Goods",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Other sectors",
+            "type": "number",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

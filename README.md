@@ -18,11 +18,19 @@ enabled.
 
 ### Data dependencies
 
-The model loads the prepared data, available at XXX. These should be saved in an
-adjacent folder:
+The model depends on these datapackages:
+- [uk-trade-steel](https://github.com/ricklupton/uk-trade-steel)
+- [issb-statistics](https://github.com/ricklupton/issb-statistics)
+- [worldsteel-statistics](https://github.com/ricklupton/worldsteel-statistics)
+
+These should be saved in an adjacent folder:
 
 ```
-...tree...
+..
+├── flow-model            <--- this folder
+├── issb-statistics
+├── uk-steel-trade
+└── worldsteel-statistics
 ```
 
 ## Preparation

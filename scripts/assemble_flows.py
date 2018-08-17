@@ -22,25 +22,23 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
 # Load data tables
 ints = pd.read_csv('data/intermediate_products.csv', index_col='product')
 
-alloc = load_dataframe(
-    os.path.join(ROOT, 'allocations/datapackage.json'), 'product_sector_allocations') \
+alloc = load_dataframe('allocations/datapackage.json', 'product_sector_allocations') \
     .set_index('product') \
     .astype(float)
 assert all(abs(alloc.sum(axis=1) - 1) < 0.01), 'allocations should sum to 1'
 
-sector_yield_losses = load_dataframe(
-    os.path.join(ROOT, 'allocations/datapackage.json'), 'sector_yield_losses') \
+sector_yield_losses = load_dataframe('allocations/datapackage.json', 'sector_yield_losses') \
     .set_index('product') \
     .astype(float)
 assert all(sector_yield_losses <= 1), 'sector yield losses should be less than 1'
 assert all(sector_yield_losses >= 0), 'sector yield losses should be greater than 0'
 
 product_imports = load_dataframe(
-    os.path.join(ROOT, 'aggregate-trade/datapackage.json'), 'imports') \
+    os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'imports') \
     .query('year == 2016') \
     .set_index('product_group')
 product_exports = load_dataframe(
-    os.path.join(ROOT, 'aggregate-trade/datapackage.json'), 'exports') \
+    os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'exports') \
     .query('year == 2016') \
     .set_index('product_group')
 
