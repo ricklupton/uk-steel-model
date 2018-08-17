@@ -1,0 +1,430 @@
+source,target,material,value
+uk_production,uk_intermediate,Cold rolled,22.7
+uk_production,exports,Cold rolled,8.5
+imports,uk_intermediate,Cold rolled,77.3
+uk_intermediate,Construction,Cold rolled,13.600000000000001
+Construction,scrap,scrap Cold rolled,0.136
+Construction,products,Structural steelwork and building and civil engineering,13.464
+uk_intermediate,Mechanical Engineering,Cold rolled,12.4
+Mechanical Engineering,scrap,scrap Cold rolled,0.12400000000000001
+Mechanical Engineering,products,Mechanical engineering,12.276
+uk_intermediate,Automotive,Cold rolled,24.5
+Automotive,scrap,scrap Cold rolled,0.245
+Automotive,products,Vehicles,24.255
+uk_intermediate,Electrical,Cold rolled,13.3
+Electrical,scrap,scrap Cold rolled,0.133
+Electrical,products,Electrical engineering,13.167
+uk_intermediate,Other Transport,Cold rolled,1.9
+Other Transport,scrap,scrap Cold rolled,0.019
+Other Transport,products,Shipbuilding,1.881
+uk_intermediate,Tubes,Cold rolled,7.5
+Tubes,scrap,scrap Cold rolled,0.075
+Tubes,products,"Boilers, drums and other vessels",7.425
+uk_intermediate,Metal Goods,Cold rolled,24.2
+Metal Goods,scrap,scrap Cold rolled,0.242
+Metal Goods,products,Metal goods,23.958
+uk_intermediate,Other sectors,Cold rolled,2.6
+Other sectors,scrap,scrap Cold rolled,0.026000000000000002
+Other sectors,products,Other industries,2.574
+uk_production,uk_intermediate,Electro coated,32.671511356201506
+uk_production,exports,Electro coated,22.32848864379849
+imports,uk_intermediate,Electro coated,91.15431348724181
+uk_intermediate,Construction,Electro coated,10.649020936536122
+Construction,scrap,scrap Electro coated,0.10649020936536122
+Construction,products,Structural steelwork and building and civil engineering,10.54253072717076
+uk_intermediate,Mechanical Engineering,Electro coated,3.467123095616412
+Mechanical Engineering,scrap,scrap Electro coated,0.034671230956164124
+Mechanical Engineering,products,Mechanical engineering,3.4324518646602478
+uk_intermediate,Automotive,Electro coated,77.88644382652582
+Automotive,scrap,scrap Electro coated,0.7788644382652582
+Automotive,products,Vehicles,77.10757938826056
+uk_intermediate,Electrical,Electro coated,8.543981914197587
+Electrical,scrap,scrap Electro coated,0.08543981914197588
+Electrical,products,Electrical engineering,8.458542095055611
+uk_intermediate,Other Transport,Electro coated,6.4389428918590506
+Other Transport,scrap,scrap Electro coated,0.06438942891859051
+Other Transport,products,Shipbuilding,6.37455346294046
+uk_intermediate,Tubes,Electro coated,0.6191291242172164
+Tubes,scrap,scrap Electro coated,0.006191291242172165
+Tubes,products,"Boilers, drums and other vessels",0.6129378329750442
+uk_intermediate,Metal Goods,Electro coated,13.620840732778762
+Metal Goods,scrap,scrap Electro coated,0.1362084073277876
+Metal Goods,products,Metal goods,13.484632325450974
+uk_intermediate,Other sectors,Electro coated,2.600342321712309
+Other sectors,scrap,scrap Electro coated,0.02600342321712309
+Other sectors,products,Other industries,2.5743388984951863
+uk_production,uk_intermediate,Hot dipped galvanised,474.6279558837275
+uk_production,exports,Hot dipped galvanised,324.3720441162725
+imports,uk_intermediate,Hot dipped galvanised,1324.223572296476
+uk_intermediate,Construction,Hot dipped galvanised,471.29910038321333
+Construction,scrap,scrap Hot dipped galvanised,4.712991003832133
+Construction,products,Structural steelwork and building and civil engineering,466.5861093793812
+uk_intermediate,Mechanical Engineering,Hot dipped galvanised,95.33913099355078
+Mechanical Engineering,scrap,scrap Hot dipped galvanised,0.9533913099355078
+Mechanical Engineering,products,Mechanical engineering,94.38573968361527
+uk_intermediate,Automotive,Hot dipped galvanised,832.8682575474343
+Automotive,scrap,scrap Hot dipped galvanised,8.328682575474343
+Automotive,products,Vehicles,824.53957497196
+uk_intermediate,Electrical,Hot dipped galvanised,64.75865501448732
+Electrical,scrap,scrap Hot dipped galvanised,0.6475865501448732
+Electrical,products,Electrical engineering,64.11106846434244
+uk_intermediate,Other Transport,Hot dipped galvanised,28.781624450883257
+Other Transport,scrap,scrap Hot dipped galvanised,0.2878162445088326
+Other Transport,products,Shipbuilding,28.493808206374425
+uk_intermediate,Tubes,Hot dipped galvanised,77.35061571174874
+Tubes,scrap,scrap Hot dipped galvanised,0.7735061571174875
+Tubes,products,"Boilers, drums and other vessels",76.57710955463126
+uk_intermediate,Metal Goods,Hot dipped galvanised,188.87941045892137
+Metal Goods,scrap,scrap Hot dipped galvanised,1.8887941045892138
+Metal Goods,products,Metal goods,186.99061635433216
+uk_intermediate,Other sectors,Hot dipped galvanised,39.574733619964476
+Other sectors,scrap,scrap Hot dipped galvanised,0.39574733619964475
+Other sectors,products,Other industries,39.17898628376483
+uk_production,uk_intermediate,Hot rolled,248.9149834072556
+uk_production,exports,Hot rolled,224.8275820170109
+imports,uk_intermediate,Hot rolled,917.8410692588092
+uk_intermediate,Construction,Hot rolled,243.8520150072075
+Construction,scrap,scrap Hot rolled,2.4385201500720752
+Construction,products,Structural steelwork and building and civil engineering,241.41349485713545
+uk_intermediate,Mechanical Engineering,Hot rolled,179.68043211057397
+Mechanical Engineering,scrap,scrap Hot rolled,1.7968043211057398
+Mechanical Engineering,products,Mechanical engineering,177.88362778946822
+uk_intermediate,Automotive,Hot rolled,191.34799263723463
+Automotive,scrap,scrap Hot rolled,1.9134799263723463
+Automotive,products,Vehicles,189.43451271086226
+uk_intermediate,Electrical,Hot rolled,25.668633158653424
+Electrical,scrap,scrap Hot rolled,0.25668633158653426
+Electrical,products,Electrical engineering,25.41194682706689
+uk_intermediate,Other Transport,Hot rolled,19.834852895323102
+Other Transport,scrap,scrap Hot rolled,0.19834852895323102
+Other Transport,products,Shipbuilding,19.63650436636987
+uk_intermediate,Tubes,Hot rolled,329.0252068518302
+Tubes,scrap,scrap Hot rolled,3.2902520685183023
+Tubes,products,"Boilers, drums and other vessels",325.7349547833119
+uk_intermediate,Metal Goods,Hot rolled,145.8445065832581
+Metal Goods,scrap,scrap Hot rolled,1.458445065832581
+Metal Goods,products,Metal goods,144.3860615174255
+uk_intermediate,Other sectors,Hot rolled,31.50241342198375
+Other sectors,scrap,scrap Hot rolled,0.3150241342198375
+Other sectors,products,Other industries,31.187389287763914
+uk_production,uk_intermediate,Organic coated,203.15739788765305
+uk_production,exports,Organic coated,138.84260211234695
+imports,uk_intermediate,Organic coated,566.8140947752124
+uk_intermediate,Construction,Organic coated,545.1398168053088
+Construction,scrap,scrap Organic coated,5.451398168053088
+Construction,products,Structural steelwork and building and civil engineering,539.6884186372557
+uk_intermediate,Mechanical Engineering,Organic coated,44.658346574446206
+Mechanical Engineering,scrap,scrap Organic coated,0.44658346574446206
+Mechanical Engineering,products,Mechanical engineering,44.211763108701746
+uk_intermediate,Automotive,Organic coated,36.18866015515468
+Automotive,scrap,scrap Organic coated,0.3618866015515468
+Automotive,products,Vehicles,35.82677355360313
+uk_intermediate,Electrical,Organic coated,66.9875198616693
+Electrical,scrap,scrap Organic coated,0.669875198616693
+Electrical,products,Electrical engineering,66.3176446630526
+uk_intermediate,Other Transport,Organic coated,3.849857463314328
+Other Transport,scrap,scrap Organic coated,0.03849857463314328
+Other Transport,products,Shipbuilding,3.8113588886811844
+uk_intermediate,Tubes,Organic coated,0.0
+Tubes,scrap,scrap Organic coated,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Organic coated,49.2781755304234
+Metal Goods,scrap,scrap Organic coated,0.49278175530423396
+Metal Goods,products,Metal goods,48.78539377511916
+uk_intermediate,Other sectors,Organic coated,23.869116272548833
+Other sectors,scrap,scrap Organic coated,0.23869116272548835
+Other sectors,products,Other industries,23.630425109823346
+uk_production,uk_intermediate,Plate,750.0701823949246
+uk_production,exports,Plate,348.7
+imports,uk_intermediate,Plate,355.5
+uk_intermediate,Construction,Plate,350.4657478191911
+Construction,scrap,scrap Plate,3.5046574781919113
+Construction,products,Structural steelwork and building and civil engineering,346.9610903409992
+uk_intermediate,Mechanical Engineering,Plate,313.9819318001586
+Mechanical Engineering,scrap,scrap Plate,3.1398193180015856
+Mechanical Engineering,products,Mechanical engineering,310.842112482157
+uk_intermediate,Automotive,Plate,18.79469310071372
+Automotive,scrap,scrap Plate,0.1879469310071372
+Automotive,products,Vehicles,18.606746169706582
+uk_intermediate,Electrical,Plate,4.422280729579699
+Electrical,scrap,scrap Plate,0.04422280729579699
+Electrical,products,Electrical engineering,4.378057922283902
+uk_intermediate,Other Transport,Plate,109.45144805709754
+Other Transport,scrap,scrap Plate,1.0945144805709754
+Other Transport,products,Shipbuilding,108.35693357652656
+uk_intermediate,Tubes,Plate,185.73579064234735
+Tubes,scrap,scrap Plate,1.8573579064234735
+Tubes,products,"Boilers, drums and other vessels",183.87843273592387
+uk_intermediate,Metal Goods,Plate,96.18460586835843
+Metal Goods,scrap,scrap Plate,0.9618460586835843
+Metal Goods,products,Metal goods,95.22275980967484
+uk_intermediate,Other sectors,Plate,26.533684377478192
+Other sectors,scrap,scrap Plate,0.26533684377478195
+Other sectors,products,Other industries,26.26834753370341
+uk_production,uk_intermediate,Tin plate,231.6707168894289
+uk_production,exports,Tin plate,158.3292831105711
+imports,uk_intermediate,Tin plate,646.36695018226
+uk_intermediate,Construction,Tin plate,0.8780376670716891
+Construction,scrap,scrap Tin plate,0.008780376670716891
+Construction,products,Structural steelwork and building and civil engineering,0.8692572904009722
+uk_intermediate,Mechanical Engineering,Tin plate,4.390188335358445
+Mechanical Engineering,scrap,scrap Tin plate,0.043901883353584456
+Mechanical Engineering,products,Mechanical engineering,4.34628645200486
+uk_intermediate,Automotive,Tin plate,2.6341130012150673
+Automotive,scrap,scrap Tin plate,0.026341130012150674
+Automotive,products,Vehicles,2.6077718712029165
+uk_intermediate,Electrical,Tin plate,0.8780376670716891
+Electrical,scrap,scrap Tin plate,0.008780376670716891
+Electrical,products,Electrical engineering,0.8692572904009722
+uk_intermediate,Other Transport,Tin plate,0.0
+Other Transport,scrap,scrap Tin plate,0.0
+Other Transport,products,Shipbuilding,0.0
+uk_intermediate,Tubes,Tin plate,0.0
+Tubes,scrap,scrap Tin plate,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Tin plate,864.8671020656137
+Metal Goods,scrap,scrap Tin plate,8.648671020656137
+Metal Goods,products,Metal goods,856.2184310449576
+uk_intermediate,Other sectors,Tin plate,4.390188335358445
+Other sectors,scrap,scrap Tin plate,0.043901883353584456
+Other sectors,products,Other industries,4.34628645200486
+uk_production,uk_intermediate,Tubes and pipes,371.90000000000003
+uk_production,exports,Tubes and pipes,204.3
+imports,uk_intermediate,Tubes and pipes,908.1
+uk_intermediate,Construction,Tubes and pipes,70.40000000000002
+Construction,scrap,scrap Tubes and pipes,0.7040000000000002
+Construction,products,Structural steelwork and building and civil engineering,69.69600000000001
+uk_intermediate,Mechanical Engineering,Tubes and pipes,225.28000000000003
+Mechanical Engineering,scrap,scrap Tubes and pipes,2.2528
+Mechanical Engineering,products,Mechanical engineering,223.02720000000002
+uk_intermediate,Automotive,Tubes and pipes,401.9200000000001
+Automotive,scrap,scrap Tubes and pipes,4.0192000000000005
+Automotive,products,Vehicles,397.90080000000006
+uk_intermediate,Electrical,Tubes and pipes,108.80000000000003
+Electrical,scrap,scrap Tubes and pipes,1.0880000000000003
+Electrical,products,Electrical engineering,107.71200000000002
+uk_intermediate,Other Transport,Tubes and pipes,16.64
+Other Transport,scrap,scrap Tubes and pipes,0.16640000000000002
+Other Transport,products,Shipbuilding,16.4736
+uk_intermediate,Tubes,Tubes and pipes,0.0
+Tubes,scrap,scrap Tubes and pipes,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Tubes and pipes,140.80000000000004
+Metal Goods,scrap,scrap Tubes and pipes,1.4080000000000004
+Metal Goods,products,Metal goods,139.39200000000002
+uk_intermediate,Other sectors,Tubes and pipes,316.16
+Other sectors,scrap,scrap Tubes and pipes,3.1616000000000004
+Other sectors,products,Other industries,312.9984
+uk_production,uk_intermediate,Bright bars,70.1
+uk_production,exports,Bright bars,50.0
+imports,uk_intermediate,Bright bars,75.9
+uk_intermediate,Construction,Bright bars,0.0
+Construction,scrap,scrap Bright bars,0.0
+Construction,products,Structural steelwork and building and civil engineering,0.0
+uk_intermediate,Mechanical Engineering,Bright bars,48.18
+Mechanical Engineering,scrap,scrap Bright bars,0.4818
+Mechanical Engineering,products,Mechanical engineering,47.6982
+uk_intermediate,Automotive,Bright bars,26.279999999999998
+Automotive,scrap,scrap Bright bars,0.2628
+Automotive,products,Vehicles,26.0172
+uk_intermediate,Electrical,Bright bars,18.98
+Electrical,scrap,scrap Bright bars,0.1898
+Electrical,products,Electrical engineering,18.7902
+uk_intermediate,Other Transport,Bright bars,2.92
+Other Transport,scrap,scrap Bright bars,0.0292
+Other Transport,products,Shipbuilding,2.8908
+uk_intermediate,Tubes,Bright bars,0.0
+Tubes,scrap,scrap Bright bars,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Bright bars,48.18
+Metal Goods,scrap,scrap Bright bars,0.4818
+Metal Goods,products,Metal goods,47.6982
+uk_intermediate,Other sectors,Bright bars,1.46
+Other sectors,scrap,scrap Bright bars,0.0146
+Other sectors,products,Other industries,1.4454
+uk_production,uk_intermediate,Heavy sections,635.4797045032292
+uk_production,exports,Heavy sections,303.8202954967708
+imports,uk_intermediate,Heavy sections,757.6393966203663
+uk_intermediate,Construction,Heavy sections,1393.1191011235953
+Construction,scrap,scrap Heavy sections,13.931191011235953
+Construction,products,Structural steelwork and building and civil engineering,1379.1879101123593
+uk_intermediate,Mechanical Engineering,Heavy sections,0.0
+Mechanical Engineering,scrap,scrap Heavy sections,0.0
+Mechanical Engineering,products,Mechanical engineering,0.0
+uk_intermediate,Automotive,Heavy sections,0.0
+Automotive,scrap,scrap Heavy sections,0.0
+Automotive,products,Vehicles,0.0
+uk_intermediate,Electrical,Heavy sections,0.0
+Electrical,scrap,scrap Heavy sections,0.0
+Electrical,products,Electrical engineering,0.0
+uk_intermediate,Other Transport,Heavy sections,0.0
+Other Transport,scrap,scrap Heavy sections,0.0
+Other Transport,products,Shipbuilding,0.0
+uk_intermediate,Tubes,Heavy sections,0.0
+Tubes,scrap,scrap Heavy sections,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Heavy sections,0.0
+Metal Goods,scrap,scrap Heavy sections,0.0
+Metal Goods,products,Metal goods,0.0
+uk_intermediate,Other sectors,Heavy sections,0.0
+Other sectors,scrap,scrap Heavy sections,0.0
+Other sectors,products,Other industries,0.0
+uk_production,uk_intermediate,Hot rolled bars in lengths,142.61428429817613
+uk_production,exports,Hot rolled bars in lengths,193.0
+imports,uk_intermediate,Hot rolled bars in lengths,129.5
+uk_intermediate,Construction,Hot rolled bars in lengths,67.75645679024584
+Construction,scrap,scrap Hot rolled bars in lengths,0.6775645679024583
+Construction,products,Structural steelwork and building and civil engineering,67.07889222234337
+uk_intermediate,Mechanical Engineering,Hot rolled bars in lengths,59.04879969270421
+Mechanical Engineering,scrap,scrap Hot rolled bars in lengths,0.5904879969270421
+Mechanical Engineering,products,Mechanical engineering,58.45831169577716
+uk_intermediate,Automotive,Hot rolled bars in lengths,18.503771332275974
+Automotive,scrap,scrap Hot rolled bars in lengths,0.18503771332275976
+Automotive,products,Vehicles,18.318733618953214
+uk_intermediate,Electrical,Hot rolled bars in lengths,5.442285685963522
+Electrical,scrap,scrap Hot rolled bars in lengths,0.054422856859635216
+Electrical,products,Electrical engineering,5.387862829103886
+uk_intermediate,Other Transport,Hot rolled bars in lengths,3.809599980174465
+Other Transport,scrap,scrap Hot rolled bars in lengths,0.038095999801744655
+Other Transport,products,Shipbuilding,3.7715039803727204
+uk_intermediate,Tubes,Hot rolled bars in lengths,0.0
+Tubes,scrap,scrap Hot rolled bars in lengths,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Hot rolled bars in lengths,72.38239962331484
+Metal Goods,scrap,scrap Hot rolled bars in lengths,0.7238239962331484
+Metal Goods,products,Metal goods,71.65857562708169
+uk_intermediate,Other sectors,Hot rolled bars in lengths,45.17097119349723
+Other sectors,scrap,scrap Hot rolled bars in lengths,0.45170971193497234
+Other sectors,products,Other industries,44.719261481562256
+uk_production,uk_intermediate,Light sections,93.14913758921486
+uk_production,exports,Light sections,95.5
+imports,uk_intermediate,Light sections,25.2
+uk_intermediate,Construction,Light sections,39.76531022997621
+Construction,scrap,scrap Light sections,0.3976531022997621
+Construction,products,Structural steelwork and building and civil engineering,39.367657127676445
+uk_intermediate,Mechanical Engineering,Light sections,41.89559470658207
+Mechanical Engineering,scrap,scrap Light sections,0.4189559470658207
+Mechanical Engineering,products,Mechanical engineering,41.47663875951625
+uk_intermediate,Automotive,Light sections,17.16062495043616
+Automotive,scrap,scrap Light sections,0.1716062495043616
+Automotive,products,Vehicles,16.989018700931798
+uk_intermediate,Electrical,Light sections,0.23669827517842978
+Electrical,scrap,scrap Light sections,0.0023669827517842977
+Electrical,products,Electrical engineering,0.2343312924266455
+uk_intermediate,Other Transport,Light sections,0.11834913758921489
+Other Transport,scrap,scrap Light sections,0.0011834913758921488
+Other Transport,products,Shipbuilding,0.11716564621332275
+uk_intermediate,Tubes,Light sections,0.0
+Tubes,scrap,scrap Light sections,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Light sections,7.100948255352893
+Metal Goods,scrap,scrap Light sections,0.07100948255352893
+Metal Goods,products,Metal goods,7.0299387727993645
+uk_intermediate,Other sectors,Light sections,11.953262896510704
+Other sectors,scrap,scrap Light sections,0.11953262896510705
+Other sectors,products,Other industries,11.833730267545597
+uk_production,uk_intermediate,Railway track material,129.22029549677077
+uk_production,exports,Railway track material,61.779704503229226
+imports,uk_intermediate,Railway track material,154.0606033796337
+uk_intermediate,Construction,Railway track material,254.95280898876405
+Construction,scrap,scrap Railway track material,2.5495280898876405
+Construction,products,Structural steelwork and building and civil engineering,252.4032808988764
+uk_intermediate,Mechanical Engineering,Railway track material,28.32808988764045
+Mechanical Engineering,scrap,scrap Railway track material,0.2832808988764045
+Mechanical Engineering,products,Mechanical engineering,28.044808988764043
+uk_intermediate,Automotive,Railway track material,0.0
+Automotive,scrap,scrap Railway track material,0.0
+Automotive,products,Vehicles,0.0
+uk_intermediate,Electrical,Railway track material,0.0
+Electrical,scrap,scrap Railway track material,0.0
+Electrical,products,Electrical engineering,0.0
+uk_intermediate,Other Transport,Railway track material,0.0
+Other Transport,scrap,scrap Railway track material,0.0
+Other Transport,products,Shipbuilding,0.0
+uk_intermediate,Tubes,Railway track material,0.0
+Tubes,scrap,scrap Railway track material,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Railway track material,0.0
+Metal Goods,scrap,scrap Railway track material,0.0
+Metal Goods,products,Metal goods,0.0
+uk_intermediate,Other sectors,Railway track material,0.0
+Other sectors,scrap,scrap Railway track material,0.0
+Other sectors,products,Other industries,0.0
+uk_production,uk_intermediate,Reinforcing bar,187.91463923258723
+uk_production,exports,Reinforcing bar,152.08536076741277
+imports,uk_intermediate,Reinforcing bar,147.5476157375226
+uk_intermediate,Construction,Reinforcing bar,335.4622549701098
+Construction,scrap,scrap Reinforcing bar,3.3546225497010984
+Construction,products,Structural steelwork and building and civil engineering,332.1076324204087
+uk_intermediate,Mechanical Engineering,Reinforcing bar,0.0
+Mechanical Engineering,scrap,scrap Reinforcing bar,0.0
+Mechanical Engineering,products,Mechanical engineering,0.0
+uk_intermediate,Automotive,Reinforcing bar,0.0
+Automotive,scrap,scrap Reinforcing bar,0.0
+Automotive,products,Vehicles,0.0
+uk_intermediate,Electrical,Reinforcing bar,0.0
+Electrical,scrap,scrap Reinforcing bar,0.0
+Electrical,products,Electrical engineering,0.0
+uk_intermediate,Other Transport,Reinforcing bar,0.0
+Other Transport,scrap,scrap Reinforcing bar,0.0
+Other Transport,products,Shipbuilding,0.0
+uk_intermediate,Tubes,Reinforcing bar,0.0
+Tubes,scrap,scrap Reinforcing bar,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Reinforcing bar,0.0
+Metal Goods,scrap,scrap Reinforcing bar,0.0
+Metal Goods,products,Metal goods,0.0
+uk_intermediate,Other sectors,Reinforcing bar,0.0
+Other sectors,scrap,scrap Reinforcing bar,0.0
+Other sectors,products,Other industries,0.0
+uk_production,uk_intermediate,Rods,563.3928250814492
+uk_production,exports,Rods,491.41463923258726
+imports,uk_intermediate,Rods,476.75238426247734
+uk_intermediate,Construction,Rods,488.8682483916456
+Construction,scrap,scrap Rods,4.8886824839164555
+Construction,products,Structural steelwork and building and civil engineering,483.9795659077291
+uk_intermediate,Mechanical Engineering,Rods,98.81379488767305
+Mechanical Engineering,scrap,scrap Rods,0.9881379488767306
+Mechanical Engineering,products,Mechanical engineering,97.82565693879633
+uk_intermediate,Automotive,Rods,86.33205237554593
+Automotive,scrap,scrap Rods,0.8633205237554593
+Automotive,products,Vehicles,85.46873185179047
+uk_intermediate,Electrical,Rods,30.164211070973877
+Electrical,scrap,scrap Rods,0.3016421107097388
+Electrical,products,Electrical engineering,29.862568960264138
+uk_intermediate,Other Transport,Rods,16.642323349502828
+Other Transport,scrap,scrap Rods,0.16642323349502827
+Other Transport,products,Shipbuilding,16.4759001160078
+uk_intermediate,Tubes,Rods,0.0
+Tubes,scrap,scrap Rods,0.0
+Tubes,products,"Boilers, drums and other vessels",0.0
+uk_intermediate,Metal Goods,Rods,215.31005833419283
+Metal Goods,scrap,scrap Rods,2.1531005833419283
+Metal Goods,products,Metal goods,213.1569577508509
+uk_intermediate,Other sectors,Rods,102.97437572504876
+Other sectors,scrap,scrap Rods,1.0297437572504875
+Other sectors,products,Other industries,101.94463196779827
+products,product_exports,Mechanical engineering,1422.29737682
+products,uk_demand,Mechanical engineering,-278.3885790565387
+product_imports,uk_demand,Mechanical engineering,1876.30750162
+products,product_exports,Electrical engineering,172.1913558
+products,uk_demand,Electrical engineering,172.50912454399713
+product_imports,uk_demand,Electrical engineering,583.3900251
+products,product_exports,Shipbuilding,84.5897395
+products,uk_demand,Shipbuilding,123.69338874348638
+product_imports,uk_demand,Shipbuilding,138.81389969999998
+products,product_exports,Vehicles,2245.6731728399996
+products,uk_demand,Vehicles,-528.6007300027286
+product_imports,uk_demand,Vehicles,3446.79954082
+products,product_exports,Structural steelwork and building and civil engineering,376.092217
+products,uk_demand,Structural steelwork and building and civil engineering,3867.253622921736
+product_imports,uk_demand,Structural steelwork and building and civil engineering,1118.063483
+products,product_exports,Metal goods,413.9758859
+products,uk_demand,Metal goods,1434.0056810776923
+product_imports,uk_demand,Metal goods,1477.6648166
+products,product_exports,"Boilers, drums and other vessels",170.081736
+products,uk_demand,"Boilers, drums and other vessels",424.14669890684206
+product_imports,uk_demand,"Boilers, drums and other vessels",638.824227
+products,product_exports,Other industries,162.52185419999998
+products,uk_demand,Other industries,440.1793430824616
+product_imports,uk_demand,Other industries,456.9359514
