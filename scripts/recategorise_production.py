@@ -32,7 +32,7 @@ worldsteel_tables = load_datapackage_tables(os.path.join(ROOT, 'worldsteel-stati
 # Extract ISSB production table -- ECSC plus derived, minus use of ECSC
 # products for feedstocks. Use `fill_value` to fill in zeros instead of NaNs
 # where some of the tables don't have a value for every product.
-issb_ecsc = issb_tables['production_ecsc']['mass'] \
+issb_ecsc = issb_tables['production_ecsc']['mass']
 
 issb = issb_ecsc \
     .add(issb_tables['production_derived']['mass'], fill_value=0) \
@@ -41,44 +41,14 @@ issb = issb_ecsc \
 # Extract worldsteel production table.
 worldsteel = worldsteel_tables['production']['mass']
 
-# Extract ISSB import and export tables. Note: need to aggregate different
-# alloy types in supply table.
-imports = issb_tables['supply'].reset_index().groupby(['product'])['imports'].sum()
+# Extract ISSB import and export tables.
+imports = issb_tables['supply']['imports']
 exports = issb_tables['exports']['mass']
 
 
 ###########################################################################
 # 2. Define the mapping
 ###########################################################################
-
-# These functions define how to scale imports and exports, which are unknown
-# for worldsteel data.
-
-def scale_exports(ref_categories, k):
-    production = worldsteel[k]
-    ref_exports = sum(exports[c] for c in ref_categories)
-    # XXX this should perhaps be relative to net `issb` -- but being consistent
-    # with André for now.
-    ref_production = sum(issb_ecsc[c] for c in ref_categories)
-    logger.debug('Scaling exports of "%s" with respect to %s: %.1f * %.1f / %.1f',
-                 k, ref_categories, production, ref_exports, ref_production)
-    return production * ref_exports / ref_production
-
-def scale_imports(ref_categories, k):
-    deliveries = worldsteel[k] - scale_exports(ref_categories, k)
-    ref_imports = sum(imports[c] for c in ref_categories)
-    # XXX this should perhaps be relative to net `issb` -- but being consistent
-    # with André for now.
-    ref_deliveries = sum(issb_ecsc[c] - exports[c] for c in ref_categories)
-    logger.debug('Scaling imports of "%s" with respect to %s: %.1f * %.1f / %.1f',
-                 k, ref_categories, deliveries, ref_imports, ref_deliveries)
-    return deliveries * ref_imports / ref_deliveries
-
-# This function just looks up the worldsteel production data, for consistency
-# with the two above.
-
-def lookup_production(_, k):
-    return worldsteel[k]
 
 # Some useful shorthands
 SHEETS = ['Sheets, coated and uncoated']
@@ -152,29 +122,83 @@ def recategorise(issb_data, worldsteel_func):
 # 3. Do the recategorisation
 ###########################################################################
 
-new_production = recategorise(issb, lookup_production)
-new_exports = recategorise(exports, scale_exports)
-new_imports = recategorise(imports, scale_imports)
+def calculate_for_year(year):
 
+    # These functions define how to scale imports and exports, which are unknown
+    # for worldsteel data.
+
+    def scale_exports(ref_categories, k):
+        production = worldsteel[year, k]
+        ref_exports = sum(exports[year, c] for c in ref_categories)
+        # XXX this should perhaps be relative to net `issb` -- but being consistent
+        # with André for now.
+        ref_production = sum(issb_ecsc[year, c] for c in ref_categories)
+        logger.debug('Scaling exports of "%s" with respect to %s: %.1f * %.1f / %.1f',
+                    k, ref_categories, production, ref_exports, ref_production)
+        return production * ref_exports / ref_production
+
+    def scale_imports(ref_categories, k):
+        deliveries = worldsteel[year, k] - scale_exports(ref_categories, k)
+        ref_imports = sum(imports[year, c] for c in ref_categories)
+        # XXX this should perhaps be relative to net `issb` -- but being consistent
+        # with André for now.
+        ref_deliveries = sum(issb_ecsc[year, c] - exports[year, c] for c in ref_categories)
+        logger.debug('Scaling imports of "%s" with respect to %s: %.1f * %.1f / %.1f',
+                    k, ref_categories, deliveries, ref_imports, ref_deliveries)
+        return deliveries * ref_imports / ref_deliveries
+
+    # This function just looks up the worldsteel production data, for consistency
+    # with the two above.
+    def lookup_production(_, k):
+        return worldsteel[year, k]
+
+    try:
+        issb_this_year = issb.loc[year]
+    except KeyError:
+        raise KeyError('No ISSB production data for year %d' % year)
+    try:
+        exports_this_year = exports.loc[year]
+    except KeyError:
+        raise KeyError('No ISSB exports data for year %d' % year)
+    try:
+        imports_this_year = imports.loc[year]
+    except KeyError:
+        raise KeyError('No ISSB imports data for year %d' % year)
+    new_production = recategorise(issb_this_year, lookup_production)
+    new_exports = recategorise(exports_this_year, lookup_exports)
+    new_imports = recategorise(imports_this_year, scale_imports)
+
+    # Stack the three dataframes together. `astype(float)` because datapackage loads
+    # numbers as Decimal objects which is a little annoying.
+
+    df = pd.concat({
+        'production': new_production['mass'].astype(float),
+        'exports': new_exports['mass'].astype(float),
+        'imports': new_imports['mass'].astype(float),
+        'product_family': new_production['product_family'],
+    }, axis='columns')
+    df.index.name = 'product'
+
+    df['delivered'] = df['production'] + df['imports'] - df['exports']
+
+    # Add year column
+    df['year'] = year
+
+    return df.reset_index()
 
 ###########################################################################
 # 4. Save the results as a single new table
 ###########################################################################
 
-# Stack the three dataframes together. `astype(float)` because datapackage loads
-# numbers as Decimal objects which is a little annoying.
+#YEARS = issb.index.get_level_values('year').unique()
+YEARS = [2015, 2016]
 
-df = pd.concat({
-    'production': new_production['mass'].astype(float),
-    'exports': new_exports['mass'].astype(float),
-    'imports': new_imports['mass'].astype(float),
-    'product_family': new_production['product_family'],
-}, axis='columns')
-df.index.name = 'product'
+results = pd.concat([
+    calculate_for_year(year)
+    for year in YEARS
+])
 
-df['delivered'] = df['production'] + df['imports'] - df['exports']
+# sort columns and save
+COLUMNS = ['year', 'product', 'product_family', 'production', 'exports', 'imports', 'delivered']
 
-# sort columns
-df = df[['product_family', 'production', 'exports', 'imports', 'delivered']]
-
-df.to_csv('data/intermediate_products.csv')
+results[COLUMNS].to_csv('data/intermediate_products.csv', index=False)

@@ -17,6 +17,6 @@ def load_datapackage_tables(filename):
         for r in package.resources
     }
     return {
-        k: df.set_index(['year', 'product']).loc[2016]
+        k: df.set_index(['year', 'product'])
         for k, df in tables.items()
     }
