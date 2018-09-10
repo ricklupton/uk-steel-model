@@ -35,19 +35,26 @@ These should be saved in an adjacent folder:
 
 ## Preparation
 
+Set up a Python environment using `pipenv` to create a virtualenv and install
+dependencies:
+
+```shell
+$ pipenv install
+```
+
 First, the ISSB and worldsteel data needs to be mapped into a common
 categorisation:
 
-```python
-$ python scripts/recategorise_production.py
+```shell
+$ pipenv run python scripts/recategorise_production.py
 ```
 
 This creates the file `data/intermediate_products.csv`.
 
 Then, bring everything together to make the complete list of flows:
 
-```python
-$ python scripts/assemble_flows.py
+```shell
+$ pipenv run python scripts/assemble_flows.py
 ```
 
 This creates the file `data/flows.csv`.
