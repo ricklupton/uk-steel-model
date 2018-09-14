@@ -165,7 +165,7 @@ def calculate_for_year(year):
     except KeyError:
         raise KeyError('No ISSB imports data for year %d' % year)
     new_production = recategorise(issb_this_year, lookup_production)
-    new_exports = recategorise(exports_this_year, lookup_exports)
+    new_exports = recategorise(exports_this_year, scale_exports)
     new_imports = recategorise(imports_this_year, scale_imports)
 
     # Stack the three dataframes together. `astype(float)` because datapackage loads
@@ -191,7 +191,7 @@ def calculate_for_year(year):
 ###########################################################################
 
 #YEARS = issb.index.get_level_values('year').unique()
-YEARS = [2015, 2016]
+YEARS = [2016]
 
 results = pd.concat([
     calculate_for_year(year)
@@ -201,4 +201,4 @@ results = pd.concat([
 # sort columns and save
 COLUMNS = ['year', 'product', 'product_family', 'production', 'exports', 'imports', 'delivered']
 
-results[COLUMNS].to_csv('data/intermediate_products.csv', index=False)
+results[COLUMNS].to_csv('data/intermediate_products.csv', index=False, float_format='%.1f')
