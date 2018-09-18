@@ -8,6 +8,9 @@ pandas = "*"
 datapackage = "*"
 ipykernel = "*"
 notebook = "*"
+logzero = "*"
+floweaver = "*"
+ipysankeywidget = "*"
 
 [dev-packages]
 pylint = "*"
@@ -18,3 +21,6 @@ python_version = "3.6"
 
 [scripts]
 install_kernel = "python -m ipykernel install --sys-prefix --name=pipenv"
+
+[pipenv]
+allow_prereleases = true

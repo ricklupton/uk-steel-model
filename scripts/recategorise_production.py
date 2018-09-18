@@ -13,10 +13,13 @@ Created by Rick Lupton, 17 August 2018.
 
 import pandas as pd
 import os.path
+from logzero import logger
+import os.path
+
 from util import load_datapackage_tables
-import logging
-logger = logging.getLogger()
-logger.setLevel(logging.DEBUG)
+
+logger.info('Starting %s', os.path.basename(__file__))
+
 
 ###########################################################################
 # 1. Load data
@@ -29,14 +32,11 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
 issb_tables = load_datapackage_tables(os.path.join(ROOT, 'issb-statistics/datapackage.json'))
 worldsteel_tables = load_datapackage_tables(os.path.join(ROOT, 'worldsteel-statistics/datapackage.json'))
 
-# Extract ISSB production table -- ECSC plus derived, minus use of ECSC
-# products for feedstocks. Use `fill_value` to fill in zeros instead of NaNs
-# where some of the tables don't have a value for every product.
+# Extract ISSB production tables. The first is just ECSC, which is used for
+# scaling imports & exports for consistency with Andre's spreadsheet. The
+# second is net production (the value we really want).
 issb_ecsc = issb_tables['production_ecsc']['mass']
-
-issb = issb_ecsc \
-    .add(issb_tables['production_derived']['mass'], fill_value=0) \
-    .sub(issb_tables['production_ecsc_for_derived']['mass'], fill_value=0)
+issb = issb_tables['production']['mass']
 
 # Extract worldsteel production table.
 worldsteel = worldsteel_tables['production']['mass']
@@ -190,8 +190,10 @@ def calculate_for_year(year):
 # 4. Save the results as a single new table
 ###########################################################################
 
-#YEARS = issb.index.get_level_values('year').unique()
-YEARS = [2016]
+# YEARS = list(issb.index.get_level_values('year').unique())
+# YEARS = list(range(2009, 2018))
+YEARS = [2015, 2016]
+logger.info('Loaded ISSB data with years: %s', YEARS)
 
 results = pd.concat([
     calculate_for_year(year)

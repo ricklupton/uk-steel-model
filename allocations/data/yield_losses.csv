@@ -1,0 +1,19 @@
+sector_code,sector_group,sector_name,Hot rolled,Plate,Cold rolled,Hot dipped galvanised,Electro coated,Organic coated,Tin plate,Tubes and pipes,Railway track material,Heavy sections,Sheet piling and rolled accessories,Light sections,Hot rolled bars in lengths,Bright bars,Reinforcing bar,Rods
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",,0.3,0.17,0.17,,,,0.05,,,0.17,0.17,0.17,0.17,,0.1
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",,0.3,0.17,0.17,,,,0.05,,,0.17,0.17,0.17,0.17,,0.1
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,0.1,0.1,0.1,0.1,,0.1,0.3,0.1,,,0.1,0.1,0.1,0.1,,0.1
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",0.3,0.3,0.17,0.17,,0.4,0.17,0.05,,,0.17,0.17,0.25,0.17,,0.1
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",0.2,0.2,0.2,0.2,0.2,0.2,,0.2,,,0.2,0.2,0.2,0.2,,0.05
+9,Mechanical engineering,Agricultural machinery,,0.24,0.24,0.24,,,,0.05,0.05,,0.24,0.24,0.24,0.24,,0.05
+10,Mechanical engineering,Metal working toolsand engineering tools,,0.3,0.3,0.3,,,,0.05,0.05,,0.3,0.3,0.3,0.3,,0.05
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",,0.29,0.29,0.29,,,,0.05,0.05,,0.29,0.29,0.29,0.29,,0.05
+12,Mechanical engineering,Other mechanical engineering,0.2,0.2,0.4,0.2,,,,0.05,0.05,,0.3,0.3,0.3,0.3,,0.05
+13,Mechanical engineering,Industrial and process plant,,0.3,0.3,0.3,,,,0.05,0.05,,0.3,0.3,0.3,0.3,,0.05
+14,Construction,Construction and fabricated constructional steelwork,0.11,0.11,0.11,0.11,,,,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+15a,Transport,Motor vehicles: BIW,,0.43,0.43,0.43,,,,0.05,,,0.43,0.43,,,,
+15b,Transport,Motor vehicles: drivetrain and trimmings,,0.36,0.36,0.36,,,,0.05,,,0.36,0.36,0.2,0.2,,0.1
+16,Transport,Other transport,,0.36,0.36,0.36,,,,0.05,,,0.36,0.36,0.2,0.2,,0.1
+17,"Energy, Water Supply and Chemical Industries","Coal, coke, petroleum and natural gas",,0.2,0.4,0.2,,,,0.05,,,0.2,0.2,0.2,0.2,,0.05
+18,"Energy, Water Supply and Chemical Industries","Gas, electricity and water",,0.2,0.4,0.2,,,,0.05,,,0.2,0.2,0.2,0.2,,0.05
+19,"Energy, Water Supply and Chemical Industries",Chemical and allied industries,,0.2,0.4,0.2,,,,0.05,,,0.2,0.2,0.2,0.2,,0.05
+20,Others,Other UK consumers,,0.3,0.17,0.17,,,,0.05,,,0.17,0.17,0.25,0.17,,0.1
