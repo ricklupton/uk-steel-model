@@ -8,12 +8,13 @@ year,product,product_family,production,exports,imports,delivered
 2015,Tin plate,flat,490.0,228.0,532.7,794.8
 2015,Tubes and pipes,flat,645.0,288.6,829.9,1186.3
 2015,Bright bars,long,155.0,80.6,91.6,166.0
-2015,Heavy sections,long,890.3,322.7,832.5,1400.1
+2015,Heavy sections,long,746.0,270.4,697.6,1173.2
 2015,Hot rolled bars in lengths,long,494.6,312.1,115.3,297.8
 2015,Light sections,long,201.7,108.2,26.9,120.4
 2015,Railway track material,long,91.0,33.0,85.1,143.1
 2015,Reinforcing bar,long,240.0,121.0,120.8,239.8
 2015,Rods,long,1217.9,640.9,639.7,1216.7
+2015,Sheet piling and rolled accessories,long,144.3,52.3,134.9,226.9
 2016,Cold rolled,flat,31.2,8.5,77.3,100.0
 2016,Electro coated,flat,55.0,22.3,91.2,123.8
 2016,Hot dipped galvanised,flat,799.0,324.4,1324.2,1798.9
@@ -23,9 +24,10 @@ year,product,product_family,production,exports,imports,delivered
 2016,Tin plate,flat,390.0,158.3,646.4,878.0
 2016,Tubes and pipes,flat,576.2,204.3,908.1,1280.0
 2016,Bright bars,long,120.1,50.0,75.9,146.0
-2016,Heavy sections,long,939.3,303.8,757.6,1393.1
+2016,Heavy sections,long,846.0,273.6,682.4,1254.7
 2016,Hot rolled bars in lengths,long,335.6,193.0,129.5,272.1
 2016,Light sections,long,188.6,95.5,25.2,118.3
 2016,Railway track material,long,191.0,61.8,154.1,283.3
 2016,Reinforcing bar,long,340.0,152.1,147.5,335.5
 2016,Rods,long,1054.8,491.4,476.8,1040.1
+2016,Sheet piling and rolled accessories,long,93.3,30.2,75.3,138.4

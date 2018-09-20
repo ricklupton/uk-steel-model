@@ -92,8 +92,10 @@ def recategorise(issb_data, worldsteel_func):
     # Long products
     long = {
         'Railway track material': worldsteel_func(HSEC, 'Railway track material'),
-        'Heavy sections': (
+        'Heavy sections': worldsteel_func(HSEC, 'Heavy sections (>=80mm)'),
+        'Sheet piling and rolled accessories': (
             issb_data['Heavy sections, sheet piling, rails and rolled accessories'] -
+            worldsteel_func(HSEC, 'Heavy sections (>=80mm)') -
             worldsteel_func(HSEC, 'Railway track material')
         ),
         'Light sections': issb_data['Light sections'],
