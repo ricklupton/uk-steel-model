@@ -11,6 +11,7 @@ notebook = "*"
 logzero = "*"
 floweaver = "*"
 ipysankeywidget = "*"
+matplotlib = "*"
 
 [dev-packages]
 pylint = "*"
