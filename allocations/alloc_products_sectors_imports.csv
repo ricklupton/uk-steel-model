@@ -1,0 +1,19 @@
+sector_code,sector_group,sector_name,Hot rolled,Plate,Cold rolled,Hot dipped galvanised,Electro coated,Organic coated,Tin plate,Tubes and pipes,Railway track material,Heavy sections,Sheet piling and rolled accessories,Light sections,Hot rolled bars in lengths,Bright bars,Reinforcing bar,Rods
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",,0,0,0,,,,0,,,0,0,0.037254901960785,0.111620795107033,,0.351254480286738
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",,0.012064710721141,0.023655913978495,0,,,,0,,,0,0,0.027450980392157,0.04434250764526,,0
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,0.27407365820795,0,0.034408602150538,0,,0.391533797439928,1,0,,,0,0.013422818791946,0,0.004587155963303,,0
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",0.07592634179205,0.014532492459556,0.167741935483871,0,,0.108466202560072,,0,,,0,0.033557046979866,0.296078431372548,0.05045871559633,,0
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",0.01,0.00438716753496,0.148387096774194,0,1,0.5,,0.139534883720931,,,0,0,0,0.004587155963303,,0
+9,Mechanical engineering,Agricultural machinery,,0.140937757060598,0.012903225806452,0,,,,0,0,,0,0.050335570469799,0,0,,0
+10,Mechanical engineering,Metal working toolsand engineering tools,,0,0,0,,,,0,0,,0,0,0,0.068807339449542,,0
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",,0.199890320811626,0,0,,,,0.006782945736434,0.092568659127625,,0.144368858654573,0.050335570469799,0.198039215686274,0.024464831804282,,0
+12,Mechanical engineering,Other mechanical engineering,0.05,0.017822868110776,0.047311827956989,0,,,,0.145348837209303,0,,0,0,0.162745098039216,0.308868501529052,,0
+13,Mechanical engineering,Industrial and process plant,,0.165889772415684,0,0,,,,0,0.007431340872375,,0.011589821113631,0.369127516778524,0.060784313725491,0,,0
+14,Construction,Construction and fabricated constructional steelwork,0.59,0.283794899917741,0.006451612903226,0,,,,0.077519379844962,0.9,1,0.815822625346434,0.335570469798658,0.170588235294117,0,1,0.641577060931899
+15a,Transport,Motor vehicles: BIW,,0.081162599396765,0.559139784946236,1,,,,0,,,0,0.069395973154363,0,0,,0
+15b,Transport,"Motor vehicles: drivetrain, chassis, and trimmings",,,0,0,,,,0.289728682170542,,,0,0.078255033557047,0.029411764705882,0.374617737003058,,0.007168458781363
+16,Transport,Other transport,,0.079517411571154,0,0,,,,0.024224806201551,,,0.020660115898212,0,0.007843137254901,0.007645259938838,,0
+17,"Energy, Water Supply and Chemical Industries","Coal, coke, petroleum and natural gas",,0,0,0,,,,0.16375968992248,,,0.00755857898715,0,0,0,,0
+18,"Energy, Water Supply and Chemical Industries","Gas, electricity and water",,0,0,0,,,,0.153100775193798,,,0,0,0,0,,0
+19,"Energy, Water Supply and Chemical Industries",Chemical and allied industries,,0,0,0,,,,0,,,0,0,0.009803921568628,0,,0
+20,Others,Other UK consumers,,0,0,0,,,,0,,,0,0,0,0,,0

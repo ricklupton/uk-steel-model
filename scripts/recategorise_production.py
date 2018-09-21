@@ -126,6 +126,7 @@ def recategorise(issb_data, worldsteel_func):
 
 def calculate_for_year(year):
 
+    logger.info('Recategorising production statistics for %s', year)
     # These functions define how to scale imports and exports, which are unknown
     # for worldsteel data.
 
@@ -193,8 +194,7 @@ def calculate_for_year(year):
 ###########################################################################
 
 # YEARS = list(issb.index.get_level_values('year').unique())
-# YEARS = list(range(2009, 2018))
-YEARS = [2009, 2016]
+YEARS = list(range(2009, 2017))
 logger.info('Loaded ISSB data with years: %s', YEARS)
 
 results = pd.concat([
@@ -204,5 +204,7 @@ results = pd.concat([
 
 # sort columns and save
 COLUMNS = ['year', 'product', 'product_family', 'production', 'exports', 'imports', 'delivered']
+FILENAME = 'data/intermediate_products.csv'
 
-results[COLUMNS].to_csv('data/intermediate_products.csv', index=False, float_format='%.1f')
+results[COLUMNS].to_csv(FILENAME, index=False, float_format='%.1f')
+logger.info('Saved results to %s', FILENAME)
