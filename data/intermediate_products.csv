@@ -1,20 +1,20 @@
 year,product,product_family,production,exports,imports,delivered
-2015,Cold rolled,flat,33.0,8.3,68.8,93.5
-2015,Electro coated,flat,45.0,20.9,48.9,73.0
-2015,Hot dipped galvanised,flat,699.0,325.2,760.0,1133.8
-2015,Hot rolled,flat,1250.9,627.1,1465.5,2089.3
-2015,Organic coated,flat,242.0,112.6,263.1,392.5
-2015,Plate,flat,1422.4,642.1,227.7,1008.0
-2015,Tin plate,flat,490.0,228.0,532.7,794.8
-2015,Tubes and pipes,flat,645.0,288.6,829.9,1186.3
-2015,Bright bars,long,155.0,80.6,91.6,166.0
-2015,Heavy sections,long,746.0,270.4,697.6,1173.2
-2015,Hot rolled bars in lengths,long,494.6,312.1,115.3,297.8
-2015,Light sections,long,201.7,108.2,26.9,120.4
-2015,Railway track material,long,91.0,33.0,85.1,143.1
-2015,Reinforcing bar,long,240.0,121.0,120.8,239.8
-2015,Rods,long,1217.9,640.9,639.7,1216.7
-2015,Sheet piling and rolled accessories,long,144.3,52.3,134.9,226.9
+2009,Cold rolled,flat,38.9,9.8,42.6,71.7
+2009,Electro coated,flat,54.0,21.8,44.3,76.5
+2009,Hot dipped galvanised,flat,825.0,332.7,676.4,1168.7
+2009,Hot rolled,flat,897.3,397.4,808.0,1307.9
+2009,Organic coated,flat,175.0,70.6,143.5,247.9
+2009,Plate,flat,1126.6,434.5,145.7,837.8
+2009,Tin plate,flat,396.0,159.7,324.7,561.0
+2009,Tubes and pipes,flat,515.3,203.6,582.9,894.6
+2009,Bright bars,long,101.5,38.5,59.8,122.8
+2009,Heavy sections,long,574.0,173.5,300.4,700.9
+2009,Hot rolled bars in lengths,long,560.7,324.5,94.8,331.0
+2009,Light sections,long,113.7,53.2,31.3,91.8
+2009,Railway track material,long,177.0,53.5,92.6,216.1
+2009,Reinforcing bar,long,468.0,239.9,74.5,302.6
+2009,Rods,long,1208.2,644.1,200.1,764.2
+2009,Sheet piling and rolled accessories,long,38.9,11.8,20.4,47.5
 2016,Cold rolled,flat,31.2,8.5,77.3,100.0
 2016,Electro coated,flat,55.0,22.3,91.2,123.8
 2016,Hot dipped galvanised,flat,799.0,324.4,1324.2,1798.9

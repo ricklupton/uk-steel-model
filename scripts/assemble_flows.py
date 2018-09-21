@@ -51,10 +51,12 @@ assert all(sector_yield_losses >= 0), 'sector yield losses should be greater tha
 
 product_imports = load_dataframe(
     os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'imports') \
-    .set_index(['year', 'sector_code'])
+    .set_index(['stage', 'year', 'sector_code']) \
+    ['mass_iron']
 product_exports = load_dataframe(
     os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'exports') \
-    .set_index(['year', 'sector_code'])
+    .set_index(['stage', 'year', 'sector_code']) \
+    ['mass_iron']
 
 ###########################################################################
 # 2. Build list of flows
@@ -82,15 +84,22 @@ def build_flows_for_year(year):
             y = sector_yield_losses.loc[s, p]
             flows.append(('uk_intermediate', s, p, x))  # flow C
             flows.append((s, 'scrap', 'scrap ' + p, x * y))  # flow D
-            flows.append((s, 'products', s, x * (1 - y)))  # flow E
             sector_output[s] += x * (1 - y)
+
+    # Add in imported components
+    for sector in product_imports.index.levels[2]:
+        imports_comps = float(product_imports.get(('component', year, sector), 0.0))
+        flows.append(('component_imports', sector, 'component', imports_comps))
+        sector_output[sector] += imports_comps
+        flows.append((sector, 'products', sector, sector_output[sector]))  # flow E
 
     logger.debug('sector_output: %s', sector_output)
 
     # Finished products imports and exports
-    for sector in product_imports.index.levels[1]:
-        exports = float(product_exports.loc[(year, sector), 'mass_iron'])
-        imports = float(product_imports.loc[(year, sector), 'mass_iron'])
+    for sector in product_imports.index.levels[2]:
+        exports = (float(product_exports.get(('component', year, sector), 0.0)) +
+                   float(product_exports.get(('final', year, sector), 0.0)))
+        imports_final = float(product_imports.get(('final', year, sector), 0.0))
         flows.append(('products', 'product_exports', sector, exports))
 
         if exports > sector_output[sector]:
@@ -99,7 +108,7 @@ def build_flows_for_year(year):
             flows.append(('imbalance', 'products', sector, exports - sector_output[sector]))
         else:
             flows.append(('products', 'uk_demand', sector, sector_output[sector] - exports))
-        flows.append(('product_imports', 'uk_demand', sector, imports))
+        flows.append(('product_imports', 'uk_demand', sector, imports_final))
 
     flows = pd.DataFrame(flows, columns=('source', 'target', 'material', 'value'))
     flows['year'] = year

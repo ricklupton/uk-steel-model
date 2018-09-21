@@ -194,7 +194,7 @@ def calculate_for_year(year):
 
 # YEARS = list(issb.index.get_level_values('year').unique())
 # YEARS = list(range(2009, 2018))
-YEARS = [2015, 2016]
+YEARS = [2009, 2016]
 logger.info('Loaded ISSB data with years: %s', YEARS)
 
 results = pd.concat([
