@@ -6,11 +6,13 @@ from glob import glob
 margin_left = 150
 margin_top = 50
 
+
 def node_positions_dict(layout):
     return {
         node['id']: {'x': node['geometry']['x'] + margin_left,
                      'y': node['geometry']['y'] + margin_top,
-                     'hidden': node['style']['hidden']}
+                     'hidden': node['style']['hidden'],
+                     'title': node['title']}
         for node in layout['nodes']
     }
 
@@ -23,8 +25,8 @@ def apply_layout(layout, value):
             node.update(node_positions[node['id']])
         else:
             logger.warning('No node position for "%s"', node['id'])
-        if node.get('hidden', False):
-            node['title'] = ''
+        # if node.get('hidden', False):
+        #     node['title'] = ''
 
     # Copy the page size and scale from the layout Sankey:
     value['pageSize'] = layout['dimensions']
@@ -33,7 +35,7 @@ def apply_layout(layout, value):
 
 
 # Load the layout file, and build a map of node positions:
-with open('./sankey_layout.json', 'r') as f:
+with open(os.path.join(os.path.dirname(__file__), 'sankey_layout.json'), 'r') as f:
     layout = json.load(f)
 
 # Load the Sankey data and apply layout

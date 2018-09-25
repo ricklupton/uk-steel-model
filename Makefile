@@ -3,3 +3,7 @@ data/flows.csv: data/intermediate_products.csv scripts/assemble_flows.py allocat
 
 data/intermediate_products.csv: scripts/recategorise_production.py
 	pipenv run python scripts/recategorise_production.py
+
+svgs:
+	pipenv run python figures/apply_layout.py
+	cd figures && ./convert-svgs.sh
