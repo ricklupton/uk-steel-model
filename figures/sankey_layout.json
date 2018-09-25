@@ -1,0 +1,5923 @@
+{
+  "format": {
+    "major": 0,
+    "minor": 1
+  },
+  "metadata": {
+    "title": "Sankey diagram",
+    "authors": [],
+    "scale": 0.02,
+    "layers": [
+      [
+        "semi_import^*",
+        "prod^*"
+      ],
+      [
+        "comp_import^*",
+        "imbalance^*",
+        "semi^Hot rolled",
+        "semi^Plate",
+        "semi^Cold rolled",
+        "semi^Hot dipped galvanised",
+        "semi^Electro coated",
+        "semi^Organic coated",
+        "semi^Tin plate",
+        "semi^Tubes and pipes",
+        "semi^Railway track material",
+        "semi^Sheet piling and rolled accessories",
+        "semi^Heavy sections",
+        "semi^Light sections",
+        "semi^Hot rolled bars in lengths",
+        "semi^Bright bars",
+        "semi^Reinforcing bar",
+        "semi^Rods",
+        "semi_export^*"
+      ],
+      [
+        "prod_import^*",
+        "manuf^4",
+        "manuf^5",
+        "manuf^6",
+        "manuf^7",
+        "manuf^8",
+        "manuf^9",
+        "manuf^10",
+        "manuf^11",
+        "manuf^12",
+        "manuf^13",
+        "manuf^14",
+        "manuf^15a",
+        "manuf^15b",
+        "manuf^16",
+        "manuf^17",
+        "manuf^18",
+        "manuf^19",
+        "manuf^20"
+      ],
+      [
+        "demand^Bolts, nuts, rivets, screws, etc.",
+        "demand^Hand tools, cutlery, instrument engineering",
+        "demand^Packaging and industrial and domestic hollow-ware",
+        "demand^Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",
+        "demand^Electrical engineering, including elec. domestic appliances",
+        "demand^Agricultural machinery",
+        "demand^Metal working toolsand engineering tools",
+        "demand^Construction, earth moving and mechanical handling equipment",
+        "demand^Other mechanical engineering",
+        "demand^Industrial and process plant",
+        "demand^Construction and fabricated constructional steelwork",
+        "demand^Motor vehicles: BIW",
+        "demand^Motor vehicles: drivetrain, chassis, and trimmings",
+        "demand^Other transport",
+        "demand^Coal, coke, petroleum and natural gas",
+        "demand^Gas, electricity and water",
+        "demand^Chemical and allied industries",
+        "demand^Other UK consumers",
+        "prod_export^*",
+        "scrap^*"
+      ]
+    ]
+  },
+  "dimensions": {
+    "pageWidth": 1000,
+    "pageHeight": 1000
+  },
+  "nodes": [
+    {
+      "id": "semi_import^*",
+      "metadata": {},
+      "geometry": {
+        "x": 0,
+        "y": 6.789878845214844,
+        "w": 0,
+        "h": 133.08
+      },
+      "title": {
+        "label": "Import",
+        "vanchor": "middle",
+        "hanchor": "left",
+        "y": 0.4735997678425923
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "prod^*",
+      "metadata": {},
+      "geometry": {
+        "x": 0,
+        "y": 338.72965258789066,
+        "w": 0,
+        "h": 138.708
+      },
+      "title": {
+        "label": "UK production",
+        "vanchor": "middle",
+        "hanchor": "left",
+        "y": 0.539293432798126
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "comp_import^*",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": -32.89768409729004,
+        "w": 0,
+        "h": 54.088
+      },
+      "title": {
+        "label": "Import components",
+        "vanchor": "middle",
+        "hanchor": "left",
+        "y": 0.4726196865837279
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "imbalance^*",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 83.4761861046685,
+        "w": 0,
+        "h": 9.601999999999999
+      },
+      "title": {
+        "label": "Imbalance",
+        "vanchor": "middle",
+        "hanchor": "left",
+        "y": 0.5821662930553466
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Hot rolled",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 149.68197508409287,
+        "w": 0,
+        "h": 23.336
+      },
+      "title": {
+        "label": "Hot rolled",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Plate",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 240.4594963785807,
+        "w": 0,
+        "h": 22.126
+      },
+      "title": {
+        "label": "Plate",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Cold rolled",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 288.7818699679904,
+        "w": 0,
+        "h": 2
+      },
+      "title": {
+        "label": "Cold rolled",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Hot dipped galvanised",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 439.68251296657985,
+        "w": 0,
+        "h": 35.976000000000006
+      },
+      "title": {
+        "label": "Hot dipped galvanised",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Electro coated",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 314.1895118001302,
+        "w": 0,
+        "h": 2.478
+      },
+      "title": {
+        "label": "Electro coated",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Organic coated",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 345.95729969618054,
+        "w": 0,
+        "h": 15.4
+      },
+      "title": {
+        "label": "Organic coated",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Tin plate",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 201.95056201850042,
+        "w": 0,
+        "h": 17.562
+      },
+      "title": {
+        "label": "Tin plate",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Tubes and pipes",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 392.12918554687496,
+        "w": 0,
+        "h": 25.614
+      },
+      "title": {
+        "label": "Tubes and pipes",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Railway track material",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 513.0251304253472,
+        "w": 0,
+        "h": 5.666
+      },
+      "title": {
+        "label": "Railway track material",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Sheet piling and rolled accessories",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 539.7318643663194,
+        "w": 0,
+        "h": 2.77
+      },
+      "title": {
+        "label": "Sheet piling and rolled accessories",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Heavy sections",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 579.0095782877604,
+        "w": 0,
+        "h": 25.096
+      },
+      "title": {
+        "label": "Heavy sections",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Light sections",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 646.7999987521702,
+        "w": 0,
+        "h": 2.366
+      },
+      "title": {
+        "label": "Light sections",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Hot rolled bars in lengths",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 723.8253850368924,
+        "w": 0,
+        "h": 5.442
+      },
+      "title": {
+        "label": "Hot rolled bars in lengths",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Bright bars",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 700.8139783528646,
+        "w": 0,
+        "h": 2.92
+      },
+      "title": {
+        "label": "Bright bars",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Reinforcing bar",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 677.3427664930556,
+        "w": 0,
+        "h": 6.707999999999999
+      },
+      "title": {
+        "label": "Reinforcing bar",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi^Rods",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 757.6790858832466,
+        "w": 0,
+        "h": 20.804000000000002
+      },
+      "title": {
+        "label": "Rods",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "semi_export^*",
+      "metadata": {},
+      "geometry": {
+        "x": 333,
+        "y": 883.17646875,
+        "w": 0,
+        "h": 55.553999999999995
+      },
+      "title": {
+        "label": "Export of semis",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.5136919497808434
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "prod_import^*",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": -29.59143829345703,
+        "w": 0,
+        "h": 138.842
+      },
+      "title": {
+        "label": "Import of steel-containing goods",
+        "vanchor": "middle",
+        "hanchor": "left",
+        "y": 0.44952139037939987
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^4",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 168.44583695475262,
+        "w": 0,
+        "h": 12.405999999999999
+      },
+      "title": {
+        "label": "4",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^5",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 198.74362251790367,
+        "w": 0,
+        "h": 1.354
+      },
+      "title": {
+        "label": "5",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^6",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 219.60418469238283,
+        "w": 0,
+        "h": 35.028
+      },
+      "title": {
+        "label": "6",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^7",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 266.9208513590495,
+        "w": 0,
+        "h": 12.998
+      },
+      "title": {
+        "label": "7",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^8",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 311.07916109212243,
+        "w": 0,
+        "h": 15.798
+      },
+      "title": {
+        "label": "8",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^9",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 348.5626630859375,
+        "w": 0,
+        "h": 5.048
+      },
+      "title": {
+        "label": "9",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^10",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 365.89932975260416,
+        "w": 0,
+        "h": 3.216
+      },
+      "title": {
+        "label": "10",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^11",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 381.4039964192708,
+        "w": 0,
+        "h": 13.467999999999998
+      },
+      "title": {
+        "label": "11",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^12",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 407.1606630859375,
+        "w": 0,
+        "h": 8.462
+      },
+      "title": {
+        "label": "12",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^13",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 427.91132975260416,
+        "w": 0,
+        "h": 7.494
+      },
+      "title": {
+        "label": "13",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^14",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 464.50335310872396,
+        "w": 0,
+        "h": 74.498
+      },
+      "title": {
+        "label": "14",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^15a",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 564.3639638671875,
+        "w": 0,
+        "h": 45.59
+      },
+      "title": {
+        "label": "15a",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^15b",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 630.6472936197918,
+        "w": 0,
+        "h": 22.794
+      },
+      "title": {
+        "label": "15b",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^16",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 673.0645550130209,
+        "w": 0,
+        "h": 4.0840000000000005
+      },
+      "title": {
+        "label": "16",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^17",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 700.7796289062501,
+        "w": 0,
+        "h": 3.998
+      },
+      "title": {
+        "label": "17",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^18",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 717.0662955729167,
+        "w": 0,
+        "h": 3.718
+      },
+      "title": {
+        "label": "18",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^19",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 733.0729622395834,
+        "w": 0,
+        "h": 0.048
+      },
+      "title": {
+        "label": "19",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "manuf^20",
+      "metadata": {},
+      "geometry": {
+        "x": 666,
+        "y": 772.4913549804688,
+        "w": 0,
+        "h": 9.96
+      },
+      "title": {
+        "label": "20",
+        "vanchor": "top",
+        "hanchor": "left"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Bolts, nuts, rivets, screws, etc.",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 165.31983695475262,
+        "w": 0,
+        "h": 12.985999999999999
+      },
+      "title": {
+        "label": "Bolts, nuts, rivets, screws, etc.",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.296638097488401
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Hand tools, cutlery, instrument engineering",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 190.21259605006168,
+        "w": 0,
+        "h": 4.1
+      },
+      "title": {
+        "label": "Hand tools, cutlery, instrument engineering",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.23760095089482727
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Packaging and industrial and domestic hollow-ware",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 213.74418469238282,
+        "w": 0,
+        "h": 32.79
+      },
+      "title": {
+        "label": "Packaging and industrial and domestic hollow-ware",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.4425549108517774
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 258.1488513590495,
+        "w": 0,
+        "h": 15.938000000000002
+      },
+      "title": {
+        "label": "Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.48464976522860004
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Electrical engineering, including elec. domestic appliances",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 296.2311610921224,
+        "w": 0,
+        "h": 22.354000000000003
+      },
+      "title": {
+        "label": "Electrical engineering, including elec. domestic appliances",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.4964075081181025
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Agricultural machinery",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 344.962509791324,
+        "w": 0,
+        "h": 5.0760000000000005
+      },
+      "title": {
+        "label": "Agricultural machinery",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.597635779642451
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Metal working toolsand engineering tools",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 363.59932975260415,
+        "w": 0,
+        "h": 2.67
+      },
+      "title": {
+        "label": "Metal working toolsand engineering tools",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.5142384708644525
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Construction, earth moving and mechanical handling equipment",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 380.11888572933793,
+        "w": 0,
+        "h": 7.82
+      },
+      "title": {
+        "label": "Construction, earth moving and mechanical handling equipment",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.5918394607624127
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Other mechanical engineering",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 399.581833097759,
+        "w": 0,
+        "h": 7.754
+      },
+      "title": {
+        "label": "Other mechanical engineering",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.4603946738042961
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Industrial and process plant",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 421.46732975260414,
+        "w": 0,
+        "h": 7.61
+      },
+      "title": {
+        "label": "Industrial and process plant",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.6685086893057638
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Construction and fabricated constructional steelwork",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 442.79535310872393,
+        "w": 0,
+        "h": 83.90400000000001
+      },
+      "title": {
+        "label": "Construction and fabricated constructional steelwork",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.4892304659492787
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Motor vehicles: BIW",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 533.9899638671875,
+        "w": 0,
+        "h": 35.348000000000006
+      },
+      "title": {
+        "label": "Motor vehicles: BIW",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.56457810560869
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Motor vehicles: drivetrain, chassis, and trimmings",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 613.3252936197919,
+        "w": 0,
+        "h": 19.386000000000003
+      },
+      "title": {
+        "label": "Motor vehicles: drivetrain, chassis, and trimmings",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.5905417527489504
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Other transport",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 679.8530438168174,
+        "w": 0,
+        "h": 3.182
+      },
+      "title": {
+        "label": "Other transport",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.6820463899654695
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Coal, coke, petroleum and natural gas",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 700.7796289062501,
+        "w": 0,
+        "h": 3.7960000000000003
+      },
+      "title": {
+        "label": "Coal, coke, petroleum and natural gas",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.8536045154222477
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Gas, electricity and water",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 717.0662955729167,
+        "w": 0,
+        "h": 3.532
+      },
+      "title": {
+        "label": "Gas, electricity and water",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.5728021319179779
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Chemical and allied industries",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 733.0729622395834,
+        "w": 0,
+        "h": 0.038
+      },
+      "title": {
+        "label": "Chemical and allied industries",
+        "vanchor": "bottom",
+        "hanchor": "right"
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "demand^Other UK consumers",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 772.3353549804689,
+        "w": 0,
+        "h": 8.18
+      },
+      "title": {
+        "label": "Other UK consumers",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.6459586322545523
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "prod_export^*",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 821.1926922800163,
+        "w": 0,
+        "h": 103.57799999999999
+      },
+      "title": {
+        "label": "Export of goods",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.4573134300175585
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    },
+    {
+      "id": "scrap^*",
+      "metadata": {},
+      "geometry": {
+        "x": 999,
+        "y": 953.0479169921874,
+        "w": 0,
+        "h": 38.742000000000004
+      },
+      "title": {
+        "label": "Manufacturing scrap",
+        "vanchor": "middle",
+        "hanchor": "right",
+        "y": 0.5374974465494508
+      },
+      "style": {
+        "hidden": false,
+        "direction": "r"
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "manuf^20",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 95.29999999999998
+      },
+      "head": {
+        "x": 0,
+        "y": 9.004999999999995,
+        "t": 1.9059999999999997,
+        "r": 120.57545105521487
+      },
+      "tail": {
+        "x": 0,
+        "y": 37.78899999999976,
+        "t": 1.9059999999999997,
+        "r": 178.6169222453645
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^20",
+      "target": "prod_export^*",
+      "type": "Other",
+      "data": {
+        "value": 1.4
+      },
+      "head": {
+        "x": 0,
+        "y": 8.038000000000011,
+        "t": 0.027999999999999997,
+        "r": 121.54245105521487
+      },
+      "tail": {
+        "x": 0,
+        "y": 103.56399999999985,
+        "t": 0.027999999999999997,
+        "r": 210.9939300661651
+      },
+      "style": {
+        "color": "#CC503E"
+      }
+    },
+    {
+      "source": "manuf^20",
+      "target": "demand^Other UK consumers",
+      "type": "Other",
+      "data": {
+        "value": 401.2
+      },
+      "head": {
+        "x": 0,
+        "y": 4.011999999999944,
+        "t": 8.024,
+        "r": 125.56845105521487
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.167999999999893,
+        "t": 8.024,
+        "r": 125.56845105521487
+      },
+      "style": {
+        "color": "#CC503E"
+      }
+    },
+    {
+      "source": "manuf^19",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 0.5
+      },
+      "head": {
+        "x": 0,
+        "y": 0.043000000000006366,
+        "t": 0.01,
+        "r": 125.7788672686209
+      },
+      "tail": {
+        "x": 0,
+        "y": 36.83099999999979,
+        "t": 0.01,
+        "r": 169.5206371387556
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^19",
+      "target": "demand^Chemical and allied industries",
+      "type": "Energy/water",
+      "data": {
+        "value": 1.9
+      },
+      "head": {
+        "x": 0,
+        "y": 0.019000000000005457,
+        "t": 0.038,
+        "r": 125.8028672686209
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.019000000000005457,
+        "t": 0.038,
+        "r": 125.8028672686209
+      },
+      "style": {
+        "color": "#E17C05"
+      }
+    },
+    {
+      "source": "manuf^18",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 9.3
+      },
+      "head": {
+        "x": 0,
+        "y": 3.625,
+        "t": 0.18600000000000003,
+        "r": 124.33824640964299
+      },
+      "tail": {
+        "x": 0,
+        "y": 36.73299999999972,
+        "t": 0.18600000000000003,
+        "r": 168.2874412667771
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^18",
+      "target": "demand^Gas, electricity and water",
+      "type": "Energy/water",
+      "data": {
+        "value": 176.6
+      },
+      "head": {
+        "x": 0,
+        "y": 1.7659999999999627,
+        "t": 3.532,
+        "r": 126.197246409643
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.7659999999999627,
+        "t": 3.532,
+        "r": 126.197246409643
+      },
+      "style": {
+        "color": "#E17C05"
+      }
+    },
+    {
+      "source": "manuf^17",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 10.1
+      },
+      "head": {
+        "x": 0,
+        "y": 3.897000000000048,
+        "t": 0.20199999999999999,
+        "r": 124.60571499898548
+      },
+      "tail": {
+        "x": 0,
+        "y": 36.53899999999976,
+        "t": 0.20199999999999999,
+        "r": 167.21834473658913
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^17",
+      "target": "demand^Coal, coke, petroleum and natural gas",
+      "type": "Energy/water",
+      "data": {
+        "value": 189.8
+      },
+      "head": {
+        "x": 0,
+        "y": 1.8980000000000246,
+        "t": 3.7960000000000003,
+        "r": 126.60471499898547
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.8980000000000246,
+        "t": 3.7960000000000003,
+        "r": 126.60471499898547
+      },
+      "style": {
+        "color": "#E17C05"
+      }
+    },
+    {
+      "source": "manuf^16",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 34.9
+      },
+      "head": {
+        "x": 0,
+        "y": 3.7350000000000136,
+        "t": 0.698,
+        "r": 166.50333926023663
+      },
+      "tail": {
+        "x": 0,
+        "y": 36.08899999999983,
+        "t": 0.698,
+        "r": 166.50333926023663
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^16",
+      "target": "prod_export^*",
+      "type": "Transport",
+      "data": {
+        "value": 169.3
+      },
+      "head": {
+        "x": 0,
+        "y": 1.6929999999999836,
+        "t": 3.386,
+        "r": 170.59917527243695
+      },
+      "tail": {
+        "x": 0,
+        "y": 101.85699999999986,
+        "t": 3.386,
+        "r": 170.59917527243695
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "manuf^15b",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 33.5
+      },
+      "head": {
+        "x": 0,
+        "y": 22.458999999999946,
+        "t": 0.67,
+        "r": 118.67629036690884
+      },
+      "tail": {
+        "x": 0,
+        "y": 35.40499999999986,
+        "t": 0.67,
+        "r": 165.81933926023663
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^15b",
+      "target": "prod_export^*",
+      "type": "Transport",
+      "data": {
+        "value": 1003
+      },
+      "head": {
+        "x": 0,
+        "y": 12.093999999999937,
+        "t": 20.06,
+        "r": 129.04129036690884
+      },
+      "tail": {
+        "x": 0,
+        "y": 90.1339999999999,
+        "t": 20.06,
+        "r": 158.87617527243694
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "manuf^15b",
+      "target": "demand^Motor vehicles: drivetrain, chassis, and trimmings",
+      "type": "Transport",
+      "data": {
+        "value": 103.2
+      },
+      "head": {
+        "x": 0,
+        "y": 1.032000000000039,
+        "t": 2.064,
+        "r": 140.10329036690885
+      },
+      "tail": {
+        "x": 0,
+        "y": 18.353999999999928,
+        "t": 2.064,
+        "r": 140.10329036690885
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "manuf^15a",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 665.9000000000001
+      },
+      "head": {
+        "x": 0,
+        "y": 38.92700000000002,
+        "t": 13.318000000000001,
+        "r": 124.99167681136039
+      },
+      "tail": {
+        "x": 0,
+        "y": 28.41099999999983,
+        "t": 13.318000000000001,
+        "r": 158.82533926023663
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^15a",
+      "target": "prod_export^*",
+      "type": "Transport",
+      "data": {
+        "value": 1364.7
+      },
+      "head": {
+        "x": 0,
+        "y": 18.621000000000095,
+        "t": 27.294,
+        "r": 145.2976768113604
+      },
+      "tail": {
+        "x": 0,
+        "y": 66.457,
+        "t": 27.294,
+        "r": 135.19917527243695
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "manuf^15a",
+      "target": "demand^Motor vehicles: BIW",
+      "type": "Transport",
+      "data": {
+        "value": 248.7
+      },
+      "head": {
+        "x": 0,
+        "y": 2.4869999999999663,
+        "t": 4.974,
+        "r": 161.43167681136038
+      },
+      "tail": {
+        "x": 0,
+        "y": 32.86099999999999,
+        "t": 4.974,
+        "r": 161.43167681136038
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "manuf^14",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 248.1
+      },
+      "head": {
+        "x": 0,
+        "y": 72.01500000000004,
+        "t": 4.962,
+        "r": 104.09453792941586
+      },
+      "tail": {
+        "x": 0,
+        "y": 19.270999999999844,
+        "t": 4.962,
+        "r": 127.7218825261581
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^14",
+      "target": "prod_export^*",
+      "type": "Construction",
+      "data": {
+        "value": 366.9
+      },
+      "head": {
+        "x": 0,
+        "y": 65.86500000000007,
+        "t": 7.338,
+        "r": 110.24453792941586
+      },
+      "tail": {
+        "x": 0,
+        "y": 49.14099999999996,
+        "t": 7.338,
+        "r": 117.88317527243694
+      },
+      "style": {
+        "color": "#73AF48"
+      }
+    },
+    {
+      "source": "manuf^14",
+      "target": "demand^Construction and fabricated constructional steelwork",
+      "type": "Construction",
+      "data": {
+        "value": 3109.8
+      },
+      "head": {
+        "x": 0,
+        "y": 31.098000000000013,
+        "t": 62.196000000000005,
+        "r": 145.01153792941585
+      },
+      "tail": {
+        "x": 0,
+        "y": 52.80600000000004,
+        "t": 62.196000000000005,
+        "r": 145.01153792941585
+      },
+      "style": {
+        "color": "#73AF48"
+      }
+    },
+    {
+      "source": "manuf^13",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 73.1
+      },
+      "head": {
+        "x": 0,
+        "y": 6.760999999999967,
+        "t": 1.462,
+        "r": 104.74750880207097
+      },
+      "tail": {
+        "x": 0,
+        "y": 16.058999999999855,
+        "t": 1.462,
+        "r": 119.18386853194487
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^13",
+      "target": "prod_export^*",
+      "type": "Mech. eng",
+      "data": {
+        "value": 243.2
+      },
+      "head": {
+        "x": 0,
+        "y": 3.598000000000013,
+        "t": 4.864,
+        "r": 129.39923726036014
+      },
+      "tail": {
+        "x": 0,
+        "y": 43.039999999999964,
+        "t": 4.864,
+        "r": 111.78217527243694
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "manuf^13",
+      "target": "demand^Industrial and process plant",
+      "type": "Mech. eng",
+      "data": {
+        "value": 58.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.5830000000000268,
+        "t": 1.166,
+        "r": 134.65402364866327
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.027000000000044,
+        "t": 1.166,
+        "r": 134.65402364866327
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "manuf^12",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 54.2
+      },
+      "head": {
+        "x": 0,
+        "y": 7.919999999999959,
+        "t": 1.084,
+        "r": 102.65092036642918
+      },
+      "tail": {
+        "x": 0,
+        "y": 14.785999999999945,
+        "t": 1.084,
+        "r": 117.91086853194487
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^12",
+      "target": "prod_export^*",
+      "type": "Mech. eng",
+      "data": {
+        "value": 368.9
+      },
+      "head": {
+        "x": 0,
+        "y": 3.6890000000000214,
+        "t": 7.378,
+        "r": 122.54163315486824
+      },
+      "tail": {
+        "x": 0,
+        "y": 36.91899999999987,
+        "t": 7.378,
+        "r": 105.66117527243694
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "manuf^11",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 55.89999999999999
+      },
+      "head": {
+        "x": 0,
+        "y": 12.90500000000003,
+        "t": 1.1179999999999999,
+        "r": 101.10780330659075
+      },
+      "tail": {
+        "x": 0,
+        "y": 13.684999999999832,
+        "t": 1.1179999999999999,
+        "r": 116.80986853194487
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^11",
+      "target": "prod_export^*",
+      "type": "Mech. eng",
+      "data": {
+        "value": 617.3
+      },
+      "head": {
+        "x": 0,
+        "y": 6.173000000000002,
+        "t": 12.346,
+        "r": 117.48302433713451
+      },
+      "tail": {
+        "x": 0,
+        "y": 27.056999999999903,
+        "t": 12.346,
+        "r": 95.79917527243694
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "manuf^10",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 2.9
+      },
+      "head": {
+        "x": 0,
+        "y": 3.1850000000000023,
+        "t": 0.057999999999999996,
+        "r": 99.99628839769666
+      },
+      "tail": {
+        "x": 0,
+        "y": 13.096999999999866,
+        "t": 0.057999999999999996,
+        "r": 116.22186853194488
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^10",
+      "target": "prod_export^*",
+      "type": "Mech. eng",
+      "data": {
+        "value": 139.3
+      },
+      "head": {
+        "x": 0,
+        "y": 1.7629999999999768,
+        "t": 2.7860000000000005,
+        "r": 113.67945067887676
+      },
+      "tail": {
+        "x": 0,
+        "y": 19.490999999999985,
+        "t": 2.7860000000000005,
+        "r": 88.23317527243694
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "manuf^10",
+      "target": "demand^Metal working toolsand engineering tools",
+      "type": "Mech. eng",
+      "data": {
+        "value": 18.5
+      },
+      "head": {
+        "x": 0,
+        "y": 0.18500000000000227,
+        "t": 0.37,
+        "r": 137.67155852000204
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.4850000000000136,
+        "t": 0.37,
+        "r": 137.67155852000204
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "manuf^9",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 12.600000000000001
+      },
+      "head": {
+        "x": 0,
+        "y": 4.919999999999959,
+        "t": 0.25200000000000006,
+        "r": 99.6779527346908
+      },
+      "tail": {
+        "x": 0,
+        "y": 12.941999999999894,
+        "t": 0.25200000000000006,
+        "r": 116.06686853194488
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^9",
+      "target": "prod_export^*",
+      "type": "Mech. eng",
+      "data": {
+        "value": 239.7
+      },
+      "head": {
+        "x": 0,
+        "y": 2.3969999999999914,
+        "t": 4.794,
+        "r": 110.41636564564152
+      },
+      "tail": {
+        "x": 0,
+        "y": 15.701000000000022,
+        "t": 4.794,
+        "r": 84.44317527243693
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "manuf^8",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 149.3
+      },
+      "head": {
+        "x": 0,
+        "y": 14.302999999999997,
+        "t": 2.986,
+        "r": 99.607895163689
+      },
+      "tail": {
+        "x": 0,
+        "y": 11.322999999999979,
+        "t": 2.986,
+        "r": 114.44786853194488
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^8",
+      "target": "prod_export^*",
+      "type": "Elec. eng",
+      "data": {
+        "value": 265.2
+      },
+      "head": {
+        "x": 0,
+        "y": 10.158000000000015,
+        "t": 5.304,
+        "r": 107.32849935585475
+      },
+      "tail": {
+        "x": 0,
+        "y": 10.652000000000044,
+        "t": 5.304,
+        "r": 79.39417527243693
+      },
+      "style": {
+        "color": "#38A6A5"
+      }
+    },
+    {
+      "source": "manuf^8",
+      "target": "demand^Electrical engineering, including elec. domestic appliances",
+      "type": "Elec. eng",
+      "data": {
+        "value": 375.3
+      },
+      "head": {
+        "x": 0,
+        "y": 3.752999999999986,
+        "t": 7.506,
+        "r": 142.84429939753082
+      },
+      "tail": {
+        "x": 0,
+        "y": 18.601,
+        "t": 7.506,
+        "r": 142.84429939753082
+      },
+      "style": {
+        "color": "#38A6A5"
+      }
+    },
+    {
+      "source": "manuf^7",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 99.10000000000001
+      },
+      "head": {
+        "x": 0,
+        "y": 12.007000000000005,
+        "t": 1.9820000000000002,
+        "r": 99.95654160728323
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.838999999999942,
+        "t": 1.9820000000000002,
+        "r": 111.96386853194488
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^7",
+      "target": "prod_export^*",
+      "type": "Metal goods",
+      "data": {
+        "value": 192.5
+      },
+      "head": {
+        "x": 0,
+        "y": 9.091000000000008,
+        "t": 3.85,
+        "r": 104.08069289000672
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.074999999999932,
+        "t": 3.85,
+        "r": 74.81717527243693
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "manuf^7",
+      "target": "demand^Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",
+      "type": "Metal goods",
+      "data": {
+        "value": 358.3
+      },
+      "head": {
+        "x": 0,
+        "y": 3.58299999999997,
+        "t": 7.166,
+        "r": 136.93296586551588
+      },
+      "tail": {
+        "x": 0,
+        "y": 12.354999999999961,
+        "t": 7.166,
+        "r": 177.56764258834318
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "manuf^6",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 350.8
+      },
+      "head": {
+        "x": 0,
+        "y": 31.52000000000001,
+        "t": 7.016,
+        "r": 100.67946183146563
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.340000000000032,
+        "t": 7.016,
+        "r": 107.46486853194489
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^6",
+      "target": "prod_export^*",
+      "type": "Metal goods",
+      "data": {
+        "value": 54.1
+      },
+      "head": {
+        "x": 0,
+        "y": 27.471000000000004,
+        "t": 1.082,
+        "r": 104.72846183146562
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.6090000000000373,
+        "t": 1.082,
+        "r": 72.35117527243693
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "manuf^6",
+      "target": "demand^Packaging and industrial and domestic hollow-ware",
+      "type": "Metal goods",
+      "data": {
+        "value": 1346.5
+      },
+      "head": {
+        "x": 0,
+        "y": 13.465000000000003,
+        "t": 26.93,
+        "r": 136.91441303583102
+      },
+      "tail": {
+        "x": 0,
+        "y": 19.325000000000017,
+        "t": 26.93,
+        "r": 192.83502810985505
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "manuf^5",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 6.6
+      },
+      "head": {
+        "x": 0,
+        "y": 1.288000000000011,
+        "t": 0.132,
+        "r": 102.64736712595274
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.7660000000000764,
+        "t": 0.132,
+        "r": 103.89086853194489
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^5",
+      "target": "prod_export^*",
+      "type": "Metal goods",
+      "data": {
+        "value": 61.1
+      },
+      "head": {
+        "x": 0,
+        "y": 0.61099999999999,
+        "t": 1.222,
+        "r": 103.32436712595275
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.4569999999999936,
+        "t": 1.222,
+        "r": 71.19917527243693
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "manuf^4",
+      "target": "scrap^*",
+      "type": "scrap",
+      "data": {
+        "value": 35
+      },
+      "head": {
+        "x": 0,
+        "y": 12.056000000000012,
+        "t": 0.7000000000000001,
+        "r": 103.47486853194489
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.35000000000002274,
+        "t": 0.7000000000000001,
+        "r": 103.47486853194489
+      },
+      "style": {
+        "color": "#999"
+      }
+    },
+    {
+      "source": "manuf^4",
+      "target": "prod_export^*",
+      "type": "Metal goods",
+      "data": {
+        "value": 92.3
+      },
+      "head": {
+        "x": 0,
+        "y": 10.783000000000015,
+        "t": 1.846,
+        "r": 104.74786853194489
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.9230000000000018,
+        "t": 1.846,
+        "r": 69.66517527243693
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "manuf^4",
+      "target": "demand^Bolts, nuts, rivets, screws, etc.",
+      "type": "Metal goods",
+      "data": {
+        "value": 493
+      },
+      "head": {
+        "x": 0,
+        "y": 4.930000000000007,
+        "t": 9.86,
+        "r": 133.9106911264059
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.056000000000012,
+        "t": 9.86,
+        "r": 133.9106911264059
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Other UK consumers",
+      "type": "Other",
+      "data": {
+        "value": 7.8
+      },
+      "head": {
+        "x": 0,
+        "y": 138.764,
+        "t": 0.156,
+        "r": 0.078
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.07799999999997453,
+        "t": 0.156,
+        "r": 99.60915853122954
+      },
+      "style": {
+        "color": "#CC503E"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Other transport",
+      "type": "Transport",
+      "data": {
+        "value": 159.1
+      },
+      "head": {
+        "x": 0,
+        "y": 137.09500000000003,
+        "t": 3.182,
+        "r": 1.7469999999999999
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.5910000000000082,
+        "t": 3.182,
+        "r": 101.47051094977282
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Motor vehicles: drivetrain, chassis, and trimmings",
+      "type": "Transport",
+      "data": {
+        "value": 866.1
+      },
+      "head": {
+        "x": 0,
+        "y": 126.84300000000002,
+        "t": 17.322,
+        "r": 11.998999999999999
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.660999999999945,
+        "t": 17.322,
+        "r": 102.60181303360714
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Motor vehicles: BIW",
+      "type": "Transport",
+      "data": {
+        "value": 1518.7
+      },
+      "head": {
+        "x": 0,
+        "y": 102.995,
+        "t": 30.374000000000002,
+        "r": 35.846999999999994
+      },
+      "tail": {
+        "x": 0,
+        "y": 15.186999999999898,
+        "t": 30.374000000000002,
+        "r": 104.45495367511411
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Construction and fabricated constructional steelwork",
+      "type": "Construction",
+      "data": {
+        "value": 1085.4
+      },
+      "head": {
+        "x": 0,
+        "y": 76.95400000000001,
+        "t": 21.708000000000002,
+        "r": 61.88799999999999
+      },
+      "tail": {
+        "x": 0,
+        "y": 10.853999999999985,
+        "t": 21.708000000000002,
+        "r": 122.99923898230311
+      },
+      "style": {
+        "color": "#73AF48"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Industrial and process plant",
+      "type": "Mech. eng",
+      "data": {
+        "value": 322.2
+      },
+      "head": {
+        "x": 0,
+        "y": 62.878,
+        "t": 6.444,
+        "r": 75.96399999999998
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.22199999999998,
+        "t": 6.444,
+        "r": 129.05883418315426
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Other mechanical engineering",
+      "type": "Mech. eng",
+      "data": {
+        "value": 387.7
+      },
+      "head": {
+        "x": 0,
+        "y": 55.778999999999996,
+        "t": 7.754,
+        "r": 83.06299999999997
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.8770000000000095,
+        "t": 7.754,
+        "r": 135.7903718447337
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Construction, earth moving and mechanical handling equipment",
+      "type": "Mech. eng",
+      "data": {
+        "value": 391
+      },
+      "head": {
+        "x": 0,
+        "y": 47.992,
+        "t": 7.82,
+        "r": 90.84999999999997
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.910000000000025,
+        "t": 7.82,
+        "r": 144.00254738238237
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Metal working toolsand engineering tools",
+      "type": "Mech. eng",
+      "data": {
+        "value": 115
+      },
+      "head": {
+        "x": 0,
+        "y": 42.932,
+        "t": 2.3000000000000003,
+        "r": 95.90999999999997
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.1499999999999773,
+        "t": 2.3000000000000003,
+        "r": 154.47921735453363
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Agricultural machinery",
+      "type": "Mech. eng",
+      "data": {
+        "value": 253.8
+      },
+      "head": {
+        "x": 0,
+        "y": 39.244,
+        "t": 5.0760000000000005,
+        "r": 99.59799999999997
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.538000000000011,
+        "t": 5.0760000000000005,
+        "r": 166.5173914040073
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Electrical engineering, including elec. domestic appliances",
+      "type": "Elec. eng",
+      "data": {
+        "value": 742.4
+      },
+      "head": {
+        "x": 0,
+        "y": 29.281999999999996,
+        "t": 14.847999999999999,
+        "r": 109.55999999999997
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.424000000000035,
+        "t": 14.847999999999999,
+        "r": 167.19338213277467
+      },
+      "style": {
+        "color": "#38A6A5"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",
+      "type": "Metal goods",
+      "data": {
+        "value": 438.6
+      },
+      "head": {
+        "x": 0,
+        "y": 17.471999999999998,
+        "t": 8.772,
+        "r": 121.36999999999998
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.386000000000024,
+        "t": 8.772,
+        "r": 169.59864258834318
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Packaging and industrial and domestic hollow-ware",
+      "type": "Metal goods",
+      "data": {
+        "value": 293
+      },
+      "head": {
+        "x": 0,
+        "y": 10.155999999999999,
+        "t": 5.86,
+        "r": 128.68599999999998
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.930000000000007,
+        "t": 5.86,
+        "r": 176.44002810985504
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Hand tools, cutlery, instrument engineering",
+      "type": "Metal goods",
+      "data": {
+        "value": 205
+      },
+      "head": {
+        "x": 0,
+        "y": 5.176000000000002,
+        "t": 4.1,
+        "r": 133.666
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.0500000000000114,
+        "t": 4.1,
+        "r": 182.11164210205087
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "prod_import^*",
+      "target": "demand^Bolts, nuts, rivets, screws, etc.",
+      "type": "Metal goods",
+      "data": {
+        "value": 156.3
+      },
+      "head": {
+        "x": 0,
+        "y": 1.5629999999999988,
+        "t": 3.1260000000000003,
+        "r": 137.279
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.5630000000000166,
+        "t": 3.1260000000000003,
+        "r": 1.5630000000000002
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "semi^Rods",
+      "target": "manuf^20",
+      "type": "Long",
+      "data": {
+        "value": 162.3
+      },
+      "head": {
+        "x": 0,
+        "y": 19.181000000000154,
+        "t": 3.2460000000000004,
+        "r": 239.01389336473386
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.336999999999875,
+        "t": 3.2460000000000004,
+        "r": 239.01389336473386
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Rods",
+      "target": "manuf^15b",
+      "type": "Long",
+      "data": {
+        "value": 6.2
+      },
+      "head": {
+        "x": 0,
+        "y": 17.496000000000095,
+        "t": 0.12400000000000001,
+        "r": 258.06149103478975
+      },
+      "tail": {
+        "x": 0,
+        "y": 22.732000000000085,
+        "t": 0.12400000000000001,
+        "r": 245.75250356314572
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Rods",
+      "target": "manuf^14",
+      "type": "Long",
+      "data": {
+        "value": 563.4
+      },
+      "head": {
+        "x": 0,
+        "y": 11.800000000000068,
+        "t": 11.267999999999999,
+        "r": 176.4395064104248
+      },
+      "tail": {
+        "x": 0,
+        "y": 68.86399999999998,
+        "t": 11.267999999999999,
+        "r": 172.76576544683127
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Rods",
+      "target": "manuf^4",
+      "type": "Long",
+      "data": {
+        "value": 308.3
+      },
+      "head": {
+        "x": 0,
+        "y": 3.08299999999997,
+        "t": 6.166,
+        "r": 100.86732974989602
+      },
+      "tail": {
+        "x": 0,
+        "y": 9.323000000000008,
+        "t": 6.166,
+        "r": 100.86732974989602
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Reinforcing bar",
+      "target": "manuf^14",
+      "type": "Long",
+      "data": {
+        "value": 335.4
+      },
+      "head": {
+        "x": 0,
+        "y": 3.354000000000042,
+        "t": 6.707999999999999,
+        "r": 216.42523823377846
+      },
+      "tail": {
+        "x": 0,
+        "y": 59.87600000000003,
+        "t": 6.707999999999999,
+        "r": 181.75376544683127
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^20",
+      "type": "Long",
+      "data": {
+        "value": 4.3
+      },
+      "head": {
+        "x": 0,
+        "y": 2.8770000000000664,
+        "t": 0.086,
+        "r": 146.21292377905897
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.670999999999822,
+        "t": 0.086,
+        "r": 146.21292377905897
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^16",
+      "type": "Long",
+      "data": {
+        "value": 1.1
+      },
+      "head": {
+        "x": 0,
+        "y": 2.822999999999979,
+        "t": 0.022000000000000002,
+        "r": 335.21553904722913
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.072999999999979,
+        "t": 0.022000000000000002,
+        "r": 202.2108984853065
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^15b",
+      "type": "Long",
+      "data": {
+        "value": 53.1
+      },
+      "head": {
+        "x": 0,
+        "y": 2.280999999999949,
+        "t": 1.062,
+        "r": 334.6735390472291
+      },
+      "tail": {
+        "x": 0,
+        "y": 22.13900000000001,
+        "t": 1.062,
+        "r": 246.34550356314574
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^12",
+      "type": "Long",
+      "data": {
+        "value": 43.8
+      },
+      "head": {
+        "x": 0,
+        "y": 1.3120000000000118,
+        "t": 0.876,
+        "r": 134.03508658180675
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.021999999999935,
+        "t": 0.876,
+        "r": 131.96564594510465
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^11",
+      "type": "Long",
+      "data": {
+        "value": 3.5
+      },
+      "head": {
+        "x": 0,
+        "y": 0.8389999999999418,
+        "t": 0.07,
+        "r": 123.75760375972138
+      },
+      "tail": {
+        "x": 0,
+        "y": 13.43300000000005,
+        "t": 0.07,
+        "r": 123.75760375972138
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^10",
+      "type": "Long",
+      "data": {
+        "value": 9.8
+      },
+      "head": {
+        "x": 0,
+        "y": 0.7059999999999036,
+        "t": 0.196,
+        "r": 114.51121626959227
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.117999999999995,
+        "t": 0.196,
+        "r": 114.51121626959227
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^8",
+      "type": "Long",
+      "data": {
+        "value": 0.6
+      },
+      "head": {
+        "x": 0,
+        "y": 0.6019999999999754,
+        "t": 0.012,
+        "r": 107.05682732341019
+      },
+      "tail": {
+        "x": 0,
+        "y": 15.791999999999916,
+        "t": 0.012,
+        "r": 107.05682732341019
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^7",
+      "type": "Long",
+      "data": {
+        "value": 7.1
+      },
+      "head": {
+        "x": 0,
+        "y": 0.5249999999999773,
+        "t": 0.142,
+        "r": 103.18434739649611
+      },
+      "tail": {
+        "x": 0,
+        "y": 12.925000000000011,
+        "t": 0.142,
+        "r": 103.18434739649611
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^6",
+      "type": "Long",
+      "data": {
+        "value": 0.6
+      },
+      "head": {
+        "x": 0,
+        "y": 0.4479999999999791,
+        "t": 0.012,
+        "r": 101.09619238082504
+      },
+      "tail": {
+        "x": 0,
+        "y": 35.02000000000004,
+        "t": 0.012,
+        "r": 101.09619238082504
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^5",
+      "type": "Long",
+      "data": {
+        "value": 6.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.3790000000000191,
+        "t": 0.126,
+        "r": 99.90849429172218
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.2889999999999588,
+        "t": 0.126,
+        "r": 99.61374493920925
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Bright bars",
+      "target": "manuf^4",
+      "type": "Long",
+      "data": {
+        "value": 15.8
+      },
+      "head": {
+        "x": 0,
+        "y": 0.15800000000001546,
+        "t": 0.316,
+        "r": 99.68749429172217
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.081999999999994,
+        "t": 0.316,
+        "r": 104.10832974989601
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^20",
+      "type": "Long",
+      "data": {
+        "value": 31.1
+      },
+      "head": {
+        "x": 0,
+        "y": 5.130999999999972,
+        "t": 0.622,
+        "r": 132.5380023813572
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.316999999999894,
+        "t": 0.622,
+        "r": 132.5380023813572
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^19",
+      "type": "Long",
+      "data": {
+        "value": 2.4
+      },
+      "head": {
+        "x": 0,
+        "y": 4.795999999999935,
+        "t": 0.048,
+        "r": 145.03519858482753
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.02400000000000091,
+        "t": 0.048,
+        "r": 145.03519858482753
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^16",
+      "type": "Long",
+      "data": {
+        "value": 1.9
+      },
+      "head": {
+        "x": 0,
+        "y": 4.752999999999929,
+        "t": 0.038,
+        "r": 247.03750356314575
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.043000000000006,
+        "t": 0.038,
+        "r": 202.2408984853065
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^15b",
+      "type": "Long",
+      "data": {
+        "value": 7.1
+      },
+      "head": {
+        "x": 0,
+        "y": 4.662999999999897,
+        "t": 0.142,
+        "r": 246.94750356314574
+      },
+      "tail": {
+        "x": 0,
+        "y": 21.537000000000035,
+        "t": 0.142,
+        "r": 246.94750356314574
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^14",
+      "type": "Long",
+      "data": {
+        "value": 41.1
+      },
+      "head": {
+        "x": 0,
+        "y": 4.180999999999813,
+        "t": 0.8220000000000001,
+        "r": 185.51876544683128
+      },
+      "tail": {
+        "x": 0,
+        "y": 56.11099999999993,
+        "t": 0.8220000000000001,
+        "r": 185.51876544683128
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^13",
+      "type": "Long",
+      "data": {
+        "value": 14.7
+      },
+      "head": {
+        "x": 0,
+        "y": 3.6229999999999336,
+        "t": 0.294,
+        "r": 167.92497285378093
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.347000000000037,
+        "t": 0.294,
+        "r": 167.92497285378093
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^12",
+      "type": "Long",
+      "data": {
+        "value": 39.2
+      },
+      "head": {
+        "x": 0,
+        "y": 3.0839999999999463,
+        "t": 0.784,
+        "r": 148.3317265617714
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.19199999999995,
+        "t": 0.784,
+        "r": 132.79564594510464
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^11",
+      "type": "Long",
+      "data": {
+        "value": 47.7
+      },
+      "head": {
+        "x": 0,
+        "y": 2.214999999999918,
+        "t": 0.9540000000000001,
+        "r": 134.3995623273471
+      },
+      "tail": {
+        "x": 0,
+        "y": 12.920999999999992,
+        "t": 0.9540000000000001,
+        "r": 134.3995623273471
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^7",
+      "type": "Long",
+      "data": {
+        "value": 71.4
+      },
+      "head": {
+        "x": 0,
+        "y": 1.024000000000001,
+        "t": 1.4280000000000002,
+        "r": 105.90866073139925
+      },
+      "tail": {
+        "x": 0,
+        "y": 12.139999999999986,
+        "t": 1.4280000000000002,
+        "r": 105.90866073139925
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^5",
+      "type": "Long",
+      "data": {
+        "value": 6.5
+      },
+      "head": {
+        "x": 0,
+        "y": 0.24500000000000455,
+        "t": 0.13,
+        "r": 99.98206661464823
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.160999999999973,
+        "t": 0.13,
+        "r": 99.98206661464823
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Hot rolled bars in lengths",
+      "target": "manuf^4",
+      "type": "Long",
+      "data": {
+        "value": 9
+      },
+      "head": {
+        "x": 0,
+        "y": 0.09000000000003183,
+        "t": 0.18,
+        "r": 99.62938684503014
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.834000000000003,
+        "t": 0.18,
+        "r": 104.35632974989602
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^20",
+      "type": "Long",
+      "data": {
+        "value": 9.4
+      },
+      "head": {
+        "x": 0,
+        "y": 2.2719999999999345,
+        "t": 0.188,
+        "r": 121.90305799967622
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.911999999999921,
+        "t": 0.188,
+        "r": 121.90305799967622
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^15b",
+      "type": "Long",
+      "data": {
+        "value": 9.2
+      },
+      "head": {
+        "x": 0,
+        "y": 2.085999999999899,
+        "t": 0.184,
+        "r": 194.20545894375957
+      },
+      "tail": {
+        "x": 0,
+        "y": 21.374000000000024,
+        "t": 0.184,
+        "r": 194.20545894375957
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^15a",
+      "type": "Long",
+      "data": {
+        "value": 8.2
+      },
+      "head": {
+        "x": 0,
+        "y": 1.9119999999999209,
+        "t": 0.16399999999999998,
+        "r": 293.537778885094
+      },
+      "tail": {
+        "x": 0,
+        "y": 45.50800000000004,
+        "t": 0.16399999999999998,
+        "r": 293.537778885094
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^14",
+      "type": "Long",
+      "data": {
+        "value": 39.7
+      },
+      "head": {
+        "x": 0,
+        "y": 1.4329999999999927,
+        "t": 0.794,
+        "r": 247.96723972858774
+      },
+      "tail": {
+        "x": 0,
+        "y": 55.30299999999994,
+        "t": 0.794,
+        "r": 247.96723972858774
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^13",
+      "type": "Long",
+      "data": {
+        "value": 43.7
+      },
+      "head": {
+        "x": 0,
+        "y": 0.5989999999999327,
+        "t": 0.8740000000000001,
+        "r": 183.5010315626505
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.763000000000034,
+        "t": 0.8740000000000001,
+        "r": 183.5010315626505
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^11",
+      "type": "Long",
+      "data": {
+        "value": 1.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.1490000000000009,
+        "t": 0.026000000000000002,
+        "r": 149.81376787548115
+      },
+      "tail": {
+        "x": 0,
+        "y": 12.430999999999983,
+        "t": 0.026000000000000002,
+        "r": 149.81376787548115
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^9",
+      "type": "Long",
+      "data": {
+        "value": 1.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.1230000000000473,
+        "t": 0.026000000000000002,
+        "r": 124.25140918994114
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.035000000000025,
+        "t": 0.026000000000000002,
+        "r": 124.25140918994114
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^7",
+      "type": "Long",
+      "data": {
+        "value": 4
+      },
+      "head": {
+        "x": 0,
+        "y": 0.06999999999993634,
+        "t": 0.08,
+        "r": 109.46059785674416
+      },
+      "tail": {
+        "x": 0,
+        "y": 11.385999999999967,
+        "t": 0.08,
+        "r": 109.46059785674416
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Light sections",
+      "target": "manuf^6",
+      "type": "Long",
+      "data": {
+        "value": 1.5
+      },
+      "head": {
+        "x": 0,
+        "y": 0.014999999999986358,
+        "t": 0.03,
+        "r": 105.28710511800422
+      },
+      "tail": {
+        "x": 0,
+        "y": 34.999000000000024,
+        "t": 0.03,
+        "r": 105.28710511800422
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Heavy sections",
+      "target": "manuf^14",
+      "type": "Long",
+      "data": {
+        "value": 1254.8
+      },
+      "head": {
+        "x": 0,
+        "y": 12.548000000000002,
+        "t": 25.096,
+        "r": 348.487935294666
+      },
+      "tail": {
+        "x": 0,
+        "y": 42.358000000000004,
+        "t": 25.096,
+        "r": 348.487935294666
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Sheet piling and rolled accessories",
+      "target": "manuf^20",
+      "type": "Long",
+      "data": {
+        "value": 3.7
+      },
+      "head": {
+        "x": 0,
+        "y": 2.7329999999998336,
+        "t": 0.07400000000000001,
+        "r": 105.88472267453402
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.780999999999949,
+        "t": 0.07400000000000001,
+        "r": 120.8795591963942
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Sheet piling and rolled accessories",
+      "target": "manuf^17",
+      "type": "Long",
+      "data": {
+        "value": 1
+      },
+      "head": {
+        "x": 0,
+        "y": 2.685999999999922,
+        "t": 0.02,
+        "r": 116.53431390820525
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.9879999999999427,
+        "t": 0.02,
+        "r": 116.53431390820525
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Sheet piling and rolled accessories",
+      "target": "manuf^16",
+      "type": "Long",
+      "data": {
+        "value": 2.8
+      },
+      "head": {
+        "x": 0,
+        "y": 2.6480000000000246,
+        "t": 0.055999999999999994,
+        "r": 122.56348176599542
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.995999999999981,
+        "t": 0.055999999999999994,
+        "r": 122.56348176599542
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Sheet piling and rolled accessories",
+      "target": "manuf^14",
+      "type": "Long",
+      "data": {
+        "value": 109.9
+      },
+      "head": {
+        "x": 0,
+        "y": 1.5209999999999582,
+        "t": 2.198,
+        "r": 589.0934981147468
+      },
+      "tail": {
+        "x": 0,
+        "y": 28.711000000000013,
+        "t": 2.198,
+        "r": 489.2793981596834
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Sheet piling and rolled accessories",
+      "target": "manuf^13",
+      "type": "Long",
+      "data": {
+        "value": 1.6
+      },
+      "head": {
+        "x": 0,
+        "y": 0.40600000000006276,
+        "t": 0.032,
+        "r": 288.2158879864979
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.310000000000059,
+        "t": 0.032,
+        "r": 288.2158879864979
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Sheet piling and rolled accessories",
+      "target": "manuf^11",
+      "type": "Long",
+      "data": {
+        "value": 19.5
+      },
+      "head": {
+        "x": 0,
+        "y": 0.19500000000005002,
+        "t": 0.39,
+        "r": 226.06420159108666
+      },
+      "tail": {
+        "x": 0,
+        "y": 12.223000000000013,
+        "t": 0.39,
+        "r": 226.06420159108666
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Railway track material",
+      "target": "manuf^14",
+      "type": "Long",
+      "data": {
+        "value": 255
+      },
+      "head": {
+        "x": 0,
+        "y": 3.1159999999999854,
+        "t": 5.1000000000000005,
+        "r": 492.9283981596834
+      },
+      "tail": {
+        "x": 0,
+        "y": 25.062000000000012,
+        "t": 5.1000000000000005,
+        "r": 492.9283981596834
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Railway track material",
+      "target": "manuf^13",
+      "type": "Long",
+      "data": {
+        "value": 2
+      },
+      "head": {
+        "x": 0,
+        "y": 0.5459999999999354,
+        "t": 0.04,
+        "r": 369.0556256765508
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.274000000000001,
+        "t": 0.04,
+        "r": 369.0556256765508
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Railway track material",
+      "target": "manuf^11",
+      "type": "Long",
+      "data": {
+        "value": 26.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.26299999999991996,
+        "t": 0.526,
+        "r": 260.8194093957387
+      },
+      "tail": {
+        "x": 0,
+        "y": 11.764999999999986,
+        "t": 0.526,
+        "r": 260.8194093957387
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^20",
+      "type": "Flat",
+      "data": {
+        "value": 66.2
+      },
+      "head": {
+        "x": 0,
+        "y": 24.951999999999998,
+        "t": 1.324,
+        "r": 101.34785154636178
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.081999999999994,
+        "t": 1.324,
+        "r": 120.18055919639419
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^18",
+      "type": "Flat",
+      "data": {
+        "value": 185.9
+      },
+      "head": {
+        "x": 0,
+        "y": 22.430999999999983,
+        "t": 3.718,
+        "r": 104.07158579030273
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.8590000000000373,
+        "t": 3.718,
+        "r": 104.07158579030273
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^17",
+      "type": "Flat",
+      "data": {
+        "value": 198.9
+      },
+      "head": {
+        "x": 0,
+        "y": 18.58299999999997,
+        "t": 3.978,
+        "r": 107.91958579030273
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.9890000000000327,
+        "t": 3.978,
+        "r": 105.75610636062937
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^16",
+      "type": "Flat",
+      "data": {
+        "value": 29.4
+      },
+      "head": {
+        "x": 0,
+        "y": 16.299999999999955,
+        "t": 0.588,
+        "r": 110.20258579030273
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.673999999999978,
+        "t": 0.588,
+        "r": 112.642079462818
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^15b",
+      "type": "Flat",
+      "data": {
+        "value": 351.6
+      },
+      "head": {
+        "x": 0,
+        "y": 12.490000000000009,
+        "t": 7.032000000000001,
+        "r": 114.01258579030274
+      },
+      "tail": {
+        "x": 0,
+        "y": 17.765999999999963,
+        "t": 7.032000000000001,
+        "r": 118.29589841172583
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^14",
+      "type": "Flat",
+      "data": {
+        "value": 94.2
+      },
+      "head": {
+        "x": 0,
+        "y": 8.031999999999982,
+        "t": 1.8840000000000001,
+        "r": 253.2955110762594
+      },
+      "tail": {
+        "x": 0,
+        "y": 21.569999999999993,
+        "t": 1.8840000000000001,
+        "r": 253.2955110762594
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^12",
+      "type": "Flat",
+      "data": {
+        "value": 176.6
+      },
+      "head": {
+        "x": 0,
+        "y": 5.324000000000012,
+        "t": 3.532,
+        "r": 687.3871579697477
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.033999999999992,
+        "t": 3.532,
+        "r": 687.3871579697477
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^11",
+      "type": "Flat",
+      "data": {
+        "value": 8.4
+      },
+      "head": {
+        "x": 0,
+        "y": 3.4739999999999895,
+        "t": 0.168,
+        "r": 488.80713292349617
+      },
+      "tail": {
+        "x": 0,
+        "y": 11.418000000000006,
+        "t": 0.168,
+        "r": 488.80713292349617
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tubes and pipes",
+      "target": "manuf^8",
+      "type": "Flat",
+      "data": {
+        "value": 169.5
+      },
+      "head": {
+        "x": 0,
+        "y": 1.6949999999999932,
+        "t": 3.39,
+        "r": 237.8542113598412
+      },
+      "tail": {
+        "x": 0,
+        "y": 14.090999999999951,
+        "t": 3.39,
+        "r": 217.70422130690847
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Tin plate",
+      "target": "manuf^6",
+      "type": "Flat",
+      "data": {
+        "value": 878.1
+      },
+      "head": {
+        "x": 0,
+        "y": 8.781000000000006,
+        "t": 17.562,
+        "r": 190.94941935319196
+      },
+      "tail": {
+        "x": 0,
+        "y": 26.20300000000003,
+        "t": 17.562,
+        "r": 205.59029170845872
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Organic coated",
+      "target": "manuf^8",
+      "type": "Flat",
+      "data": {
+        "value": 385
+      },
+      "head": {
+        "x": 0,
+        "y": 11.550000000000011,
+        "t": 7.7,
+        "r": 319.6855342390924
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.545999999999992,
+        "t": 7.7,
+        "r": 223.24922130690845
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Organic coated",
+      "target": "manuf^7",
+      "type": "Flat",
+      "data": {
+        "value": 83.4
+      },
+      "head": {
+        "x": 0,
+        "y": 6.8659999999999854,
+        "t": 1.6680000000000001,
+        "r": 244.27281838551713
+      },
+      "tail": {
+        "x": 0,
+        "y": 10.512,
+        "t": 1.6680000000000001,
+        "r": 198.31822664592283
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Organic coated",
+      "target": "manuf^6",
+      "type": "Flat",
+      "data": {
+        "value": 301.6
+      },
+      "head": {
+        "x": 0,
+        "y": 3.0160000000000196,
+        "t": 6.032000000000001,
+        "r": 205.11759714986792
+      },
+      "tail": {
+        "x": 0,
+        "y": 14.406000000000006,
+        "t": 6.032000000000001,
+        "r": 174.61849424138563
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Electro coated",
+      "target": "manuf^8",
+      "type": "Flat",
+      "data": {
+        "value": 123.9
+      },
+      "head": {
+        "x": 0,
+        "y": 1.238999999999976,
+        "t": 2.478,
+        "r": 477.2013748601105
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.456999999999937,
+        "t": 2.478,
+        "r": 228.33822130690845
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot dipped galvanised",
+      "target": "manuf^20",
+      "type": "Flat",
+      "data": {
+        "value": 8.1
+      },
+      "head": {
+        "x": 0,
+        "y": 35.89499999999998,
+        "t": 0.162,
+        "r": 101.46431181780041
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.338999999999942,
+        "t": 0.162,
+        "r": 119.43755919639418
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot dipped galvanised",
+      "target": "manuf^15a",
+      "type": "Flat",
+      "data": {
+        "value": 1395.9
+      },
+      "head": {
+        "x": 0,
+        "y": 21.85499999999996,
+        "t": 27.918000000000003,
+        "r": 115.50431181780041
+      },
+      "tail": {
+        "x": 0,
+        "y": 31.466999999999985,
+        "t": 27.918000000000003,
+        "r": 128.52443556481285
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot dipped galvanised",
+      "target": "manuf^14",
+      "type": "Flat",
+      "data": {
+        "value": 28.5
+      },
+      "head": {
+        "x": 0,
+        "y": 7.61099999999999,
+        "t": 0.5700000000000001,
+        "r": 129.7483118178004
+      },
+      "tail": {
+        "x": 0,
+        "y": 20.343000000000018,
+        "t": 0.5700000000000001,
+        "r": 114.37729930886672
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot dipped galvanised",
+      "target": "manuf^12",
+      "type": "Flat",
+      "data": {
+        "value": 14.7
+      },
+      "head": {
+        "x": 0,
+        "y": 7.178999999999974,
+        "t": 0.294,
+        "r": 230.46422130690846
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.120999999999981,
+        "t": 0.294,
+        "r": 133.33464594510463
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot dipped galvanised",
+      "target": "manuf^8",
+      "type": "Flat",
+      "data": {
+        "value": 37
+      },
+      "head": {
+        "x": 0,
+        "y": 6.661999999999978,
+        "t": 0.74,
+        "r": 229.94722130690846
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.8479999999999563,
+        "t": 0.74,
+        "r": 229.94722130690846
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot dipped galvanised",
+      "target": "manuf^7",
+      "type": "Flat",
+      "data": {
+        "value": 68.3
+      },
+      "head": {
+        "x": 0,
+        "y": 5.6089999999999804,
+        "t": 1.3659999999999999,
+        "r": 199.83522664592283
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.995000000000005,
+        "t": 1.3659999999999999,
+        "r": 199.83522664592283
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot dipped galvanised",
+      "target": "manuf^6",
+      "type": "Flat",
+      "data": {
+        "value": 246.3
+      },
+      "head": {
+        "x": 0,
+        "y": 2.4630000000000223,
+        "t": 4.926,
+        "r": 180.09749424138562
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.927000000000021,
+        "t": 4.926,
+        "r": 180.09749424138562
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^20",
+      "type": "Flat",
+      "data": {
+        "value": 1.3
+      },
+      "head": {
+        "x": 0,
+        "y": 1.9869999999999095,
+        "t": 0.026000000000000002,
+        "r": 104.62136677985592
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.2450000000000045,
+        "t": 0.026000000000000002,
+        "r": 119.34355919639417
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^15a",
+      "type": "Flat",
+      "data": {
+        "value": 55.2
+      },
+      "head": {
+        "x": 0,
+        "y": 1.4219999999999686,
+        "t": 1.104,
+        "r": 105.18636677985593
+      },
+      "tail": {
+        "x": 0,
+        "y": 16.956000000000017,
+        "t": 1.104,
+        "r": 114.01343556481284
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^14",
+      "type": "Flat",
+      "data": {
+        "value": 0.6
+      },
+      "head": {
+        "x": 0,
+        "y": 0.863999999999919,
+        "t": 0.012,
+        "r": 106.11904111202345
+      },
+      "tail": {
+        "x": 0,
+        "y": 20.051999999999964,
+        "t": 0.012,
+        "r": 114.08629930886673
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^12",
+      "type": "Flat",
+      "data": {
+        "value": 4.7
+      },
+      "head": {
+        "x": 0,
+        "y": 0.8109999999999786,
+        "t": 0.094,
+        "r": 121.09886989833785
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.927000000000021,
+        "t": 0.094,
+        "r": 121.09886989833785
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^9",
+      "type": "Flat",
+      "data": {
+        "value": 1.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.7509999999999195,
+        "t": 0.026000000000000002,
+        "r": 158.23276608389565
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.0090000000000146,
+        "t": 0.026000000000000002,
+        "r": 158.23276608389565
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^8",
+      "type": "Flat",
+      "data": {
+        "value": 14.6
+      },
+      "head": {
+        "x": 0,
+        "y": 0.5919999999999845,
+        "t": 0.292,
+        "r": 205.1627495854597
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.3319999999999936,
+        "t": 0.292,
+        "r": 205.1627495854597
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^7",
+      "type": "Flat",
+      "data": {
+        "value": 16.6
+      },
+      "head": {
+        "x": 0,
+        "y": 0.2799999999999727,
+        "t": 0.332,
+        "r": 503.7989316755905
+      },
+      "tail": {
+        "x": 0,
+        "y": 8.145999999999958,
+        "t": 0.332,
+        "r": 253.9120446389648
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^6",
+      "type": "Flat",
+      "data": {
+        "value": 3.4
+      },
+      "head": {
+        "x": 0,
+        "y": 0.07999999999998408,
+        "t": 0.068,
+        "r": 456.9495021714386
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.430000000000007,
+        "t": 0.068,
+        "r": 456.9495021714386
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Cold rolled",
+      "target": "manuf^5",
+      "type": "Flat",
+      "data": {
+        "value": 2.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.023000000000024556,
+        "t": 0.046,
+        "r": 333.7741544210005
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.072999999999979,
+        "t": 0.046,
+        "r": 333.7741544210005
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^20",
+      "type": "Flat",
+      "data": {
+        "value": 211.5
+      },
+      "head": {
+        "x": 0,
+        "y": 20.011000000000024,
+        "t": 4.23,
+        "r": 106.00940813582046
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.116999999999962,
+        "t": 4.23,
+        "r": 117.21555919639417
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^16",
+      "type": "Flat",
+      "data": {
+        "value": 88.3
+      },
+      "head": {
+        "x": 0,
+        "y": 17.012999999999977,
+        "t": 1.766,
+        "r": 109.00740813582046
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.497000000000071,
+        "t": 1.766,
+        "r": 111.46507946281801
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^15a",
+      "type": "Flat",
+      "data": {
+        "value": 89.6
+      },
+      "head": {
+        "x": 0,
+        "y": 15.23399999999998,
+        "t": 1.7919999999999998,
+        "r": 110.78640813582045
+      },
+      "tail": {
+        "x": 0,
+        "y": 15.507999999999925,
+        "t": 1.7919999999999998,
+        "r": 112.56543556481283
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^14",
+      "type": "Flat",
+      "data": {
+        "value": 313.9
+      },
+      "head": {
+        "x": 0,
+        "y": 11.199000000000012,
+        "t": 6.278,
+        "r": 114.82140813582045
+      },
+      "tail": {
+        "x": 0,
+        "y": 16.906999999999982,
+        "t": 6.278,
+        "r": 110.94129930886673
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^13",
+      "type": "Flat",
+      "data": {
+        "value": 183.5
+      },
+      "head": {
+        "x": 0,
+        "y": 6.225000000000023,
+        "t": 3.67,
+        "r": 119.79540813582044
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.418999999999983,
+        "t": 3.67,
+        "r": 106.3972531223089
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^12",
+      "type": "Flat",
+      "data": {
+        "value": 19.8
+      },
+      "head": {
+        "x": 0,
+        "y": 4.192000000000036,
+        "t": 0.396,
+        "r": 121.82840813582042
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.6819999999999595,
+        "t": 0.396,
+        "r": 110.35083204670808
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^11",
+      "type": "Flat",
+      "data": {
+        "value": 115.3
+      },
+      "head": {
+        "x": 0,
+        "y": 2.841000000000008,
+        "t": 2.306,
+        "r": 123.17940813582042
+      },
+      "tail": {
+        "x": 0,
+        "y": 10.18100000000004,
+        "t": 2.306,
+        "r": 114.74468815982162
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^9",
+      "type": "Flat",
+      "data": {
+        "value": 50.1
+      },
+      "head": {
+        "x": 0,
+        "y": 1.1870000000000118,
+        "t": 1.002,
+        "r": 129.54843573780596
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.4950000000000045,
+        "t": 1.002,
+        "r": 129.54843573780596
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^8",
+      "type": "Flat",
+      "data": {
+        "value": 4.6
+      },
+      "head": {
+        "x": 0,
+        "y": 0.6399999999999864,
+        "t": 0.092,
+        "r": 151.2038078073666
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.1399999999999864,
+        "t": 0.092,
+        "r": 151.2038078073666
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^7",
+      "type": "Flat",
+      "data": {
+        "value": 16.4
+      },
+      "head": {
+        "x": 0,
+        "y": 0.4299999999999784,
+        "t": 0.32799999999999996,
+        "r": 171.35621942930177
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.815999999999974,
+        "t": 0.32799999999999996,
+        "r": 171.35621942930177
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Plate",
+      "target": "manuf^5",
+      "type": "Flat",
+      "data": {
+        "value": 13.3
+      },
+      "head": {
+        "x": 0,
+        "y": 0.13300000000000978,
+        "t": 0.266,
+        "r": 431.56852211769495
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.9170000000000016,
+        "t": 0.266,
+        "r": 431.56852211769495
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot rolled",
+      "target": "manuf^14",
+      "type": "Flat",
+      "data": {
+        "value": 688.4
+      },
+      "head": {
+        "x": 0,
+        "y": 16.451999999999998,
+        "t": 13.768,
+        "r": 100.91829930886674
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.8840000000000146,
+        "t": 13.768,
+        "r": 100.91829930886674
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot rolled",
+      "target": "manuf^12",
+      "type": "Flat",
+      "data": {
+        "value": 58.3
+      },
+      "head": {
+        "x": 0,
+        "y": 8.985000000000014,
+        "t": 1.166,
+        "r": 108.38529930886673
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.9010000000000105,
+        "t": 1.166,
+        "r": 104.34158179697992
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot rolled",
+      "target": "manuf^8",
+      "type": "Flat",
+      "data": {
+        "value": 11.7
+      },
+      "head": {
+        "x": 0,
+        "y": 8.284999999999997,
+        "t": 0.23399999999999999,
+        "r": 128.73435601784846
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.9770000000000323,
+        "t": 0.23399999999999999,
+        "r": 128.73435601784846
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot rolled",
+      "target": "manuf^7",
+      "type": "Flat",
+      "data": {
+        "value": 88.6
+      },
+      "head": {
+        "x": 0,
+        "y": 7.282000000000011,
+        "t": 1.772,
+        "r": 139.97625892858474
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.765999999999963,
+        "t": 1.772,
+        "r": 139.97625892858474
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi^Hot rolled",
+      "target": "manuf^6",
+      "type": "Flat",
+      "data": {
+        "value": 319.8
+      },
+      "head": {
+        "x": 0,
+        "y": 3.1980000000000075,
+        "t": 6.396000000000001,
+        "r": 193.6112917084587
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.1980000000000075,
+        "t": 6.396000000000001,
+        "r": 193.6112917084587
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "imbalance^*",
+      "target": "manuf^16",
+      "type": "Transport",
+      "data": {
+        "value": 34.4
+      },
+      "head": {
+        "x": 0,
+        "y": 9.257999999999996,
+        "t": 0.688,
+        "r": 107.24570135884694
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.2700000000000955,
+        "t": 0.688,
+        "r": 110.23807946281802
+      },
+      "style": {
+        "color": "#EDAD08"
+      }
+    },
+    {
+      "source": "imbalance^*",
+      "target": "manuf^12",
+      "type": "Mech. eng",
+      "data": {
+        "value": 21.4
+      },
+      "head": {
+        "x": 0,
+        "y": 8.699999999999989,
+        "t": 0.428,
+        "r": 107.80370135884694
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.103999999999985,
+        "t": 0.428,
+        "r": 101.72361245078628
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "imbalance^*",
+      "target": "manuf^11",
+      "type": "Mech. eng",
+      "data": {
+        "value": 185.4
+      },
+      "head": {
+        "x": 0,
+        "y": 6.632000000000005,
+        "t": 3.708,
+        "r": 109.87170135884693
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.173999999999978,
+        "t": 3.708,
+        "r": 104.40692087879924
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "imbalance^*",
+      "target": "manuf^9",
+      "type": "Mech. eng",
+      "data": {
+        "value": 199.7
+      },
+      "head": {
+        "x": 0,
+        "y": 2.781000000000006,
+        "t": 3.9939999999999998,
+        "r": 113.72270135884693
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.997000000000014,
+        "t": 3.9939999999999998,
+        "r": 108.46924065248479
+      },
+      "style": {
+        "color": "#0F8554"
+      }
+    },
+    {
+      "source": "imbalance^*",
+      "target": "manuf^5",
+      "type": "Metal goods",
+      "data": {
+        "value": 39.2
+      },
+      "head": {
+        "x": 0,
+        "y": 0.3919999999999959,
+        "t": 0.784,
+        "r": 173.45475169512773
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.3919999999999959,
+        "t": 0.784,
+        "r": 173.45475169512773
+      },
+      "style": {
+        "color": "#1D6996"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^20",
+      "type": "component",
+      "data": {
+        "value": 0.1
+      },
+      "head": {
+        "x": 0,
+        "y": 54.086999999999996,
+        "t": 0.002,
+        "r": 115.09955919639415
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.0009999999999763531,
+        "t": 0.002,
+        "r": 115.09955919639417
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^16",
+      "type": "component",
+      "data": {
+        "value": 46.3
+      },
+      "head": {
+        "x": 0,
+        "y": 53.623,
+        "t": 0.9259999999999999,
+        "r": 115.56355919639415
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.46299999999996544,
+        "t": 0.9259999999999999,
+        "r": 109.43107946281803
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^15b",
+      "type": "component",
+      "data": {
+        "value": 712.5
+      },
+      "head": {
+        "x": 0,
+        "y": 46.035,
+        "t": 14.25,
+        "r": 123.15155919639415
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.125,
+        "t": 14.25,
+        "r": 107.65489841172582
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^15a",
+      "type": "component",
+      "data": {
+        "value": 730.6
+      },
+      "head": {
+        "x": 0,
+        "y": 31.604,
+        "t": 14.612,
+        "r": 137.58255919639416
+      },
+      "tail": {
+        "x": 0,
+        "y": 7.30600000000004,
+        "t": 14.612,
+        "r": 104.36343556481283
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^13",
+      "type": "component",
+      "data": {
+        "value": 129.2
+      },
+      "head": {
+        "x": 0,
+        "y": 23.006,
+        "t": 2.5839999999999996,
+        "r": 146.18055919639417
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.2919999999999732,
+        "t": 2.5839999999999996,
+        "r": 99.7075676736523
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^12",
+      "type": "component",
+      "data": {
+        "value": 44.5
+      },
+      "head": {
+        "x": 0,
+        "y": 21.269,
+        "t": 0.89,
+        "r": 147.91755919639417
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.4449999999999932,
+        "t": 0.89,
+        "r": 99.60756953758705
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^11",
+      "type": "component",
+      "data": {
+        "value": 266
+      },
+      "head": {
+        "x": 0,
+        "y": 18.163999999999998,
+        "t": 5.32,
+        "r": 151.02255919639416
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.660000000000025,
+        "t": 5.32,
+        "r": 99.89292087879925
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^10",
+      "type": "component",
+      "data": {
+        "value": 151
+      },
+      "head": {
+        "x": 0,
+        "y": 13.994,
+        "t": 3.02,
+        "r": 155.19255919639414
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.509999999999991,
+        "t": 3.02,
+        "r": 100.2956752424771
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^8",
+      "type": "component",
+      "data": {
+        "value": 43
+      },
+      "head": {
+        "x": 0,
+        "y": 12.053999999999998,
+        "t": 0.86,
+        "r": 157.13255919639414
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.4300000000000068,
+        "t": 0.86,
+        "r": 103.58337487881683
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^7",
+      "type": "component",
+      "data": {
+        "value": 294
+      },
+      "head": {
+        "x": 0,
+        "y": 8.684000000000001,
+        "t": 5.88,
+        "r": 160.50255919639415
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.9399999999999977,
+        "t": 5.88,
+        "r": 106.2175278582991
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "comp_import^*",
+      "target": "manuf^4",
+      "type": "component",
+      "data": {
+        "value": 287.2
+      },
+      "head": {
+        "x": 0,
+        "y": 2.872,
+        "t": 5.744,
+        "r": 166.31455919639416
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.872000000000014,
+        "t": 5.744,
+        "r": 132.06897184599637
+      },
+      "style": {
+        "color": "#D9AF6B"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi_export^*",
+      "type": "Flat",
+      "data": {
+        "value": 1430.1
+      },
+      "head": {
+        "x": 0,
+        "y": 97.45499999999998,
+        "t": 28.602,
+        "r": 60.48136880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 14.301000000000045,
+        "t": 28.602,
+        "r": 139.1213516679181
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi_export^*",
+      "type": "Long",
+      "data": {
+        "value": 1347.6000000000001
+      },
+      "head": {
+        "x": 0,
+        "y": 125.23199999999997,
+        "t": 26.952,
+        "r": 32.704368800978216
+      },
+      "tail": {
+        "x": 0,
+        "y": 42.077999999999975,
+        "t": 26.952,
+        "r": 166.8983516679181
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Rods",
+      "type": "Long",
+      "data": {
+        "value": 563.4
+      },
+      "head": {
+        "x": 0,
+        "y": 77.52000000000004,
+        "t": 11.267999999999999,
+        "r": 80.41636880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 15.169999999999959,
+        "t": 11.267999999999999,
+        "r": 166.89044737586605
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Reinforcing bar",
+      "type": "Long",
+      "data": {
+        "value": 187.9
+      },
+      "head": {
+        "x": 0,
+        "y": 70.00700000000006,
+        "t": 3.758,
+        "r": 87.92936880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.829000000000065,
+        "t": 3.758,
+        "r": 169.74389176358784
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Bright bars",
+      "type": "Long",
+      "data": {
+        "value": 70.1
+      },
+      "head": {
+        "x": 0,
+        "y": 67.42700000000008,
+        "t": 1.402,
+        "r": 90.50936880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.219000000000051,
+        "t": 1.402,
+        "r": 167.59887495817983
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Hot rolled bars in lengths",
+      "type": "Long",
+      "data": {
+        "value": 142.6
+      },
+      "head": {
+        "x": 0,
+        "y": 65.30000000000007,
+        "t": 2.852,
+        "r": 92.63636880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.016000000000076,
+        "t": 2.852,
+        "r": 166.5651800507275
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Light sections",
+      "type": "Long",
+      "data": {
+        "value": 93.1
+      },
+      "head": {
+        "x": 0,
+        "y": 62.94300000000004,
+        "t": 1.8619999999999999,
+        "r": 94.99336880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.4350000000000591,
+        "t": 1.8619999999999999,
+        "r": 174.0756376803433
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Heavy sections",
+      "type": "Long",
+      "data": {
+        "value": 572.4
+      },
+      "head": {
+        "x": 0,
+        "y": 56.28800000000007,
+        "t": 11.448,
+        "r": 101.64836880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 19.37200000000007,
+        "t": 11.448,
+        "r": 157.2011936664177
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Sheet piling and rolled accessories",
+      "type": "Long",
+      "data": {
+        "value": 63.1
+      },
+      "head": {
+        "x": 0,
+        "y": 49.93300000000005,
+        "t": 1.262,
+        "r": 108.00336880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.1369999999999436,
+        "t": 1.262,
+        "r": 133.21780786177163
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Railway track material",
+      "type": "Long",
+      "data": {
+        "value": 129.2
+      },
+      "head": {
+        "x": 0,
+        "y": 48.01000000000005,
+        "t": 2.5839999999999996,
+        "r": 109.92636880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.37399999999991,
+        "t": 2.5839999999999996,
+        "r": 123.79628064985516
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Tubes and pipes",
+      "type": "Flat",
+      "data": {
+        "value": 371.9
+      },
+      "head": {
+        "x": 0,
+        "y": 42.99900000000008,
+        "t": 7.438,
+        "r": 114.93736880097822
+      },
+      "tail": {
+        "x": 0,
+        "y": 21.880999999999972,
+        "t": 7.438,
+        "r": 116.27347535341904
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Tin plate",
+      "type": "Flat",
+      "data": {
+        "value": 231.7
+      },
+      "head": {
+        "x": 0,
+        "y": 36.96300000000008,
+        "t": 4.6339999999999995,
+        "r": 135.18336880097823
+      },
+      "tail": {
+        "x": 0,
+        "y": 15.245000000000005,
+        "t": 4.6339999999999995,
+        "r": 97.02420067445892
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Organic coated",
+      "type": "Flat",
+      "data": {
+        "value": 203.2
+      },
+      "head": {
+        "x": 0,
+        "y": 32.61400000000003,
+        "t": 4.064,
+        "r": 130.8343688009782
+      },
+      "tail": {
+        "x": 0,
+        "y": 13.367999999999995,
+        "t": 4.064,
+        "r": 117.33711268281742
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Electro coated",
+      "type": "Flat",
+      "data": {
+        "value": 32.7
+      },
+      "head": {
+        "x": 0,
+        "y": 30.255000000000052,
+        "t": 0.654,
+        "r": 128.4753688009782
+      },
+      "tail": {
+        "x": 0,
+        "y": 2.1510000000000105,
+        "t": 0.654,
+        "r": 115.23989432513137
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Hot dipped galvanised",
+      "type": "Flat",
+      "data": {
+        "value": 474.6
+      },
+      "head": {
+        "x": 0,
+        "y": 25.182000000000016,
+        "t": 9.492,
+        "r": 123.40236880097821
+      },
+      "tail": {
+        "x": 0,
+        "y": 31.22999999999996,
+        "t": 9.492,
+        "r": 141.28983142573654
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Cold rolled",
+      "type": "Flat",
+      "data": {
+        "value": 22.7
+      },
+      "head": {
+        "x": 0,
+        "y": 20.209000000000003,
+        "t": 0.454,
+        "r": 118.42936880097821
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.7729999999999677,
+        "t": 0.454,
+        "r": 99.65207720389692
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Plate",
+      "type": "Flat",
+      "data": {
+        "value": 750.1
+      },
+      "head": {
+        "x": 0,
+        "y": 12.480999999999995,
+        "t": 15.002,
+        "r": 110.7013688009782
+      },
+      "tail": {
+        "x": 0,
+        "y": 14.611000000000018,
+        "t": 15.002,
+        "r": 99.95845834128109
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "prod^*",
+      "target": "semi^Hot rolled",
+      "type": "Flat",
+      "data": {
+        "value": 249
+      },
+      "head": {
+        "x": 0,
+        "y": 2.490000000000009,
+        "t": 4.98,
+        "r": 100.7103688009782
+      },
+      "tail": {
+        "x": 0,
+        "y": 20.846000000000004,
+        "t": 4.98,
+        "r": 100.7103688009782
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Rods",
+      "type": "Long",
+      "data": {
+        "value": 476.8
+      },
+      "head": {
+        "x": 0,
+        "y": 128.31199999999998,
+        "t": 9.536,
+        "r": 70.12649462835796
+      },
+      "tail": {
+        "x": 0,
+        "y": 4.768000000000029,
+        "t": 9.536,
+        "r": 102.54700186845545
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Reinforcing bar",
+      "type": "Long",
+      "data": {
+        "value": 147.5
+      },
+      "head": {
+        "x": 0,
+        "y": 122.06899999999999,
+        "t": 2.95,
+        "r": 76.36949462835796
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.4750000000000227,
+        "t": 2.95,
+        "r": 101.45262934389821
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Bright bars",
+      "type": "Long",
+      "data": {
+        "value": 75.9
+      },
+      "head": {
+        "x": 0,
+        "y": 119.83499999999998,
+        "t": 1.5180000000000002,
+        "r": 78.60349462835795
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.7590000000000146,
+        "t": 1.5180000000000002,
+        "r": 100.66343133871494
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Hot rolled bars in lengths",
+      "type": "Long",
+      "data": {
+        "value": 129.5
+      },
+      "head": {
+        "x": 0,
+        "y": 117.78099999999998,
+        "t": 2.59,
+        "r": 80.65749462835795
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.294999999999959,
+        "t": 2.59,
+        "r": 100.03265678646092
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Light sections",
+      "type": "Long",
+      "data": {
+        "value": 25.2
+      },
+      "head": {
+        "x": 0,
+        "y": 116.23400000000001,
+        "t": 0.504,
+        "r": 82.20449462835795
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.2519999999999527,
+        "t": 0.504,
+        "r": 99.68077487916771
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Heavy sections",
+      "type": "Long",
+      "data": {
+        "value": 682.4
+      },
+      "head": {
+        "x": 0,
+        "y": 109.15800000000002,
+        "t": 13.648,
+        "r": 89.28049462835794
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.824000000000069,
+        "t": 13.648,
+        "r": 99.70245771834642
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Sheet piling and rolled accessories",
+      "type": "Long",
+      "data": {
+        "value": 75.3
+      },
+      "head": {
+        "x": 0,
+        "y": 101.58099999999999,
+        "t": 1.506,
+        "r": 96.85749462835794
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.7530000000000427,
+        "t": 1.506,
+        "r": 100.14288765693148
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Railway track material",
+      "type": "Long",
+      "data": {
+        "value": 154.1
+      },
+      "head": {
+        "x": 0,
+        "y": 99.287,
+        "t": 3.082,
+        "r": 99.15149462835794
+      },
+      "tail": {
+        "x": 0,
+        "y": 1.54099999999994,
+        "t": 3.082,
+        "r": 101.07315653106468
+      },
+      "style": {
+        "color": "#AF6458"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Tubes and pipes",
+      "type": "Flat",
+      "data": {
+        "value": 908.1
+      },
+      "head": {
+        "x": 0,
+        "y": 88.66499999999999,
+        "t": 18.162000000000003,
+        "r": 109.77349462835794
+      },
+      "tail": {
+        "x": 0,
+        "y": 9.081000000000017,
+        "t": 18.162000000000003,
+        "r": 103.06371874387808
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Tin plate",
+      "type": "Flat",
+      "data": {
+        "value": 646.4
+      },
+      "head": {
+        "x": 0,
+        "y": 73.12,
+        "t": 12.927999999999999,
+        "r": 125.31849462835794
+      },
+      "tail": {
+        "x": 0,
+        "y": 6.463999999999999,
+        "t": 12.927999999999999,
+        "r": 105.80520067445892
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Organic coated",
+      "type": "Flat",
+      "data": {
+        "value": 566.8
+      },
+      "head": {
+        "x": 0,
+        "y": 60.98800000000003,
+        "t": 11.335999999999999,
+        "r": 137.45049462835794
+      },
+      "tail": {
+        "x": 0,
+        "y": 5.668000000000006,
+        "t": 11.335999999999999,
+        "r": 109.63711268281742
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Electro coated",
+      "type": "Flat",
+      "data": {
+        "value": 91.2
+      },
+      "head": {
+        "x": 0,
+        "y": 54.408000000000015,
+        "t": 1.824,
+        "r": 144.03049462835796
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.9119999999999777,
+        "t": 1.824,
+        "r": 114.00089432513137
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Hot dipped galvanised",
+      "type": "Flat",
+      "data": {
+        "value": 1324.2
+      },
+      "head": {
+        "x": 0,
+        "y": 40.254000000000005,
+        "t": 26.484,
+        "r": 158.18449462835795
+      },
+      "tail": {
+        "x": 0,
+        "y": 13.242000000000019,
+        "t": 26.484,
+        "r": 123.30183142573652
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Cold rolled",
+      "type": "Flat",
+      "data": {
+        "value": 77.3
+      },
+      "head": {
+        "x": 0,
+        "y": 26.23899999999999,
+        "t": 1.546,
+        "r": 172.19949462835794
+      },
+      "tail": {
+        "x": 0,
+        "y": 0.7730000000000246,
+        "t": 1.546,
+        "r": 131.94282426566275
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Plate",
+      "type": "Flat",
+      "data": {
+        "value": 355.5
+      },
+      "head": {
+        "x": 0,
+        "y": 21.911,
+        "t": 7.11,
+        "r": 182.58129199716853
+      },
+      "tail": {
+        "x": 0,
+        "y": 3.555000000000007,
+        "t": 7.11,
+        "r": 156.36351680585952
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    },
+    {
+      "source": "semi_import^*",
+      "target": "semi^Hot rolled",
+      "type": "Flat",
+      "data": {
+        "value": 917.8
+      },
+      "head": {
+        "x": 0,
+        "y": 9.177999999999997,
+        "t": 18.355999999999998,
+        "r": 221.68100186845538
+      },
+      "tail": {
+        "x": 0,
+        "y": 9.177999999999997,
+        "t": 18.355999999999998,
+        "r": 184.16472410916995
+      },
+      "style": {
+        "color": "#855C75"
+      }
+    }
+  ]
+}
