@@ -1,235 +1,278 @@
 source,target,material,year,value
-uk_production,uk_intermediate,Cold rolled,2009,29.1
 uk_production,exports,Cold rolled,2009,9.8
-imports,uk_intermediate,Cold rolled,2009,42.6
-uk_intermediate,sector 5,Cold rolled,2009,1.6
+uk_production,sector 5,Cold rolled,2009,0.6
+imports,sector 5,Cold rolled,2009,1.0
 sector 5,scrap,scrap Cold rolled,2009,0.3
-uk_intermediate,sector 6,Cold rolled,2009,2.4
+uk_production,sector 6,Cold rolled,2009,0.9
+imports,sector 6,Cold rolled,2009,1.5
 sector 6,scrap,scrap Cold rolled,2009,0.2
-uk_intermediate,sector 7,Cold rolled,2009,11.7
+uk_production,sector 7,Cold rolled,2009,4.6
+imports,sector 7,Cold rolled,2009,7.1
 sector 7,scrap,scrap Cold rolled,2009,2.0
-uk_intermediate,sector 8,Cold rolled,2009,10.4
+uk_production,sector 8,Cold rolled,2009,4.1
+imports,sector 8,Cold rolled,2009,6.3
 sector 8,scrap,scrap Cold rolled,2009,2.1
-uk_intermediate,sector 9,Cold rolled,2009,0.9
+uk_production,sector 9,Cold rolled,2009,0.3
+imports,sector 9,Cold rolled,2009,0.5
 sector 9,scrap,scrap Cold rolled,2009,0.2
-uk_intermediate,sector 12,Cold rolled,2009,3.3
+uk_production,sector 12,Cold rolled,2009,1.3
+imports,sector 12,Cold rolled,2009,2.0
 sector 12,scrap,scrap Cold rolled,2009,1.3
-uk_intermediate,sector 14,Cold rolled,2009,0.4
+uk_production,sector 14,Cold rolled,2009,0.2
+imports,sector 14,Cold rolled,2009,0.3
 sector 14,scrap,scrap Cold rolled,2009,0.0
-uk_intermediate,sector 15a,Cold rolled,2009,39.2
+uk_production,sector 15a,Cold rolled,2009,15.3
+imports,sector 15a,Cold rolled,2009,23.8
 sector 15a,scrap,scrap Cold rolled,2009,16.8
-uk_intermediate,sector 20,Cold rolled,2009,1.7
+uk_production,sector 20,Cold rolled,2009,1.7
 sector 20,scrap,scrap Cold rolled,2009,0.3
-uk_production,uk_intermediate,Electro coated,2009,32.2
 uk_production,exports,Electro coated,2009,21.8
-imports,uk_intermediate,Electro coated,2009,44.3
-uk_intermediate,sector 8,Electro coated,2009,76.5
+uk_production,sector 8,Electro coated,2009,32.2
+imports,sector 8,Electro coated,2009,44.3
 sector 8,scrap,scrap Electro coated,2009,15.3
-uk_production,uk_intermediate,Hot dipped galvanised,2009,492.3
 uk_production,exports,Hot dipped galvanised,2009,332.7
-imports,uk_intermediate,Hot dipped galvanised,2009,676.4
-uk_intermediate,sector 6,Hot dipped galvanised,2009,255.5
+uk_production,sector 6,Hot dipped galvanised,2009,255.5
 sector 6,scrap,scrap Hot dipped galvanised,2009,25.6
-uk_intermediate,sector 7,Hot dipped galvanised,2009,70.9
+uk_production,sector 7,Hot dipped galvanised,2009,70.9
 sector 7,scrap,scrap Hot dipped galvanised,2009,12.1
-uk_intermediate,sector 8,Hot dipped galvanised,2009,38.4
+uk_production,sector 8,Hot dipped galvanised,2009,38.4
 sector 8,scrap,scrap Hot dipped galvanised,2009,7.7
-uk_intermediate,sector 12,Hot dipped galvanised,2009,15.3
+uk_production,sector 12,Hot dipped galvanised,2009,15.3
 sector 12,scrap,scrap Hot dipped galvanised,2009,3.1
-uk_intermediate,sector 14,Hot dipped galvanised,2009,29.5
+uk_production,sector 14,Hot dipped galvanised,2009,29.5
 sector 14,scrap,scrap Hot dipped galvanised,2009,3.2
-uk_intermediate,sector 15a,Hot dipped galvanised,2009,750.7
+uk_production,sector 15a,Hot dipped galvanised,2009,74.3
+imports,sector 15a,Hot dipped galvanised,2009,676.4
 sector 15a,scrap,scrap Hot dipped galvanised,2009,322.8
-uk_intermediate,sector 20,Hot dipped galvanised,2009,8.4
+uk_production,sector 20,Hot dipped galvanised,2009,8.4
 sector 20,scrap,scrap Hot dipped galvanised,2009,1.4
-uk_production,uk_intermediate,Hot rolled,2009,499.9
 uk_production,exports,Hot rolled,2009,397.4
-imports,uk_intermediate,Hot rolled,2009,808.0
-uk_intermediate,sector 6,Hot rolled,2009,358.4
+uk_production,sector 6,Hot rolled,2009,137.0
+imports,sector 6,Hot rolled,2009,221.5
 sector 6,scrap,scrap Hot rolled,2009,35.8
-uk_intermediate,sector 7,Hot rolled,2009,99.3
+uk_production,sector 7,Hot rolled,2009,38.0
+imports,sector 7,Hot rolled,2009,61.3
 sector 7,scrap,scrap Hot rolled,2009,29.8
-uk_intermediate,sector 8,Hot rolled,2009,13.1
+uk_production,sector 8,Hot rolled,2009,5.0
+imports,sector 8,Hot rolled,2009,8.1
 sector 8,scrap,scrap Hot rolled,2009,2.6
-uk_intermediate,sector 12,Hot rolled,2009,65.4
+uk_production,sector 12,Hot rolled,2009,25.0
+imports,sector 12,Hot rolled,2009,40.4
 sector 12,scrap,scrap Hot rolled,2009,13.1
-uk_intermediate,sector 14,Hot rolled,2009,771.7
+uk_production,sector 14,Hot rolled,2009,294.9
+imports,sector 14,Hot rolled,2009,476.7
 sector 14,scrap,scrap Hot rolled,2009,84.9
-uk_production,uk_intermediate,Organic coated,2009,104.4
 uk_production,exports,Organic coated,2009,70.6
-imports,uk_intermediate,Organic coated,2009,143.5
-uk_intermediate,sector 6,Organic coated,2009,97.1
+uk_production,sector 6,Organic coated,2009,40.9
+imports,sector 6,Organic coated,2009,56.2
 sector 6,scrap,scrap Organic coated,2009,9.7
-uk_intermediate,sector 7,Organic coated,2009,26.8
+uk_production,sector 7,Organic coated,2009,11.3
+imports,sector 7,Organic coated,2009,15.6
 sector 7,scrap,scrap Organic coated,2009,10.7
-uk_intermediate,sector 8,Organic coated,2009,124.0
+uk_production,sector 8,Organic coated,2009,52.2
+imports,sector 8,Organic coated,2009,71.8
 sector 8,scrap,scrap Organic coated,2009,24.8
-uk_production,uk_intermediate,Plate,2009,692.1
 uk_production,exports,Plate,2009,434.5
-imports,uk_intermediate,Plate,2009,145.7
-uk_intermediate,sector 5,Plate,2009,10.1
+uk_production,sector 5,Plate,2009,8.3
+imports,sector 5,Plate,2009,1.8
 sector 5,scrap,scrap Plate,2009,3.0
-uk_intermediate,sector 7,Plate,2009,12.5
+uk_production,sector 7,Plate,2009,10.4
+imports,sector 7,Plate,2009,2.1
 sector 7,scrap,scrap Plate,2009,3.7
-uk_intermediate,sector 8,Plate,2009,3.4
+uk_production,sector 8,Plate,2009,2.8
+imports,sector 8,Plate,2009,0.6
 sector 8,scrap,scrap Plate,2009,0.7
-uk_intermediate,sector 9,Plate,2009,20.5
+imports,sector 9,Plate,2009,20.5
 sector 9,scrap,scrap Plate,2009,4.9
-uk_intermediate,sector 11,Plate,2009,70.0
+uk_production,sector 11,Plate,2009,40.8
+imports,sector 11,Plate,2009,29.1
 sector 11,scrap,scrap Plate,2009,20.3
-uk_intermediate,sector 12,Plate,2009,15.1
+uk_production,sector 12,Plate,2009,12.5
+imports,sector 12,Plate,2009,2.6
 sector 12,scrap,scrap Plate,2009,3.0
-uk_intermediate,sector 13,Plate,2009,139.1
+uk_production,sector 13,Plate,2009,114.9
+imports,sector 13,Plate,2009,24.2
 sector 13,scrap,scrap Plate,2009,41.7
-uk_intermediate,sector 14,Plate,2009,237.9
+uk_production,sector 14,Plate,2009,196.6
+imports,sector 14,Plate,2009,41.3
 sector 14,scrap,scrap Plate,2009,26.2
-uk_intermediate,sector 15a,Plate,2009,67.9
+uk_production,sector 15a,Plate,2009,56.1
+imports,sector 15a,Plate,2009,11.8
 sector 15a,scrap,scrap Plate,2009,29.2
-uk_intermediate,sector 16,Plate,2009,67.0
+uk_production,sector 16,Plate,2009,55.4
+imports,sector 16,Plate,2009,11.6
 sector 16,scrap,scrap Plate,2009,24.1
-uk_intermediate,sector 20,Plate,2009,195.2
+uk_production,sector 20,Plate,2009,195.2
 sector 20,scrap,scrap Plate,2009,58.6
-uk_production,uk_intermediate,Tin plate,2009,236.3
 uk_production,exports,Tin plate,2009,159.7
-imports,uk_intermediate,Tin plate,2009,324.7
-uk_intermediate,sector 6,Tin plate,2009,561.0
+uk_production,sector 6,Tin plate,2009,236.3
+imports,sector 6,Tin plate,2009,324.7
 sector 6,scrap,scrap Tin plate,2009,168.3
-uk_production,uk_intermediate,Tubes and pipes,2009,311.7
 uk_production,exports,Tubes and pipes,2009,203.6
-imports,uk_intermediate,Tubes and pipes,2009,582.9
-uk_intermediate,sector 8,Tubes and pipes,2009,117.2
+uk_production,sector 8,Tubes and pipes,2009,35.8
+imports,sector 8,Tubes and pipes,2009,81.3
 sector 8,scrap,scrap Tubes and pipes,2009,23.4
-uk_intermediate,sector 11,Tubes and pipes,2009,5.8
+uk_production,sector 11,Tubes and pipes,2009,1.9
+imports,sector 11,Tubes and pipes,2009,4.0
 sector 11,scrap,scrap Tubes and pipes,2009,0.3
-uk_intermediate,sector 12,Tubes and pipes,2009,122.1
+uk_production,sector 12,Tubes and pipes,2009,37.4
+imports,sector 12,Tubes and pipes,2009,84.7
 sector 12,scrap,scrap Tubes and pipes,2009,6.1
-uk_intermediate,sector 14,Tubes and pipes,2009,65.1
+uk_production,sector 14,Tubes and pipes,2009,19.9
+imports,sector 14,Tubes and pipes,2009,45.2
 sector 14,scrap,scrap Tubes and pipes,2009,3.3
-uk_intermediate,sector 15b,Tubes and pipes,2009,243.1
+uk_production,sector 15b,Tubes and pipes,2009,74.2
+imports,sector 15b,Tubes and pipes,2009,168.9
 sector 15b,scrap,scrap Tubes and pipes,2009,12.2
-uk_intermediate,sector 16,Tubes and pipes,2009,20.4
+uk_production,sector 16,Tubes and pipes,2009,6.2
+imports,sector 16,Tubes and pipes,2009,14.1
 sector 16,scrap,scrap Tubes and pipes,2009,1.0
-uk_intermediate,sector 17,Tubes and pipes,2009,137.5
+uk_production,sector 17,Tubes and pipes,2009,42.1
+imports,sector 17,Tubes and pipes,2009,95.5
 sector 17,scrap,scrap Tubes and pipes,2009,6.9
-uk_intermediate,sector 18,Tubes and pipes,2009,128.5
+uk_production,sector 18,Tubes and pipes,2009,39.3
+imports,sector 18,Tubes and pipes,2009,89.2
 sector 18,scrap,scrap Tubes and pipes,2009,6.4
-uk_intermediate,sector 20,Tubes and pipes,2009,55.5
+uk_production,sector 20,Tubes and pipes,2009,55.5
 sector 20,scrap,scrap Tubes and pipes,2009,2.8
-uk_production,uk_intermediate,Bright bars,2009,63.0
 uk_production,exports,Bright bars,2009,38.5
-imports,uk_intermediate,Bright bars,2009,59.8
-uk_intermediate,sector 4,Bright bars,2009,13.3
+uk_production,sector 4,Bright bars,2009,6.6
+imports,sector 4,Bright bars,2009,6.7
 sector 4,scrap,scrap Bright bars,2009,2.3
-uk_intermediate,sector 5,Bright bars,2009,5.3
+uk_production,sector 5,Bright bars,2009,2.6
+imports,sector 5,Bright bars,2009,2.7
 sector 5,scrap,scrap Bright bars,2009,0.9
-uk_intermediate,sector 6,Bright bars,2009,0.5
+uk_production,sector 6,Bright bars,2009,0.3
+imports,sector 6,Bright bars,2009,0.3
 sector 6,scrap,scrap Bright bars,2009,0.1
-uk_intermediate,sector 7,Bright bars,2009,6.0
+uk_production,sector 7,Bright bars,2009,3.0
+imports,sector 7,Bright bars,2009,3.0
 sector 7,scrap,scrap Bright bars,2009,1.0
-uk_intermediate,sector 8,Bright bars,2009,0.5
+uk_production,sector 8,Bright bars,2009,0.3
+imports,sector 8,Bright bars,2009,0.3
 sector 8,scrap,scrap Bright bars,2009,0.1
-uk_intermediate,sector 10,Bright bars,2009,8.2
+uk_production,sector 10,Bright bars,2009,4.1
+imports,sector 10,Bright bars,2009,4.1
 sector 10,scrap,scrap Bright bars,2009,2.5
-uk_intermediate,sector 11,Bright bars,2009,2.9
+uk_production,sector 11,Bright bars,2009,1.4
+imports,sector 11,Bright bars,2009,1.5
 sector 11,scrap,scrap Bright bars,2009,0.8
-uk_intermediate,sector 12,Bright bars,2009,36.7
+uk_production,sector 12,Bright bars,2009,18.3
+imports,sector 12,Bright bars,2009,18.5
 sector 12,scrap,scrap Bright bars,2009,11.0
-uk_intermediate,sector 15b,Bright bars,2009,44.6
+uk_production,sector 15b,Bright bars,2009,22.2
+imports,sector 15b,Bright bars,2009,22.4
 sector 15b,scrap,scrap Bright bars,2009,8.9
-uk_intermediate,sector 16,Bright bars,2009,0.9
+uk_production,sector 16,Bright bars,2009,0.4
+imports,sector 16,Bright bars,2009,0.5
 sector 16,scrap,scrap Bright bars,2009,0.2
-uk_intermediate,sector 20,Bright bars,2009,3.9
+uk_production,sector 20,Bright bars,2009,3.9
 sector 20,scrap,scrap Bright bars,2009,0.7
-uk_production,uk_intermediate,Heavy sections,2009,400.5
 uk_production,exports,Heavy sections,2009,173.5
-imports,uk_intermediate,Heavy sections,2009,300.4
-uk_intermediate,sector 14,Heavy sections,2009,700.9
+uk_production,sector 14,Heavy sections,2009,400.5
+imports,sector 14,Heavy sections,2009,300.4
 sector 14,scrap,scrap Heavy sections,2009,35.0
-uk_production,uk_intermediate,Hot rolled bars in lengths,2009,236.2
 uk_production,exports,Hot rolled bars in lengths,2009,324.5
-imports,uk_intermediate,Hot rolled bars in lengths,2009,94.8
-uk_intermediate,sector 4,Hot rolled bars in lengths,2009,10.4
+uk_production,sector 4,Hot rolled bars in lengths,2009,6.8
+imports,sector 4,Hot rolled bars in lengths,2009,3.5
 sector 4,scrap,scrap Hot rolled bars in lengths,2009,1.8
-uk_intermediate,sector 5,Hot rolled bars in lengths,2009,7.6
+uk_production,sector 5,Hot rolled bars in lengths,2009,5.0
+imports,sector 5,Hot rolled bars in lengths,2009,2.6
 sector 5,scrap,scrap Hot rolled bars in lengths,2009,1.3
-uk_intermediate,sector 7,Hot rolled bars in lengths,2009,82.9
+uk_production,sector 7,Hot rolled bars in lengths,2009,54.8
+imports,sector 7,Hot rolled bars in lengths,2009,28.1
 sector 7,scrap,scrap Hot rolled bars in lengths,2009,20.7
-uk_intermediate,sector 11,Hot rolled bars in lengths,2009,55.4
+uk_production,sector 11,Hot rolled bars in lengths,2009,36.6
+imports,sector 11,Hot rolled bars in lengths,2009,18.8
 sector 11,scrap,scrap Hot rolled bars in lengths,2009,16.1
-uk_intermediate,sector 12,Hot rolled bars in lengths,2009,45.4
+uk_production,sector 12,Hot rolled bars in lengths,2009,30.0
+imports,sector 12,Hot rolled bars in lengths,2009,15.4
 sector 12,scrap,scrap Hot rolled bars in lengths,2009,13.6
-uk_intermediate,sector 13,Hot rolled bars in lengths,2009,17.1
+uk_production,sector 13,Hot rolled bars in lengths,2009,11.3
+imports,sector 13,Hot rolled bars in lengths,2009,5.8
 sector 13,scrap,scrap Hot rolled bars in lengths,2009,5.1
-uk_intermediate,sector 14,Hot rolled bars in lengths,2009,47.6
+uk_production,sector 14,Hot rolled bars in lengths,2009,31.4
+imports,sector 14,Hot rolled bars in lengths,2009,16.2
 sector 14,scrap,scrap Hot rolled bars in lengths,2009,2.4
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2009,8.2
+uk_production,sector 15b,Hot rolled bars in lengths,2009,5.4
+imports,sector 15b,Hot rolled bars in lengths,2009,2.8
 sector 15b,scrap,scrap Hot rolled bars in lengths,2009,1.6
-uk_intermediate,sector 16,Hot rolled bars in lengths,2009,2.2
+uk_production,sector 16,Hot rolled bars in lengths,2009,1.4
+imports,sector 16,Hot rolled bars in lengths,2009,0.7
 sector 16,scrap,scrap Hot rolled bars in lengths,2009,0.4
-uk_intermediate,sector 19,Hot rolled bars in lengths,2009,2.8
+uk_production,sector 19,Hot rolled bars in lengths,2009,1.9
+imports,sector 19,Hot rolled bars in lengths,2009,0.9
 sector 19,scrap,scrap Hot rolled bars in lengths,2009,0.6
-uk_intermediate,sector 20,Hot rolled bars in lengths,2009,51.5
+uk_production,sector 20,Hot rolled bars in lengths,2009,51.5
 sector 20,scrap,scrap Hot rolled bars in lengths,2009,12.9
-uk_production,uk_intermediate,Light sections,2009,60.5
 uk_production,exports,Light sections,2009,53.2
-imports,uk_intermediate,Light sections,2009,31.3
-uk_intermediate,sector 6,Light sections,2009,1.2
+uk_production,sector 6,Light sections,2009,0.8
+imports,sector 6,Light sections,2009,0.4
 sector 6,scrap,scrap Light sections,2009,0.1
-uk_intermediate,sector 7,Light sections,2009,3.1
+uk_production,sector 7,Light sections,2009,2.1
+imports,sector 7,Light sections,2009,1.1
 sector 7,scrap,scrap Light sections,2009,0.5
-uk_intermediate,sector 9,Light sections,2009,1.6
+imports,sector 9,Light sections,2009,1.6
 sector 9,scrap,scrap Light sections,2009,0.4
-uk_intermediate,sector 11,Light sections,2009,1.6
+imports,sector 11,Light sections,2009,1.6
 sector 11,scrap,scrap Light sections,2009,0.5
-uk_intermediate,sector 13,Light sections,2009,33.9
+uk_production,sector 13,Light sections,2009,22.3
+imports,sector 13,Light sections,2009,11.6
 sector 13,scrap,scrap Light sections,2009,10.2
-uk_intermediate,sector 14,Light sections,2009,30.8
+uk_production,sector 14,Light sections,2009,20.3
+imports,sector 14,Light sections,2009,10.5
 sector 14,scrap,scrap Light sections,2009,1.5
-uk_intermediate,sector 15a,Light sections,2009,6.3
+uk_production,sector 15a,Light sections,2009,4.2
+imports,sector 15a,Light sections,2009,2.2
 sector 15a,scrap,scrap Light sections,2009,2.7
-uk_intermediate,sector 15b,Light sections,2009,7.2
+uk_production,sector 15b,Light sections,2009,4.7
+imports,sector 15b,Light sections,2009,2.4
 sector 15b,scrap,scrap Light sections,2009,2.6
-uk_intermediate,sector 20,Light sections,2009,6.1
+uk_production,sector 20,Light sections,2009,6.1
 sector 20,scrap,scrap Light sections,2009,1.0
-uk_production,uk_intermediate,Railway track material,2009,123.5
 uk_production,exports,Railway track material,2009,53.5
-imports,uk_intermediate,Railway track material,2009,92.6
-uk_intermediate,sector 11,Railway track material,2009,20.1
+uk_production,sector 11,Railway track material,2009,11.5
+imports,sector 11,Railway track material,2009,8.6
 sector 11,scrap,scrap Railway track material,2009,1.0
-uk_intermediate,sector 13,Railway track material,2009,1.6
+uk_production,sector 13,Railway track material,2009,0.9
+imports,sector 13,Railway track material,2009,0.7
 sector 13,scrap,scrap Railway track material,2009,0.1
-uk_intermediate,sector 14,Railway track material,2009,194.5
+uk_production,sector 14,Railway track material,2009,111.2
+imports,sector 14,Railway track material,2009,83.3
 sector 14,scrap,scrap Railway track material,2009,9.7
-uk_production,uk_intermediate,Reinforcing bar,2009,228.1
 uk_production,exports,Reinforcing bar,2009,239.9
-imports,uk_intermediate,Reinforcing bar,2009,74.5
-uk_intermediate,sector 14,Reinforcing bar,2009,302.6
+uk_production,sector 14,Reinforcing bar,2009,228.1
+imports,sector 14,Reinforcing bar,2009,74.5
 sector 14,scrap,scrap Reinforcing bar,2009,15.1
-uk_production,uk_intermediate,Rods,2009,564.1
 uk_production,exports,Rods,2009,644.1
-imports,uk_intermediate,Rods,2009,200.1
-uk_intermediate,sector 4,Rods,2009,211.3
+uk_production,sector 4,Rods,2009,141.0
+imports,sector 4,Rods,2009,70.3
 sector 4,scrap,scrap Rods,2009,21.1
-uk_intermediate,sector 14,Rods,2009,386.2
+uk_production,sector 14,Rods,2009,257.8
+imports,sector 14,Rods,2009,128.4
 sector 14,scrap,scrap Rods,2009,19.3
-uk_intermediate,sector 15b,Rods,2009,4.3
+uk_production,sector 15b,Rods,2009,2.8
+imports,sector 15b,Rods,2009,1.4
 sector 15b,scrap,scrap Rods,2009,0.4
-uk_intermediate,sector 20,Rods,2009,162.5
+uk_production,sector 20,Rods,2009,162.5
 sector 20,scrap,scrap Rods,2009,16.2
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2009,27.1
 uk_production,exports,Sheet piling and rolled accessories,2009,11.8
-imports,uk_intermediate,Sheet piling and rolled accessories,2009,20.4
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2009,6.6
+uk_production,sector 11,Sheet piling and rolled accessories,2009,3.7
+imports,sector 11,Sheet piling and rolled accessories,2009,2.9
 sector 11,scrap,scrap Sheet piling and rolled accessories,2009,1.9
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2009,0.5
+uk_production,sector 13,Sheet piling and rolled accessories,2009,0.3
+imports,sector 13,Sheet piling and rolled accessories,2009,0.2
 sector 13,scrap,scrap Sheet piling and rolled accessories,2009,0.2
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2009,37.5
+uk_production,sector 14,Sheet piling and rolled accessories,2009,20.8
+imports,sector 14,Sheet piling and rolled accessories,2009,16.6
 sector 14,scrap,scrap Sheet piling and rolled accessories,2009,1.9
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2009,0.9
+uk_production,sector 16,Sheet piling and rolled accessories,2009,0.5
+imports,sector 16,Sheet piling and rolled accessories,2009,0.4
 sector 16,scrap,scrap Sheet piling and rolled accessories,2009,0.3
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2009,0.3
+uk_production,sector 17,Sheet piling and rolled accessories,2009,0.2
+imports,sector 17,Sheet piling and rolled accessories,2009,0.2
 sector 17,scrap,scrap Sheet piling and rolled accessories,2009,0.1
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2009,1.6
+uk_production,sector 20,Sheet piling and rolled accessories,2009,1.6
 sector 20,scrap,scrap Sheet piling and rolled accessories,2009,0.3
 component_imports,sector 4,component,2009,176.5
 sector 4,products 4,4,2009,386.3
@@ -308,228 +351,270 @@ products 19,uk_demand,19,2009,2.3
 products 20,product_exports,20,2009,1.0
 products 20,uk_demand,20,2009,391.2
 product_imports,uk_demand,20,2009,6.9
-uk_production,uk_intermediate,Cold rolled,2010,35.2
 uk_production,exports,Cold rolled,2010,9.5
-imports,uk_intermediate,Cold rolled,2010,51.2
-uk_intermediate,sector 5,Cold rolled,2010,2.0
+uk_production,sector 5,Cold rolled,2010,0.8
+imports,sector 5,Cold rolled,2010,1.2
 sector 5,scrap,scrap Cold rolled,2010,0.3
-uk_intermediate,sector 6,Cold rolled,2010,2.9
+uk_production,sector 6,Cold rolled,2010,1.1
+imports,sector 6,Cold rolled,2010,1.8
 sector 6,scrap,scrap Cold rolled,2010,0.3
-uk_intermediate,sector 7,Cold rolled,2010,14.1
+uk_production,sector 7,Cold rolled,2010,5.6
+imports,sector 7,Cold rolled,2010,8.6
 sector 7,scrap,scrap Cold rolled,2010,2.4
-uk_intermediate,sector 8,Cold rolled,2010,12.5
+uk_production,sector 8,Cold rolled,2010,4.9
+imports,sector 8,Cold rolled,2010,7.6
 sector 8,scrap,scrap Cold rolled,2010,2.5
-uk_intermediate,sector 9,Cold rolled,2010,1.1
+uk_production,sector 9,Cold rolled,2010,0.4
+imports,sector 9,Cold rolled,2010,0.7
 sector 9,scrap,scrap Cold rolled,2010,0.3
-uk_intermediate,sector 12,Cold rolled,2010,4.0
+uk_production,sector 12,Cold rolled,2010,1.6
+imports,sector 12,Cold rolled,2010,2.4
 sector 12,scrap,scrap Cold rolled,2010,1.6
-uk_intermediate,sector 14,Cold rolled,2010,0.5
+uk_production,sector 14,Cold rolled,2010,0.2
+imports,sector 14,Cold rolled,2010,0.3
 sector 14,scrap,scrap Cold rolled,2010,0.1
-uk_intermediate,sector 15a,Cold rolled,2010,47.2
+uk_production,sector 15a,Cold rolled,2010,18.6
+imports,sector 15a,Cold rolled,2010,28.6
 sector 15a,scrap,scrap Cold rolled,2010,20.3
-uk_intermediate,sector 20,Cold rolled,2010,2.0
+uk_production,sector 20,Cold rolled,2010,2.0
 sector 20,scrap,scrap Cold rolled,2010,0.3
-uk_production,uk_intermediate,Electro coated,2010,43.1
 uk_production,exports,Electro coated,2010,27.9
-imports,uk_intermediate,Electro coated,2010,68.3
-uk_intermediate,sector 8,Electro coated,2010,111.4
+uk_production,sector 8,Electro coated,2010,43.1
+imports,sector 8,Electro coated,2010,68.3
 sector 8,scrap,scrap Electro coated,2010,22.3
-uk_production,uk_intermediate,Hot dipped galvanised,2010,572.7
 uk_production,exports,Hot dipped galvanised,2010,370.3
-imports,uk_intermediate,Hot dipped galvanised,2010,906.7
-uk_intermediate,sector 6,Hot dipped galvanised,2010,297.2
+uk_production,sector 6,Hot dipped galvanised,2010,297.2
 sector 6,scrap,scrap Hot dipped galvanised,2010,29.7
-uk_intermediate,sector 7,Hot dipped galvanised,2010,82.5
+uk_production,sector 7,Hot dipped galvanised,2010,82.5
 sector 7,scrap,scrap Hot dipped galvanised,2010,14.0
-uk_intermediate,sector 8,Hot dipped galvanised,2010,44.7
+uk_production,sector 8,Hot dipped galvanised,2010,44.7
 sector 8,scrap,scrap Hot dipped galvanised,2010,8.9
-uk_intermediate,sector 12,Hot dipped galvanised,2010,17.8
+uk_production,sector 12,Hot dipped galvanised,2010,17.8
 sector 12,scrap,scrap Hot dipped galvanised,2010,3.6
-uk_intermediate,sector 14,Hot dipped galvanised,2010,34.4
+uk_production,sector 14,Hot dipped galvanised,2010,34.4
 sector 14,scrap,scrap Hot dipped galvanised,2010,3.8
-uk_intermediate,sector 15a,Hot dipped galvanised,2010,993.2
+uk_production,sector 15a,Hot dipped galvanised,2010,86.5
+imports,sector 15a,Hot dipped galvanised,2010,906.7
 sector 15a,scrap,scrap Hot dipped galvanised,2010,427.1
-uk_intermediate,sector 20,Hot dipped galvanised,2010,9.7
+uk_production,sector 20,Hot dipped galvanised,2010,9.7
 sector 20,scrap,scrap Hot dipped galvanised,2010,1.7
-uk_production,uk_intermediate,Hot rolled,2010,679.0
 uk_production,exports,Hot rolled,2010,519.6
-imports,uk_intermediate,Hot rolled,2010,1272.3
-uk_intermediate,sector 6,Hot rolled,2010,534.7
+uk_production,sector 6,Hot rolled,2010,186.0
+imports,sector 6,Hot rolled,2010,348.7
 sector 6,scrap,scrap Hot rolled,2010,53.5
-uk_intermediate,sector 7,Hot rolled,2010,148.2
+uk_production,sector 7,Hot rolled,2010,51.6
+imports,sector 7,Hot rolled,2010,96.6
 sector 7,scrap,scrap Hot rolled,2010,44.5
-uk_intermediate,sector 8,Hot rolled,2010,19.5
+uk_production,sector 8,Hot rolled,2010,6.8
+imports,sector 8,Hot rolled,2010,12.7
 sector 8,scrap,scrap Hot rolled,2010,3.9
-uk_intermediate,sector 12,Hot rolled,2010,97.6
+uk_production,sector 12,Hot rolled,2010,33.9
+imports,sector 12,Hot rolled,2010,63.6
 sector 12,scrap,scrap Hot rolled,2010,19.5
-uk_intermediate,sector 14,Hot rolled,2010,1151.3
+uk_production,sector 14,Hot rolled,2010,400.6
+imports,sector 14,Hot rolled,2010,750.7
 sector 14,scrap,scrap Hot rolled,2010,126.6
-uk_production,uk_intermediate,Plate,2010,815.2
 uk_production,exports,Plate,2010,622.8
-imports,uk_intermediate,Plate,2010,210.3
-uk_intermediate,sector 5,Plate,2010,12.3
+uk_production,sector 5,Plate,2010,9.8
+imports,sector 5,Plate,2010,2.5
 sector 5,scrap,scrap Plate,2010,3.7
-uk_intermediate,sector 7,Plate,2010,15.3
+uk_production,sector 7,Plate,2010,12.2
+imports,sector 7,Plate,2010,3.1
 sector 7,scrap,scrap Plate,2010,4.6
-uk_intermediate,sector 8,Plate,2010,4.2
+uk_production,sector 8,Plate,2010,3.3
+imports,sector 8,Plate,2010,0.9
 sector 8,scrap,scrap Plate,2010,0.8
-uk_intermediate,sector 9,Plate,2010,29.6
+imports,sector 9,Plate,2010,29.6
 sector 9,scrap,scrap Plate,2010,7.1
-uk_intermediate,sector 11,Plate,2010,90.1
+uk_production,sector 11,Plate,2010,48.1
+imports,sector 11,Plate,2010,42.0
 sector 11,scrap,scrap Plate,2010,26.1
-uk_intermediate,sector 12,Plate,2010,18.4
+uk_production,sector 12,Plate,2010,14.7
+imports,sector 12,Plate,2010,3.7
 sector 12,scrap,scrap Plate,2010,3.7
-uk_intermediate,sector 13,Plate,2010,170.2
+uk_production,sector 13,Plate,2010,135.3
+imports,sector 13,Plate,2010,34.9
 sector 13,scrap,scrap Plate,2010,51.1
-uk_intermediate,sector 14,Plate,2010,291.2
+uk_production,sector 14,Plate,2010,231.5
+imports,sector 14,Plate,2010,59.7
 sector 14,scrap,scrap Plate,2010,32.0
-uk_intermediate,sector 15a,Plate,2010,83.1
+uk_production,sector 15a,Plate,2010,66.0
+imports,sector 15a,Plate,2010,17.1
 sector 15a,scrap,scrap Plate,2010,35.7
-uk_intermediate,sector 16,Plate,2010,81.9
+uk_production,sector 16,Plate,2010,65.2
+imports,sector 16,Plate,2010,16.7
 sector 16,scrap,scrap Plate,2010,29.5
-uk_intermediate,sector 20,Plate,2010,229.9
+uk_production,sector 20,Plate,2010,229.9
 sector 20,scrap,scrap Plate,2010,69.0
-uk_production,uk_intermediate,Tin plate,2010,284.2
 uk_production,exports,Tin plate,2010,183.8
-imports,uk_intermediate,Tin plate,2010,450.0
-uk_intermediate,sector 6,Tin plate,2010,734.2
+uk_production,sector 6,Tin plate,2010,284.2
+imports,sector 6,Tin plate,2010,450.0
 sector 6,scrap,scrap Tin plate,2010,220.3
-uk_production,uk_intermediate,Tubes and pipes,2010,465.1
 uk_production,exports,Tubes and pipes,2010,237.3
-imports,uk_intermediate,Tubes and pipes,2010,714.9
-uk_intermediate,sector 8,Tubes and pipes,2010,153.2
+uk_production,sector 8,Tubes and pipes,2010,53.5
+imports,sector 8,Tubes and pipes,2010,99.8
 sector 8,scrap,scrap Tubes and pipes,2010,30.6
-uk_intermediate,sector 11,Tubes and pipes,2010,7.6
+uk_production,sector 11,Tubes and pipes,2010,2.8
+imports,sector 11,Tubes and pipes,2010,4.8
 sector 11,scrap,scrap Tubes and pipes,2010,0.4
-uk_intermediate,sector 12,Tubes and pipes,2010,159.7
+uk_production,sector 12,Tubes and pipes,2010,55.8
+imports,sector 12,Tubes and pipes,2010,103.9
 sector 12,scrap,scrap Tubes and pipes,2010,8.0
-uk_intermediate,sector 14,Tubes and pipes,2010,85.2
+uk_production,sector 14,Tubes and pipes,2010,29.8
+imports,sector 14,Tubes and pipes,2010,55.4
 sector 14,scrap,scrap Tubes and pipes,2010,4.3
-uk_intermediate,sector 15b,Tubes and pipes,2010,317.8
+uk_production,sector 15b,Tubes and pipes,2010,110.7
+imports,sector 15b,Tubes and pipes,2010,207.1
 sector 15b,scrap,scrap Tubes and pipes,2010,15.9
-uk_intermediate,sector 16,Tubes and pipes,2010,26.6
+uk_production,sector 16,Tubes and pipes,2010,9.3
+imports,sector 16,Tubes and pipes,2010,17.3
 sector 16,scrap,scrap Tubes and pipes,2010,1.3
-uk_intermediate,sector 17,Tubes and pipes,2010,179.9
+uk_production,sector 17,Tubes and pipes,2010,62.8
+imports,sector 17,Tubes and pipes,2010,117.1
 sector 17,scrap,scrap Tubes and pipes,2010,9.0
-uk_intermediate,sector 18,Tubes and pipes,2010,168.1
+uk_production,sector 18,Tubes and pipes,2010,58.6
+imports,sector 18,Tubes and pipes,2010,109.5
 sector 18,scrap,scrap Tubes and pipes,2010,8.4
-uk_intermediate,sector 20,Tubes and pipes,2010,82.8
+uk_production,sector 20,Tubes and pipes,2010,82.8
 sector 20,scrap,scrap Tubes and pipes,2010,4.1
-uk_production,uk_intermediate,Bright bars,2010,79.8
 uk_production,exports,Bright bars,2010,74.0
-imports,uk_intermediate,Bright bars,2010,109.4
-uk_intermediate,sector 4,Bright bars,2010,20.6
+uk_production,sector 4,Bright bars,2010,8.4
+imports,sector 4,Bright bars,2010,12.2
 sector 4,scrap,scrap Bright bars,2010,3.5
-uk_intermediate,sector 5,Bright bars,2010,8.2
+uk_production,sector 5,Bright bars,2010,3.4
+imports,sector 5,Bright bars,2010,4.9
 sector 5,scrap,scrap Bright bars,2010,1.4
-uk_intermediate,sector 6,Bright bars,2010,0.8
+uk_production,sector 6,Bright bars,2010,0.3
+imports,sector 6,Bright bars,2010,0.5
 sector 6,scrap,scrap Bright bars,2010,0.1
-uk_intermediate,sector 7,Bright bars,2010,9.3
+uk_production,sector 7,Bright bars,2010,3.8
+imports,sector 7,Bright bars,2010,5.5
 sector 7,scrap,scrap Bright bars,2010,1.6
-uk_intermediate,sector 8,Bright bars,2010,0.8
+uk_production,sector 8,Bright bars,2010,0.3
+imports,sector 8,Bright bars,2010,0.5
 sector 8,scrap,scrap Bright bars,2010,0.2
-uk_intermediate,sector 10,Bright bars,2010,12.7
+uk_production,sector 10,Bright bars,2010,5.2
+imports,sector 10,Bright bars,2010,7.5
 sector 10,scrap,scrap Bright bars,2010,3.8
-uk_intermediate,sector 11,Bright bars,2010,4.5
+uk_production,sector 11,Bright bars,2010,1.8
+imports,sector 11,Bright bars,2010,2.7
 sector 11,scrap,scrap Bright bars,2010,1.3
-uk_intermediate,sector 12,Bright bars,2010,56.9
+uk_production,sector 12,Bright bars,2010,23.1
+imports,sector 12,Bright bars,2010,33.8
 sector 12,scrap,scrap Bright bars,2010,17.1
-uk_intermediate,sector 15b,Bright bars,2010,69.1
+uk_production,sector 15b,Bright bars,2010,28.1
+imports,sector 15b,Bright bars,2010,41.0
 sector 15b,scrap,scrap Bright bars,2010,13.8
-uk_intermediate,sector 16,Bright bars,2010,1.4
+uk_production,sector 16,Bright bars,2010,0.6
+imports,sector 16,Bright bars,2010,0.8
 sector 16,scrap,scrap Bright bars,2010,0.3
-uk_intermediate,sector 20,Bright bars,2010,4.9
+uk_production,sector 20,Bright bars,2010,4.9
 sector 20,scrap,scrap Bright bars,2010,0.8
-uk_production,uk_intermediate,Heavy sections,2010,445.4
 uk_production,exports,Heavy sections,2010,210.6
-imports,uk_intermediate,Heavy sections,2010,482.4
-uk_intermediate,sector 14,Heavy sections,2010,927.8
+uk_production,sector 14,Heavy sections,2010,445.4
+imports,sector 14,Heavy sections,2010,482.4
 sector 14,scrap,scrap Heavy sections,2010,46.4
-uk_production,uk_intermediate,Hot rolled bars in lengths,2010,250.8
 uk_production,exports,Hot rolled bars in lengths,2010,343.7
-imports,uk_intermediate,Hot rolled bars in lengths,2010,130.2
-uk_intermediate,sector 4,Hot rolled bars in lengths,2010,12.1
+uk_production,sector 4,Hot rolled bars in lengths,2010,7.3
+imports,sector 4,Hot rolled bars in lengths,2010,4.9
 sector 4,scrap,scrap Hot rolled bars in lengths,2010,2.1
-uk_intermediate,sector 5,Hot rolled bars in lengths,2010,8.8
+uk_production,sector 5,Hot rolled bars in lengths,2010,5.3
+imports,sector 5,Hot rolled bars in lengths,2010,3.6
 sector 5,scrap,scrap Hot rolled bars in lengths,2010,1.5
-uk_intermediate,sector 7,Hot rolled bars in lengths,2010,96.7
+uk_production,sector 7,Hot rolled bars in lengths,2010,58.2
+imports,sector 7,Hot rolled bars in lengths,2010,38.5
 sector 7,scrap,scrap Hot rolled bars in lengths,2010,24.2
-uk_intermediate,sector 11,Hot rolled bars in lengths,2010,64.7
+uk_production,sector 11,Hot rolled bars in lengths,2010,38.9
+imports,sector 11,Hot rolled bars in lengths,2010,25.8
 sector 11,scrap,scrap Hot rolled bars in lengths,2010,18.8
-uk_intermediate,sector 12,Hot rolled bars in lengths,2010,53.0
+uk_production,sector 12,Hot rolled bars in lengths,2010,31.9
+imports,sector 12,Hot rolled bars in lengths,2010,21.2
 sector 12,scrap,scrap Hot rolled bars in lengths,2010,15.9
-uk_intermediate,sector 13,Hot rolled bars in lengths,2010,20.0
+uk_production,sector 13,Hot rolled bars in lengths,2010,12.0
+imports,sector 13,Hot rolled bars in lengths,2010,7.9
 sector 13,scrap,scrap Hot rolled bars in lengths,2010,6.0
-uk_intermediate,sector 14,Hot rolled bars in lengths,2010,55.6
+uk_production,sector 14,Hot rolled bars in lengths,2010,33.4
+imports,sector 14,Hot rolled bars in lengths,2010,22.2
 sector 14,scrap,scrap Hot rolled bars in lengths,2010,2.8
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2010,9.6
+uk_production,sector 15b,Hot rolled bars in lengths,2010,5.8
+imports,sector 15b,Hot rolled bars in lengths,2010,3.8
 sector 15b,scrap,scrap Hot rolled bars in lengths,2010,1.9
-uk_intermediate,sector 16,Hot rolled bars in lengths,2010,2.5
+uk_production,sector 16,Hot rolled bars in lengths,2010,1.5
+imports,sector 16,Hot rolled bars in lengths,2010,1.0
 sector 16,scrap,scrap Hot rolled bars in lengths,2010,0.5
-uk_intermediate,sector 19,Hot rolled bars in lengths,2010,3.3
+uk_production,sector 19,Hot rolled bars in lengths,2010,2.0
+imports,sector 19,Hot rolled bars in lengths,2010,1.3
 sector 19,scrap,scrap Hot rolled bars in lengths,2010,0.7
-uk_intermediate,sector 20,Hot rolled bars in lengths,2010,54.7
+uk_production,sector 20,Hot rolled bars in lengths,2010,54.7
 sector 20,scrap,scrap Hot rolled bars in lengths,2010,13.7
-uk_production,uk_intermediate,Light sections,2010,67.7
 uk_production,exports,Light sections,2010,142.7
-imports,uk_intermediate,Light sections,2010,72.2
-uk_intermediate,sector 6,Light sections,2010,1.8
+uk_production,sector 6,Light sections,2010,0.9
+imports,sector 6,Light sections,2010,1.0
 sector 6,scrap,scrap Light sections,2010,0.2
-uk_intermediate,sector 7,Light sections,2010,4.7
+uk_production,sector 7,Light sections,2010,2.3
+imports,sector 7,Light sections,2010,2.4
 sector 7,scrap,scrap Light sections,2010,0.8
-uk_intermediate,sector 9,Light sections,2010,3.6
+imports,sector 9,Light sections,2010,3.6
 sector 9,scrap,scrap Light sections,2010,0.9
-uk_intermediate,sector 11,Light sections,2010,3.6
+imports,sector 11,Light sections,2010,3.6
 sector 11,scrap,scrap Light sections,2010,1.1
-uk_intermediate,sector 13,Light sections,2010,51.6
+uk_production,sector 13,Light sections,2010,25.0
+imports,sector 13,Light sections,2010,26.7
 sector 13,scrap,scrap Light sections,2010,15.5
-uk_intermediate,sector 14,Light sections,2010,47.0
+uk_production,sector 14,Light sections,2010,22.7
+imports,sector 14,Light sections,2010,24.2
 sector 14,scrap,scrap Light sections,2010,2.3
-uk_intermediate,sector 15a,Light sections,2010,9.7
+uk_production,sector 15a,Light sections,2010,4.7
+imports,sector 15a,Light sections,2010,5.0
 sector 15a,scrap,scrap Light sections,2010,4.2
-uk_intermediate,sector 15b,Light sections,2010,10.9
+uk_production,sector 15b,Light sections,2010,5.3
+imports,sector 15b,Light sections,2010,5.7
 sector 15b,scrap,scrap Light sections,2010,3.9
-uk_intermediate,sector 20,Light sections,2010,6.8
+uk_production,sector 20,Light sections,2010,6.8
 sector 20,scrap,scrap Light sections,2010,1.2
-uk_production,uk_intermediate,Railway track material,2010,109.3
 uk_production,exports,Railway track material,2010,51.7
-imports,uk_intermediate,Railway track material,2010,118.4
-uk_intermediate,sector 11,Railway track material,2010,21.1
+uk_production,sector 11,Railway track material,2010,10.2
+imports,sector 11,Railway track material,2010,11.0
 sector 11,scrap,scrap Railway track material,2010,1.1
-uk_intermediate,sector 13,Railway track material,2010,1.6
+uk_production,sector 13,Railway track material,2010,0.8
+imports,sector 13,Railway track material,2010,0.9
 sector 13,scrap,scrap Railway track material,2010,0.1
-uk_intermediate,sector 14,Railway track material,2010,204.9
+uk_production,sector 14,Railway track material,2010,98.4
+imports,sector 14,Railway track material,2010,106.6
 sector 14,scrap,scrap Railway track material,2010,10.2
-uk_production,uk_intermediate,Reinforcing bar,2010,217.9
 uk_production,exports,Reinforcing bar,2010,223.1
-imports,uk_intermediate,Reinforcing bar,2010,79.7
-uk_intermediate,sector 14,Reinforcing bar,2010,297.6
+uk_production,sector 14,Reinforcing bar,2010,217.9
+imports,sector 14,Reinforcing bar,2010,79.7
 sector 14,scrap,scrap Reinforcing bar,2010,14.9
-uk_production,uk_intermediate,Rods,2010,623.6
 uk_production,exports,Rods,2010,708.6
-imports,uk_intermediate,Rods,2010,253.0
-uk_intermediate,sector 4,Rods,2010,244.8
+uk_production,sector 4,Rods,2010,155.9
+imports,sector 4,Rods,2010,88.9
 sector 4,scrap,scrap Rods,2010,24.5
-uk_intermediate,sector 14,Rods,2010,447.3
+uk_production,sector 14,Rods,2010,285.0
+imports,sector 14,Rods,2010,162.3
 sector 14,scrap,scrap Rods,2010,22.4
-uk_intermediate,sector 15b,Rods,2010,4.9
+uk_production,sector 15b,Rods,2010,3.1
+imports,sector 15b,Rods,2010,1.8
 sector 15b,scrap,scrap Rods,2010,0.5
-uk_intermediate,sector 20,Rods,2010,179.6
+uk_production,sector 20,Rods,2010,179.6
 sector 20,scrap,scrap Rods,2010,18.0
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2010,54.1
 uk_production,exports,Sheet piling and rolled accessories,2010,25.6
-imports,uk_intermediate,Sheet piling and rolled accessories,2010,58.6
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2010,15.8
+uk_production,sector 11,Sheet piling and rolled accessories,2010,7.4
+imports,sector 11,Sheet piling and rolled accessories,2010,8.5
 sector 11,scrap,scrap Sheet piling and rolled accessories,2010,4.6
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2010,1.3
+uk_production,sector 13,Sheet piling and rolled accessories,2010,0.6
+imports,sector 13,Sheet piling and rolled accessories,2010,0.7
 sector 13,scrap,scrap Sheet piling and rolled accessories,2010,0.4
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2010,89.4
+uk_production,sector 14,Sheet piling and rolled accessories,2010,41.5
+imports,sector 14,Sheet piling and rolled accessories,2010,47.8
 sector 14,scrap,scrap Sheet piling and rolled accessories,2010,4.5
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2010,2.2
+uk_production,sector 16,Sheet piling and rolled accessories,2010,1.0
+imports,sector 16,Sheet piling and rolled accessories,2010,1.2
 sector 16,scrap,scrap Sheet piling and rolled accessories,2010,0.8
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2010,0.8
+uk_production,sector 17,Sheet piling and rolled accessories,2010,0.4
+imports,sector 17,Sheet piling and rolled accessories,2010,0.4
 sector 17,scrap,scrap Sheet piling and rolled accessories,2010,0.2
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2010,3.1
+uk_production,sector 20,Sheet piling and rolled accessories,2010,3.1
 sector 20,scrap,scrap Sheet piling and rolled accessories,2010,0.5
 component_imports,sector 4,component,2010,233.0
 sector 4,products 4,4,2010,480.4
@@ -608,237 +693,280 @@ products 19,uk_demand,19,2010,2.6
 products 20,product_exports,20,2010,1.1
 products 20,uk_demand,20,2010,463.3
 product_imports,uk_demand,20,2010,7.8
-uk_production,uk_intermediate,Cold rolled,2011,35.0
 uk_production,exports,Cold rolled,2011,7.3
-imports,uk_intermediate,Cold rolled,2011,52.0
-uk_intermediate,sector 5,Cold rolled,2011,2.0
+uk_production,sector 5,Cold rolled,2011,0.8
+imports,sector 5,Cold rolled,2011,1.2
 sector 5,scrap,scrap Cold rolled,2011,0.3
-uk_intermediate,sector 6,Cold rolled,2011,2.9
+uk_production,sector 6,Cold rolled,2011,1.1
+imports,sector 6,Cold rolled,2011,1.8
 sector 6,scrap,scrap Cold rolled,2011,0.3
-uk_intermediate,sector 7,Cold rolled,2011,14.3
+uk_production,sector 7,Cold rolled,2011,5.5
+imports,sector 7,Cold rolled,2011,8.7
 sector 7,scrap,scrap Cold rolled,2011,2.4
-uk_intermediate,sector 8,Cold rolled,2011,12.6
+uk_production,sector 8,Cold rolled,2011,4.9
+imports,sector 8,Cold rolled,2011,7.7
 sector 8,scrap,scrap Cold rolled,2011,2.5
-uk_intermediate,sector 9,Cold rolled,2011,1.1
+uk_production,sector 9,Cold rolled,2011,0.4
+imports,sector 9,Cold rolled,2011,0.7
 sector 9,scrap,scrap Cold rolled,2011,0.3
-uk_intermediate,sector 12,Cold rolled,2011,4.0
+uk_production,sector 12,Cold rolled,2011,1.6
+imports,sector 12,Cold rolled,2011,2.5
 sector 12,scrap,scrap Cold rolled,2011,1.6
-uk_intermediate,sector 14,Cold rolled,2011,0.5
+uk_production,sector 14,Cold rolled,2011,0.2
+imports,sector 14,Cold rolled,2011,0.3
 sector 14,scrap,scrap Cold rolled,2011,0.1
-uk_intermediate,sector 15a,Cold rolled,2011,47.5
+uk_production,sector 15a,Cold rolled,2011,18.4
+imports,sector 15a,Cold rolled,2011,29.1
 sector 15a,scrap,scrap Cold rolled,2011,20.4
-uk_intermediate,sector 20,Cold rolled,2011,2.0
+uk_production,sector 20,Cold rolled,2011,2.0
 sector 20,scrap,scrap Cold rolled,2011,0.3
-uk_production,uk_intermediate,Electro coated,2011,43.2
 uk_production,exports,Electro coated,2011,31.8
-imports,uk_intermediate,Electro coated,2011,75.2
-uk_intermediate,sector 8,Electro coated,2011,118.4
+uk_production,sector 8,Electro coated,2011,43.2
+imports,sector 8,Electro coated,2011,75.2
 sector 8,scrap,scrap Electro coated,2011,23.7
-uk_production,uk_intermediate,Hot dipped galvanised,2011,553.8
 uk_production,exports,Hot dipped galvanised,2011,408.2
-imports,uk_intermediate,Hot dipped galvanised,2011,964.5
-uk_intermediate,sector 6,Hot dipped galvanised,2011,287.4
+uk_production,sector 6,Hot dipped galvanised,2011,287.4
 sector 6,scrap,scrap Hot dipped galvanised,2011,28.7
-uk_intermediate,sector 7,Hot dipped galvanised,2011,79.7
+uk_production,sector 7,Hot dipped galvanised,2011,79.7
 sector 7,scrap,scrap Hot dipped galvanised,2011,13.6
-uk_intermediate,sector 8,Hot dipped galvanised,2011,43.2
+uk_production,sector 8,Hot dipped galvanised,2011,43.2
 sector 8,scrap,scrap Hot dipped galvanised,2011,8.6
-uk_intermediate,sector 12,Hot dipped galvanised,2011,17.2
+uk_production,sector 12,Hot dipped galvanised,2011,17.2
 sector 12,scrap,scrap Hot dipped galvanised,2011,3.4
-uk_intermediate,sector 14,Hot dipped galvanised,2011,33.2
+uk_production,sector 14,Hot dipped galvanised,2011,33.2
 sector 14,scrap,scrap Hot dipped galvanised,2011,3.7
-uk_intermediate,sector 15a,Hot dipped galvanised,2011,1048.1
+uk_production,sector 15a,Hot dipped galvanised,2011,83.6
+imports,sector 15a,Hot dipped galvanised,2011,964.5
 sector 15a,scrap,scrap Hot dipped galvanised,2011,450.7
-uk_intermediate,sector 20,Hot dipped galvanised,2011,9.4
+uk_production,sector 20,Hot dipped galvanised,2011,9.4
 sector 20,scrap,scrap Hot dipped galvanised,2011,1.6
-uk_production,uk_intermediate,Hot rolled,2011,574.6
 uk_production,exports,Hot rolled,2011,516.7
-imports,uk_intermediate,Hot rolled,2011,1220.8
-uk_intermediate,sector 6,Hot rolled,2011,492.0
+uk_production,sector 6,Hot rolled,2011,157.4
+imports,sector 6,Hot rolled,2011,334.6
 sector 6,scrap,scrap Hot rolled,2011,49.2
-uk_intermediate,sector 7,Hot rolled,2011,136.4
+uk_production,sector 7,Hot rolled,2011,43.7
+imports,sector 7,Hot rolled,2011,92.7
 sector 7,scrap,scrap Hot rolled,2011,40.9
-uk_intermediate,sector 8,Hot rolled,2011,18.0
+uk_production,sector 8,Hot rolled,2011,5.7
+imports,sector 8,Hot rolled,2011,12.2
 sector 8,scrap,scrap Hot rolled,2011,3.6
-uk_intermediate,sector 12,Hot rolled,2011,89.8
+uk_production,sector 12,Hot rolled,2011,28.7
+imports,sector 12,Hot rolled,2011,61.0
 sector 12,scrap,scrap Hot rolled,2011,18.0
-uk_intermediate,sector 14,Hot rolled,2011,1059.3
+uk_production,sector 14,Hot rolled,2011,339.0
+imports,sector 14,Hot rolled,2011,720.3
 sector 14,scrap,scrap Hot rolled,2011,116.5
-uk_production,uk_intermediate,Organic coated,2011,38.6
 uk_production,exports,Organic coated,2011,28.4
-imports,uk_intermediate,Organic coated,2011,67.2
-uk_intermediate,sector 6,Organic coated,2011,41.4
+uk_production,sector 6,Organic coated,2011,15.1
+imports,sector 6,Organic coated,2011,26.3
 sector 6,scrap,scrap Organic coated,2011,4.1
-uk_intermediate,sector 7,Organic coated,2011,11.5
+uk_production,sector 7,Organic coated,2011,4.2
+imports,sector 7,Organic coated,2011,7.3
 sector 7,scrap,scrap Organic coated,2011,4.6
-uk_intermediate,sector 8,Organic coated,2011,52.9
+uk_production,sector 8,Organic coated,2011,19.3
+imports,sector 8,Organic coated,2011,33.6
 sector 8,scrap,scrap Organic coated,2011,10.6
-uk_production,uk_intermediate,Plate,2011,819.0
 uk_production,exports,Plate,2011,676.7
-imports,uk_intermediate,Plate,2011,242.5
-uk_intermediate,sector 5,Plate,2011,12.8
+uk_production,sector 5,Plate,2011,9.8
+imports,sector 5,Plate,2011,2.9
 sector 5,scrap,scrap Plate,2011,3.8
-uk_intermediate,sector 7,Plate,2011,15.8
+uk_production,sector 7,Plate,2011,12.3
+imports,sector 7,Plate,2011,3.5
 sector 7,scrap,scrap Plate,2011,4.7
-uk_intermediate,sector 8,Plate,2011,4.3
+uk_production,sector 8,Plate,2011,3.3
+imports,sector 8,Plate,2011,1.1
 sector 8,scrap,scrap Plate,2011,0.9
-uk_intermediate,sector 9,Plate,2011,34.2
+imports,sector 9,Plate,2011,34.2
 sector 9,scrap,scrap Plate,2011,8.2
-uk_intermediate,sector 11,Plate,2011,96.8
+uk_production,sector 11,Plate,2011,48.3
+imports,sector 11,Plate,2011,48.5
 sector 11,scrap,scrap Plate,2011,28.1
-uk_intermediate,sector 12,Plate,2011,19.1
+uk_production,sector 12,Plate,2011,14.7
+imports,sector 12,Plate,2011,4.3
 sector 12,scrap,scrap Plate,2011,3.8
-uk_intermediate,sector 13,Plate,2011,176.2
+uk_production,sector 13,Plate,2011,136.0
+imports,sector 13,Plate,2011,40.2
 sector 13,scrap,scrap Plate,2011,52.9
-uk_intermediate,sector 14,Plate,2011,301.4
+uk_production,sector 14,Plate,2011,232.6
+imports,sector 14,Plate,2011,68.8
 sector 14,scrap,scrap Plate,2011,33.2
-uk_intermediate,sector 15a,Plate,2011,86.0
+uk_production,sector 15a,Plate,2011,66.3
+imports,sector 15a,Plate,2011,19.7
 sector 15a,scrap,scrap Plate,2011,37.0
-uk_intermediate,sector 16,Plate,2011,84.8
+uk_production,sector 16,Plate,2011,65.5
+imports,sector 16,Plate,2011,19.3
 sector 16,scrap,scrap Plate,2011,30.5
-uk_intermediate,sector 20,Plate,2011,231.0
+uk_production,sector 20,Plate,2011,231.0
 sector 20,scrap,scrap Plate,2011,69.3
-uk_production,uk_intermediate,Tin plate,2011,236.6
 uk_production,exports,Tin plate,2011,174.4
-imports,uk_intermediate,Tin plate,2011,412.1
-uk_intermediate,sector 6,Tin plate,2011,648.7
+uk_production,sector 6,Tin plate,2011,236.6
+imports,sector 6,Tin plate,2011,412.1
 sector 6,scrap,scrap Tin plate,2011,194.6
-uk_production,uk_intermediate,Tubes and pipes,2011,522.9
 uk_production,exports,Tubes and pipes,2011,280.1
-imports,uk_intermediate,Tubes and pipes,2011,844.2
-uk_intermediate,sector 8,Tubes and pipes,2011,177.9
+uk_production,sector 8,Tubes and pipes,2011,60.1
+imports,sector 8,Tubes and pipes,2011,117.8
 sector 8,scrap,scrap Tubes and pipes,2011,35.6
-uk_intermediate,sector 11,Tubes and pipes,2011,8.9
+uk_production,sector 11,Tubes and pipes,2011,3.1
+imports,sector 11,Tubes and pipes,2011,5.7
 sector 11,scrap,scrap Tubes and pipes,2011,0.4
-uk_intermediate,sector 12,Tubes and pipes,2011,185.5
+uk_production,sector 12,Tubes and pipes,2011,62.7
+imports,sector 12,Tubes and pipes,2011,122.7
 sector 12,scrap,scrap Tubes and pipes,2011,9.3
-uk_intermediate,sector 14,Tubes and pipes,2011,98.9
+uk_production,sector 14,Tubes and pipes,2011,33.5
+imports,sector 14,Tubes and pipes,2011,65.4
 sector 14,scrap,scrap Tubes and pipes,2011,4.9
-uk_intermediate,sector 15b,Tubes and pipes,2011,369.0
+uk_production,sector 15b,Tubes and pipes,2011,124.5
+imports,sector 15b,Tubes and pipes,2011,244.6
 sector 15b,scrap,scrap Tubes and pipes,2011,18.5
-uk_intermediate,sector 16,Tubes and pipes,2011,30.9
+uk_production,sector 16,Tubes and pipes,2011,10.5
+imports,sector 16,Tubes and pipes,2011,20.5
 sector 16,scrap,scrap Tubes and pipes,2011,1.5
-uk_intermediate,sector 17,Tubes and pipes,2011,208.8
+uk_production,sector 17,Tubes and pipes,2011,70.6
+imports,sector 17,Tubes and pipes,2011,138.2
 sector 17,scrap,scrap Tubes and pipes,2011,10.4
-uk_intermediate,sector 18,Tubes and pipes,2011,195.1
+uk_production,sector 18,Tubes and pipes,2011,65.9
+imports,sector 18,Tubes and pipes,2011,129.2
 sector 18,scrap,scrap Tubes and pipes,2011,9.8
-uk_intermediate,sector 20,Tubes and pipes,2011,93.1
+uk_production,sector 20,Tubes and pipes,2011,93.1
 sector 20,scrap,scrap Tubes and pipes,2011,4.7
-uk_production,uk_intermediate,Bright bars,2011,84.9
 uk_production,exports,Bright bars,2011,102.3
-imports,uk_intermediate,Bright bars,2011,149.6
-uk_intermediate,sector 4,Bright bars,2011,25.6
+uk_production,sector 4,Bright bars,2011,8.9
+imports,sector 4,Bright bars,2011,16.7
 sector 4,scrap,scrap Bright bars,2011,4.4
-uk_intermediate,sector 5,Bright bars,2011,10.2
+uk_production,sector 5,Bright bars,2011,3.6
+imports,sector 5,Bright bars,2011,6.6
 sector 5,scrap,scrap Bright bars,2011,1.7
-uk_intermediate,sector 6,Bright bars,2011,1.0
+uk_production,sector 6,Bright bars,2011,0.3
+imports,sector 6,Bright bars,2011,0.7
 sector 6,scrap,scrap Bright bars,2011,0.1
-uk_intermediate,sector 7,Bright bars,2011,11.5
+uk_production,sector 7,Bright bars,2011,4.0
+imports,sector 7,Bright bars,2011,7.5
 sector 7,scrap,scrap Bright bars,2011,2.0
-uk_intermediate,sector 8,Bright bars,2011,1.0
+uk_production,sector 8,Bright bars,2011,0.3
+imports,sector 8,Bright bars,2011,0.7
 sector 8,scrap,scrap Bright bars,2011,0.2
-uk_intermediate,sector 10,Bright bars,2011,15.8
+uk_production,sector 10,Bright bars,2011,5.5
+imports,sector 10,Bright bars,2011,10.3
 sector 10,scrap,scrap Bright bars,2011,4.7
-uk_intermediate,sector 11,Bright bars,2011,5.6
+uk_production,sector 11,Bright bars,2011,2.0
+imports,sector 11,Bright bars,2011,3.7
 sector 11,scrap,scrap Bright bars,2011,1.6
-uk_intermediate,sector 12,Bright bars,2011,70.8
+uk_production,sector 12,Bright bars,2011,24.6
+imports,sector 12,Bright bars,2011,46.2
 sector 12,scrap,scrap Bright bars,2011,21.2
-uk_intermediate,sector 15b,Bright bars,2011,85.9
+uk_production,sector 15b,Bright bars,2011,29.9
+imports,sector 15b,Bright bars,2011,56.0
 sector 15b,scrap,scrap Bright bars,2011,17.2
-uk_intermediate,sector 16,Bright bars,2011,1.7
+uk_production,sector 16,Bright bars,2011,0.6
+imports,sector 16,Bright bars,2011,1.1
 sector 16,scrap,scrap Bright bars,2011,0.3
-uk_intermediate,sector 20,Bright bars,2011,5.3
+uk_production,sector 20,Bright bars,2011,5.3
 sector 20,scrap,scrap Bright bars,2011,0.9
-uk_production,uk_intermediate,Heavy sections,2011,388.2
 uk_production,exports,Heavy sections,2011,112.8
-imports,uk_intermediate,Heavy sections,2011,435.5
-uk_intermediate,sector 14,Heavy sections,2011,823.7
+uk_production,sector 14,Heavy sections,2011,388.2
+imports,sector 14,Heavy sections,2011,435.5
 sector 14,scrap,scrap Heavy sections,2011,41.2
-uk_production,uk_intermediate,Hot rolled bars in lengths,2011,259.3
 uk_production,exports,Hot rolled bars in lengths,2011,405.7
-imports,uk_intermediate,Hot rolled bars in lengths,2011,130.9
-uk_intermediate,sector 4,Hot rolled bars in lengths,2011,12.4
+uk_production,sector 4,Hot rolled bars in lengths,2011,7.5
+imports,sector 4,Hot rolled bars in lengths,2011,4.9
 sector 4,scrap,scrap Hot rolled bars in lengths,2011,2.1
-uk_intermediate,sector 5,Hot rolled bars in lengths,2011,9.0
+uk_production,sector 5,Hot rolled bars in lengths,2011,5.4
+imports,sector 5,Hot rolled bars in lengths,2011,3.6
 sector 5,scrap,scrap Hot rolled bars in lengths,2011,1.5
-uk_intermediate,sector 7,Hot rolled bars in lengths,2011,98.9
+uk_production,sector 7,Hot rolled bars in lengths,2011,60.2
+imports,sector 7,Hot rolled bars in lengths,2011,38.8
 sector 7,scrap,scrap Hot rolled bars in lengths,2011,24.7
-uk_intermediate,sector 11,Hot rolled bars in lengths,2011,66.1
+uk_production,sector 11,Hot rolled bars in lengths,2011,40.2
+imports,sector 11,Hot rolled bars in lengths,2011,25.9
 sector 11,scrap,scrap Hot rolled bars in lengths,2011,19.2
-uk_intermediate,sector 12,Hot rolled bars in lengths,2011,54.2
+uk_production,sector 12,Hot rolled bars in lengths,2011,32.9
+imports,sector 12,Hot rolled bars in lengths,2011,21.3
 sector 12,scrap,scrap Hot rolled bars in lengths,2011,16.3
-uk_intermediate,sector 13,Hot rolled bars in lengths,2011,20.4
+uk_production,sector 13,Hot rolled bars in lengths,2011,12.4
+imports,sector 13,Hot rolled bars in lengths,2011,8.0
 sector 13,scrap,scrap Hot rolled bars in lengths,2011,6.1
-uk_intermediate,sector 14,Hot rolled bars in lengths,2011,56.8
+uk_production,sector 14,Hot rolled bars in lengths,2011,34.5
+imports,sector 14,Hot rolled bars in lengths,2011,22.3
 sector 14,scrap,scrap Hot rolled bars in lengths,2011,2.8
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2011,9.8
+uk_production,sector 15b,Hot rolled bars in lengths,2011,6.0
+imports,sector 15b,Hot rolled bars in lengths,2011,3.8
 sector 15b,scrap,scrap Hot rolled bars in lengths,2011,2.0
-uk_intermediate,sector 16,Hot rolled bars in lengths,2011,2.6
+uk_production,sector 16,Hot rolled bars in lengths,2011,1.6
+imports,sector 16,Hot rolled bars in lengths,2011,1.0
 sector 16,scrap,scrap Hot rolled bars in lengths,2011,0.5
-uk_intermediate,sector 19,Hot rolled bars in lengths,2011,3.4
+uk_production,sector 19,Hot rolled bars in lengths,2011,2.1
+imports,sector 19,Hot rolled bars in lengths,2011,1.3
 sector 19,scrap,scrap Hot rolled bars in lengths,2011,0.7
-uk_intermediate,sector 20,Hot rolled bars in lengths,2011,56.5
+uk_production,sector 20,Hot rolled bars in lengths,2011,56.5
 sector 20,scrap,scrap Hot rolled bars in lengths,2011,14.1
-uk_production,uk_intermediate,Light sections,2011,57.6
 uk_production,exports,Light sections,2011,158.8
-imports,uk_intermediate,Light sections,2011,37.7
-uk_intermediate,sector 6,Light sections,2011,1.3
+uk_production,sector 6,Light sections,2011,0.7
+imports,sector 6,Light sections,2011,0.5
 sector 6,scrap,scrap Light sections,2011,0.1
-uk_intermediate,sector 7,Light sections,2011,3.2
+uk_production,sector 7,Light sections,2011,2.0
+imports,sector 7,Light sections,2011,1.3
 sector 7,scrap,scrap Light sections,2011,0.5
-uk_intermediate,sector 9,Light sections,2011,1.9
+imports,sector 9,Light sections,2011,1.9
 sector 9,scrap,scrap Light sections,2011,0.5
-uk_intermediate,sector 11,Light sections,2011,1.9
+imports,sector 11,Light sections,2011,1.9
 sector 11,scrap,scrap Light sections,2011,0.6
-uk_intermediate,sector 13,Light sections,2011,35.2
+uk_production,sector 13,Light sections,2011,21.3
+imports,sector 13,Light sections,2011,13.9
 sector 13,scrap,scrap Light sections,2011,10.6
-uk_intermediate,sector 14,Light sections,2011,32.0
+uk_production,sector 14,Light sections,2011,19.4
+imports,sector 14,Light sections,2011,12.7
 sector 14,scrap,scrap Light sections,2011,1.6
-uk_intermediate,sector 15a,Light sections,2011,6.6
+uk_production,sector 15a,Light sections,2011,4.0
+imports,sector 15a,Light sections,2011,2.6
 sector 15a,scrap,scrap Light sections,2011,2.8
-uk_intermediate,sector 15b,Light sections,2011,7.4
+uk_production,sector 15b,Light sections,2011,4.5
+imports,sector 15b,Light sections,2011,3.0
 sector 15b,scrap,scrap Light sections,2011,2.7
-uk_intermediate,sector 20,Light sections,2011,5.8
+uk_production,sector 20,Light sections,2011,5.8
 sector 20,scrap,scrap Light sections,2011,1.0
-uk_production,uk_intermediate,Railway track material,2011,148.8
 uk_production,exports,Railway track material,2011,43.2
-imports,uk_intermediate,Railway track material,2011,166.9
-uk_intermediate,sector 11,Railway track material,2011,29.3
+uk_production,sector 11,Railway track material,2011,13.8
+imports,sector 11,Railway track material,2011,15.4
 sector 11,scrap,scrap Railway track material,2011,1.5
-uk_intermediate,sector 13,Railway track material,2011,2.3
+uk_production,sector 13,Railway track material,2011,1.0
+imports,sector 13,Railway track material,2011,1.2
 sector 13,scrap,scrap Railway track material,2011,0.1
-uk_intermediate,sector 14,Railway track material,2011,284.1
+uk_production,sector 14,Railway track material,2011,133.9
+imports,sector 14,Railway track material,2011,150.2
 sector 14,scrap,scrap Railway track material,2011,14.2
-uk_production,uk_intermediate,Reinforcing bar,2011,178.6
 uk_production,exports,Reinforcing bar,2011,167.4
-imports,uk_intermediate,Reinforcing bar,2011,82.2
-uk_intermediate,sector 14,Reinforcing bar,2011,260.8
+uk_production,sector 14,Reinforcing bar,2011,178.6
+imports,sector 14,Reinforcing bar,2011,82.2
 sector 14,scrap,scrap Reinforcing bar,2011,13.0
-uk_production,uk_intermediate,Rods,2011,622.3
 uk_production,exports,Rods,2011,647.8
-imports,uk_intermediate,Rods,2011,318.1
-uk_intermediate,sector 4,Rods,2011,267.3
+uk_production,sector 4,Rods,2011,155.6
+imports,sector 4,Rods,2011,111.7
 sector 4,scrap,scrap Rods,2011,26.7
-uk_intermediate,sector 14,Rods,2011,488.5
+uk_production,sector 14,Rods,2011,284.4
+imports,sector 14,Rods,2011,204.1
 sector 14,scrap,scrap Rods,2011,24.4
-uk_intermediate,sector 15b,Rods,2011,5.4
+uk_production,sector 15b,Rods,2011,3.1
+imports,sector 15b,Rods,2011,2.3
 sector 15b,scrap,scrap Rods,2011,0.5
-uk_intermediate,sector 20,Rods,2011,179.2
+uk_production,sector 20,Rods,2011,179.2
 sector 20,scrap,scrap Rods,2011,17.9
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2011,111.3
 uk_production,exports,Sheet piling and rolled accessories,2011,32.3
-imports,uk_intermediate,Sheet piling and rolled accessories,2011,124.8
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2011,33.2
+uk_production,sector 11,Sheet piling and rolled accessories,2011,15.1
+imports,sector 11,Sheet piling and rolled accessories,2011,18.0
 sector 11,scrap,scrap Sheet piling and rolled accessories,2011,9.6
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2011,2.7
+uk_production,sector 13,Sheet piling and rolled accessories,2011,1.2
+imports,sector 13,Sheet piling and rolled accessories,2011,1.4
 sector 13,scrap,scrap Sheet piling and rolled accessories,2011,0.8
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2011,187.3
+uk_production,sector 14,Sheet piling and rolled accessories,2011,85.5
+imports,sector 14,Sheet piling and rolled accessories,2011,101.8
 sector 14,scrap,scrap Sheet piling and rolled accessories,2011,9.4
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2011,4.7
+uk_production,sector 16,Sheet piling and rolled accessories,2011,2.1
+imports,sector 16,Sheet piling and rolled accessories,2011,2.6
 sector 16,scrap,scrap Sheet piling and rolled accessories,2011,1.7
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2011,1.7
+uk_production,sector 17,Sheet piling and rolled accessories,2011,0.8
+imports,sector 17,Sheet piling and rolled accessories,2011,0.9
 sector 17,scrap,scrap Sheet piling and rolled accessories,2011,0.3
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2011,6.5
+uk_production,sector 20,Sheet piling and rolled accessories,2011,6.5
 sector 20,scrap,scrap Sheet piling and rolled accessories,2011,1.1
 component_imports,sector 4,component,2011,266.0
 sector 4,products 4,4,2011,538.1
@@ -917,237 +1045,280 @@ products 19,uk_demand,19,2011,2.7
 products 20,product_exports,20,2011,1.5
 products 20,uk_demand,20,2011,476.4
 product_imports,uk_demand,20,2011,7.2
-uk_production,uk_intermediate,Cold rolled,2012,34.3
 uk_production,exports,Cold rolled,2012,4.1
-imports,uk_intermediate,Cold rolled,2012,52.3
-uk_intermediate,sector 5,Cold rolled,2012,2.0
+uk_production,sector 5,Cold rolled,2012,0.8
+imports,sector 5,Cold rolled,2012,1.2
 sector 5,scrap,scrap Cold rolled,2012,0.3
-uk_intermediate,sector 6,Cold rolled,2012,2.9
+uk_production,sector 6,Cold rolled,2012,1.1
+imports,sector 6,Cold rolled,2012,1.8
 sector 6,scrap,scrap Cold rolled,2012,0.3
-uk_intermediate,sector 7,Cold rolled,2012,14.2
+uk_production,sector 7,Cold rolled,2012,5.4
+imports,sector 7,Cold rolled,2012,8.8
 sector 7,scrap,scrap Cold rolled,2012,2.4
-uk_intermediate,sector 8,Cold rolled,2012,12.6
+uk_production,sector 8,Cold rolled,2012,4.8
+imports,sector 8,Cold rolled,2012,7.8
 sector 8,scrap,scrap Cold rolled,2012,2.5
-uk_intermediate,sector 9,Cold rolled,2012,1.1
+uk_production,sector 9,Cold rolled,2012,0.4
+imports,sector 9,Cold rolled,2012,0.7
 sector 9,scrap,scrap Cold rolled,2012,0.3
-uk_intermediate,sector 12,Cold rolled,2012,4.0
+uk_production,sector 12,Cold rolled,2012,1.5
+imports,sector 12,Cold rolled,2012,2.5
 sector 12,scrap,scrap Cold rolled,2012,1.6
-uk_intermediate,sector 14,Cold rolled,2012,0.5
+uk_production,sector 14,Cold rolled,2012,0.2
+imports,sector 14,Cold rolled,2012,0.3
 sector 14,scrap,scrap Cold rolled,2012,0.1
-uk_intermediate,sector 15a,Cold rolled,2012,47.3
+uk_production,sector 15a,Cold rolled,2012,18.1
+imports,sector 15a,Cold rolled,2012,29.2
 sector 15a,scrap,scrap Cold rolled,2012,20.3
-uk_intermediate,sector 20,Cold rolled,2012,2.0
+uk_production,sector 20,Cold rolled,2012,2.0
 sector 20,scrap,scrap Cold rolled,2012,0.3
-uk_production,uk_intermediate,Electro coated,2012,41.7
 uk_production,exports,Electro coated,2012,23.3
-imports,uk_intermediate,Electro coated,2012,75.3
-uk_intermediate,sector 8,Electro coated,2012,117.0
+uk_production,sector 8,Electro coated,2012,41.7
+imports,sector 8,Electro coated,2012,75.3
 sector 8,scrap,scrap Electro coated,2012,23.4
-uk_production,uk_intermediate,Hot dipped galvanised,2012,552.2
 uk_production,exports,Hot dipped galvanised,2012,307.8
-imports,uk_intermediate,Hot dipped galvanised,2012,995.9
-uk_intermediate,sector 6,Hot dipped galvanised,2012,286.6
+uk_production,sector 6,Hot dipped galvanised,2012,286.6
 sector 6,scrap,scrap Hot dipped galvanised,2012,28.7
-uk_intermediate,sector 7,Hot dipped galvanised,2012,79.5
+uk_production,sector 7,Hot dipped galvanised,2012,79.5
 sector 7,scrap,scrap Hot dipped galvanised,2012,13.5
-uk_intermediate,sector 8,Hot dipped galvanised,2012,43.1
+uk_production,sector 8,Hot dipped galvanised,2012,43.1
 sector 8,scrap,scrap Hot dipped galvanised,2012,8.6
-uk_intermediate,sector 12,Hot dipped galvanised,2012,17.1
+uk_production,sector 12,Hot dipped galvanised,2012,17.1
 sector 12,scrap,scrap Hot dipped galvanised,2012,3.4
-uk_intermediate,sector 14,Hot dipped galvanised,2012,33.1
+uk_production,sector 14,Hot dipped galvanised,2012,33.1
 sector 14,scrap,scrap Hot dipped galvanised,2012,3.6
-uk_intermediate,sector 15a,Hot dipped galvanised,2012,1079.3
+uk_production,sector 15a,Hot dipped galvanised,2012,83.4
+imports,sector 15a,Hot dipped galvanised,2012,995.9
 sector 15a,scrap,scrap Hot dipped galvanised,2012,464.1
-uk_intermediate,sector 20,Hot dipped galvanised,2012,9.4
+uk_production,sector 20,Hot dipped galvanised,2012,9.4
 sector 20,scrap,scrap Hot dipped galvanised,2012,1.6
-uk_production,uk_intermediate,Hot rolled,2012,333.7
 uk_production,exports,Hot rolled,2012,245.7
-imports,uk_intermediate,Hot rolled,2012,794.9
-uk_intermediate,sector 6,Hot rolled,2012,309.3
+uk_production,sector 6,Hot rolled,2012,91.4
+imports,sector 6,Hot rolled,2012,217.9
 sector 6,scrap,scrap Hot rolled,2012,30.9
-uk_intermediate,sector 7,Hot rolled,2012,85.7
+uk_production,sector 7,Hot rolled,2012,25.4
+imports,sector 7,Hot rolled,2012,60.4
 sector 7,scrap,scrap Hot rolled,2012,25.7
-uk_intermediate,sector 8,Hot rolled,2012,11.3
+uk_production,sector 8,Hot rolled,2012,3.3
+imports,sector 8,Hot rolled,2012,7.9
 sector 8,scrap,scrap Hot rolled,2012,2.3
-uk_intermediate,sector 12,Hot rolled,2012,56.4
+uk_production,sector 12,Hot rolled,2012,16.7
+imports,sector 12,Hot rolled,2012,39.7
 sector 12,scrap,scrap Hot rolled,2012,11.3
-uk_intermediate,sector 14,Hot rolled,2012,665.9
+uk_production,sector 14,Hot rolled,2012,196.9
+imports,sector 14,Hot rolled,2012,469.0
 sector 14,scrap,scrap Hot rolled,2012,73.2
-uk_production,uk_intermediate,Organic coated,2012,208.0
 uk_production,exports,Organic coated,2012,116.0
-imports,uk_intermediate,Organic coated,2012,375.2
-uk_intermediate,sector 6,Organic coated,2012,228.4
+uk_production,sector 6,Organic coated,2012,81.5
+imports,sector 6,Organic coated,2012,146.9
 sector 6,scrap,scrap Organic coated,2012,22.8
-uk_intermediate,sector 7,Organic coated,2012,63.2
+uk_production,sector 7,Organic coated,2012,22.5
+imports,sector 7,Organic coated,2012,40.7
 sector 7,scrap,scrap Organic coated,2012,25.3
-uk_intermediate,sector 8,Organic coated,2012,291.6
+uk_production,sector 8,Organic coated,2012,104.0
+imports,sector 8,Organic coated,2012,187.6
 sector 8,scrap,scrap Organic coated,2012,58.3
-uk_production,uk_intermediate,Plate,2012,724.9
 uk_production,exports,Plate,2012,533.3
-imports,uk_intermediate,Plate,2012,283.4
-uk_intermediate,sector 5,Plate,2012,12.1
+uk_production,sector 5,Plate,2012,8.7
+imports,sector 5,Plate,2012,3.4
 sector 5,scrap,scrap Plate,2012,3.6
-uk_intermediate,sector 7,Plate,2012,15.0
+uk_production,sector 7,Plate,2012,10.9
+imports,sector 7,Plate,2012,4.1
 sector 7,scrap,scrap Plate,2012,4.5
-uk_intermediate,sector 8,Plate,2012,4.1
+uk_production,sector 8,Plate,2012,2.9
+imports,sector 8,Plate,2012,1.2
 sector 8,scrap,scrap Plate,2012,0.8
-uk_intermediate,sector 9,Plate,2012,39.9
+imports,sector 9,Plate,2012,39.9
 sector 9,scrap,scrap Plate,2012,9.6
-uk_intermediate,sector 11,Plate,2012,99.4
+uk_production,sector 11,Plate,2012,42.8
+imports,sector 11,Plate,2012,56.6
 sector 11,scrap,scrap Plate,2012,28.8
-uk_intermediate,sector 12,Plate,2012,18.1
+uk_production,sector 12,Plate,2012,13.0
+imports,sector 12,Plate,2012,5.1
 sector 12,scrap,scrap Plate,2012,3.6
-uk_intermediate,sector 13,Plate,2012,167.3
+uk_production,sector 13,Plate,2012,120.3
+imports,sector 13,Plate,2012,47.0
 sector 13,scrap,scrap Plate,2012,50.2
-uk_intermediate,sector 14,Plate,2012,286.3
+uk_production,sector 14,Plate,2012,205.9
+imports,sector 14,Plate,2012,80.4
 sector 14,scrap,scrap Plate,2012,31.5
-uk_intermediate,sector 15a,Plate,2012,81.7
+uk_production,sector 15a,Plate,2012,58.7
+imports,sector 15a,Plate,2012,23.0
 sector 15a,scrap,scrap Plate,2012,35.1
-uk_intermediate,sector 16,Plate,2012,80.5
+uk_production,sector 16,Plate,2012,58.0
+imports,sector 16,Plate,2012,22.5
 sector 16,scrap,scrap Plate,2012,29.0
-uk_intermediate,sector 20,Plate,2012,204.4
+uk_production,sector 20,Plate,2012,204.4
 sector 20,scrap,scrap Plate,2012,61.3
-uk_production,uk_intermediate,Tin plate,2012,263.2
 uk_production,exports,Tin plate,2012,146.8
-imports,uk_intermediate,Tin plate,2012,474.8
-uk_intermediate,sector 6,Tin plate,2012,738.0
+uk_production,sector 6,Tin plate,2012,263.2
+imports,sector 6,Tin plate,2012,474.8
 sector 6,scrap,scrap Tin plate,2012,221.4
-uk_production,uk_intermediate,Tubes and pipes,2012,364.6
 uk_production,exports,Tubes and pipes,2012,467.5
-imports,uk_intermediate,Tubes and pipes,2012,810.4
-uk_intermediate,sector 8,Tubes and pipes,2012,155.0
+uk_production,sector 8,Tubes and pipes,2012,41.9
+imports,sector 8,Tubes and pipes,2012,113.1
 sector 8,scrap,scrap Tubes and pipes,2012,31.0
-uk_intermediate,sector 11,Tubes and pipes,2012,7.7
+uk_production,sector 11,Tubes and pipes,2012,2.2
+imports,sector 11,Tubes and pipes,2012,5.5
 sector 11,scrap,scrap Tubes and pipes,2012,0.4
-uk_intermediate,sector 12,Tubes and pipes,2012,161.5
+uk_production,sector 12,Tubes and pipes,2012,43.8
+imports,sector 12,Tubes and pipes,2012,117.8
 sector 12,scrap,scrap Tubes and pipes,2012,8.1
-uk_intermediate,sector 14,Tubes and pipes,2012,86.2
+uk_production,sector 14,Tubes and pipes,2012,23.3
+imports,sector 14,Tubes and pipes,2012,62.8
 sector 14,scrap,scrap Tubes and pipes,2012,4.3
-uk_intermediate,sector 15b,Tubes and pipes,2012,321.6
+uk_production,sector 15b,Tubes and pipes,2012,86.8
+imports,sector 15b,Tubes and pipes,2012,234.8
 sector 15b,scrap,scrap Tubes and pipes,2012,16.1
-uk_intermediate,sector 16,Tubes and pipes,2012,26.9
+uk_production,sector 16,Tubes and pipes,2012,7.3
+imports,sector 16,Tubes and pipes,2012,19.6
 sector 16,scrap,scrap Tubes and pipes,2012,1.3
-uk_intermediate,sector 17,Tubes and pipes,2012,181.9
+uk_production,sector 17,Tubes and pipes,2012,49.2
+imports,sector 17,Tubes and pipes,2012,132.7
 sector 17,scrap,scrap Tubes and pipes,2012,9.1
-uk_intermediate,sector 18,Tubes and pipes,2012,170.0
+uk_production,sector 18,Tubes and pipes,2012,45.9
+imports,sector 18,Tubes and pipes,2012,124.1
 sector 18,scrap,scrap Tubes and pipes,2012,8.5
-uk_intermediate,sector 20,Tubes and pipes,2012,64.9
+uk_production,sector 20,Tubes and pipes,2012,64.9
 sector 20,scrap,scrap Tubes and pipes,2012,3.2
-uk_production,uk_intermediate,Bright bars,2012,78.5
 uk_production,exports,Bright bars,2012,89.6
-imports,uk_intermediate,Bright bars,2012,123.2
-uk_intermediate,sector 4,Bright bars,2012,22.0
+uk_production,sector 4,Bright bars,2012,8.2
+imports,sector 4,Bright bars,2012,13.8
 sector 4,scrap,scrap Bright bars,2012,3.7
-uk_intermediate,sector 5,Bright bars,2012,8.8
+uk_production,sector 5,Bright bars,2012,3.3
+imports,sector 5,Bright bars,2012,5.5
 sector 5,scrap,scrap Bright bars,2012,1.5
-uk_intermediate,sector 6,Bright bars,2012,0.9
+uk_production,sector 6,Bright bars,2012,0.3
+imports,sector 6,Bright bars,2012,0.6
 sector 6,scrap,scrap Bright bars,2012,0.1
-uk_intermediate,sector 7,Bright bars,2012,9.9
+uk_production,sector 7,Bright bars,2012,3.7
+imports,sector 7,Bright bars,2012,6.2
 sector 7,scrap,scrap Bright bars,2012,1.7
-uk_intermediate,sector 8,Bright bars,2012,0.9
+uk_production,sector 8,Bright bars,2012,0.3
+imports,sector 8,Bright bars,2012,0.6
 sector 8,scrap,scrap Bright bars,2012,0.2
-uk_intermediate,sector 10,Bright bars,2012,13.6
+uk_production,sector 10,Bright bars,2012,5.1
+imports,sector 10,Bright bars,2012,8.5
 sector 10,scrap,scrap Bright bars,2012,4.1
-uk_intermediate,sector 11,Bright bars,2012,4.8
+uk_production,sector 11,Bright bars,2012,1.8
+imports,sector 11,Bright bars,2012,3.0
 sector 11,scrap,scrap Bright bars,2012,1.4
-uk_intermediate,sector 12,Bright bars,2012,60.8
+uk_production,sector 12,Bright bars,2012,22.8
+imports,sector 12,Bright bars,2012,38.1
 sector 12,scrap,scrap Bright bars,2012,18.2
-uk_intermediate,sector 15b,Bright bars,2012,73.8
+uk_production,sector 15b,Bright bars,2012,27.6
+imports,sector 15b,Bright bars,2012,46.2
 sector 15b,scrap,scrap Bright bars,2012,14.8
-uk_intermediate,sector 16,Bright bars,2012,1.5
+uk_production,sector 16,Bright bars,2012,0.5
+imports,sector 16,Bright bars,2012,0.9
 sector 16,scrap,scrap Bright bars,2012,0.3
-uk_intermediate,sector 20,Bright bars,2012,4.9
+uk_production,sector 20,Bright bars,2012,4.9
 sector 20,scrap,scrap Bright bars,2012,0.8
-uk_production,uk_intermediate,Heavy sections,2012,334.0
 uk_production,exports,Heavy sections,2012,91.0
-imports,uk_intermediate,Heavy sections,2012,453.3
-uk_intermediate,sector 14,Heavy sections,2012,787.3
+uk_production,sector 14,Heavy sections,2012,334.0
+imports,sector 14,Heavy sections,2012,453.3
 sector 14,scrap,scrap Heavy sections,2012,39.4
-uk_production,uk_intermediate,Hot rolled bars in lengths,2012,215.5
 uk_production,exports,Hot rolled bars in lengths,2012,336.0
-imports,uk_intermediate,Hot rolled bars in lengths,2012,138.1
-uk_intermediate,sector 4,Hot rolled bars in lengths,2012,11.4
+uk_production,sector 4,Hot rolled bars in lengths,2012,6.2
+imports,sector 4,Hot rolled bars in lengths,2012,5.1
 sector 4,scrap,scrap Hot rolled bars in lengths,2012,1.9
-uk_intermediate,sector 5,Hot rolled bars in lengths,2012,8.3
+uk_production,sector 5,Hot rolled bars in lengths,2012,4.5
+imports,sector 5,Hot rolled bars in lengths,2012,3.8
 sector 5,scrap,scrap Hot rolled bars in lengths,2012,1.4
-uk_intermediate,sector 7,Hot rolled bars in lengths,2012,90.9
+uk_production,sector 7,Hot rolled bars in lengths,2012,50.0
+imports,sector 7,Hot rolled bars in lengths,2012,40.9
 sector 7,scrap,scrap Hot rolled bars in lengths,2012,22.7
-uk_intermediate,sector 11,Hot rolled bars in lengths,2012,60.8
+uk_production,sector 11,Hot rolled bars in lengths,2012,33.4
+imports,sector 11,Hot rolled bars in lengths,2012,27.3
 sector 11,scrap,scrap Hot rolled bars in lengths,2012,17.6
-uk_intermediate,sector 12,Hot rolled bars in lengths,2012,49.8
+uk_production,sector 12,Hot rolled bars in lengths,2012,27.4
+imports,sector 12,Hot rolled bars in lengths,2012,22.5
 sector 12,scrap,scrap Hot rolled bars in lengths,2012,15.0
-uk_intermediate,sector 13,Hot rolled bars in lengths,2012,18.7
+uk_production,sector 13,Hot rolled bars in lengths,2012,10.3
+imports,sector 13,Hot rolled bars in lengths,2012,8.4
 sector 13,scrap,scrap Hot rolled bars in lengths,2012,5.6
-uk_intermediate,sector 14,Hot rolled bars in lengths,2012,52.2
+uk_production,sector 14,Hot rolled bars in lengths,2012,28.7
+imports,sector 14,Hot rolled bars in lengths,2012,23.6
 sector 14,scrap,scrap Hot rolled bars in lengths,2012,2.6
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2012,9.0
+uk_production,sector 15b,Hot rolled bars in lengths,2012,5.0
+imports,sector 15b,Hot rolled bars in lengths,2012,4.1
 sector 15b,scrap,scrap Hot rolled bars in lengths,2012,1.8
-uk_intermediate,sector 16,Hot rolled bars in lengths,2012,2.4
+uk_production,sector 16,Hot rolled bars in lengths,2012,1.3
+imports,sector 16,Hot rolled bars in lengths,2012,1.1
 sector 16,scrap,scrap Hot rolled bars in lengths,2012,0.5
-uk_intermediate,sector 19,Hot rolled bars in lengths,2012,3.1
+uk_production,sector 19,Hot rolled bars in lengths,2012,1.7
+imports,sector 19,Hot rolled bars in lengths,2012,1.4
 sector 19,scrap,scrap Hot rolled bars in lengths,2012,0.6
-uk_intermediate,sector 20,Hot rolled bars in lengths,2012,47.0
+uk_production,sector 20,Hot rolled bars in lengths,2012,47.0
 sector 20,scrap,scrap Hot rolled bars in lengths,2012,11.7
-uk_production,uk_intermediate,Light sections,2012,80.9
 uk_production,exports,Light sections,2012,149.6
-imports,uk_intermediate,Light sections,2012,35.0
-uk_intermediate,sector 6,Light sections,2012,1.5
+uk_production,sector 6,Light sections,2012,1.1
+imports,sector 6,Light sections,2012,0.5
 sector 6,scrap,scrap Light sections,2012,0.2
-uk_intermediate,sector 7,Light sections,2012,3.9
+uk_production,sector 7,Light sections,2012,2.8
+imports,sector 7,Light sections,2012,1.2
 sector 7,scrap,scrap Light sections,2012,0.7
-uk_intermediate,sector 9,Light sections,2012,1.8
+imports,sector 9,Light sections,2012,1.8
 sector 9,scrap,scrap Light sections,2012,0.4
-uk_intermediate,sector 11,Light sections,2012,1.8
+imports,sector 11,Light sections,2012,1.8
 sector 11,scrap,scrap Light sections,2012,0.5
-uk_intermediate,sector 13,Light sections,2012,42.8
+uk_production,sector 13,Light sections,2012,29.9
+imports,sector 13,Light sections,2012,12.9
 sector 13,scrap,scrap Light sections,2012,12.8
-uk_intermediate,sector 14,Light sections,2012,38.9
+uk_production,sector 14,Light sections,2012,27.2
+imports,sector 14,Light sections,2012,11.7
 sector 14,scrap,scrap Light sections,2012,1.9
-uk_intermediate,sector 15a,Light sections,2012,8.0
+uk_production,sector 15a,Light sections,2012,5.6
+imports,sector 15a,Light sections,2012,2.4
 sector 15a,scrap,scrap Light sections,2012,3.4
-uk_intermediate,sector 15b,Light sections,2012,9.0
+uk_production,sector 15b,Light sections,2012,6.3
+imports,sector 15b,Light sections,2012,2.7
 sector 15b,scrap,scrap Light sections,2012,3.3
-uk_intermediate,sector 20,Light sections,2012,8.2
+uk_production,sector 20,Light sections,2012,8.2
 sector 20,scrap,scrap Light sections,2012,1.4
-uk_production,uk_intermediate,Railway track material,2012,138.3
 uk_production,exports,Railway track material,2012,37.7
-imports,uk_intermediate,Railway track material,2012,187.7
-uk_intermediate,sector 11,Railway track material,2012,30.2
+uk_production,sector 11,Railway track material,2012,12.9
+imports,sector 11,Railway track material,2012,17.4
 sector 11,scrap,scrap Railway track material,2012,1.5
-uk_intermediate,sector 13,Railway track material,2012,2.4
+uk_production,sector 13,Railway track material,2012,1.0
+imports,sector 13,Railway track material,2012,1.4
 sector 13,scrap,scrap Railway track material,2012,0.1
-uk_intermediate,sector 14,Railway track material,2012,293.4
+uk_production,sector 14,Railway track material,2012,124.5
+imports,sector 14,Railway track material,2012,168.9
 sector 14,scrap,scrap Railway track material,2012,14.7
-uk_production,uk_intermediate,Reinforcing bar,2012,172.3
 uk_production,exports,Reinforcing bar,2012,181.7
-imports,uk_intermediate,Reinforcing bar,2012,113.3
-uk_intermediate,sector 14,Reinforcing bar,2012,285.6
+uk_production,sector 14,Reinforcing bar,2012,172.3
+imports,sector 14,Reinforcing bar,2012,113.3
 sector 14,scrap,scrap Reinforcing bar,2012,14.3
-uk_production,uk_intermediate,Rods,2012,506.4
 uk_production,exports,Rods,2012,595.5
-imports,uk_intermediate,Rods,2012,371.4
-uk_intermediate,sector 4,Rods,2012,257.1
+uk_production,sector 4,Rods,2012,126.6
+imports,sector 4,Rods,2012,130.5
 sector 4,scrap,scrap Rods,2012,25.7
-uk_intermediate,sector 14,Rods,2012,469.7
+uk_production,sector 14,Rods,2012,231.4
+imports,sector 14,Rods,2012,238.3
 sector 14,scrap,scrap Rods,2012,23.5
-uk_intermediate,sector 15b,Rods,2012,5.2
+uk_production,sector 15b,Rods,2012,2.5
+imports,sector 15b,Rods,2012,2.7
 sector 15b,scrap,scrap Rods,2012,0.5
-uk_intermediate,sector 20,Rods,2012,145.8
+uk_production,sector 20,Rods,2012,145.8
 sector 20,scrap,scrap Rods,2012,14.6
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2012,72.9
 uk_production,exports,Sheet piling and rolled accessories,2012,19.9
-imports,uk_intermediate,Sheet piling and rolled accessories,2012,99.0
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2012,24.2
+uk_production,sector 11,Sheet piling and rolled accessories,2012,9.9
+imports,sector 11,Sheet piling and rolled accessories,2012,14.3
 sector 11,scrap,scrap Sheet piling and rolled accessories,2012,7.0
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2012,1.9
+uk_production,sector 13,Sheet piling and rolled accessories,2012,0.8
+imports,sector 13,Sheet piling and rolled accessories,2012,1.1
 sector 13,scrap,scrap Sheet piling and rolled accessories,2012,0.6
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2012,136.8
+uk_production,sector 14,Sheet piling and rolled accessories,2012,56.0
+imports,sector 14,Sheet piling and rolled accessories,2012,80.8
 sector 14,scrap,scrap Sheet piling and rolled accessories,2012,6.8
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2012,3.4
+uk_production,sector 16,Sheet piling and rolled accessories,2012,1.4
+imports,sector 16,Sheet piling and rolled accessories,2012,2.0
 sector 16,scrap,scrap Sheet piling and rolled accessories,2012,1.2
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2012,1.3
+uk_production,sector 17,Sheet piling and rolled accessories,2012,0.5
+imports,sector 17,Sheet piling and rolled accessories,2012,0.7
 sector 17,scrap,scrap Sheet piling and rolled accessories,2012,0.3
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2012,4.2
+uk_production,sector 20,Sheet piling and rolled accessories,2012,4.2
 sector 20,scrap,scrap Sheet piling and rolled accessories,2012,0.7
 component_imports,sector 4,component,2012,256.2
 sector 4,products 4,4,2012,515.3
@@ -1226,237 +1397,280 @@ products 19,uk_demand,19,2012,2.5
 products 20,product_exports,20,2012,1.3
 products 20,uk_demand,20,2012,393.8
 product_imports,uk_demand,20,2012,6.8
-uk_production,uk_intermediate,Cold rolled,2013,33.6
 uk_production,exports,Cold rolled,2013,4.7
-imports,uk_intermediate,Cold rolled,2013,50.9
-uk_intermediate,sector 5,Cold rolled,2013,1.9
+uk_production,sector 5,Cold rolled,2013,0.7
+imports,sector 5,Cold rolled,2013,1.2
 sector 5,scrap,scrap Cold rolled,2013,0.3
-uk_intermediate,sector 6,Cold rolled,2013,2.8
+uk_production,sector 6,Cold rolled,2013,1.1
+imports,sector 6,Cold rolled,2013,1.8
 sector 6,scrap,scrap Cold rolled,2013,0.3
-uk_intermediate,sector 7,Cold rolled,2013,13.8
+uk_production,sector 7,Cold rolled,2013,5.3
+imports,sector 7,Cold rolled,2013,8.5
 sector 7,scrap,scrap Cold rolled,2013,2.4
-uk_intermediate,sector 8,Cold rolled,2013,12.3
+uk_production,sector 8,Cold rolled,2013,4.7
+imports,sector 8,Cold rolled,2013,7.6
 sector 8,scrap,scrap Cold rolled,2013,2.5
-uk_intermediate,sector 9,Cold rolled,2013,1.1
+uk_production,sector 9,Cold rolled,2013,0.4
+imports,sector 9,Cold rolled,2013,0.7
 sector 9,scrap,scrap Cold rolled,2013,0.3
-uk_intermediate,sector 12,Cold rolled,2013,3.9
+uk_production,sector 12,Cold rolled,2013,1.5
+imports,sector 12,Cold rolled,2013,2.4
 sector 12,scrap,scrap Cold rolled,2013,1.6
-uk_intermediate,sector 14,Cold rolled,2013,0.5
+uk_production,sector 14,Cold rolled,2013,0.2
+imports,sector 14,Cold rolled,2013,0.3
 sector 14,scrap,scrap Cold rolled,2013,0.1
-uk_intermediate,sector 15a,Cold rolled,2013,46.2
+uk_production,sector 15a,Cold rolled,2013,17.7
+imports,sector 15a,Cold rolled,2013,28.5
 sector 15a,scrap,scrap Cold rolled,2013,19.9
-uk_intermediate,sector 20,Cold rolled,2013,1.9
+uk_production,sector 20,Cold rolled,2013,1.9
 sector 20,scrap,scrap Cold rolled,2013,0.3
-uk_production,uk_intermediate,Electro coated,2013,31.4
 uk_production,exports,Electro coated,2013,27.6
-imports,uk_intermediate,Electro coated,2013,28.5
-uk_intermediate,sector 8,Electro coated,2013,59.9
+uk_production,sector 8,Electro coated,2013,31.4
+imports,sector 8,Electro coated,2013,28.5
 sector 8,scrap,scrap Electro coated,2013,12.0
-uk_production,uk_intermediate,Hot dipped galvanised,2013,559.8
 uk_production,exports,Hot dipped galvanised,2013,492.2
-imports,uk_intermediate,Hot dipped galvanised,2013,508.2
-uk_intermediate,sector 6,Hot dipped galvanised,2013,290.5
+uk_production,sector 6,Hot dipped galvanised,2013,290.5
 sector 6,scrap,scrap Hot dipped galvanised,2013,29.1
-uk_intermediate,sector 7,Hot dipped galvanised,2013,80.6
+uk_production,sector 7,Hot dipped galvanised,2013,80.6
 sector 7,scrap,scrap Hot dipped galvanised,2013,13.7
-uk_intermediate,sector 8,Hot dipped galvanised,2013,43.7
+uk_production,sector 8,Hot dipped galvanised,2013,43.7
 sector 8,scrap,scrap Hot dipped galvanised,2013,8.7
-uk_intermediate,sector 12,Hot dipped galvanised,2013,17.4
+uk_production,sector 12,Hot dipped galvanised,2013,17.4
 sector 12,scrap,scrap Hot dipped galvanised,2013,3.5
-uk_intermediate,sector 14,Hot dipped galvanised,2013,33.6
+uk_production,sector 14,Hot dipped galvanised,2013,33.6
 sector 14,scrap,scrap Hot dipped galvanised,2013,3.7
-uk_intermediate,sector 15a,Hot dipped galvanised,2013,592.7
+uk_production,sector 15a,Hot dipped galvanised,2013,84.5
+imports,sector 15a,Hot dipped galvanised,2013,508.2
 sector 15a,scrap,scrap Hot dipped galvanised,2013,254.9
-uk_intermediate,sector 20,Hot dipped galvanised,2013,9.5
+uk_production,sector 20,Hot dipped galvanised,2013,9.5
 sector 20,scrap,scrap Hot dipped galvanised,2013,1.6
-uk_production,uk_intermediate,Hot rolled,2013,505.3
 uk_production,exports,Hot rolled,2013,536.1
-imports,uk_intermediate,Hot rolled,2013,553.5
-uk_intermediate,sector 6,Hot rolled,2013,290.2
+uk_production,sector 6,Hot rolled,2013,138.5
+imports,sector 6,Hot rolled,2013,151.7
 sector 6,scrap,scrap Hot rolled,2013,29.0
-uk_intermediate,sector 7,Hot rolled,2013,80.4
+uk_production,sector 7,Hot rolled,2013,38.4
+imports,sector 7,Hot rolled,2013,42.0
 sector 7,scrap,scrap Hot rolled,2013,24.1
-uk_intermediate,sector 8,Hot rolled,2013,10.6
+uk_production,sector 8,Hot rolled,2013,5.1
+imports,sector 8,Hot rolled,2013,5.5
 sector 8,scrap,scrap Hot rolled,2013,2.1
-uk_intermediate,sector 12,Hot rolled,2013,52.9
+uk_production,sector 12,Hot rolled,2013,25.3
+imports,sector 12,Hot rolled,2013,27.7
 sector 12,scrap,scrap Hot rolled,2013,10.6
-uk_intermediate,sector 14,Hot rolled,2013,624.7
+uk_production,sector 14,Hot rolled,2013,298.1
+imports,sector 14,Hot rolled,2013,326.6
 sector 14,scrap,scrap Hot rolled,2013,68.7
-uk_production,uk_intermediate,Organic coated,2013,168.1
 uk_production,exports,Organic coated,2013,147.9
-imports,uk_intermediate,Organic coated,2013,152.6
-uk_intermediate,sector 6,Organic coated,2013,125.6
+uk_production,sector 6,Organic coated,2013,65.9
+imports,sector 6,Organic coated,2013,59.7
 sector 6,scrap,scrap Organic coated,2013,12.6
-uk_intermediate,sector 7,Organic coated,2013,34.7
+uk_production,sector 7,Organic coated,2013,18.2
+imports,sector 7,Organic coated,2013,16.6
 sector 7,scrap,scrap Organic coated,2013,13.9
-uk_intermediate,sector 8,Organic coated,2013,160.3
+uk_production,sector 8,Organic coated,2013,84.0
+imports,sector 8,Organic coated,2013,76.3
 sector 8,scrap,scrap Organic coated,2013,32.1
-uk_production,uk_intermediate,Plate,2013,751.3
 uk_production,exports,Plate,2013,712.6
-imports,uk_intermediate,Plate,2013,273.1
-uk_intermediate,sector 5,Plate,2013,12.3
+uk_production,sector 5,Plate,2013,9.0
+imports,sector 5,Plate,2013,3.3
 sector 5,scrap,scrap Plate,2013,3.7
-uk_intermediate,sector 7,Plate,2013,15.2
+uk_production,sector 7,Plate,2013,11.3
+imports,sector 7,Plate,2013,4.0
 sector 7,scrap,scrap Plate,2013,4.6
-uk_intermediate,sector 8,Plate,2013,4.2
+uk_production,sector 8,Plate,2013,3.0
+imports,sector 8,Plate,2013,1.2
 sector 8,scrap,scrap Plate,2013,0.8
-uk_intermediate,sector 9,Plate,2013,38.5
+imports,sector 9,Plate,2013,38.5
 sector 9,scrap,scrap Plate,2013,9.2
-uk_intermediate,sector 11,Plate,2013,98.9
+uk_production,sector 11,Plate,2013,44.3
+imports,sector 11,Plate,2013,54.6
 sector 11,scrap,scrap Plate,2013,28.7
-uk_intermediate,sector 12,Plate,2013,18.4
+uk_production,sector 12,Plate,2013,13.5
+imports,sector 12,Plate,2013,4.9
 sector 12,scrap,scrap Plate,2013,3.7
-uk_intermediate,sector 13,Plate,2013,170.0
+uk_production,sector 13,Plate,2013,124.7
+imports,sector 13,Plate,2013,45.3
 sector 13,scrap,scrap Plate,2013,51.0
-uk_intermediate,sector 14,Plate,2013,290.9
+uk_production,sector 14,Plate,2013,213.4
+imports,sector 14,Plate,2013,77.5
 sector 14,scrap,scrap Plate,2013,32.0
-uk_intermediate,sector 15a,Plate,2013,83.0
+uk_production,sector 15a,Plate,2013,60.9
+imports,sector 15a,Plate,2013,22.2
 sector 15a,scrap,scrap Plate,2013,35.7
-uk_intermediate,sector 16,Plate,2013,81.8
+uk_production,sector 16,Plate,2013,60.1
+imports,sector 16,Plate,2013,21.7
 sector 16,scrap,scrap Plate,2013,29.5
-uk_intermediate,sector 20,Plate,2013,211.9
+uk_production,sector 20,Plate,2013,211.9
 sector 20,scrap,scrap Plate,2013,63.6
-uk_production,uk_intermediate,Tin plate,2013,213.4
 uk_production,exports,Tin plate,2013,187.6
-imports,uk_intermediate,Tin plate,2013,193.7
-uk_intermediate,sector 6,Tin plate,2013,407.1
+uk_production,sector 6,Tin plate,2013,213.4
+imports,sector 6,Tin plate,2013,193.7
 sector 6,scrap,scrap Tin plate,2013,122.1
-uk_production,uk_intermediate,Tubes and pipes,2013,344.7
 uk_production,exports,Tubes and pipes,2013,274.1
-imports,uk_intermediate,Tubes and pipes,2013,703.4
-uk_intermediate,sector 8,Tubes and pipes,2013,137.8
+uk_production,sector 8,Tubes and pipes,2013,39.6
+imports,sector 8,Tubes and pipes,2013,98.1
 sector 8,scrap,scrap Tubes and pipes,2013,27.6
-uk_intermediate,sector 11,Tubes and pipes,2013,6.8
+uk_production,sector 11,Tubes and pipes,2013,2.1
+imports,sector 11,Tubes and pipes,2013,4.8
 sector 11,scrap,scrap Tubes and pipes,2013,0.3
-uk_intermediate,sector 12,Tubes and pipes,2013,143.6
+uk_production,sector 12,Tubes and pipes,2013,41.4
+imports,sector 12,Tubes and pipes,2013,102.2
 sector 12,scrap,scrap Tubes and pipes,2013,7.2
-uk_intermediate,sector 14,Tubes and pipes,2013,76.6
+uk_production,sector 14,Tubes and pipes,2013,22.1
+imports,sector 14,Tubes and pipes,2013,54.5
 sector 14,scrap,scrap Tubes and pipes,2013,3.8
-uk_intermediate,sector 15b,Tubes and pipes,2013,285.8
+uk_production,sector 15b,Tubes and pipes,2013,82.0
+imports,sector 15b,Tubes and pipes,2013,203.8
 sector 15b,scrap,scrap Tubes and pipes,2013,14.3
-uk_intermediate,sector 16,Tubes and pipes,2013,23.9
+uk_production,sector 16,Tubes and pipes,2013,6.9
+imports,sector 16,Tubes and pipes,2013,17.0
 sector 16,scrap,scrap Tubes and pipes,2013,1.2
-uk_intermediate,sector 17,Tubes and pipes,2013,161.7
+uk_production,sector 17,Tubes and pipes,2013,46.5
+imports,sector 17,Tubes and pipes,2013,115.2
 sector 17,scrap,scrap Tubes and pipes,2013,8.1
-uk_intermediate,sector 18,Tubes and pipes,2013,151.1
+uk_production,sector 18,Tubes and pipes,2013,43.4
+imports,sector 18,Tubes and pipes,2013,107.7
 sector 18,scrap,scrap Tubes and pipes,2013,7.6
-uk_intermediate,sector 20,Tubes and pipes,2013,61.4
+uk_production,sector 20,Tubes and pipes,2013,61.4
 sector 20,scrap,scrap Tubes and pipes,2013,3.1
-uk_production,uk_intermediate,Bright bars,2013,78.3
 uk_production,exports,Bright bars,2013,84.6
-imports,uk_intermediate,Bright bars,2013,114.4
-uk_intermediate,sector 4,Bright bars,2013,21.0
+uk_production,sector 4,Bright bars,2013,8.2
+imports,sector 4,Bright bars,2013,12.8
 sector 4,scrap,scrap Bright bars,2013,3.6
-uk_intermediate,sector 5,Bright bars,2013,8.4
+uk_production,sector 5,Bright bars,2013,3.3
+imports,sector 5,Bright bars,2013,5.1
 sector 5,scrap,scrap Bright bars,2013,1.4
-uk_intermediate,sector 6,Bright bars,2013,0.8
+uk_production,sector 6,Bright bars,2013,0.3
+imports,sector 6,Bright bars,2013,0.5
 sector 6,scrap,scrap Bright bars,2013,0.1
-uk_intermediate,sector 7,Bright bars,2013,9.5
+uk_production,sector 7,Bright bars,2013,3.7
+imports,sector 7,Bright bars,2013,5.8
 sector 7,scrap,scrap Bright bars,2013,1.6
-uk_intermediate,sector 8,Bright bars,2013,0.8
+uk_production,sector 8,Bright bars,2013,0.3
+imports,sector 8,Bright bars,2013,0.5
 sector 8,scrap,scrap Bright bars,2013,0.2
-uk_intermediate,sector 10,Bright bars,2013,13.0
+uk_production,sector 10,Bright bars,2013,5.1
+imports,sector 10,Bright bars,2013,7.9
 sector 10,scrap,scrap Bright bars,2013,3.9
-uk_intermediate,sector 11,Bright bars,2013,4.6
+uk_production,sector 11,Bright bars,2013,1.8
+imports,sector 11,Bright bars,2013,2.8
 sector 11,scrap,scrap Bright bars,2013,1.3
-uk_intermediate,sector 12,Bright bars,2013,58.0
+uk_production,sector 12,Bright bars,2013,22.7
+imports,sector 12,Bright bars,2013,35.3
 sector 12,scrap,scrap Bright bars,2013,17.4
-uk_intermediate,sector 15b,Bright bars,2013,70.4
+uk_production,sector 15b,Bright bars,2013,27.6
+imports,sector 15b,Bright bars,2013,42.9
 sector 15b,scrap,scrap Bright bars,2013,14.1
-uk_intermediate,sector 16,Bright bars,2013,1.4
+uk_production,sector 16,Bright bars,2013,0.5
+imports,sector 16,Bright bars,2013,0.9
 sector 16,scrap,scrap Bright bars,2013,0.3
-uk_intermediate,sector 20,Bright bars,2013,4.9
+uk_production,sector 20,Bright bars,2013,4.9
 sector 20,scrap,scrap Bright bars,2013,0.8
-uk_production,uk_intermediate,Heavy sections,2013,358.7
 uk_production,exports,Heavy sections,2013,128.3
-imports,uk_intermediate,Heavy sections,2013,553.8
-uk_intermediate,sector 14,Heavy sections,2013,912.5
+uk_production,sector 14,Heavy sections,2013,358.7
+imports,sector 14,Heavy sections,2013,553.8
 sector 14,scrap,scrap Heavy sections,2013,45.6
-uk_production,uk_intermediate,Hot rolled bars in lengths,2013,203.8
 uk_production,exports,Hot rolled bars in lengths,2013,323.8
-imports,uk_intermediate,Hot rolled bars in lengths,2013,131.8
-uk_intermediate,sector 4,Hot rolled bars in lengths,2013,10.8
+uk_production,sector 4,Hot rolled bars in lengths,2013,5.9
+imports,sector 4,Hot rolled bars in lengths,2013,4.9
 sector 4,scrap,scrap Hot rolled bars in lengths,2013,1.8
-uk_intermediate,sector 5,Hot rolled bars in lengths,2013,7.9
+uk_production,sector 5,Hot rolled bars in lengths,2013,4.3
+imports,sector 5,Hot rolled bars in lengths,2013,3.6
 sector 5,scrap,scrap Hot rolled bars in lengths,2013,1.3
-uk_intermediate,sector 7,Hot rolled bars in lengths,2013,86.3
+uk_production,sector 7,Hot rolled bars in lengths,2013,47.3
+imports,sector 7,Hot rolled bars in lengths,2013,39.0
 sector 7,scrap,scrap Hot rolled bars in lengths,2013,21.6
-uk_intermediate,sector 11,Hot rolled bars in lengths,2013,57.7
+uk_production,sector 11,Hot rolled bars in lengths,2013,31.6
+imports,sector 11,Hot rolled bars in lengths,2013,26.1
 sector 11,scrap,scrap Hot rolled bars in lengths,2013,16.7
-uk_intermediate,sector 12,Hot rolled bars in lengths,2013,47.3
+uk_production,sector 12,Hot rolled bars in lengths,2013,25.9
+imports,sector 12,Hot rolled bars in lengths,2013,21.4
 sector 12,scrap,scrap Hot rolled bars in lengths,2013,14.2
-uk_intermediate,sector 13,Hot rolled bars in lengths,2013,17.8
+uk_production,sector 13,Hot rolled bars in lengths,2013,9.8
+imports,sector 13,Hot rolled bars in lengths,2013,8.0
 sector 13,scrap,scrap Hot rolled bars in lengths,2013,5.3
-uk_intermediate,sector 14,Hot rolled bars in lengths,2013,49.6
+uk_production,sector 14,Hot rolled bars in lengths,2013,27.1
+imports,sector 14,Hot rolled bars in lengths,2013,22.5
 sector 14,scrap,scrap Hot rolled bars in lengths,2013,2.5
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2013,8.6
+uk_production,sector 15b,Hot rolled bars in lengths,2013,4.7
+imports,sector 15b,Hot rolled bars in lengths,2013,3.9
 sector 15b,scrap,scrap Hot rolled bars in lengths,2013,1.7
-uk_intermediate,sector 16,Hot rolled bars in lengths,2013,2.3
+uk_production,sector 16,Hot rolled bars in lengths,2013,1.2
+imports,sector 16,Hot rolled bars in lengths,2013,1.0
 sector 16,scrap,scrap Hot rolled bars in lengths,2013,0.5
-uk_intermediate,sector 19,Hot rolled bars in lengths,2013,2.9
+uk_production,sector 19,Hot rolled bars in lengths,2013,1.6
+imports,sector 19,Hot rolled bars in lengths,2013,1.3
 sector 19,scrap,scrap Hot rolled bars in lengths,2013,0.6
-uk_intermediate,sector 20,Hot rolled bars in lengths,2013,44.4
+uk_production,sector 20,Hot rolled bars in lengths,2013,44.4
 sector 20,scrap,scrap Hot rolled bars in lengths,2013,11.1
-uk_production,uk_intermediate,Light sections,2013,105.1
 uk_production,exports,Light sections,2013,125.3
-imports,uk_intermediate,Light sections,2013,32.8
-uk_intermediate,sector 6,Light sections,2013,1.8
+uk_production,sector 6,Light sections,2013,1.4
+imports,sector 6,Light sections,2013,0.4
 sector 6,scrap,scrap Light sections,2013,0.2
-uk_intermediate,sector 7,Light sections,2013,4.7
+uk_production,sector 7,Light sections,2013,3.6
+imports,sector 7,Light sections,2013,1.1
 sector 7,scrap,scrap Light sections,2013,0.8
-uk_intermediate,sector 9,Light sections,2013,1.7
+imports,sector 9,Light sections,2013,1.7
 sector 9,scrap,scrap Light sections,2013,0.4
-uk_intermediate,sector 11,Light sections,2013,1.7
+imports,sector 11,Light sections,2013,1.7
 sector 11,scrap,scrap Light sections,2013,0.5
-uk_intermediate,sector 13,Light sections,2013,50.9
+uk_production,sector 13,Light sections,2013,38.8
+imports,sector 13,Light sections,2013,12.1
 sector 13,scrap,scrap Light sections,2013,15.3
-uk_intermediate,sector 14,Light sections,2013,46.3
+uk_production,sector 14,Light sections,2013,35.3
+imports,sector 14,Light sections,2013,11.0
 sector 14,scrap,scrap Light sections,2013,2.3
-uk_intermediate,sector 15a,Light sections,2013,9.5
+uk_production,sector 15a,Light sections,2013,7.3
+imports,sector 15a,Light sections,2013,2.3
 sector 15a,scrap,scrap Light sections,2013,4.1
-uk_intermediate,sector 15b,Light sections,2013,10.8
+uk_production,sector 15b,Light sections,2013,8.2
+imports,sector 15b,Light sections,2013,2.6
 sector 15b,scrap,scrap Light sections,2013,3.9
-uk_intermediate,sector 20,Light sections,2013,10.6
+uk_production,sector 20,Light sections,2013,10.6
 sector 20,scrap,scrap Light sections,2013,1.8
-uk_production,uk_intermediate,Railway track material,2013,157.6
 uk_production,exports,Railway track material,2013,56.4
-imports,uk_intermediate,Railway track material,2013,243.4
-uk_intermediate,sector 11,Railway track material,2013,37.2
+uk_production,sector 11,Railway track material,2013,14.7
+imports,sector 11,Railway track material,2013,22.5
 sector 11,scrap,scrap Railway track material,2013,1.9
-uk_intermediate,sector 13,Railway track material,2013,2.9
+uk_production,sector 13,Railway track material,2013,1.1
+imports,sector 13,Railway track material,2013,1.8
 sector 13,scrap,scrap Railway track material,2013,0.1
-uk_intermediate,sector 14,Railway track material,2013,360.9
+uk_production,sector 14,Railway track material,2013,141.8
+imports,sector 14,Railway track material,2013,219.1
 sector 14,scrap,scrap Railway track material,2013,18.0
-uk_production,uk_intermediate,Reinforcing bar,2013,139.2
 uk_production,exports,Reinforcing bar,2013,160.8
-imports,uk_intermediate,Reinforcing bar,2013,113.6
-uk_intermediate,sector 14,Reinforcing bar,2013,252.8
+uk_production,sector 14,Reinforcing bar,2013,139.2
+imports,sector 14,Reinforcing bar,2013,113.6
 sector 14,scrap,scrap Reinforcing bar,2013,12.6
-uk_production,uk_intermediate,Rods,2013,494.2
 uk_production,exports,Rods,2013,636.4
-imports,uk_intermediate,Rods,2013,449.8
-uk_intermediate,sector 4,Rods,2013,281.5
+uk_production,sector 4,Rods,2013,123.5
+imports,sector 4,Rods,2013,158.0
 sector 4,scrap,scrap Rods,2013,28.2
-uk_intermediate,sector 14,Rods,2013,514.4
+uk_production,sector 14,Rods,2013,225.8
+imports,sector 14,Rods,2013,288.6
 sector 14,scrap,scrap Rods,2013,25.7
-uk_intermediate,sector 15b,Rods,2013,5.7
+uk_production,sector 15b,Rods,2013,2.5
+imports,sector 15b,Rods,2013,3.2
 sector 15b,scrap,scrap Rods,2013,0.6
-uk_intermediate,sector 20,Rods,2013,142.3
+uk_production,sector 20,Rods,2013,142.3
 sector 20,scrap,scrap Rods,2013,14.2
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2013,15.5
 uk_production,exports,Sheet piling and rolled accessories,2013,5.5
-imports,uk_intermediate,Sheet piling and rolled accessories,2013,23.9
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2013,5.6
+uk_production,sector 11,Sheet piling and rolled accessories,2013,2.1
+imports,sector 11,Sheet piling and rolled accessories,2013,3.5
 sector 11,scrap,scrap Sheet piling and rolled accessories,2013,1.6
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2013,0.4
+uk_production,sector 13,Sheet piling and rolled accessories,2013,0.2
+imports,sector 13,Sheet piling and rolled accessories,2013,0.3
 sector 13,scrap,scrap Sheet piling and rolled accessories,2013,0.1
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2013,31.4
+uk_production,sector 14,Sheet piling and rolled accessories,2013,11.9
+imports,sector 14,Sheet piling and rolled accessories,2013,19.5
 sector 14,scrap,scrap Sheet piling and rolled accessories,2013,1.6
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2013,0.8
+uk_production,sector 16,Sheet piling and rolled accessories,2013,0.3
+imports,sector 16,Sheet piling and rolled accessories,2013,0.5
 sector 16,scrap,scrap Sheet piling and rolled accessories,2013,0.3
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2013,0.3
+uk_production,sector 17,Sheet piling and rolled accessories,2013,0.1
+imports,sector 17,Sheet piling and rolled accessories,2013,0.2
 sector 17,scrap,scrap Sheet piling and rolled accessories,2013,0.1
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2013,0.9
+uk_production,sector 20,Sheet piling and rolled accessories,2013,0.9
 sector 20,scrap,scrap Sheet piling and rolled accessories,2013,0.2
 component_imports,sector 4,component,2013,280.2
 sector 4,products 4,4,2013,560.0
@@ -1535,237 +1749,280 @@ products 19,uk_demand,19,2013,2.3
 products 20,product_exports,20,2013,1.3
 products 20,uk_demand,20,2013,389.9
 product_imports,uk_demand,20,2013,7.0
-uk_production,uk_intermediate,Cold rolled,2014,26.2
 uk_production,exports,Cold rolled,2014,6.8
-imports,uk_intermediate,Cold rolled,2014,65.5
-uk_intermediate,sector 5,Cold rolled,2014,2.1
+uk_production,sector 5,Cold rolled,2014,0.6
+imports,sector 5,Cold rolled,2014,1.5
 sector 5,scrap,scrap Cold rolled,2014,0.4
-uk_intermediate,sector 6,Cold rolled,2014,3.1
+uk_production,sector 6,Cold rolled,2014,0.8
+imports,sector 6,Cold rolled,2014,2.3
 sector 6,scrap,scrap Cold rolled,2014,0.3
-uk_intermediate,sector 7,Cold rolled,2014,15.1
+uk_production,sector 7,Cold rolled,2014,4.1
+imports,sector 7,Cold rolled,2014,11.0
 sector 7,scrap,scrap Cold rolled,2014,2.6
-uk_intermediate,sector 8,Cold rolled,2014,13.4
+uk_production,sector 8,Cold rolled,2014,3.7
+imports,sector 8,Cold rolled,2014,9.7
 sector 8,scrap,scrap Cold rolled,2014,2.7
-uk_intermediate,sector 9,Cold rolled,2014,1.2
+uk_production,sector 9,Cold rolled,2014,0.3
+imports,sector 9,Cold rolled,2014,0.8
 sector 9,scrap,scrap Cold rolled,2014,0.3
-uk_intermediate,sector 12,Cold rolled,2014,4.3
+uk_production,sector 12,Cold rolled,2014,1.2
+imports,sector 12,Cold rolled,2014,3.1
 sector 12,scrap,scrap Cold rolled,2014,1.7
-uk_intermediate,sector 14,Cold rolled,2014,0.6
+uk_production,sector 14,Cold rolled,2014,0.2
+imports,sector 14,Cold rolled,2014,0.4
 sector 14,scrap,scrap Cold rolled,2014,0.1
-uk_intermediate,sector 15a,Cold rolled,2014,50.4
+uk_production,sector 15a,Cold rolled,2014,13.8
+imports,sector 15a,Cold rolled,2014,36.6
 sector 15a,scrap,scrap Cold rolled,2014,21.7
-uk_intermediate,sector 20,Cold rolled,2014,1.5
+uk_production,sector 20,Cold rolled,2014,1.5
 sector 20,scrap,scrap Cold rolled,2014,0.3
-uk_production,uk_intermediate,Electro coated,2014,31.6
 uk_production,exports,Electro coated,2014,30.4
-imports,uk_intermediate,Electro coated,2014,62.9
-uk_intermediate,sector 8,Electro coated,2014,94.5
+uk_production,sector 8,Electro coated,2014,31.6
+imports,sector 8,Electro coated,2014,62.9
 sector 8,scrap,scrap Electro coated,2014,18.9
-uk_production,uk_intermediate,Hot dipped galvanised,2014,552.1
 uk_production,exports,Hot dipped galvanised,2014,529.9
-imports,uk_intermediate,Hot dipped galvanised,2014,1097.5
-uk_intermediate,sector 6,Hot dipped galvanised,2014,286.5
+uk_production,sector 6,Hot dipped galvanised,2014,286.5
 sector 6,scrap,scrap Hot dipped galvanised,2014,28.7
-uk_intermediate,sector 7,Hot dipped galvanised,2014,79.5
+uk_production,sector 7,Hot dipped galvanised,2014,79.5
 sector 7,scrap,scrap Hot dipped galvanised,2014,13.5
-uk_intermediate,sector 8,Hot dipped galvanised,2014,43.1
+uk_production,sector 8,Hot dipped galvanised,2014,43.1
 sector 8,scrap,scrap Hot dipped galvanised,2014,8.6
-uk_intermediate,sector 12,Hot dipped galvanised,2014,17.1
+uk_production,sector 12,Hot dipped galvanised,2014,17.1
 sector 12,scrap,scrap Hot dipped galvanised,2014,3.4
-uk_intermediate,sector 14,Hot dipped galvanised,2014,33.1
+uk_production,sector 14,Hot dipped galvanised,2014,33.1
 sector 14,scrap,scrap Hot dipped galvanised,2014,3.6
-uk_intermediate,sector 15a,Hot dipped galvanised,2014,1180.9
+uk_production,sector 15a,Hot dipped galvanised,2014,83.4
+imports,sector 15a,Hot dipped galvanised,2014,1097.5
 sector 15a,scrap,scrap Hot dipped galvanised,2014,507.8
-uk_intermediate,sector 20,Hot dipped galvanised,2014,9.4
+uk_production,sector 20,Hot dipped galvanised,2014,9.4
 sector 20,scrap,scrap Hot dipped galvanised,2014,1.6
-uk_production,uk_intermediate,Hot rolled,2014,472.5
 uk_production,exports,Hot rolled,2014,563.4
-imports,uk_intermediate,Hot rolled,2014,1166.9
-uk_intermediate,sector 6,Hot rolled,2014,449.3
+uk_production,sector 6,Hot rolled,2014,129.5
+imports,sector 6,Hot rolled,2014,319.8
 sector 6,scrap,scrap Hot rolled,2014,44.9
-uk_intermediate,sector 7,Hot rolled,2014,124.5
+uk_production,sector 7,Hot rolled,2014,35.9
+imports,sector 7,Hot rolled,2014,88.6
 sector 7,scrap,scrap Hot rolled,2014,37.4
-uk_intermediate,sector 8,Hot rolled,2014,16.4
+uk_production,sector 8,Hot rolled,2014,4.7
+imports,sector 8,Hot rolled,2014,11.7
 sector 8,scrap,scrap Hot rolled,2014,3.3
-uk_intermediate,sector 12,Hot rolled,2014,82.0
+uk_production,sector 12,Hot rolled,2014,23.6
+imports,sector 12,Hot rolled,2014,58.3
 sector 12,scrap,scrap Hot rolled,2014,16.4
-uk_intermediate,sector 14,Hot rolled,2014,967.2
+uk_production,sector 14,Hot rolled,2014,278.8
+imports,sector 14,Hot rolled,2014,688.5
 sector 14,scrap,scrap Hot rolled,2014,106.4
-uk_production,uk_intermediate,Organic coated,2014,150.5
 uk_production,exports,Organic coated,2014,144.5
-imports,uk_intermediate,Organic coated,2014,299.2
-uk_intermediate,sector 6,Organic coated,2014,176.1
+uk_production,sector 6,Organic coated,2014,59.0
+imports,sector 6,Organic coated,2014,117.1
 sector 6,scrap,scrap Organic coated,2014,17.6
-uk_intermediate,sector 7,Organic coated,2014,48.7
+uk_production,sector 7,Organic coated,2014,16.3
+imports,sector 7,Organic coated,2014,32.5
 sector 7,scrap,scrap Organic coated,2014,19.5
-uk_intermediate,sector 8,Organic coated,2014,224.8
+uk_production,sector 8,Organic coated,2014,75.2
+imports,sector 8,Organic coated,2014,149.6
 sector 8,scrap,scrap Organic coated,2014,45.0
-uk_production,uk_intermediate,Plate,2014,773.8
 uk_production,exports,Plate,2014,752.6
-imports,uk_intermediate,Plate,2014,324.7
-uk_intermediate,sector 5,Plate,2014,13.2
+uk_production,sector 5,Plate,2014,9.3
+imports,sector 5,Plate,2014,3.9
 sector 5,scrap,scrap Plate,2014,4.0
-uk_intermediate,sector 7,Plate,2014,16.3
+uk_production,sector 7,Plate,2014,11.6
+imports,sector 7,Plate,2014,4.7
 sector 7,scrap,scrap Plate,2014,4.9
-uk_intermediate,sector 8,Plate,2014,4.5
+uk_production,sector 8,Plate,2014,3.1
+imports,sector 8,Plate,2014,1.4
 sector 8,scrap,scrap Plate,2014,0.9
-uk_intermediate,sector 9,Plate,2014,45.8
+imports,sector 9,Plate,2014,45.8
 sector 9,scrap,scrap Plate,2014,11.0
-uk_intermediate,sector 11,Plate,2014,110.6
+uk_production,sector 11,Plate,2014,45.7
+imports,sector 11,Plate,2014,64.9
 sector 11,scrap,scrap Plate,2014,32.1
-uk_intermediate,sector 12,Plate,2014,19.7
+uk_production,sector 12,Plate,2014,13.9
+imports,sector 12,Plate,2014,5.8
 sector 12,scrap,scrap Plate,2014,3.9
-uk_intermediate,sector 13,Plate,2014,182.3
+uk_production,sector 13,Plate,2014,128.5
+imports,sector 13,Plate,2014,53.9
 sector 13,scrap,scrap Plate,2014,54.7
-uk_intermediate,sector 14,Plate,2014,311.9
+uk_production,sector 14,Plate,2014,219.8
+imports,sector 14,Plate,2014,92.1
 sector 14,scrap,scrap Plate,2014,34.3
-uk_intermediate,sector 15a,Plate,2014,89.0
+uk_production,sector 15a,Plate,2014,62.7
+imports,sector 15a,Plate,2014,26.4
 sector 15a,scrap,scrap Plate,2014,38.3
-uk_intermediate,sector 16,Plate,2014,87.7
+uk_production,sector 16,Plate,2014,61.9
+imports,sector 16,Plate,2014,25.8
 sector 16,scrap,scrap Plate,2014,31.6
-uk_intermediate,sector 20,Plate,2014,218.2
+uk_production,sector 20,Plate,2014,218.2
 sector 20,scrap,scrap Plate,2014,65.5
-uk_production,uk_intermediate,Tin plate,2014,219.4
 uk_production,exports,Tin plate,2014,210.6
-imports,uk_intermediate,Tin plate,2014,436.2
-uk_intermediate,sector 6,Tin plate,2014,655.6
+uk_production,sector 6,Tin plate,2014,219.4
+imports,sector 6,Tin plate,2014,436.2
 sector 6,scrap,scrap Tin plate,2014,196.7
-uk_production,uk_intermediate,Tubes and pipes,2014,387.5
 uk_production,exports,Tubes and pipes,2014,278.5
-imports,uk_intermediate,Tubes and pipes,2014,856.5
-uk_intermediate,sector 8,Tubes and pipes,2014,164.1
+uk_production,sector 8,Tubes and pipes,2014,44.6
+imports,sector 8,Tubes and pipes,2014,119.5
 sector 8,scrap,scrap Tubes and pipes,2014,32.8
-uk_intermediate,sector 11,Tubes and pipes,2014,8.1
+uk_production,sector 11,Tubes and pipes,2014,2.3
+imports,sector 11,Tubes and pipes,2014,5.8
 sector 11,scrap,scrap Tubes and pipes,2014,0.4
-uk_intermediate,sector 12,Tubes and pipes,2014,171.0
+uk_production,sector 12,Tubes and pipes,2014,46.5
+imports,sector 12,Tubes and pipes,2014,124.5
 sector 12,scrap,scrap Tubes and pipes,2014,8.5
-uk_intermediate,sector 14,Tubes and pipes,2014,91.2
+uk_production,sector 14,Tubes and pipes,2014,24.8
+imports,sector 14,Tubes and pipes,2014,66.4
 sector 14,scrap,scrap Tubes and pipes,2014,4.6
-uk_intermediate,sector 15b,Tubes and pipes,2014,340.4
+uk_production,sector 15b,Tubes and pipes,2014,92.2
+imports,sector 15b,Tubes and pipes,2014,248.2
 sector 15b,scrap,scrap Tubes and pipes,2014,17.0
-uk_intermediate,sector 16,Tubes and pipes,2014,28.5
+uk_production,sector 16,Tubes and pipes,2014,7.8
+imports,sector 16,Tubes and pipes,2014,20.7
 sector 16,scrap,scrap Tubes and pipes,2014,1.4
-uk_intermediate,sector 17,Tubes and pipes,2014,192.6
+uk_production,sector 17,Tubes and pipes,2014,52.3
+imports,sector 17,Tubes and pipes,2014,140.3
 sector 17,scrap,scrap Tubes and pipes,2014,9.6
-uk_intermediate,sector 18,Tubes and pipes,2014,180.0
+uk_production,sector 18,Tubes and pipes,2014,48.8
+imports,sector 18,Tubes and pipes,2014,131.1
 sector 18,scrap,scrap Tubes and pipes,2014,9.0
-uk_intermediate,sector 20,Tubes and pipes,2014,69.0
+uk_production,sector 20,Tubes and pipes,2014,69.0
 sector 20,scrap,scrap Tubes and pipes,2014,3.4
-uk_production,uk_intermediate,Bright bars,2014,80.7
 uk_production,exports,Bright bars,2014,94.3
-imports,uk_intermediate,Bright bars,2014,117.9
-uk_intermediate,sector 4,Bright bars,2014,21.6
+uk_production,sector 4,Bright bars,2014,8.5
+imports,sector 4,Bright bars,2014,13.2
 sector 4,scrap,scrap Bright bars,2014,3.7
-uk_intermediate,sector 5,Bright bars,2014,8.6
+uk_production,sector 5,Bright bars,2014,3.4
+imports,sector 5,Bright bars,2014,5.2
 sector 5,scrap,scrap Bright bars,2014,1.5
-uk_intermediate,sector 6,Bright bars,2014,0.9
+uk_production,sector 6,Bright bars,2014,0.3
+imports,sector 6,Bright bars,2014,0.5
 sector 6,scrap,scrap Bright bars,2014,0.1
-uk_intermediate,sector 7,Bright bars,2014,9.7
+uk_production,sector 7,Bright bars,2014,3.8
+imports,sector 7,Bright bars,2014,5.9
 sector 7,scrap,scrap Bright bars,2014,1.7
-uk_intermediate,sector 8,Bright bars,2014,0.9
+uk_production,sector 8,Bright bars,2014,0.3
+imports,sector 8,Bright bars,2014,0.5
 sector 8,scrap,scrap Bright bars,2014,0.2
-uk_intermediate,sector 10,Bright bars,2014,13.4
+uk_production,sector 10,Bright bars,2014,5.2
+imports,sector 10,Bright bars,2014,8.1
 sector 10,scrap,scrap Bright bars,2014,4.0
-uk_intermediate,sector 11,Bright bars,2014,4.7
+uk_production,sector 11,Bright bars,2014,1.9
+imports,sector 11,Bright bars,2014,2.9
 sector 11,scrap,scrap Bright bars,2014,1.4
-uk_intermediate,sector 12,Bright bars,2014,59.8
+uk_production,sector 12,Bright bars,2014,23.4
+imports,sector 12,Bright bars,2014,36.4
 sector 12,scrap,scrap Bright bars,2014,17.9
-uk_intermediate,sector 15b,Bright bars,2014,72.6
+uk_production,sector 15b,Bright bars,2014,28.4
+imports,sector 15b,Bright bars,2014,44.2
 sector 15b,scrap,scrap Bright bars,2014,14.5
-uk_intermediate,sector 16,Bright bars,2014,1.5
+uk_production,sector 16,Bright bars,2014,0.6
+imports,sector 16,Bright bars,2014,0.9
 sector 16,scrap,scrap Bright bars,2014,0.3
-uk_intermediate,sector 20,Bright bars,2014,5.0
+uk_production,sector 20,Bright bars,2014,5.0
 sector 20,scrap,scrap Bright bars,2014,0.9
-uk_production,uk_intermediate,Heavy sections,2014,351.8
 uk_production,exports,Heavy sections,2014,194.2
-imports,uk_intermediate,Heavy sections,2014,620.4
-uk_intermediate,sector 14,Heavy sections,2014,972.2
+uk_production,sector 14,Heavy sections,2014,351.8
+imports,sector 14,Heavy sections,2014,620.4
 sector 14,scrap,scrap Heavy sections,2014,48.6
-uk_production,uk_intermediate,Hot rolled bars in lengths,2014,204.3
 uk_production,exports,Hot rolled bars in lengths,2014,349.7
-imports,uk_intermediate,Hot rolled bars in lengths,2014,136.0
-uk_intermediate,sector 4,Hot rolled bars in lengths,2014,11.0
+uk_production,sector 4,Hot rolled bars in lengths,2014,5.9
+imports,sector 4,Hot rolled bars in lengths,2014,5.1
 sector 4,scrap,scrap Hot rolled bars in lengths,2014,1.9
-uk_intermediate,sector 5,Hot rolled bars in lengths,2014,8.0
+uk_production,sector 5,Hot rolled bars in lengths,2014,4.3
+imports,sector 5,Hot rolled bars in lengths,2014,3.7
 sector 5,scrap,scrap Hot rolled bars in lengths,2014,1.4
-uk_intermediate,sector 7,Hot rolled bars in lengths,2014,87.7
+uk_production,sector 7,Hot rolled bars in lengths,2014,47.4
+imports,sector 7,Hot rolled bars in lengths,2014,40.3
 sector 7,scrap,scrap Hot rolled bars in lengths,2014,21.9
-uk_intermediate,sector 11,Hot rolled bars in lengths,2014,58.6
+uk_production,sector 11,Hot rolled bars in lengths,2014,31.7
+imports,sector 11,Hot rolled bars in lengths,2014,26.9
 sector 11,scrap,scrap Hot rolled bars in lengths,2014,17.0
-uk_intermediate,sector 12,Hot rolled bars in lengths,2014,48.1
+uk_production,sector 12,Hot rolled bars in lengths,2014,25.9
+imports,sector 12,Hot rolled bars in lengths,2014,22.1
 sector 12,scrap,scrap Hot rolled bars in lengths,2014,14.4
-uk_intermediate,sector 13,Hot rolled bars in lengths,2014,18.1
+uk_production,sector 13,Hot rolled bars in lengths,2014,9.8
+imports,sector 13,Hot rolled bars in lengths,2014,8.3
 sector 13,scrap,scrap Hot rolled bars in lengths,2014,5.4
-uk_intermediate,sector 14,Hot rolled bars in lengths,2014,50.4
+uk_production,sector 14,Hot rolled bars in lengths,2014,27.2
+imports,sector 14,Hot rolled bars in lengths,2014,23.2
 sector 14,scrap,scrap Hot rolled bars in lengths,2014,2.5
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2014,8.7
+uk_production,sector 15b,Hot rolled bars in lengths,2014,4.7
+imports,sector 15b,Hot rolled bars in lengths,2014,4.0
 sector 15b,scrap,scrap Hot rolled bars in lengths,2014,1.7
-uk_intermediate,sector 16,Hot rolled bars in lengths,2014,2.3
+uk_production,sector 16,Hot rolled bars in lengths,2014,1.2
+imports,sector 16,Hot rolled bars in lengths,2014,1.1
 sector 16,scrap,scrap Hot rolled bars in lengths,2014,0.5
-uk_intermediate,sector 19,Hot rolled bars in lengths,2014,3.0
+uk_production,sector 19,Hot rolled bars in lengths,2014,1.6
+imports,sector 19,Hot rolled bars in lengths,2014,1.3
 sector 19,scrap,scrap Hot rolled bars in lengths,2014,0.6
-uk_intermediate,sector 20,Hot rolled bars in lengths,2014,44.5
+uk_production,sector 20,Hot rolled bars in lengths,2014,44.5
 sector 20,scrap,scrap Hot rolled bars in lengths,2014,11.1
-uk_production,uk_intermediate,Light sections,2014,103.9
 uk_production,exports,Light sections,2014,126.9
-imports,uk_intermediate,Light sections,2014,45.0
-uk_intermediate,sector 6,Light sections,2014,2.0
+uk_production,sector 6,Light sections,2014,1.4
+imports,sector 6,Light sections,2014,0.6
 sector 6,scrap,scrap Light sections,2014,0.2
-uk_intermediate,sector 7,Light sections,2014,5.0
+uk_production,sector 7,Light sections,2014,3.5
+imports,sector 7,Light sections,2014,1.5
 sector 7,scrap,scrap Light sections,2014,0.9
-uk_intermediate,sector 9,Light sections,2014,2.3
+imports,sector 9,Light sections,2014,2.3
 sector 9,scrap,scrap Light sections,2014,0.5
-uk_intermediate,sector 11,Light sections,2014,2.3
+imports,sector 11,Light sections,2014,2.3
 sector 11,scrap,scrap Light sections,2014,0.7
-uk_intermediate,sector 13,Light sections,2014,54.9
+uk_production,sector 13,Light sections,2014,38.3
+imports,sector 13,Light sections,2014,16.6
 sector 13,scrap,scrap Light sections,2014,16.5
-uk_intermediate,sector 14,Light sections,2014,50.0
+uk_production,sector 14,Light sections,2014,34.9
+imports,sector 14,Light sections,2014,15.1
 sector 14,scrap,scrap Light sections,2014,2.5
-uk_intermediate,sector 15a,Light sections,2014,10.3
+uk_production,sector 15a,Light sections,2014,7.2
+imports,sector 15a,Light sections,2014,3.1
 sector 15a,scrap,scrap Light sections,2014,4.4
-uk_intermediate,sector 15b,Light sections,2014,11.6
+uk_production,sector 15b,Light sections,2014,8.1
+imports,sector 15b,Light sections,2014,3.5
 sector 15b,scrap,scrap Light sections,2014,4.2
-uk_intermediate,sector 20,Light sections,2014,10.5
+uk_production,sector 20,Light sections,2014,10.5
 sector 20,scrap,scrap Light sections,2014,1.8
-uk_production,uk_intermediate,Railway track material,2014,157.9
 uk_production,exports,Railway track material,2014,87.1
-imports,uk_intermediate,Railway track material,2014,278.4
-uk_intermediate,sector 11,Railway track material,2014,40.5
+uk_production,sector 11,Railway track material,2014,14.7
+imports,sector 11,Railway track material,2014,25.8
 sector 11,scrap,scrap Railway track material,2014,2.0
-uk_intermediate,sector 13,Railway track material,2014,3.2
+uk_production,sector 13,Railway track material,2014,1.1
+imports,sector 13,Railway track material,2014,2.1
 sector 13,scrap,scrap Railway track material,2014,0.2
-uk_intermediate,sector 14,Railway track material,2014,392.7
+uk_production,sector 14,Railway track material,2014,142.1
+imports,sector 14,Railway track material,2014,250.6
 sector 14,scrap,scrap Railway track material,2014,19.6
-uk_production,uk_intermediate,Reinforcing bar,2014,157.0
 uk_production,exports,Reinforcing bar,2014,155.0
-imports,uk_intermediate,Reinforcing bar,2014,164.8
-uk_intermediate,sector 14,Reinforcing bar,2014,321.8
+uk_production,sector 14,Reinforcing bar,2014,157.0
+imports,sector 14,Reinforcing bar,2014,164.8
 sector 14,scrap,scrap Reinforcing bar,2014,16.1
-uk_production,uk_intermediate,Rods,2014,519.2
 uk_production,exports,Rods,2014,574.7
-imports,uk_intermediate,Rods,2014,610.9
-uk_intermediate,sector 4,Rods,2014,344.4
+uk_production,sector 4,Rods,2014,129.8
+imports,sector 4,Rods,2014,214.6
 sector 4,scrap,scrap Rods,2014,34.4
-uk_intermediate,sector 14,Rods,2014,629.2
+uk_production,sector 14,Rods,2014,237.3
+imports,sector 14,Rods,2014,391.9
 sector 14,scrap,scrap Rods,2014,31.5
-uk_intermediate,sector 15b,Rods,2014,7.0
+uk_production,sector 15b,Rods,2014,2.6
+imports,sector 15b,Rods,2014,4.4
 sector 15b,scrap,scrap Rods,2014,0.7
-uk_intermediate,sector 20,Rods,2014,149.5
+uk_production,sector 20,Rods,2014,149.5
 sector 20,scrap,scrap Rods,2014,15.0
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2014,27.8
 uk_production,exports,Sheet piling and rolled accessories,2014,15.3
-imports,uk_intermediate,Sheet piling and rolled accessories,2014,49.0
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2014,10.9
+uk_production,sector 11,Sheet piling and rolled accessories,2014,3.8
+imports,sector 11,Sheet piling and rolled accessories,2014,7.1
 sector 11,scrap,scrap Sheet piling and rolled accessories,2014,3.1
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2014,0.9
+uk_production,sector 13,Sheet piling and rolled accessories,2014,0.3
+imports,sector 13,Sheet piling and rolled accessories,2014,0.6
 sector 13,scrap,scrap Sheet piling and rolled accessories,2014,0.3
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2014,61.3
+uk_production,sector 14,Sheet piling and rolled accessories,2014,21.4
+imports,sector 14,Sheet piling and rolled accessories,2014,40.0
 sector 14,scrap,scrap Sheet piling and rolled accessories,2014,3.1
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2014,1.5
+uk_production,sector 16,Sheet piling and rolled accessories,2014,0.5
+imports,sector 16,Sheet piling and rolled accessories,2014,1.0
 sector 16,scrap,scrap Sheet piling and rolled accessories,2014,0.6
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2014,0.6
+uk_production,sector 17,Sheet piling and rolled accessories,2014,0.2
+imports,sector 17,Sheet piling and rolled accessories,2014,0.4
 sector 17,scrap,scrap Sheet piling and rolled accessories,2014,0.1
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2014,1.6
+uk_production,sector 20,Sheet piling and rolled accessories,2014,1.6
 sector 20,scrap,scrap Sheet piling and rolled accessories,2014,0.3
 component_imports,sector 4,component,2014,284.0
 sector 4,products 4,4,2014,621.0
@@ -1844,237 +2101,280 @@ products 19,uk_demand,19,2014,2.4
 products 20,product_exports,20,2014,1.3
 products 20,uk_demand,20,2014,408.3
 product_imports,uk_demand,20,2014,7.4
-uk_production,uk_intermediate,Cold rolled,2015,24.7
 uk_production,exports,Cold rolled,2015,8.3
-imports,uk_intermediate,Cold rolled,2015,68.8
-uk_intermediate,sector 5,Cold rolled,2015,2.2
+uk_production,sector 5,Cold rolled,2015,0.5
+imports,sector 5,Cold rolled,2015,1.6
 sector 5,scrap,scrap Cold rolled,2015,0.4
-uk_intermediate,sector 6,Cold rolled,2015,3.2
+uk_production,sector 6,Cold rolled,2015,0.8
+imports,sector 6,Cold rolled,2015,2.4
 sector 6,scrap,scrap Cold rolled,2015,0.3
-uk_intermediate,sector 7,Cold rolled,2015,15.4
+uk_production,sector 7,Cold rolled,2015,3.9
+imports,sector 7,Cold rolled,2015,11.5
 sector 7,scrap,scrap Cold rolled,2015,2.6
-uk_intermediate,sector 8,Cold rolled,2015,13.7
+uk_production,sector 8,Cold rolled,2015,3.5
+imports,sector 8,Cold rolled,2015,10.2
 sector 8,scrap,scrap Cold rolled,2015,2.7
-uk_intermediate,sector 9,Cold rolled,2015,1.2
+uk_production,sector 9,Cold rolled,2015,0.3
+imports,sector 9,Cold rolled,2015,0.9
 sector 9,scrap,scrap Cold rolled,2015,0.3
-uk_intermediate,sector 12,Cold rolled,2015,4.4
+uk_production,sector 12,Cold rolled,2015,1.1
+imports,sector 12,Cold rolled,2015,3.3
 sector 12,scrap,scrap Cold rolled,2015,1.7
-uk_intermediate,sector 14,Cold rolled,2015,0.6
+uk_production,sector 14,Cold rolled,2015,0.1
+imports,sector 14,Cold rolled,2015,0.4
 sector 14,scrap,scrap Cold rolled,2015,0.1
-uk_intermediate,sector 15a,Cold rolled,2015,51.5
+uk_production,sector 15a,Cold rolled,2015,13.0
+imports,sector 15a,Cold rolled,2015,38.5
 sector 15a,scrap,scrap Cold rolled,2015,22.1
-uk_intermediate,sector 20,Cold rolled,2015,1.4
+uk_production,sector 20,Cold rolled,2015,1.4
 sector 20,scrap,scrap Cold rolled,2015,0.2
-uk_production,uk_intermediate,Electro coated,2015,35.3
 uk_production,exports,Electro coated,2015,30.7
-imports,uk_intermediate,Electro coated,2015,71.8
-uk_intermediate,sector 8,Electro coated,2015,107.1
+uk_production,sector 8,Electro coated,2015,35.3
+imports,sector 8,Electro coated,2015,71.8
 sector 8,scrap,scrap Electro coated,2015,21.4
-uk_production,uk_intermediate,Hot dipped galvanised,2015,575.4
 uk_production,exports,Hot dipped galvanised,2015,500.6
-imports,uk_intermediate,Hot dipped galvanised,2015,1169.8
-uk_intermediate,sector 6,Hot dipped galvanised,2015,298.6
+uk_production,sector 6,Hot dipped galvanised,2015,298.6
 sector 6,scrap,scrap Hot dipped galvanised,2015,29.9
-uk_intermediate,sector 7,Hot dipped galvanised,2015,82.9
+uk_production,sector 7,Hot dipped galvanised,2015,82.9
 sector 7,scrap,scrap Hot dipped galvanised,2015,14.1
-uk_intermediate,sector 8,Hot dipped galvanised,2015,44.9
+uk_production,sector 8,Hot dipped galvanised,2015,44.9
 sector 8,scrap,scrap Hot dipped galvanised,2015,9.0
-uk_intermediate,sector 12,Hot dipped galvanised,2015,17.8
+uk_production,sector 12,Hot dipped galvanised,2015,17.8
 sector 12,scrap,scrap Hot dipped galvanised,2015,3.6
-uk_intermediate,sector 14,Hot dipped galvanised,2015,34.5
+uk_production,sector 14,Hot dipped galvanised,2015,34.5
 sector 14,scrap,scrap Hot dipped galvanised,2015,3.8
-uk_intermediate,sector 15a,Hot dipped galvanised,2015,1256.7
+uk_production,sector 15a,Hot dipped galvanised,2015,86.9
+imports,sector 15a,Hot dipped galvanised,2015,1169.8
 sector 15a,scrap,scrap Hot dipped galvanised,2015,540.4
-uk_intermediate,sector 20,Hot dipped galvanised,2015,9.8
+uk_production,sector 20,Hot dipped galvanised,2015,9.8
 sector 20,scrap,scrap Hot dipped galvanised,2015,1.7
-uk_production,uk_intermediate,Hot rolled,2015,422.8
 uk_production,exports,Hot rolled,2015,452.1
-imports,uk_intermediate,Hot rolled,2015,1056.7
-uk_intermediate,sector 6,Hot rolled,2015,405.5
+uk_production,sector 6,Hot rolled,2015,115.8
+imports,sector 6,Hot rolled,2015,289.6
 sector 6,scrap,scrap Hot rolled,2015,40.5
-uk_intermediate,sector 7,Hot rolled,2015,112.4
+uk_production,sector 7,Hot rolled,2015,32.1
+imports,sector 7,Hot rolled,2015,80.2
 sector 7,scrap,scrap Hot rolled,2015,33.7
-uk_intermediate,sector 8,Hot rolled,2015,14.8
+uk_production,sector 8,Hot rolled,2015,4.2
+imports,sector 8,Hot rolled,2015,10.6
 sector 8,scrap,scrap Hot rolled,2015,3.0
-uk_intermediate,sector 12,Hot rolled,2015,74.0
+uk_production,sector 12,Hot rolled,2015,21.1
+imports,sector 12,Hot rolled,2015,52.8
 sector 12,scrap,scrap Hot rolled,2015,14.8
-uk_intermediate,sector 14,Hot rolled,2015,872.9
+uk_production,sector 14,Hot rolled,2015,249.5
+imports,sector 14,Hot rolled,2015,623.5
 sector 14,scrap,scrap Hot rolled,2015,96.0
-uk_production,uk_intermediate,Organic coated,2015,162.0
 uk_production,exports,Organic coated,2015,141.0
-imports,uk_intermediate,Organic coated,2015,329.4
-uk_intermediate,sector 6,Organic coated,2015,192.5
+uk_production,sector 6,Organic coated,2015,63.5
+imports,sector 6,Organic coated,2015,129.0
 sector 6,scrap,scrap Organic coated,2015,19.2
-uk_intermediate,sector 7,Organic coated,2015,53.2
+uk_production,sector 7,Organic coated,2015,17.5
+imports,sector 7,Organic coated,2015,35.7
 sector 7,scrap,scrap Organic coated,2015,21.3
-uk_intermediate,sector 8,Organic coated,2015,245.7
+uk_production,sector 8,Organic coated,2015,81.0
+imports,sector 8,Organic coated,2015,164.7
 sector 8,scrap,scrap Organic coated,2015,49.1
-uk_production,uk_intermediate,Plate,2015,780.3
 uk_production,exports,Plate,2015,642.1
-imports,uk_intermediate,Plate,2015,227.7
-uk_intermediate,sector 5,Plate,2015,12.1
+uk_production,sector 5,Plate,2015,9.4
+imports,sector 5,Plate,2015,2.7
 sector 5,scrap,scrap Plate,2015,3.6
-uk_intermediate,sector 7,Plate,2015,15.0
+uk_production,sector 7,Plate,2015,11.7
+imports,sector 7,Plate,2015,3.3
 sector 7,scrap,scrap Plate,2015,4.5
-uk_intermediate,sector 8,Plate,2015,4.1
+uk_production,sector 8,Plate,2015,3.1
+imports,sector 8,Plate,2015,1.0
 sector 8,scrap,scrap Plate,2015,0.8
-uk_intermediate,sector 9,Plate,2015,32.1
+imports,sector 9,Plate,2015,32.1
 sector 9,scrap,scrap Plate,2015,7.7
-uk_intermediate,sector 11,Plate,2015,91.6
+uk_production,sector 11,Plate,2015,46.0
+imports,sector 11,Plate,2015,45.5
 sector 11,scrap,scrap Plate,2015,26.6
-uk_intermediate,sector 12,Plate,2015,18.1
+uk_production,sector 12,Plate,2015,14.0
+imports,sector 12,Plate,2015,4.1
 sector 12,scrap,scrap Plate,2015,3.6
-uk_intermediate,sector 13,Plate,2015,167.3
+uk_production,sector 13,Plate,2015,129.5
+imports,sector 13,Plate,2015,37.8
 sector 13,scrap,scrap Plate,2015,50.2
-uk_intermediate,sector 14,Plate,2015,286.2
+uk_production,sector 14,Plate,2015,221.6
+imports,sector 14,Plate,2015,64.6
 sector 14,scrap,scrap Plate,2015,31.5
-uk_intermediate,sector 15a,Plate,2015,81.7
+uk_production,sector 15a,Plate,2015,63.2
+imports,sector 15a,Plate,2015,18.5
 sector 15a,scrap,scrap Plate,2015,35.1
-uk_intermediate,sector 16,Plate,2015,80.5
+uk_production,sector 16,Plate,2015,62.4
+imports,sector 16,Plate,2015,18.1
 sector 16,scrap,scrap Plate,2015,29.0
-uk_intermediate,sector 20,Plate,2015,220.0
+uk_production,sector 20,Plate,2015,220.0
 sector 20,scrap,scrap Plate,2015,66.0
-uk_production,uk_intermediate,Tin plate,2015,217.7
 uk_production,exports,Tin plate,2015,189.3
-imports,uk_intermediate,Tin plate,2015,442.5
-uk_intermediate,sector 6,Tin plate,2015,660.2
+uk_production,sector 6,Tin plate,2015,217.7
+imports,sector 6,Tin plate,2015,442.5
 sector 6,scrap,scrap Tin plate,2015,198.1
-uk_production,uk_intermediate,Tubes and pipes,2015,356.4
 uk_production,exports,Tubes and pipes,2015,288.6
-imports,uk_intermediate,Tubes and pipes,2015,829.9
-uk_intermediate,sector 8,Tubes and pipes,2015,156.8
+uk_production,sector 8,Tubes and pipes,2015,41.0
+imports,sector 8,Tubes and pipes,2015,115.8
 sector 8,scrap,scrap Tubes and pipes,2015,31.4
-uk_intermediate,sector 11,Tubes and pipes,2015,7.8
+uk_production,sector 11,Tubes and pipes,2015,2.1
+imports,sector 11,Tubes and pipes,2015,5.6
 sector 11,scrap,scrap Tubes and pipes,2015,0.4
-uk_intermediate,sector 12,Tubes and pipes,2015,163.4
+uk_production,sector 12,Tubes and pipes,2015,42.8
+imports,sector 12,Tubes and pipes,2015,120.6
 sector 12,scrap,scrap Tubes and pipes,2015,8.2
-uk_intermediate,sector 14,Tubes and pipes,2015,87.1
+uk_production,sector 14,Tubes and pipes,2015,22.8
+imports,sector 14,Tubes and pipes,2015,64.3
 sector 14,scrap,scrap Tubes and pipes,2015,4.4
-uk_intermediate,sector 15b,Tubes and pipes,2015,325.3
+uk_production,sector 15b,Tubes and pipes,2015,84.8
+imports,sector 15b,Tubes and pipes,2015,240.4
 sector 15b,scrap,scrap Tubes and pipes,2015,16.3
-uk_intermediate,sector 16,Tubes and pipes,2015,27.2
+uk_production,sector 16,Tubes and pipes,2015,7.1
+imports,sector 16,Tubes and pipes,2015,20.1
 sector 16,scrap,scrap Tubes and pipes,2015,1.4
-uk_intermediate,sector 17,Tubes and pipes,2015,184.0
+uk_production,sector 17,Tubes and pipes,2015,48.1
+imports,sector 17,Tubes and pipes,2015,135.9
 sector 17,scrap,scrap Tubes and pipes,2015,9.2
-uk_intermediate,sector 18,Tubes and pipes,2015,172.0
+uk_production,sector 18,Tubes and pipes,2015,44.9
+imports,sector 18,Tubes and pipes,2015,127.1
 sector 18,scrap,scrap Tubes and pipes,2015,8.6
-uk_intermediate,sector 20,Tubes and pipes,2015,63.4
+uk_production,sector 20,Tubes and pipes,2015,63.4
 sector 20,scrap,scrap Tubes and pipes,2015,3.2
-uk_production,uk_intermediate,Bright bars,2015,74.4
 uk_production,exports,Bright bars,2015,80.6
-imports,uk_intermediate,Bright bars,2015,91.6
-uk_intermediate,sector 4,Bright bars,2015,18.0
+uk_production,sector 4,Bright bars,2015,7.8
+imports,sector 4,Bright bars,2015,10.2
 sector 4,scrap,scrap Bright bars,2015,3.1
-uk_intermediate,sector 5,Bright bars,2015,7.2
+uk_production,sector 5,Bright bars,2015,3.1
+imports,sector 5,Bright bars,2015,4.1
 sector 5,scrap,scrap Bright bars,2015,1.2
-uk_intermediate,sector 6,Bright bars,2015,0.7
+uk_production,sector 6,Bright bars,2015,0.3
+imports,sector 6,Bright bars,2015,0.4
 sector 6,scrap,scrap Bright bars,2015,0.1
-uk_intermediate,sector 7,Bright bars,2015,8.1
+uk_production,sector 7,Bright bars,2015,3.5
+imports,sector 7,Bright bars,2015,4.6
 sector 7,scrap,scrap Bright bars,2015,1.4
-uk_intermediate,sector 8,Bright bars,2015,0.7
+uk_production,sector 8,Bright bars,2015,0.3
+imports,sector 8,Bright bars,2015,0.4
 sector 8,scrap,scrap Bright bars,2015,0.1
-uk_intermediate,sector 10,Bright bars,2015,11.1
+uk_production,sector 10,Bright bars,2015,4.8
+imports,sector 10,Bright bars,2015,6.3
 sector 10,scrap,scrap Bright bars,2015,3.3
-uk_intermediate,sector 11,Bright bars,2015,4.0
+uk_production,sector 11,Bright bars,2015,1.7
+imports,sector 11,Bright bars,2015,2.2
 sector 11,scrap,scrap Bright bars,2015,1.1
-uk_intermediate,sector 12,Bright bars,2015,49.9
+uk_production,sector 12,Bright bars,2015,21.6
+imports,sector 12,Bright bars,2015,28.3
 sector 12,scrap,scrap Bright bars,2015,15.0
-uk_intermediate,sector 15b,Bright bars,2015,60.5
+uk_production,sector 15b,Bright bars,2015,26.2
+imports,sector 15b,Bright bars,2015,34.3
 sector 15b,scrap,scrap Bright bars,2015,12.1
-uk_intermediate,sector 16,Bright bars,2015,1.2
+uk_production,sector 16,Bright bars,2015,0.5
+imports,sector 16,Bright bars,2015,0.7
 sector 16,scrap,scrap Bright bars,2015,0.2
-uk_intermediate,sector 20,Bright bars,2015,4.6
+uk_production,sector 20,Bright bars,2015,4.6
 sector 20,scrap,scrap Bright bars,2015,0.8
-uk_production,uk_intermediate,Heavy sections,2015,427.8
 uk_production,exports,Heavy sections,2015,243.2
-imports,uk_intermediate,Heavy sections,2015,627.4
-uk_intermediate,sector 14,Heavy sections,2015,1055.2
+uk_production,sector 14,Heavy sections,2015,427.8
+imports,sector 14,Heavy sections,2015,627.4
 sector 14,scrap,scrap Heavy sections,2015,52.8
-uk_production,uk_intermediate,Hot rolled bars in lengths,2015,182.5
 uk_production,exports,Hot rolled bars in lengths,2015,312.1
-imports,uk_intermediate,Hot rolled bars in lengths,2015,115.3
-uk_intermediate,sector 4,Hot rolled bars in lengths,2015,9.6
+uk_production,sector 4,Hot rolled bars in lengths,2015,5.3
+imports,sector 4,Hot rolled bars in lengths,2015,4.3
 sector 4,scrap,scrap Hot rolled bars in lengths,2015,1.6
-uk_intermediate,sector 5,Hot rolled bars in lengths,2015,7.0
+uk_production,sector 5,Hot rolled bars in lengths,2015,3.8
+imports,sector 5,Hot rolled bars in lengths,2015,3.2
 sector 5,scrap,scrap Hot rolled bars in lengths,2015,1.2
-uk_intermediate,sector 7,Hot rolled bars in lengths,2015,76.5
+uk_production,sector 7,Hot rolled bars in lengths,2015,42.3
+imports,sector 7,Hot rolled bars in lengths,2015,34.1
 sector 7,scrap,scrap Hot rolled bars in lengths,2015,19.1
-uk_intermediate,sector 11,Hot rolled bars in lengths,2015,51.1
+uk_production,sector 11,Hot rolled bars in lengths,2015,28.3
+imports,sector 11,Hot rolled bars in lengths,2015,22.8
 sector 11,scrap,scrap Hot rolled bars in lengths,2015,14.8
-uk_intermediate,sector 12,Hot rolled bars in lengths,2015,41.9
+uk_production,sector 12,Hot rolled bars in lengths,2015,23.2
+imports,sector 12,Hot rolled bars in lengths,2015,18.8
 sector 12,scrap,scrap Hot rolled bars in lengths,2015,12.6
-uk_intermediate,sector 13,Hot rolled bars in lengths,2015,15.8
+uk_production,sector 13,Hot rolled bars in lengths,2015,8.8
+imports,sector 13,Hot rolled bars in lengths,2015,7.0
 sector 13,scrap,scrap Hot rolled bars in lengths,2015,4.7
-uk_intermediate,sector 14,Hot rolled bars in lengths,2015,43.9
+uk_production,sector 14,Hot rolled bars in lengths,2015,24.3
+imports,sector 14,Hot rolled bars in lengths,2015,19.7
 sector 14,scrap,scrap Hot rolled bars in lengths,2015,2.2
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2015,7.6
+uk_production,sector 15b,Hot rolled bars in lengths,2015,4.2
+imports,sector 15b,Hot rolled bars in lengths,2015,3.4
 sector 15b,scrap,scrap Hot rolled bars in lengths,2015,1.5
-uk_intermediate,sector 16,Hot rolled bars in lengths,2015,2.0
+uk_production,sector 16,Hot rolled bars in lengths,2015,1.1
+imports,sector 16,Hot rolled bars in lengths,2015,0.9
 sector 16,scrap,scrap Hot rolled bars in lengths,2015,0.4
-uk_intermediate,sector 19,Hot rolled bars in lengths,2015,2.6
+uk_production,sector 19,Hot rolled bars in lengths,2015,1.5
+imports,sector 19,Hot rolled bars in lengths,2015,1.1
 sector 19,scrap,scrap Hot rolled bars in lengths,2015,0.5
-uk_intermediate,sector 20,Hot rolled bars in lengths,2015,39.8
+uk_production,sector 20,Hot rolled bars in lengths,2015,39.8
 sector 20,scrap,scrap Hot rolled bars in lengths,2015,9.9
-uk_production,uk_intermediate,Light sections,2015,93.5
 uk_production,exports,Light sections,2015,108.2
-imports,uk_intermediate,Light sections,2015,26.9
-uk_intermediate,sector 6,Light sections,2015,1.6
+uk_production,sector 6,Light sections,2015,1.2
+imports,sector 6,Light sections,2015,0.4
 sector 6,scrap,scrap Light sections,2015,0.2
-uk_intermediate,sector 7,Light sections,2015,4.1
+uk_production,sector 7,Light sections,2015,3.2
+imports,sector 7,Light sections,2015,0.9
 sector 7,scrap,scrap Light sections,2015,0.7
-uk_intermediate,sector 9,Light sections,2015,1.4
+imports,sector 9,Light sections,2015,1.4
 sector 9,scrap,scrap Light sections,2015,0.3
-uk_intermediate,sector 11,Light sections,2015,1.4
+imports,sector 11,Light sections,2015,1.4
 sector 11,scrap,scrap Light sections,2015,0.4
-uk_intermediate,sector 13,Light sections,2015,44.4
+uk_production,sector 13,Light sections,2015,34.5
+imports,sector 13,Light sections,2015,9.9
 sector 13,scrap,scrap Light sections,2015,13.3
-uk_intermediate,sector 14,Light sections,2015,40.4
+uk_production,sector 14,Light sections,2015,31.4
+imports,sector 14,Light sections,2015,9.0
 sector 14,scrap,scrap Light sections,2015,2.0
-uk_intermediate,sector 15a,Light sections,2015,8.3
+uk_production,sector 15a,Light sections,2015,6.5
+imports,sector 15a,Light sections,2015,1.9
 sector 15a,scrap,scrap Light sections,2015,3.6
-uk_intermediate,sector 15b,Light sections,2015,9.4
+uk_production,sector 15b,Light sections,2015,7.3
+imports,sector 15b,Light sections,2015,2.1
 sector 15b,scrap,scrap Light sections,2015,3.4
-uk_intermediate,sector 20,Light sections,2015,9.4
+uk_production,sector 20,Light sections,2015,9.4
 sector 20,scrap,scrap Light sections,2015,1.6
-uk_production,uk_intermediate,Railway track material,2015,174.0
 uk_production,exports,Railway track material,2015,99.0
-imports,uk_intermediate,Railway track material,2015,255.3
-uk_intermediate,sector 11,Railway track material,2015,39.8
+uk_production,sector 11,Railway track material,2015,16.2
+imports,sector 11,Railway track material,2015,23.6
 sector 11,scrap,scrap Railway track material,2015,2.0
-uk_intermediate,sector 13,Railway track material,2015,3.1
+uk_production,sector 13,Railway track material,2015,1.2
+imports,sector 13,Railway track material,2015,1.9
 sector 13,scrap,scrap Railway track material,2015,0.2
-uk_intermediate,sector 14,Railway track material,2015,386.4
+uk_production,sector 14,Railway track material,2015,156.6
+imports,sector 14,Railway track material,2015,229.8
 sector 14,scrap,scrap Railway track material,2015,19.3
-uk_production,uk_intermediate,Reinforcing bar,2015,153.2
 uk_production,exports,Reinforcing bar,2015,155.8
-imports,uk_intermediate,Reinforcing bar,2015,155.5
-uk_intermediate,sector 14,Reinforcing bar,2015,308.7
+uk_production,sector 14,Reinforcing bar,2015,153.2
+imports,sector 14,Reinforcing bar,2015,155.5
 sector 14,scrap,scrap Reinforcing bar,2015,15.4
-uk_production,uk_intermediate,Rods,2015,542.8
 uk_production,exports,Rods,2015,606.1
-imports,uk_intermediate,Rods,2015,605.0
-uk_intermediate,sector 4,Rods,2015,348.2
+uk_production,sector 4,Rods,2015,135.7
+imports,sector 4,Rods,2015,212.5
 sector 4,scrap,scrap Rods,2015,34.8
-uk_intermediate,sector 14,Rods,2015,636.2
+uk_production,sector 14,Rods,2015,248.1
+imports,sector 14,Rods,2015,388.2
 sector 14,scrap,scrap Rods,2015,31.8
-uk_intermediate,sector 15b,Rods,2015,7.1
+uk_production,sector 15b,Rods,2015,2.7
+imports,sector 15b,Rods,2015,4.3
 sector 15b,scrap,scrap Rods,2015,0.7
-uk_intermediate,sector 20,Rods,2015,156.3
+uk_production,sector 20,Rods,2015,156.3
 sector 20,scrap,scrap Rods,2015,15.6
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2015,23.8
 uk_production,exports,Sheet piling and rolled accessories,2015,13.5
-imports,uk_intermediate,Sheet piling and rolled accessories,2015,34.9
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2015,8.3
+uk_production,sector 11,Sheet piling and rolled accessories,2015,3.2
+imports,sector 11,Sheet piling and rolled accessories,2015,5.0
 sector 11,scrap,scrap Sheet piling and rolled accessories,2015,2.4
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2015,0.7
+uk_production,sector 13,Sheet piling and rolled accessories,2015,0.3
+imports,sector 13,Sheet piling and rolled accessories,2015,0.4
 sector 13,scrap,scrap Sheet piling and rolled accessories,2015,0.2
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2015,46.8
+uk_production,sector 14,Sheet piling and rolled accessories,2015,18.3
+imports,sector 14,Sheet piling and rolled accessories,2015,28.5
 sector 14,scrap,scrap Sheet piling and rolled accessories,2015,2.3
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2015,1.2
+uk_production,sector 16,Sheet piling and rolled accessories,2015,0.5
+imports,sector 16,Sheet piling and rolled accessories,2015,0.7
 sector 16,scrap,scrap Sheet piling and rolled accessories,2015,0.4
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2015,0.4
+uk_production,sector 17,Sheet piling and rolled accessories,2015,0.2
+imports,sector 17,Sheet piling and rolled accessories,2015,0.3
 sector 17,scrap,scrap Sheet piling and rolled accessories,2015,0.1
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2015,1.4
+uk_production,sector 20,Sheet piling and rolled accessories,2015,1.4
 sector 20,scrap,scrap Sheet piling and rolled accessories,2015,0.2
 component_imports,sector 4,component,2015,275.7
 sector 4,products 4,4,2015,612.0
@@ -2153,237 +2453,280 @@ products 19,uk_demand,19,2015,2.1
 products 20,product_exports,20,2015,1.3
 products 20,uk_demand,20,2015,405.7
 product_imports,uk_demand,20,2015,7.9
-uk_production,uk_intermediate,Cold rolled,2016,22.7
 uk_production,exports,Cold rolled,2016,8.5
-imports,uk_intermediate,Cold rolled,2016,77.3
-uk_intermediate,sector 5,Cold rolled,2016,2.3
+uk_production,sector 5,Cold rolled,2016,0.5
+imports,sector 5,Cold rolled,2016,1.8
 sector 5,scrap,scrap Cold rolled,2016,0.4
-uk_intermediate,sector 6,Cold rolled,2016,3.4
+uk_production,sector 6,Cold rolled,2016,0.7
+imports,sector 6,Cold rolled,2016,2.7
 sector 6,scrap,scrap Cold rolled,2016,0.3
-uk_intermediate,sector 7,Cold rolled,2016,16.6
+uk_production,sector 7,Cold rolled,2016,3.6
+imports,sector 7,Cold rolled,2016,13.0
 sector 7,scrap,scrap Cold rolled,2016,2.8
-uk_intermediate,sector 8,Cold rolled,2016,14.6
+uk_production,sector 8,Cold rolled,2016,3.2
+imports,sector 8,Cold rolled,2016,11.5
 sector 8,scrap,scrap Cold rolled,2016,2.9
-uk_intermediate,sector 9,Cold rolled,2016,1.3
+uk_production,sector 9,Cold rolled,2016,0.3
+imports,sector 9,Cold rolled,2016,1.0
 sector 9,scrap,scrap Cold rolled,2016,0.3
-uk_intermediate,sector 12,Cold rolled,2016,4.7
+uk_production,sector 12,Cold rolled,2016,1.0
+imports,sector 12,Cold rolled,2016,3.7
 sector 12,scrap,scrap Cold rolled,2016,1.9
-uk_intermediate,sector 14,Cold rolled,2016,0.6
+uk_production,sector 14,Cold rolled,2016,0.1
+imports,sector 14,Cold rolled,2016,0.5
 sector 14,scrap,scrap Cold rolled,2016,0.1
-uk_intermediate,sector 15a,Cold rolled,2016,55.2
+uk_production,sector 15a,Cold rolled,2016,12.0
+imports,sector 15a,Cold rolled,2016,43.2
 sector 15a,scrap,scrap Cold rolled,2016,23.7
-uk_intermediate,sector 20,Cold rolled,2016,1.3
+uk_production,sector 20,Cold rolled,2016,1.3
 sector 20,scrap,scrap Cold rolled,2016,0.2
-uk_production,uk_intermediate,Electro coated,2016,32.7
 uk_production,exports,Electro coated,2016,22.3
-imports,uk_intermediate,Electro coated,2016,91.2
-uk_intermediate,sector 8,Electro coated,2016,123.9
+uk_production,sector 8,Electro coated,2016,32.7
+imports,sector 8,Electro coated,2016,91.2
 sector 8,scrap,scrap Electro coated,2016,24.8
-uk_production,uk_intermediate,Hot dipped galvanised,2016,474.6
 uk_production,exports,Hot dipped galvanised,2016,324.4
-imports,uk_intermediate,Hot dipped galvanised,2016,1324.2
-uk_intermediate,sector 6,Hot dipped galvanised,2016,246.3
+uk_production,sector 6,Hot dipped galvanised,2016,246.3
 sector 6,scrap,scrap Hot dipped galvanised,2016,24.6
-uk_intermediate,sector 7,Hot dipped galvanised,2016,68.3
+uk_production,sector 7,Hot dipped galvanised,2016,68.3
 sector 7,scrap,scrap Hot dipped galvanised,2016,11.6
-uk_intermediate,sector 8,Hot dipped galvanised,2016,37.0
+uk_production,sector 8,Hot dipped galvanised,2016,37.0
 sector 8,scrap,scrap Hot dipped galvanised,2016,7.4
-uk_intermediate,sector 12,Hot dipped galvanised,2016,14.7
+uk_production,sector 12,Hot dipped galvanised,2016,14.7
 sector 12,scrap,scrap Hot dipped galvanised,2016,2.9
-uk_intermediate,sector 14,Hot dipped galvanised,2016,28.5
+uk_production,sector 14,Hot dipped galvanised,2016,28.5
 sector 14,scrap,scrap Hot dipped galvanised,2016,3.1
-uk_intermediate,sector 15a,Hot dipped galvanised,2016,1395.9
+uk_production,sector 15a,Hot dipped galvanised,2016,71.7
+imports,sector 15a,Hot dipped galvanised,2016,1324.2
 sector 15a,scrap,scrap Hot dipped galvanised,2016,600.2
-uk_intermediate,sector 20,Hot dipped galvanised,2016,8.1
+uk_production,sector 20,Hot dipped galvanised,2016,8.1
 sector 20,scrap,scrap Hot dipped galvanised,2016,1.4
-uk_production,uk_intermediate,Hot rolled,2016,249.0
 uk_production,exports,Hot rolled,2016,224.8
-imports,uk_intermediate,Hot rolled,2016,917.8
-uk_intermediate,sector 6,Hot rolled,2016,319.8
+uk_production,sector 6,Hot rolled,2016,68.2
+imports,sector 6,Hot rolled,2016,251.5
 sector 6,scrap,scrap Hot rolled,2016,32.0
-uk_intermediate,sector 7,Hot rolled,2016,88.6
+uk_production,sector 7,Hot rolled,2016,18.9
+imports,sector 7,Hot rolled,2016,69.7
 sector 7,scrap,scrap Hot rolled,2016,26.6
-uk_intermediate,sector 8,Hot rolled,2016,11.7
+uk_production,sector 8,Hot rolled,2016,2.5
+imports,sector 8,Hot rolled,2016,9.2
 sector 8,scrap,scrap Hot rolled,2016,2.3
-uk_intermediate,sector 12,Hot rolled,2016,58.3
+uk_production,sector 12,Hot rolled,2016,12.5
+imports,sector 12,Hot rolled,2016,45.9
 sector 12,scrap,scrap Hot rolled,2016,11.7
-uk_intermediate,sector 14,Hot rolled,2016,688.4
+uk_production,sector 14,Hot rolled,2016,146.9
+imports,sector 14,Hot rolled,2016,541.5
 sector 14,scrap,scrap Hot rolled,2016,75.7
-uk_production,uk_intermediate,Organic coated,2016,203.2
 uk_production,exports,Organic coated,2016,138.8
-imports,uk_intermediate,Organic coated,2016,566.8
-uk_intermediate,sector 6,Organic coated,2016,301.6
+uk_production,sector 6,Organic coated,2016,79.7
+imports,sector 6,Organic coated,2016,221.9
 sector 6,scrap,scrap Organic coated,2016,30.2
-uk_intermediate,sector 7,Organic coated,2016,83.4
+uk_production,sector 7,Organic coated,2016,21.9
+imports,sector 7,Organic coated,2016,61.5
 sector 7,scrap,scrap Organic coated,2016,33.4
-uk_intermediate,sector 8,Organic coated,2016,385.0
+uk_production,sector 8,Organic coated,2016,101.6
+imports,sector 8,Organic coated,2016,283.4
 sector 8,scrap,scrap Organic coated,2016,77.0
-uk_production,uk_intermediate,Plate,2016,750.1
 uk_production,exports,Plate,2016,348.7
-imports,uk_intermediate,Plate,2016,355.5
-uk_intermediate,sector 5,Plate,2016,13.3
+uk_production,sector 5,Plate,2016,9.0
+imports,sector 5,Plate,2016,4.3
 sector 5,scrap,scrap Plate,2016,4.0
-uk_intermediate,sector 7,Plate,2016,16.4
+uk_production,sector 7,Plate,2016,11.3
+imports,sector 7,Plate,2016,5.2
 sector 7,scrap,scrap Plate,2016,4.9
-uk_intermediate,sector 8,Plate,2016,4.6
+uk_production,sector 8,Plate,2016,3.0
+imports,sector 8,Plate,2016,1.6
 sector 8,scrap,scrap Plate,2016,0.9
-uk_intermediate,sector 9,Plate,2016,50.1
+imports,sector 9,Plate,2016,50.1
 sector 9,scrap,scrap Plate,2016,12.0
-uk_intermediate,sector 11,Plate,2016,115.3
+uk_production,sector 11,Plate,2016,44.3
+imports,sector 11,Plate,2016,71.1
 sector 11,scrap,scrap Plate,2016,33.4
-uk_intermediate,sector 12,Plate,2016,19.8
+uk_production,sector 12,Plate,2016,13.5
+imports,sector 12,Plate,2016,6.3
 sector 12,scrap,scrap Plate,2016,4.0
-uk_intermediate,sector 13,Plate,2016,183.5
+uk_production,sector 13,Plate,2016,124.5
+imports,sector 13,Plate,2016,59.0
 sector 13,scrap,scrap Plate,2016,55.0
-uk_intermediate,sector 14,Plate,2016,313.9
+uk_production,sector 14,Plate,2016,213.0
+imports,sector 14,Plate,2016,100.9
 sector 14,scrap,scrap Plate,2016,34.5
-uk_intermediate,sector 15a,Plate,2016,89.6
+uk_production,sector 15a,Plate,2016,60.8
+imports,sector 15a,Plate,2016,28.9
 sector 15a,scrap,scrap Plate,2016,38.5
-uk_intermediate,sector 16,Plate,2016,88.3
+uk_production,sector 16,Plate,2016,60.0
+imports,sector 16,Plate,2016,28.3
 sector 16,scrap,scrap Plate,2016,31.8
-uk_intermediate,sector 20,Plate,2016,211.5
+uk_production,sector 20,Plate,2016,211.5
 sector 20,scrap,scrap Plate,2016,63.5
-uk_production,uk_intermediate,Tin plate,2016,231.7
 uk_production,exports,Tin plate,2016,158.3
-imports,uk_intermediate,Tin plate,2016,646.4
-uk_intermediate,sector 6,Tin plate,2016,878.1
+uk_production,sector 6,Tin plate,2016,231.7
+imports,sector 6,Tin plate,2016,646.4
 sector 6,scrap,scrap Tin plate,2016,263.4
-uk_production,uk_intermediate,Tubes and pipes,2016,371.9
 uk_production,exports,Tubes and pipes,2016,204.3
-imports,uk_intermediate,Tubes and pipes,2016,908.1
-uk_intermediate,sector 8,Tubes and pipes,2016,169.5
+uk_production,sector 8,Tubes and pipes,2016,42.8
+imports,sector 8,Tubes and pipes,2016,126.7
 sector 8,scrap,scrap Tubes and pipes,2016,33.9
-uk_intermediate,sector 11,Tubes and pipes,2016,8.4
+uk_production,sector 11,Tubes and pipes,2016,2.2
+imports,sector 11,Tubes and pipes,2016,6.2
 sector 11,scrap,scrap Tubes and pipes,2016,0.4
-uk_intermediate,sector 12,Tubes and pipes,2016,176.6
+uk_production,sector 12,Tubes and pipes,2016,44.6
+imports,sector 12,Tubes and pipes,2016,132.0
 sector 12,scrap,scrap Tubes and pipes,2016,8.8
-uk_intermediate,sector 14,Tubes and pipes,2016,94.2
+uk_production,sector 14,Tubes and pipes,2016,23.8
+imports,sector 14,Tubes and pipes,2016,70.4
 sector 14,scrap,scrap Tubes and pipes,2016,4.7
-uk_intermediate,sector 15b,Tubes and pipes,2016,351.6
+uk_production,sector 15b,Tubes and pipes,2016,88.5
+imports,sector 15b,Tubes and pipes,2016,263.1
 sector 15b,scrap,scrap Tubes and pipes,2016,17.6
-uk_intermediate,sector 16,Tubes and pipes,2016,29.4
+uk_production,sector 16,Tubes and pipes,2016,7.4
+imports,sector 16,Tubes and pipes,2016,22.0
 sector 16,scrap,scrap Tubes and pipes,2016,1.5
-uk_intermediate,sector 17,Tubes and pipes,2016,198.9
+uk_production,sector 17,Tubes and pipes,2016,50.2
+imports,sector 17,Tubes and pipes,2016,148.7
 sector 17,scrap,scrap Tubes and pipes,2016,9.9
-uk_intermediate,sector 18,Tubes and pipes,2016,185.9
+uk_production,sector 18,Tubes and pipes,2016,46.9
+imports,sector 18,Tubes and pipes,2016,139.0
 sector 18,scrap,scrap Tubes and pipes,2016,9.3
-uk_intermediate,sector 20,Tubes and pipes,2016,66.2
+uk_production,sector 20,Tubes and pipes,2016,66.2
 sector 20,scrap,scrap Tubes and pipes,2016,3.3
-uk_production,uk_intermediate,Bright bars,2016,70.1
 uk_production,exports,Bright bars,2016,50.0
-imports,uk_intermediate,Bright bars,2016,75.9
-uk_intermediate,sector 4,Bright bars,2016,15.8
+uk_production,sector 4,Bright bars,2016,7.4
+imports,sector 4,Bright bars,2016,8.5
 sector 4,scrap,scrap Bright bars,2016,2.7
-uk_intermediate,sector 5,Bright bars,2016,6.3
+uk_production,sector 5,Bright bars,2016,2.9
+imports,sector 5,Bright bars,2016,3.4
 sector 5,scrap,scrap Bright bars,2016,1.1
-uk_intermediate,sector 6,Bright bars,2016,0.6
+uk_production,sector 6,Bright bars,2016,0.3
+imports,sector 6,Bright bars,2016,0.3
 sector 6,scrap,scrap Bright bars,2016,0.1
-uk_intermediate,sector 7,Bright bars,2016,7.1
+uk_production,sector 7,Bright bars,2016,3.3
+imports,sector 7,Bright bars,2016,3.8
 sector 7,scrap,scrap Bright bars,2016,1.2
-uk_intermediate,sector 8,Bright bars,2016,0.6
+uk_production,sector 8,Bright bars,2016,0.3
+imports,sector 8,Bright bars,2016,0.3
 sector 8,scrap,scrap Bright bars,2016,0.1
-uk_intermediate,sector 10,Bright bars,2016,9.8
+uk_production,sector 10,Bright bars,2016,4.6
+imports,sector 10,Bright bars,2016,5.2
 sector 10,scrap,scrap Bright bars,2016,2.9
-uk_intermediate,sector 11,Bright bars,2016,3.5
+uk_production,sector 11,Bright bars,2016,1.6
+imports,sector 11,Bright bars,2016,1.9
 sector 11,scrap,scrap Bright bars,2016,1.0
-uk_intermediate,sector 12,Bright bars,2016,43.8
+uk_production,sector 12,Bright bars,2016,20.3
+imports,sector 12,Bright bars,2016,23.4
 sector 12,scrap,scrap Bright bars,2016,13.1
-uk_intermediate,sector 15b,Bright bars,2016,53.1
+uk_production,sector 15b,Bright bars,2016,24.7
+imports,sector 15b,Bright bars,2016,28.4
 sector 15b,scrap,scrap Bright bars,2016,10.6
-uk_intermediate,sector 16,Bright bars,2016,1.1
+uk_production,sector 16,Bright bars,2016,0.5
+imports,sector 16,Bright bars,2016,0.6
 sector 16,scrap,scrap Bright bars,2016,0.2
-uk_intermediate,sector 20,Bright bars,2016,4.3
+uk_production,sector 20,Bright bars,2016,4.3
 sector 20,scrap,scrap Bright bars,2016,0.7
-uk_production,uk_intermediate,Heavy sections,2016,572.4
 uk_production,exports,Heavy sections,2016,273.6
-imports,uk_intermediate,Heavy sections,2016,682.4
-uk_intermediate,sector 14,Heavy sections,2016,1254.8
+uk_production,sector 14,Heavy sections,2016,572.4
+imports,sector 14,Heavy sections,2016,682.4
 sector 14,scrap,scrap Heavy sections,2016,62.7
-uk_production,uk_intermediate,Hot rolled bars in lengths,2016,142.6
 uk_production,exports,Hot rolled bars in lengths,2016,193.0
-imports,uk_intermediate,Hot rolled bars in lengths,2016,129.5
-uk_intermediate,sector 4,Hot rolled bars in lengths,2016,9.0
+uk_production,sector 4,Hot rolled bars in lengths,2016,4.1
+imports,sector 4,Hot rolled bars in lengths,2016,4.8
 sector 4,scrap,scrap Hot rolled bars in lengths,2016,1.5
-uk_intermediate,sector 5,Hot rolled bars in lengths,2016,6.5
+uk_production,sector 5,Hot rolled bars in lengths,2016,3.0
+imports,sector 5,Hot rolled bars in lengths,2016,3.6
 sector 5,scrap,scrap Hot rolled bars in lengths,2016,1.1
-uk_intermediate,sector 7,Hot rolled bars in lengths,2016,71.4
+uk_production,sector 7,Hot rolled bars in lengths,2016,33.1
+imports,sector 7,Hot rolled bars in lengths,2016,38.3
 sector 7,scrap,scrap Hot rolled bars in lengths,2016,17.9
-uk_intermediate,sector 11,Hot rolled bars in lengths,2016,47.7
+uk_production,sector 11,Hot rolled bars in lengths,2016,22.1
+imports,sector 11,Hot rolled bars in lengths,2016,25.6
 sector 11,scrap,scrap Hot rolled bars in lengths,2016,13.8
-uk_intermediate,sector 12,Hot rolled bars in lengths,2016,39.2
+uk_production,sector 12,Hot rolled bars in lengths,2016,18.1
+imports,sector 12,Hot rolled bars in lengths,2016,21.1
 sector 12,scrap,scrap Hot rolled bars in lengths,2016,11.8
-uk_intermediate,sector 13,Hot rolled bars in lengths,2016,14.7
+uk_production,sector 13,Hot rolled bars in lengths,2016,6.8
+imports,sector 13,Hot rolled bars in lengths,2016,7.9
 sector 13,scrap,scrap Hot rolled bars in lengths,2016,4.4
-uk_intermediate,sector 14,Hot rolled bars in lengths,2016,41.1
+uk_production,sector 14,Hot rolled bars in lengths,2016,19.0
+imports,sector 14,Hot rolled bars in lengths,2016,22.1
 sector 14,scrap,scrap Hot rolled bars in lengths,2016,2.1
-uk_intermediate,sector 15b,Hot rolled bars in lengths,2016,7.1
+uk_production,sector 15b,Hot rolled bars in lengths,2016,3.3
+imports,sector 15b,Hot rolled bars in lengths,2016,3.8
 sector 15b,scrap,scrap Hot rolled bars in lengths,2016,1.4
-uk_intermediate,sector 16,Hot rolled bars in lengths,2016,1.9
+uk_production,sector 16,Hot rolled bars in lengths,2016,0.9
+imports,sector 16,Hot rolled bars in lengths,2016,1.0
 sector 16,scrap,scrap Hot rolled bars in lengths,2016,0.4
-uk_intermediate,sector 19,Hot rolled bars in lengths,2016,2.4
+uk_production,sector 19,Hot rolled bars in lengths,2016,1.1
+imports,sector 19,Hot rolled bars in lengths,2016,1.3
 sector 19,scrap,scrap Hot rolled bars in lengths,2016,0.5
-uk_intermediate,sector 20,Hot rolled bars in lengths,2016,31.1
+uk_production,sector 20,Hot rolled bars in lengths,2016,31.1
 sector 20,scrap,scrap Hot rolled bars in lengths,2016,7.8
-uk_production,uk_intermediate,Light sections,2016,93.1
 uk_production,exports,Light sections,2016,95.5
-imports,uk_intermediate,Light sections,2016,25.2
-uk_intermediate,sector 6,Light sections,2016,1.5
+uk_production,sector 6,Light sections,2016,1.2
+imports,sector 6,Light sections,2016,0.3
 sector 6,scrap,scrap Light sections,2016,0.2
-uk_intermediate,sector 7,Light sections,2016,4.0
+uk_production,sector 7,Light sections,2016,3.2
+imports,sector 7,Light sections,2016,0.8
 sector 7,scrap,scrap Light sections,2016,0.7
-uk_intermediate,sector 9,Light sections,2016,1.3
+imports,sector 9,Light sections,2016,1.3
 sector 9,scrap,scrap Light sections,2016,0.3
-uk_intermediate,sector 11,Light sections,2016,1.3
+imports,sector 11,Light sections,2016,1.3
 sector 11,scrap,scrap Light sections,2016,0.4
-uk_intermediate,sector 13,Light sections,2016,43.7
+uk_production,sector 13,Light sections,2016,34.4
+imports,sector 13,Light sections,2016,9.3
 sector 13,scrap,scrap Light sections,2016,13.1
-uk_intermediate,sector 14,Light sections,2016,39.7
+uk_production,sector 14,Light sections,2016,31.3
+imports,sector 14,Light sections,2016,8.5
 sector 14,scrap,scrap Light sections,2016,2.0
-uk_intermediate,sector 15a,Light sections,2016,8.2
+uk_production,sector 15a,Light sections,2016,6.4
+imports,sector 15a,Light sections,2016,1.7
 sector 15a,scrap,scrap Light sections,2016,3.5
-uk_intermediate,sector 15b,Light sections,2016,9.2
+uk_production,sector 15b,Light sections,2016,7.3
+imports,sector 15b,Light sections,2016,2.0
 sector 15b,scrap,scrap Light sections,2016,3.3
-uk_intermediate,sector 20,Light sections,2016,9.4
+uk_production,sector 20,Light sections,2016,9.4
 sector 20,scrap,scrap Light sections,2016,1.6
-uk_production,uk_intermediate,Railway track material,2016,129.2
 uk_production,exports,Railway track material,2016,61.8
-imports,uk_intermediate,Railway track material,2016,154.1
-uk_intermediate,sector 11,Railway track material,2016,26.3
+uk_production,sector 11,Railway track material,2016,12.0
+imports,sector 11,Railway track material,2016,14.3
 sector 11,scrap,scrap Railway track material,2016,1.3
-uk_intermediate,sector 13,Railway track material,2016,2.0
+uk_production,sector 13,Railway track material,2016,0.9
+imports,sector 13,Railway track material,2016,1.1
 sector 13,scrap,scrap Railway track material,2016,0.1
-uk_intermediate,sector 14,Railway track material,2016,255.0
+uk_production,sector 14,Railway track material,2016,116.3
+imports,sector 14,Railway track material,2016,138.7
 sector 14,scrap,scrap Railway track material,2016,12.7
-uk_production,uk_intermediate,Reinforcing bar,2016,187.9
 uk_production,exports,Reinforcing bar,2016,152.1
-imports,uk_intermediate,Reinforcing bar,2016,147.5
-uk_intermediate,sector 14,Reinforcing bar,2016,335.4
+uk_production,sector 14,Reinforcing bar,2016,187.9
+imports,sector 14,Reinforcing bar,2016,147.5
 sector 14,scrap,scrap Reinforcing bar,2016,16.8
-uk_production,uk_intermediate,Rods,2016,563.4
 uk_production,exports,Rods,2016,491.4
-imports,uk_intermediate,Rods,2016,476.8
-uk_intermediate,sector 4,Rods,2016,308.3
+uk_production,sector 4,Rods,2016,140.8
+imports,sector 4,Rods,2016,167.5
 sector 4,scrap,scrap Rods,2016,30.8
-uk_intermediate,sector 14,Rods,2016,563.4
+uk_production,sector 14,Rods,2016,257.5
+imports,sector 14,Rods,2016,305.9
 sector 14,scrap,scrap Rods,2016,28.2
-uk_intermediate,sector 15b,Rods,2016,6.2
+uk_production,sector 15b,Rods,2016,2.8
+imports,sector 15b,Rods,2016,3.4
 sector 15b,scrap,scrap Rods,2016,0.6
-uk_intermediate,sector 20,Rods,2016,162.3
+uk_production,sector 20,Rods,2016,162.3
 sector 20,scrap,scrap Rods,2016,16.2
-uk_production,uk_intermediate,Sheet piling and rolled accessories,2016,63.1
 uk_production,exports,Sheet piling and rolled accessories,2016,30.2
-imports,uk_intermediate,Sheet piling and rolled accessories,2016,75.3
-uk_intermediate,sector 11,Sheet piling and rolled accessories,2016,19.5
+uk_production,sector 11,Sheet piling and rolled accessories,2016,8.6
+imports,sector 11,Sheet piling and rolled accessories,2016,10.9
 sector 11,scrap,scrap Sheet piling and rolled accessories,2016,5.6
-uk_intermediate,sector 13,Sheet piling and rolled accessories,2016,1.6
+uk_production,sector 13,Sheet piling and rolled accessories,2016,0.7
+imports,sector 13,Sheet piling and rolled accessories,2016,0.9
 sector 13,scrap,scrap Sheet piling and rolled accessories,2016,0.5
-uk_intermediate,sector 14,Sheet piling and rolled accessories,2016,109.9
+uk_production,sector 14,Sheet piling and rolled accessories,2016,48.5
+imports,sector 14,Sheet piling and rolled accessories,2016,61.4
 sector 14,scrap,scrap Sheet piling and rolled accessories,2016,5.5
-uk_intermediate,sector 16,Sheet piling and rolled accessories,2016,2.8
+uk_production,sector 16,Sheet piling and rolled accessories,2016,1.2
+imports,sector 16,Sheet piling and rolled accessories,2016,1.6
 sector 16,scrap,scrap Sheet piling and rolled accessories,2016,1.0
-uk_intermediate,sector 17,Sheet piling and rolled accessories,2016,1.0
+uk_production,sector 17,Sheet piling and rolled accessories,2016,0.4
+imports,sector 17,Sheet piling and rolled accessories,2016,0.6
 sector 17,scrap,scrap Sheet piling and rolled accessories,2016,0.2
-uk_intermediate,sector 20,Sheet piling and rolled accessories,2016,3.7
+uk_production,sector 20,Sheet piling and rolled accessories,2016,3.7
 sector 20,scrap,scrap Sheet piling and rolled accessories,2016,0.6
 component_imports,sector 4,component,2016,287.2
 sector 4,products 4,4,2016,585.3

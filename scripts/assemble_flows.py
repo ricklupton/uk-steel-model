@@ -84,19 +84,21 @@ def build_flows_for_year(year):
 
     for p in ints.index.values:
         # Up to UK intermediate products: flows A and B
-        flows.append(('uk_production', 'uk_intermediate', p,
-                    ints.loc[p, 'production'] - ints.loc[p, 'exports']))
+        # flows.append(('uk_production', 'uk_intermediate', p,
+        #             ints.loc[p, 'production'] - ints.loc[p, 'exports']))
         flows.append(('uk_production', 'exports', p, ints.loc[p, 'exports']))
-        flows.append(('imports', 'uk_intermediate', p, ints.loc[p, 'imports']))
+        # flows.append(('imports', 'uk_intermediate', p, ints.loc[p, 'imports']))
 
         # From UK intermediate products to sectors that use them: flow C, D, E
         delivered_home = ints.loc[p, 'production'] - ints.loc[p, 'exports']
         delivered_imports = ints.loc[p, 'imports']
         for s in alloc_home.index:
-            x = (delivered_home * alloc_home.loc[s, p] +
-                 delivered_imports * alloc_imports.loc[s, p])
+            xh = delivered_home * alloc_home.loc[s, p]
+            xi = delivered_imports * alloc_imports.loc[s, p]
             y = sector_yield_losses.loc[s, p]
-            flows.append(('uk_intermediate', 'sector %s' % s, p, x))  # flow C
+            x = xh + xi
+            flows.append(('uk_production', 'sector %s' % s, p, xh))  # flow C
+            flows.append(('imports', 'sector %s' % s, p, xi))  # flow C
             flows.append(('sector %s' % s, 'scrap', 'scrap ' + p, x * y))  # flow D
             sector_output[s] += x * (1 - y)
 
