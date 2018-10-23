@@ -2,3 +2,5 @@
 __pycache__/
 /docs/Diagnose imbalance in indirect trade.html
 /docs/Timeseries.html
+/figures/generated/
+/figures/with_layout
