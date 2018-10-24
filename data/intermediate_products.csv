@@ -1,4 +1,404 @@
 year,product,product_family,production,exports,imports,delivered
+1980,Cold rolled,flat,302.4,16.7,105.0,390.7
+1980,Electro coated,flat,78.0,11.7,54.8,121.1
+1980,Hot dipped galvanised,flat,381.0,56.9,267.6,591.7
+1980,Hot rolled,flat,1113.8,204.1,959.4,1869.0
+1980,Organic coated,flat,99.0,14.8,69.5,153.7
+1980,Plate,flat,1131.0,160.9,750.7,1720.8
+1980,Tin plate,flat,624.0,93.3,438.3,969.0
+1980,Tubes and pipes,flat,1049.1,210.7,433.2,1271.6
+1980,Bright bars,long,352.6,33.0,49.3,368.9
+1980,Heavy sections,long,1314.0,292.6,159.6,1181.0
+1980,Hot rolled bars in lengths,long,913.6,276.0,210.4,848.0
+1980,Light sections,long,273.8,92.9,95.1,276.0
+1980,Railway track material,long,161.0,35.9,19.6,144.7
+1980,Reinforcing bar,long,781.0,218.6,159.4,721.9
+1980,Rods,long,861.3,269.3,196.5,788.4
+1980,Sheet piling and rolled accessories,long,-0.8,-0.2,-0.1,-0.7
+1981,Cold rolled,flat,296.5,20.1,0.0,276.4
+1981,Electro coated,flat,107.0,26.9,0.0,80.1
+1981,Hot dipped galvanised,flat,595.0,149.6,0.0,445.4
+1981,Hot rolled,flat,1532.2,477.1,0.0,1055.1
+1981,Organic coated,flat,141.0,35.5,0.0,105.5
+1981,Plate,flat,1654.3,370.3,0.0,1284.0
+1981,Tin plate,flat,864.0,217.2,0.0,646.8
+1981,Tubes and pipes,flat,1287.7,359.4,0.0,928.3
+1981,Bright bars,long,333.1,48.4,0.0,284.7
+1981,Heavy sections,long,1789.0,623.3,0.0,1165.7
+1981,Hot rolled bars in lengths,long,836.3,307.7,0.0,528.6
+1981,Light sections,long,253.2,89.1,0.0,164.1
+1981,Railway track material,long,226.0,78.7,0.0,147.3
+1981,Reinforcing bar,long,788.0,208.8,0.0,579.2
+1981,Rods,long,961.7,293.7,0.0,668.0
+1981,Sheet piling and rolled accessories,long,0.4,0.1,0.0,0.3
+1982,Cold rolled,flat,286.9,27.0,83.8,343.7
+1982,Electro coated,flat,183.0,41.2,67.4,209.2
+1982,Hot dipped galvanised,flat,563.0,126.8,207.5,643.7
+1982,Hot rolled,flat,1291.7,359.9,589.0,1520.8
+1982,Organic coated,flat,183.0,41.2,67.4,209.2
+1982,Plate,flat,1550.2,215.7,559.2,1893.7
+1982,Tin plate,flat,911.0,205.2,335.8,1041.6
+1982,Tubes and pipes,flat,1258.5,346.3,315.3,1227.5
+1982,Bright bars,long,299.8,27.2,54.9,327.5
+1982,Heavy sections,long,1570.0,516.3,155.5,1209.1
+1982,Hot rolled bars in lengths,long,741.7,253.4,227.2,715.5
+1982,Light sections,long,206.1,55.7,76.0,226.4
+1982,Railway track material,long,221.0,72.7,21.9,170.2
+1982,Reinforcing bar,long,723.0,193.9,184.8,713.9
+1982,Rods,long,797.7,246.9,235.4,786.2
+1982,Sheet piling and rolled accessories,long,-0.4,-0.1,-0.0,-0.3
+1983,Cold rolled,flat,285.8,22.3,92.9,356.4
+1983,Electro coated,flat,0.0,0.0,0.0,0.0
+1983,Hot dipped galvanised,flat,0.0,0.0,0.0,0.0
+1983,Hot rolled,flat,2573.4,701.7,928.3,2800.0
+1983,Organic coated,flat,0.0,0.0,0.0,0.0
+1983,Plate,flat,1398.4,337.9,526.1,1586.6
+1983,Tin plate,flat,938.0,225.5,298.3,1010.8
+1983,Tubes and pipes,flat,1207.4,323.1,257.9,1142.2
+1983,Bright bars,long,292.0,30.2,47.2,309.0
+1983,Heavy sections,long,1551.0,538.8,119.6,1131.8
+1983,Hot rolled bars in lengths,long,642.1,185.8,177.9,634.2
+1983,Light sections,long,224.8,73.5,86.3,237.6
+1983,Railway track material,long,262.0,91.0,20.2,191.2
+1983,Reinforcing bar,long,823.0,207.4,140.0,755.6
+1983,Rods,long,864.2,252.8,170.7,782.1
+1983,Sheet piling and rolled accessories,long,-6.8,-2.4,-0.5,-5.0
+1984,Cold rolled,flat,314.7,26.3,102.7,391.1
+1984,Electro coated,flat,0.0,0.0,0.0,0.0
+1984,Hot dipped galvanised,flat,0.0,0.0,0.0,0.0
+1984,Hot rolled,flat,2646.0,770.3,926.8,2802.5
+1984,Organic coated,flat,0.0,0.0,0.0,0.0
+1984,Plate,flat,1507.2,305.5,450.5,1652.2
+1984,Tin plate,flat,967.0,246.6,296.7,1017.1
+1984,Tubes and pipes,flat,1414.4,369.3,316.1,1361.2
+1984,Bright bars,long,346.7,60.1,67.7,354.3
+1984,Heavy sections,long,1417.0,472.6,136.0,1080.4
+1984,Hot rolled bars in lengths,long,715.6,246.2,198.0,667.4
+1984,Light sections,long,230.7,81.4,93.0,242.3
+1984,Railway track material,long,232.0,77.4,22.3,176.9
+1984,Reinforcing bar,long,811.0,212.5,117.6,716.1
+1984,Rods,long,981.4,296.5,164.1,849.0
+1984,Sheet piling and rolled accessories,long,-0.5,-0.2,-0.0,-0.4
+1985,Cold rolled,flat,299.9,28.4,98.6,370.1
+1985,Electro coated,flat,0.0,0.0,0.0,0.0
+1985,Hot dipped galvanised,flat,0.0,0.0,0.0,0.0
+1985,Hot rolled,flat,2710.8,849.3,1114.6,2976.1
+1985,Organic coated,flat,0.0,0.0,0.0,0.0
+1985,Plate,flat,1498.9,375.4,512.9,1636.4
+1985,Tin plate,flat,910.0,253.7,333.0,989.3
+1985,Tubes and pipes,flat,1357.3,347.1,271.4,1281.6
+1985,Bright bars,long,318.5,52.4,74.9,341.0
+1985,Heavy sections,long,1643.0,563.4,138.6,1218.2
+1985,Hot rolled bars in lengths,long,758.8,273.8,163.5,648.5
+1985,Light sections,long,242.8,100.7,65.6,207.7
+1985,Railway track material,long,216.0,74.1,18.2,160.2
+1985,Reinforcing bar,long,937.0,289.3,134.8,782.5
+1985,Rods,long,974.1,342.4,159.6,791.3
+1985,Sheet piling and rolled accessories,long,-0.1,-0.0,-0.0,-0.1
+1986,Cold rolled,flat,302.2,33.0,110.3,379.5
+1986,Electro coated,flat,0.0,0.0,0.0,0.0
+1986,Hot dipped galvanised,flat,947.0,297.2,366.5,1016.3
+1986,Hot rolled,flat,1869.6,680.9,839.7,2028.3
+1986,Organic coated,flat,0.0,0.0,0.0,0.0
+1986,Plate,flat,1439.5,391.2,637.6,1685.9
+1986,Tin plate,flat,940.0,295.0,363.8,1008.8
+1986,Tubes and pipes,flat,1209.3,295.6,333.5,1247.2
+1986,Bright bars,long,307.3,54.3,66.7,319.7
+1986,Heavy sections,long,1705.0,685.0,172.9,1192.9
+1986,Hot rolled bars in lengths,long,724.6,265.1,170.5,630.0
+1986,Light sections,long,245.5,103.1,77.1,219.5
+1986,Railway track material,long,174.0,69.9,17.6,121.7
+1986,Reinforcing bar,long,903.0,283.4,162.5,782.1
+1986,Rods,long,981.8,345.9,198.4,834.3
+1986,Sheet piling and rolled accessories,long,0.1,0.0,0.0,0.1
+1987,Cold rolled,flat,328.8,34.2,117.0,411.6
+1987,Electro coated,flat,0.0,0.0,0.0,0.0
+1987,Hot dipped galvanised,flat,1105.0,361.2,525.6,1269.3
+1987,Hot rolled,flat,2029.9,789.0,1147.9,2388.8
+1987,Organic coated,flat,0.0,0.0,0.0,0.0
+1987,Plate,flat,1565.8,479.1,609.6,1696.3
+1987,Tin plate,flat,1074.0,351.1,510.8,1233.7
+1987,Tubes and pipes,flat,1316.6,321.1,289.6,1285.1
+1987,Bright bars,long,314.6,54.8,74.4,334.2
+1987,Heavy sections,long,1945.0,840.6,204.8,1309.2
+1987,Hot rolled bars in lengths,long,735.5,287.2,190.1,638.4
+1987,Light sections,long,229.2,68.7,59.1,219.6
+1987,Railway track material,long,237.0,102.4,25.0,159.5
+1987,Reinforcing bar,long,950.0,266.6,171.2,854.6
+1987,Rods,long,1047.8,337.2,216.6,927.2
+1987,Sheet piling and rolled accessories,long,0.3,0.1,0.0,0.2
+1988,Cold rolled,flat,393.9,38.3,65.6,421.2
+1988,Electro coated,flat,200.0,60.5,84.7,224.3
+1988,Hot dipped galvanised,flat,1246.0,376.7,527.9,1397.3
+1988,Hot rolled,flat,2045.1,745.1,1044.2,2344.3
+1988,Organic coated,flat,0.0,0.0,0.0,0.0
+1988,Plate,flat,1924.9,554.2,549.8,1920.5
+1988,Tin plate,flat,1018.0,307.7,431.3,1141.6
+1988,Tubes and pipes,flat,1481.7,317.9,433.5,1597.3
+1988,Bright bars,long,341.9,63.2,94.4,373.1
+1988,Heavy sections,long,1874.0,740.9,242.6,1375.7
+1988,Hot rolled bars in lengths,long,825.3,340.3,230.3,715.3
+1988,Light sections,long,243.3,80.8,47.8,210.3
+1988,Railway track material,long,236.0,93.3,30.6,173.2
+1988,Reinforcing bar,long,1168.0,290.5,220.1,1097.6
+1988,Rods,long,1182.9,338.1,256.2,1101.0
+1988,Sheet piling and rolled accessories,long,336.4,133.0,43.5,247.0
+1989,Cold rolled,flat,387.5,35.4,69.1,421.2
+1989,Electro coated,flat,202.0,61.0,86.2,227.2
+1989,Hot dipped galvanised,flat,1320.0,398.7,563.2,1484.5
+1989,Hot rolled,flat,2094.8,739.1,1044.0,2399.7
+1989,Organic coated,flat,0.0,0.0,0.0,0.0
+1989,Plate,flat,2048.0,585.0,600.9,2063.9
+1989,Tin plate,flat,961.0,290.3,410.0,1080.7
+1989,Tubes and pipes,flat,1519.2,367.4,528.0,1679.8
+1989,Bright bars,long,340.1,75.6,91.0,355.5
+1989,Heavy sections,long,1926.0,717.4,261.6,1470.2
+1989,Hot rolled bars in lengths,long,935.8,405.9,224.5,754.4
+1989,Light sections,long,235.5,67.3,65.6,233.8
+1989,Railway track material,long,242.0,90.1,32.9,184.7
+1989,Reinforcing bar,long,702.0,192.8,132.9,642.1
+1989,Rods,long,1757.7,530.5,365.6,1592.8
+1989,Sheet piling and rolled accessories,long,314.4,117.1,42.7,240.0
+1990,Cold rolled,flat,356.6,31.7,68.1,393.0
+1990,Electro coated,flat,198.0,65.3,90.3,222.9
+1990,Hot dipped galvanised,flat,1338.0,441.5,610.0,1506.5
+1990,Hot rolled,flat,1405.2,596.9,824.6,1632.9
+1990,Organic coated,flat,398.0,131.3,181.4,448.1
+1990,Plate,flat,1901.7,680.0,653.8,1875.5
+1990,Tin plate,flat,855.0,282.1,389.8,962.7
+1990,Tubes and pipes,flat,1465.1,372.8,548.2,1640.5
+1990,Bright bars,long,318.4,73.6,87.0,331.8
+1990,Heavy sections,long,1913.0,945.3,204.0,1171.7
+1990,Hot rolled bars in lengths,long,969.4,483.9,205.1,690.6
+1990,Light sections,long,247.5,82.2,52.9,218.2
+1990,Railway track material,long,232.0,114.6,24.7,142.1
+1990,Reinforcing bar,long,681.0,209.4,130.9,602.5
+1990,Rods,long,1737.4,586.8,366.9,1517.5
+1990,Sheet piling and rolled accessories,long,390.3,193.1,41.7,238.9
+1993,Cold rolled,flat,229.3,36.7,71.2,263.8
+1993,Electro coated,flat,193.0,80.2,78.2,191.0
+1993,Hot dipped galvanised,flat,1484.0,616.9,601.6,1468.7
+1993,Hot rolled,flat,1291.7,657.7,641.4,1275.4
+1993,Organic coated,flat,382.0,158.8,154.9,378.1
+1993,Plate,flat,1901.0,897.6,800.8,1804.2
+1993,Tin plate,flat,829.0,344.6,336.1,820.5
+1993,Tubes and pipes,flat,1154.6,315.8,350.5,1189.3
+1993,Bright bars,long,294.9,94.3,71.8,272.4
+1993,Heavy sections,long,1877.0,1222.1,226.1,880.9
+1993,Hot rolled bars in lengths,long,1038.0,540.9,218.3,715.4
+1993,Light sections,long,254.6,125.7,35.5,164.4
+1993,Railway track material,long,148.0,96.4,17.8,69.5
+1993,Reinforcing bar,long,645.0,293.8,89.7,440.9
+1993,Rods,long,1874.4,909.0,277.5,1242.9
+1993,Sheet piling and rolled accessories,long,320.7,208.8,38.6,150.5
+1995,Cold rolled,flat,267.0,53.6,91.9,305.3
+1995,Electro coated,flat,239.0,97.7,104.1,245.4
+1995,Hot dipped galvanised,flat,1815.0,742.2,790.7,1863.6
+1995,Hot rolled,flat,1088.7,630.1,671.3,1129.9
+1995,Organic coated,flat,498.0,203.6,217.0,511.3
+1995,Plate,flat,2184.9,780.6,1027.8,2432.1
+1995,Tin plate,flat,786.0,321.4,342.4,807.0
+1995,Tubes and pipes,flat,1182.6,400.4,547.7,1329.9
+1995,Bright bars,long,424.2,169.1,119.3,374.4
+1995,Heavy sections,long,1876.0,1230.6,342.3,987.7
+1995,Hot rolled bars in lengths,long,1430.6,783.1,338.5,986.0
+1995,Light sections,long,196.2,80.7,47.1,162.6
+1995,Railway track material,long,210.0,137.8,38.3,110.6
+1995,Reinforcing bar,long,514.0,230.8,82.7,365.9
+1995,Rods,long,2011.9,983.4,352.4,1380.9
+1995,Sheet piling and rolled accessories,long,313.5,205.6,57.2,165.1
+1996,Cold rolled,flat,245.7,41.6,69.3,273.4
+1996,Electro coated,flat,218.0,90.1,88.4,216.3
+1996,Hot dipped galvanised,flat,1878.0,776.4,761.5,1863.2
+1996,Hot rolled,flat,1588.3,830.5,814.6,1572.4
+1996,Organic coated,flat,501.0,207.1,203.2,497.0
+1996,Plate,flat,2038.1,916.7,820.2,1941.6
+1996,Tin plate,flat,737.0,304.7,298.9,731.2
+1996,Tubes and pipes,flat,1317.2,539.1,699.2,1477.3
+1996,Bright bars,long,357.3,116.3,97.2,338.2
+1996,Heavy sections,long,1941.0,1214.6,267.0,993.3
+1996,Hot rolled bars in lengths,long,1307.0,640.1,332.6,999.5
+1996,Light sections,long,222.8,83.1,38.3,178.0
+1996,Railway track material,long,211.0,132.0,29.0,108.0
+1996,Reinforcing bar,long,655.0,297.9,98.0,455.1
+1996,Rods,long,1926.0,936.1,307.8,1297.7
+1996,Sheet piling and rolled accessories,long,346.2,216.6,47.6,177.2
+1997,Cold rolled,flat,240.9,45.6,90.9,286.2
+1997,Electro coated,flat,233.0,100.5,97.8,230.4
+1997,Hot dipped galvanised,flat,2024.0,872.9,849.9,2001.0
+1997,Hot rolled,flat,1737.0,925.3,900.9,1712.6
+1997,Organic coated,flat,518.0,223.4,217.5,512.1
+1997,Plate,flat,2194.2,1037.4,822.9,1979.7
+1997,Tin plate,flat,757.0,326.5,317.9,748.4
+1997,Tubes and pipes,flat,1335.9,569.0,697.6,1464.5
+1997,Bright bars,long,357.8,112.2,113.1,358.7
+1997,Heavy sections,long,1780.0,994.4,348.2,1133.8
+1997,Hot rolled bars in lengths,long,1495.9,813.3,347.9,1030.5
+1997,Light sections,long,232.4,85.7,43.5,190.2
+1997,Railway track material,long,187.0,104.5,36.6,119.1
+1997,Reinforcing bar,long,604.0,279.6,148.8,473.2
+1997,Rods,long,2056.1,1015.6,540.6,1581.1
+1997,Sheet piling and rolled accessories,long,343.6,191.9,67.2,218.9
+1998,Cold rolled,flat,252.9,54.2,88.4,287.1
+1998,Electro coated,flat,211.0,84.5,115.0,241.5
+1998,Hot dipped galvanised,flat,2009.0,804.4,1095.1,2299.7
+1998,Hot rolled,flat,1219.1,688.5,937.3,1467.9
+1998,Organic coated,flat,559.0,223.8,304.7,639.9
+1998,Plate,flat,2148.8,987.1,917.1,2078.8
+1998,Tin plate,flat,757.0,303.1,412.6,866.5
+1998,Tubes and pipes,flat,1276.1,508.5,841.6,1609.2
+1998,Bright bars,long,336.3,118.8,133.6,351.1
+1998,Heavy sections,long,1725.0,1000.5,358.3,1082.8
+1998,Hot rolled bars in lengths,long,1532.8,838.1,310.4,1005.1
+1998,Light sections,long,223.0,88.4,37.1,171.7
+1998,Railway track material,long,213.0,123.5,44.2,133.7
+1998,Reinforcing bar,long,517.0,233.5,103.7,387.2
+1998,Rods,long,1949.3,940.8,418.0,1426.5
+1998,Sheet piling and rolled accessories,long,341.9,198.3,71.0,214.6
+1999,Cold rolled,flat,233.7,59.2,88.0,262.5
+1999,Electro coated,flat,184.0,80.0,99.9,203.8
+1999,Hot dipped galvanised,flat,1938.0,842.8,1051.8,2147.0
+1999,Hot rolled,flat,1250.4,702.8,877.0,1424.7
+1999,Organic coated,flat,561.0,244.0,304.5,621.5
+1999,Plate,flat,1925.8,940.3,920.1,1905.6
+1999,Tin plate,flat,734.0,319.2,398.4,813.1
+1999,Tubes and pipes,flat,1099.9,415.8,569.1,1253.2
+1999,Bright bars,long,311.5,116.4,106.2,301.3
+1999,Heavy sections,long,1703.0,938.2,340.5,1105.3
+1999,Hot rolled bars in lengths,long,1298.2,711.5,266.3,853.0
+1999,Light sections,long,214.1,83.7,36.2,166.6
+1999,Railway track material,long,230.0,126.7,46.0,149.3
+1999,Reinforcing bar,long,398.0,169.9,120.0,348.1
+1999,Rods,long,1871.4,855.3,604.2,1620.3
+1999,Sheet piling and rolled accessories,long,276.1,152.1,55.2,179.2
+2000,Cold rolled,flat,218.3,69.4,130.2,279.1
+2000,Electro coated,flat,234.0,108.8,135.0,260.2
+2000,Hot dipped galvanised,flat,1900.0,883.6,1096.4,2112.7
+2000,Hot rolled,flat,1281.7,739.4,917.4,1459.7
+2000,Organic coated,flat,566.0,263.2,326.6,629.4
+2000,Plate,flat,1593.0,636.2,791.3,1748.1
+2000,Tin plate,flat,749.0,348.3,432.2,832.9
+2000,Tubes and pipes,flat,1060.8,387.3,678.2,1351.7
+2000,Bright bars,long,337.3,145.7,127.3,318.9
+2000,Heavy sections,long,1389.0,658.7,404.0,1134.3
+2000,Hot rolled bars in lengths,long,1320.5,764.0,269.4,825.9
+2000,Light sections,long,204.0,82.6,40.4,161.8
+2000,Railway track material,long,186.0,88.2,54.1,151.9
+2000,Reinforcing bar,long,289.0,134.7,103.1,257.4
+2000,Rods,long,1775.5,895.0,685.1,1565.6
+2000,Sheet piling and rolled accessories,long,301.3,142.9,87.6,246.1
+2001,Cold rolled,flat,200.6,67.3,72.5,205.8
+2001,Electro coated,flat,176.0,63.0,14.3,127.3
+2001,Hot dipped galvanised,flat,1339.0,479.1,108.7,968.7
+2001,Hot rolled,flat,850.6,394.6,89.6,545.6
+2001,Organic coated,flat,429.0,153.5,34.8,310.4
+2001,Plate,flat,1505.9,624.8,1021.0,1902.1
+2001,Tin plate,flat,604.0,216.1,49.1,437.0
+2001,Tubes and pipes,flat,1095.7,420.9,965.1,1639.9
+2001,Bright bars,long,295.6,136.0,134.7,294.3
+2001,Heavy sections,long,1411.0,687.3,512.8,1236.5
+2001,Hot rolled bars in lengths,long,1203.6,691.5,266.5,778.6
+2001,Light sections,long,203.9,82.3,38.0,159.6
+2001,Railway track material,long,178.0,86.7,64.7,156.0
+2001,Reinforcing bar,long,334.0,146.4,112.6,300.2
+2001,Rods,long,1629.7,769.5,592.0,1452.2
+2001,Sheet piling and rolled accessories,long,291.4,141.9,105.9,255.4
+2002,Cold rolled,flat,178.6,58.4,86.2,206.4
+2002,Electro coated,flat,155.0,59.3,127.0,222.7
+2002,Hot dipped galvanised,flat,1365.0,522.0,1118.4,1961.4
+2002,Hot rolled,flat,836.6,429.1,919.4,1326.9
+2002,Organic coated,flat,423.0,161.8,346.6,607.8
+2002,Plate,flat,1569.8,620.9,910.5,1859.4
+2002,Tin plate,flat,562.0,214.9,460.5,807.6
+2002,Tubes and pipes,flat,940.4,352.5,731.1,1319.0
+2002,Bright bars,long,270.8,119.0,124.3,276.1
+2002,Heavy sections,long,1346.0,650.4,532.5,1228.1
+2002,Hot rolled bars in lengths,long,1130.3,624.4,290.6,796.5
+2002,Light sections,long,167.0,57.8,61.8,171.0
+2002,Railway track material,long,194.0,93.7,76.8,177.0
+2002,Reinforcing bar,long,199.0,86.8,83.1,195.3
+2002,Rods,long,1617.7,756.3,723.8,1585.2
+2002,Sheet piling and rolled accessories,long,218.7,105.7,86.5,199.5
+2003,Cold rolled,flat,185.9,67.5,73.8,192.2
+2003,Electro coated,flat,183.0,74.1,126.8,235.7
+2003,Hot dipped galvanised,flat,1355.0,548.8,939.1,1745.3
+2003,Hot rolled,flat,1152.0,572.4,979.4,1559.0
+2003,Organic coated,flat,442.0,179.0,306.3,569.3
+2003,Plate,flat,1653.6,710.3,873.7,1817.0
+2003,Tin plate,flat,493.0,199.7,341.7,635.0
+2003,Tubes and pipes,flat,1065.5,386.3,780.3,1459.5
+2003,Bright bars,long,273.2,128.4,140.0,284.8
+2003,Heavy sections,long,1367.0,622.4,568.6,1313.2
+2003,Hot rolled bars in lengths,long,946.1,516.7,331.2,760.6
+2003,Light sections,long,97.7,22.5,74.5,149.7
+2003,Railway track material,long,175.0,79.7,72.8,168.1
+2003,Reinforcing bar,long,157.0,70.9,95.3,181.4
+2003,Rods,long,1311.4,644.3,866.3,1533.4
+2003,Sheet piling and rolled accessories,long,105.9,48.2,44.0,101.7
+2004,Cold rolled,flat,155.5,61.0,108.2,202.7
+2004,Electro coated,flat,183.0,70.9,149.8,262.0
+2004,Hot dipped galvanised,flat,1271.0,492.1,1040.8,1819.7
+2004,Hot rolled,flat,1055.1,499.8,1057.0,1612.4
+2004,Organic coated,flat,441.0,170.7,361.1,631.4
+2004,Plate,flat,1940.7,739.6,840.5,2041.6
+2004,Tin plate,flat,676.0,261.7,553.5,967.8
+2004,Tubes and pipes,flat,1076.2,388.2,929.6,1617.6
+2004,Bright bars,long,277.3,132.9,138.0,282.4
+2004,Heavy sections,long,1231.0,467.4,638.4,1402.1
+2004,Hot rolled bars in lengths,long,1037.7,604.6,329.6,762.7
+2004,Light sections,long,105.2,27.7,97.9,175.4
+2004,Railway track material,long,152.0,57.7,78.8,173.1
+2004,Reinforcing bar,long,420.0,161.6,130.0,388.4
+2004,Rods,long,1556.0,645.9,519.5,1429.6
+2004,Sheet piling and rolled accessories,long,205.8,78.1,106.7,234.4
+2005,Cold rolled,flat,131.1,52.0,88.9,168.0
+2005,Electro coated,flat,144.0,63.0,102.4,183.4
+2005,Hot dipped galvanised,flat,1245.0,544.6,885.2,1585.6
+2005,Hot rolled,flat,1169.3,585.4,951.5,1535.4
+2005,Organic coated,flat,399.0,174.5,283.7,508.2
+2005,Plate,flat,1866.3,667.1,716.6,1915.8
+2005,Tin plate,flat,471.0,206.0,334.9,599.9
+2005,Tubes and pipes,flat,932.4,337.3,905.4,1500.5
+2005,Bright bars,long,233.3,104.1,137.7,266.9
+2005,Heavy sections,long,964.0,374.3,505.7,1095.4
+2005,Hot rolled bars in lengths,long,985.2,577.2,309.6,717.6
+2005,Light sections,long,109.8,39.3,79.0,149.5
+2005,Railway track material,long,196.0,76.1,102.8,222.7
+2005,Reinforcing bar,long,379.0,169.7,125.3,334.6
+2005,Rods,long,1424.0,671.3,495.6,1248.3
+2005,Sheet piling and rolled accessories,long,144.1,55.9,75.6,163.7
+2007,Cold rolled,flat,80.9,30.9,75.5,125.5
+2007,Electro coated,flat,127.0,45.3,102.6,184.3
+2007,Hot dipped galvanised,flat,1219.0,435.0,985.2,1769.1
+2007,Hot rolled,flat,861.5,363.6,823.4,1321.3
+2007,Organic coated,flat,434.0,154.9,350.7,629.9
+2007,Plate,flat,1798.8,679.8,1554.4,2673.4
+2007,Tin plate,flat,443.0,158.1,358.0,642.9
+2007,Tubes and pipes,flat,990.6,436.4,1005.2,1559.4
+2007,Bright bars,long,238.9,115.6,120.6,243.9
+2007,Heavy sections,long,965.0,180.8,667.2,1451.4
+2007,Hot rolled bars in lengths,long,1153.9,738.0,360.6,776.5
+2007,Light sections,long,132.4,44.7,113.5,201.2
+2007,Railway track material,long,139.0,26.0,96.1,209.1
+2007,Reinforcing bar,long,587.0,293.7,216.8,510.1
+2007,Rods,long,1656.3,871.9,643.7,1428.1
+2007,Sheet piling and rolled accessories,long,194.7,36.5,134.6,292.8
+2008,Cold rolled,flat,72.5,23.6,64.8,113.7
+2008,Electro coated,flat,90.0,30.1,67.8,127.7
+2008,Hot dipped galvanised,flat,1059.0,354.2,797.5,1502.3
+2008,Hot rolled,flat,802.9,320.9,722.6,1204.6
+2008,Organic coated,flat,413.0,138.1,311.0,585.9
+2008,Plate,flat,1652.7,626.3,1292.5,2318.9
+2008,Tin plate,flat,462.0,154.5,347.9,655.4
+2008,Tubes and pipes,flat,841.8,350.9,968.9,1459.8
+2008,Bright bars,long,225.5,111.9,111.4,225.0
+2008,Heavy sections,long,851.0,171.5,563.6,1243.0
+2008,Hot rolled bars in lengths,long,1160.4,721.7,338.3,777.0
+2008,Light sections,long,142.9,59.5,68.5,151.9
+2008,Railway track material,long,218.0,43.9,144.4,318.4
+2008,Reinforcing bar,long,662.0,335.5,203.2,529.7
+2008,Rods,long,1449.8,775.0,469.3,1144.1
+2008,Sheet piling and rolled accessories,long,210.0,42.3,139.1,306.7
 2009,Cold rolled,flat,38.9,9.8,42.6,71.7
 2009,Electro coated,flat,54.0,21.8,44.3,76.5
 2009,Hot dipped galvanised,flat,825.0,332.7,676.4,1168.7

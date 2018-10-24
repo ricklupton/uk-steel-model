@@ -194,7 +194,8 @@ def calculate_for_year(year):
 ###########################################################################
 
 # YEARS = list(issb.index.get_level_values('year').unique())
-YEARS = list(range(2009, 2017))
+YEARS_TO_SKIP = [1991, 1992, 1994, 2006]
+YEARS = [year for year in range(1980, 2017) if year not in YEARS_TO_SKIP]
 logger.info('Loaded ISSB data with years: %s', YEARS)
 
 results = pd.concat([

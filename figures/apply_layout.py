@@ -50,6 +50,6 @@ def process_year(filename, outdir):
         json.dump(data, f)
 
 
-for filename in glob('generated/sankey_20*.json'):
+for filename in glob('figures/generated/sankey_*.json'):
     print('Processing', filename)
-    process_year(filename, 'with_layout')
+    process_year(filename, 'figures/with_layout')

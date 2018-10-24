@@ -131,9 +131,11 @@ def build_flows_for_year(year):
     return flows
 
 # years = [2016]
-years = list(range(2009, 2017))
+YEARS_TO_SKIP = [1991, 1992, 1994, 2006]
+YEARS = [year for year in range(1980, 2017) if year not in YEARS_TO_SKIP]
+# years = list(range(2009, 2017))
 all_flows = pd.concat([
-    build_flows_for_year(year) for year in years
+    build_flows_for_year(year) for year in YEARS
 ])
 
 all_flows = all_flows[all_flows['value'] > 0]
