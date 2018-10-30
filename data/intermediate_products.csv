@@ -15,21 +15,21 @@ year,product,product_family,production,exports,imports,delivered
 1980,Reinforcing bar,long,781.0,218.6,159.4,721.9
 1980,Rods,long,861.3,269.3,196.5,788.4
 1980,Sheet piling and rolled accessories,long,-0.8,-0.2,-0.1,-0.7
-1981,Cold rolled,flat,296.5,20.1,0.0,276.4
-1981,Electro coated,flat,107.0,26.9,0.0,80.1
-1981,Hot dipped galvanised,flat,595.0,149.6,0.0,445.4
-1981,Hot rolled,flat,1532.2,477.1,0.0,1055.1
-1981,Organic coated,flat,141.0,35.5,0.0,105.5
-1981,Plate,flat,1654.3,370.3,0.0,1284.0
-1981,Tin plate,flat,864.0,217.2,0.0,646.8
-1981,Tubes and pipes,flat,1287.7,359.4,0.0,928.3
-1981,Bright bars,long,333.1,48.4,0.0,284.7
-1981,Heavy sections,long,1789.0,623.3,0.0,1165.7
-1981,Hot rolled bars in lengths,long,836.3,307.7,0.0,528.6
-1981,Light sections,long,253.2,89.1,0.0,164.1
-1981,Railway track material,long,226.0,78.7,0.0,147.3
-1981,Reinforcing bar,long,788.0,208.8,0.0,579.2
-1981,Rods,long,961.7,293.7,0.0,668.0
+1981,Cold rolled,flat,296.5,20.1,105.0,381.4
+1981,Electro coated,flat,107.0,26.9,53.1,133.2
+1981,Hot dipped galvanised,flat,595.0,149.6,295.4,740.8
+1981,Hot rolled,flat,1532.2,477.1,942.1,1997.2
+1981,Organic coated,flat,141.0,35.5,70.0,175.6
+1981,Plate,flat,1654.3,370.3,750.7,2034.7
+1981,Tin plate,flat,864.0,217.2,428.9,1075.7
+1981,Tubes and pipes,flat,1287.7,359.4,433.2,1361.5
+1981,Bright bars,long,333.1,48.4,49.3,334.0
+1981,Heavy sections,long,1789.0,623.3,159.0,1324.7
+1981,Hot rolled bars in lengths,long,836.3,307.7,210.4,739.0
+1981,Light sections,long,253.2,89.1,95.1,259.2
+1981,Railway track material,long,226.0,78.7,20.1,167.3
+1981,Reinforcing bar,long,788.0,208.8,147.9,727.1
+1981,Rods,long,961.7,293.7,208.0,876.0
 1981,Sheet piling and rolled accessories,long,0.4,0.1,0.0,0.3
 1982,Cold rolled,flat,286.9,27.0,83.8,343.7
 1982,Electro coated,flat,183.0,41.2,67.4,209.2
