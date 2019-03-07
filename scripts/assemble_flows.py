@@ -61,13 +61,10 @@ sector_yield_losses = pd.read_csv('allocations/data/yield_losses.csv', index_col
 assert all(sector_yield_losses <= 1), 'sector yield losses should be less than 1'
 assert all(sector_yield_losses >= 0), 'sector yield losses should be greater than 0'
 
-product_imports = load_dataframe(
-    os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'imports') \
-    .set_index(['stage', 'year', 'sector_code']) \
-    ['mass_iron']
-product_exports = load_dataframe(
-    os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'exports') \
-    .set_index(['stage', 'year', 'sector_code']) \
+# XXX what to do with re-imports and re-exports?
+product_trade = load_dataframe(
+    os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'trade') \
+    .set_index(['direction', 'stage', 'year', 'sector_code']) \
     ['mass_iron']
 
 ###########################################################################
@@ -104,7 +101,7 @@ def build_flows_for_year(year):
 
     # Add in imported components
     for sector in alloc_home.index:
-        imports_comps = float(product_imports.get(('component', year, sector), 0.0))
+        imports_comps = float(product_trade.get(('import', 'component', year, sector), 0.0))
         flows.append(('component_imports', 'sector %s' % sector, 'component', imports_comps))
         sector_output[sector] += imports_comps
         flows.append(('sector %s' % sector, 'products %s' % sector, sector, sector_output[sector]))  # flow E
@@ -113,9 +110,9 @@ def build_flows_for_year(year):
 
     # Finished products imports and exports
     for sector in alloc_home.index:
-        exports = (float(product_exports.get(('component', year, sector), 0.0)) +
-                   float(product_exports.get(('final', year, sector), 0.0)))
-        imports_final = float(product_imports.get(('final', year, sector), 0.0))
+        exports = (float(product_trade.get(('export', 'component', year, sector), 0.0)) +
+                   float(product_trade.get(('export', 'final', year, sector), 0.0)))
+        imports_final = float(product_trade.get(('import', 'final', year, sector), 0.0))
         flows.append(('products %s' % sector, 'product_exports', sector, exports))
 
         if exports > sector_output[sector]:

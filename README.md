@@ -9,7 +9,7 @@ easy to extend to use more years' data when they are available.
 Make sure required Python packages are installed:
 
 ```shell
-$ pip install pandas datapackage
+$ pipenv install
 ```
 
 For the Sankey diagram, make sure [floWeaver and
