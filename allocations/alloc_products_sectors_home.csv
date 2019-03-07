@@ -1,19 +1,19 @@
 sector_code,sector_group,sector_name,Hot rolled,Plate,Cold rolled,Hot dipped galvanised,Electro coated,Organic coated,Tin plate,Tubes and pipes,Railway track material,Heavy sections,Sheet piling and rolled accessories,Light sections,Hot rolled bars in lengths,Bright bars,Reinforcing bar,Rods
-4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",,0.000,0.000,0.000,,,,0.000,,,0.000,0.000,0.029,0.105,,0.250
-5,Metal Goods,"Hand tools, cutlery, instrument engineering",,0.012,0.022,0.000,,,,0.000,,,0.000,0.000,0.021,0.042,,0.000
-6,Metal Goods,Packaging and industrial and domestic hollow-ware,0.274,0.000,0.032,0.519,,0.392,1.000,0.000,,,0.000,0.013,0.000,0.004,,0.000
-7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",0.076,0.015,0.158,0.144,,0.108,,0.000,,,0.000,0.034,0.232,0.047,,0.000
-8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",0.010,0.004,0.140,0.078,1.000,0.500,,0.115,,,0.000,0.000,0.000,0.004,,0.000
-9,Mechanical engineering,Agricultural machinery,,0.000,0.012,0.000,,,,0.000,0.000,,0.000,0.000,0.000,0.000,,0.000
-10,Mechanical engineering,Metal working toolsand engineering tools,,0.000,0.000,0.000,,,,0.000,0.000,,0.000,0.000,0.000,0.065,,0.000
-11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",,0.059,0.000,0.000,,,,0.006,0.093,,0.136,0.000,0.155,0.023,,0.000
-12,Mechanical engineering,Other mechanical engineering,0.050,0.018,0.045,0.031,,,,0.120,0.000,,0.000,0.000,0.127,0.290,,0.000
-13,Mechanical engineering,Industrial and process plant,,0.166,0.000,0.000,,,,0.000,0.007,,0.011,0.369,0.048,0.000,,0.000
-14,Construction,Construction and fabricated constructional steelwork,0.590,0.284,0.006,0.060,,,,0.064,0.900,1.000,0.768,0.336,0.133,0.000,1.000,0.457
-15a,Transport,Motor vehicles: BIW,,0.081,0.527,0.151,,,,,,,0.000,0.069,,,,
-15b,Transport,"Motor vehicles: drivetrain, chassis, and trimmings",,,,,,,,0.238,,,0.000,0.078,0.023,0.352,,0.005
-16,Transport,Other transport,,0.080,0.000,0.000,,,,0.020,,,0.019,0.000,0.006,0.007,,0.000
-17,"Energy, Water Supply and Chemical Industries","Coal, coke, petroleum and natural gas",,0.000,0.000,0.000,,,,0.135,,,0.007,0.000,0.000,0.000,,0.000
-18,"Energy, Water Supply and Chemical Industries","Gas, electricity and water",,0.000,0.000,0.000,,,,0.126,,,0.000,0.000,0.000,0.000,,0.000
-19,"Energy, Water Supply and Chemical Industries",Chemical and allied industries,,0.000,0.000,0.000,,,,0.000,,,0.000,0.000,0.008,0.000,,0.000
-20,Others,Other UK consumers,,0.282,0.057,0.017,,,,0.178,,,0.058,0.101,0.218,0.062,,0.288
+4,Metal Goods,"Bolts, nuts, rivets, screws, etc.",,0,0,,,,,0,,,0,0,0.029,0.105,,0.25
+5,Metal Goods,"Hand tools, cutlery, instrument engineering",,0.012,0.022,,,,,0,,,0,0,0.021,0.042,,0
+6,Metal Goods,Packaging and industrial and domestic hollow-ware,0.274,0,0.032,,,0.392,1,0,,,0,0.013,0,0.004,,0
+7,Metal Goods,"Other metal goods (including furnitue, doors, windows, non-electric domestic appliances, and springs)",0.076,0.015,0.158,,,0.108,,0,,,0,0.034,0.232,0.047,,0
+8,Electrical engineering,"Electrical engineering, including elec. domestic appliances",0.01,0.004,0.14,0.22,1,0.5,,0.115,,,0,0,0,0.004,,0
+9,Mechanical engineering,Agricultural machinery,,0,0.012,,,,,0,0,,0,0,0,0,,0
+10,Mechanical engineering,Metal working toolsand engineering tools,,0,0,,,,,0,0,,0,0,0,0.065,,0
+11,Mechanical engineering,"Construction, earth moving and mechanical handling equipment",,0.059,0,,,,,0.006,0.093,,0.136,0,0.155,0.023,,0
+12,Mechanical engineering,Other mechanical engineering,0.05,0.018,0.045,,,,,0.12,0,,0,0,0.127,0.29,,0
+13,Mechanical engineering,Industrial and process plant,,0.166,0,,,,,0,0.007,,0.011,0.369,0.048,0,,0
+14,Construction,Construction and fabricated constructional steelwork,0.59,0.284,0.006,,,,,0.064,0.9,1,0.768,0.336,0.133,0,1,0.457
+15a,Transport,Motor vehicles: BIW,,0.081,0.527,0.78,,,,,,,0,0.069,,,,
+15b,Transport,"Motor vehicles: drivetrain, chassis, and trimmings",,,,,,,,0.238,,,0,0.078,0.023,0.352,,0.005
+16,Transport,Other transport,,0.08,0,,,,,0.02,,,0.019,0,0.006,0.007,,0
+17,"Energy, Water Supply and Chemical Industries","Coal, coke, petroleum and natural gas",,0,0,,,,,0.135,,,0.007,0,0,0,,0
+18,"Energy, Water Supply and Chemical Industries","Gas, electricity and water",,0,0,,,,,0.126,,,0,0,0,0,,0
+19,"Energy, Water Supply and Chemical Industries",Chemical and allied industries,,0,0,,,,,0,,,0,0,0.008,0,,0
+20,Others,Other UK consumers,,0.282,0.057,,,,,0.178,,,0.058,0.101,0.218,0.062,,0.288

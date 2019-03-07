@@ -31,21 +31,11 @@ uk_production,sector 8,Electro coated,1980,66.3
 imports,sector 8,Electro coated,1980,54.8
 sector 8,scrap,scrap Electro coated,1980,24.2
 uk_production,exports,Hot dipped galvanised,1980,56.9
-uk_production,sector 6,Hot dipped galvanised,1980,168.2
-sector 6,scrap,scrap Hot dipped galvanised,1980,16.8
-uk_production,sector 7,Hot dipped galvanised,1980,46.7
-sector 7,scrap,scrap Hot dipped galvanised,1980,7.9
-uk_production,sector 8,Hot dipped galvanised,1980,25.3
-sector 8,scrap,scrap Hot dipped galvanised,1980,5.1
-uk_production,sector 12,Hot dipped galvanised,1980,10.0
-sector 12,scrap,scrap Hot dipped galvanised,1980,2.0
-uk_production,sector 14,Hot dipped galvanised,1980,19.4
-sector 14,scrap,scrap Hot dipped galvanised,1980,2.1
-uk_production,sector 15a,Hot dipped galvanised,1980,48.9
+uk_production,sector 8,Hot dipped galvanised,1980,71.3
+sector 8,scrap,scrap Hot dipped galvanised,1980,14.3
+uk_production,sector 15a,Hot dipped galvanised,1980,252.8
 imports,sector 15a,Hot dipped galvanised,1980,267.6
-sector 15a,scrap,scrap Hot dipped galvanised,1980,136.1
-uk_production,sector 20,Hot dipped galvanised,1980,5.5
-sector 20,scrap,scrap Hot dipped galvanised,1980,0.9
+sector 15a,scrap,scrap Hot dipped galvanised,1980,223.8
 uk_production,exports,Hot rolled,1980,204.1
 uk_production,sector 6,Hot rolled,1980,249.3
 imports,sector 6,Hot rolled,1980,262.9
@@ -259,11 +249,11 @@ sector 20,scrap,scrap Rods,1980,17.0
 sector 4,products 4,4,1980,249.6
 component_imports,sector 5,component,1980,0.8
 sector 5,products 5,5,1980,51.4
-sector 6,products 6,6,1980,1361.0
+sector 6,products 6,6,1980,1209.6
 component_imports,sector 7,component,1980,5.1
-sector 7,products 7,7,1980,403.1
+sector 7,products 7,7,1980,364.3
 component_imports,sector 8,component,1980,1.9
-sector 8,products 8,8,1980,372.3
+sector 8,products 8,8,1980,409.2
 component_imports,sector 9,component,1980,15.3
 sector 9,products 9,9,1980,103.0
 component_imports,sector 10,component,1980,11.8
@@ -271,12 +261,12 @@ sector 10,products 10,10,1980,28.7
 component_imports,sector 11,component,1980,67.8
 sector 11,products 11,11,1980,344.5
 component_imports,sector 12,component,1980,33.8
-sector 12,products 12,12,1980,463.6
+sector 12,products 12,12,1980,455.5
 component_imports,sector 13,component,1980,18.9
 sector 13,products 13,13,1980,321.4
-sector 14,products 14,14,1980,4029.0
+sector 14,products 14,14,1980,4011.6
 component_imports,sector 15a,component,1980,144.3
-sector 15a,products 15a,15a,1980,534.4
+sector 15a,products 15a,15a,1980,650.6
 component_imports,sector 15b,component,1980,130.7
 sector 15b,products 15b,15b,1980,578.7
 component_imports,sector 16,component,1980,15.9
@@ -285,7 +275,7 @@ sector 17,products 17,17,1980,174.9
 component_imports,sector 18,component,1980,1.7
 sector 18,products 18,18,1980,165.1
 sector 19,products 19,19,1980,5.7
-sector 20,products 20,20,1980,640.6
+sector 20,products 20,20,1980,636.1
 products 4,product_exports,4,1980,43.8
 products 4,uk_demand,4,1980,205.8
 product_imports,uk_demand,4,1980,67.0
@@ -293,13 +283,13 @@ products 5,product_exports,5,1980,179.8
 imbalance,products 5,5,1980,128.4
 product_imports,uk_demand,5,1980,139.3
 products 6,product_exports,6,1980,65.4
-products 6,uk_demand,6,1980,1295.6
+products 6,uk_demand,6,1980,1144.2
 product_imports,uk_demand,6,1980,56.4
 products 7,product_exports,7,1980,142.3
-products 7,uk_demand,7,1980,260.8
+products 7,uk_demand,7,1980,222.0
 product_imports,uk_demand,7,1980,128.6
 products 8,product_exports,8,1980,136.4
-products 8,uk_demand,8,1980,235.9
+products 8,uk_demand,8,1980,272.8
 product_imports,uk_demand,8,1980,99.1
 products 9,product_exports,9,1980,263.3
 imbalance,products 9,9,1980,160.3
@@ -311,16 +301,16 @@ products 11,product_exports,11,1980,415.6
 imbalance,products 11,11,1980,71.1
 product_imports,uk_demand,11,1980,128.5
 products 12,product_exports,12,1980,434.9
-products 12,uk_demand,12,1980,28.7
+products 12,uk_demand,12,1980,20.6
 product_imports,uk_demand,12,1980,205.1
 products 13,product_exports,13,1980,233.4
 products 13,uk_demand,13,1980,88.0
 product_imports,uk_demand,13,1980,122.5
 products 14,product_exports,14,1980,364.8
-products 14,uk_demand,14,1980,3664.2
+products 14,uk_demand,14,1980,3646.8
 product_imports,uk_demand,14,1980,85.3
 products 15a,product_exports,15a,1980,503.6
-products 15a,uk_demand,15a,1980,30.8
+products 15a,uk_demand,15a,1980,147.0
 product_imports,uk_demand,15a,1980,398.6
 products 15b,product_exports,15b,1980,394.5
 products 15b,uk_demand,15b,1980,184.2
@@ -333,7 +323,7 @@ products 18,product_exports,18,1980,18.0
 products 18,uk_demand,18,1980,147.1
 product_imports,uk_demand,18,1980,0.7
 products 19,uk_demand,19,1980,5.7
-products 20,uk_demand,20,1980,640.6
+products 20,uk_demand,20,1980,636.1
 uk_production,exports,Cold rolled,1981,20.1
 uk_production,sector 5,Cold rolled,1981,6.1
 imports,sector 5,Cold rolled,1981,2.5
@@ -366,21 +356,11 @@ uk_production,sector 8,Electro coated,1981,80.1
 imports,sector 8,Electro coated,1981,53.1
 sector 8,scrap,scrap Electro coated,1981,26.6
 uk_production,exports,Hot dipped galvanised,1981,149.6
-uk_production,sector 6,Hot dipped galvanised,1981,231.2
-sector 6,scrap,scrap Hot dipped galvanised,1981,23.1
-uk_production,sector 7,Hot dipped galvanised,1981,64.1
-sector 7,scrap,scrap Hot dipped galvanised,1981,10.9
-uk_production,sector 8,Hot dipped galvanised,1981,34.7
-sector 8,scrap,scrap Hot dipped galvanised,1981,6.9
-uk_production,sector 12,Hot dipped galvanised,1981,13.8
-sector 12,scrap,scrap Hot dipped galvanised,1981,2.8
-uk_production,sector 14,Hot dipped galvanised,1981,26.7
-sector 14,scrap,scrap Hot dipped galvanised,1981,2.9
-uk_production,sector 15a,Hot dipped galvanised,1981,67.3
+uk_production,sector 8,Hot dipped galvanised,1981,98.0
+sector 8,scrap,scrap Hot dipped galvanised,1981,19.6
+uk_production,sector 15a,Hot dipped galvanised,1981,347.4
 imports,sector 15a,Hot dipped galvanised,1981,295.4
-sector 15a,scrap,scrap Hot dipped galvanised,1981,155.9
-uk_production,sector 20,Hot dipped galvanised,1981,7.6
-sector 20,scrap,scrap Hot dipped galvanised,1981,1.3
+sector 15a,scrap,scrap Hot dipped galvanised,1981,276.4
 uk_production,exports,Hot rolled,1981,477.1
 uk_production,sector 6,Hot rolled,1981,289.1
 imports,sector 6,Hot rolled,1981,258.2
@@ -607,11 +587,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1981,0.0
 sector 4,products 4,4,1981,264.7
 component_imports,sector 5,component,1981,0.8
 sector 5,products 5,5,1981,50.8
-sector 6,products 6,6,1981,1531.0
+sector 6,products 6,6,1981,1323.0
 component_imports,sector 7,component,1981,5.9
-sector 7,products 7,7,1981,407.9
+sector 7,products 7,7,1981,354.6
 component_imports,sector 8,component,1981,1.5
-sector 8,products 8,8,1981,407.0
+sector 8,products 8,8,1981,457.6
 component_imports,sector 9,component,1981,15.6
 sector 9,products 9,9,1981,103.2
 component_imports,sector 10,component,1981,10.6
@@ -619,12 +599,12 @@ sector 10,products 10,10,1981,25.9
 component_imports,sector 11,component,1981,64.3
 sector 11,products 11,11,1981,344.2
 component_imports,sector 12,component,1981,31.6
-sector 12,products 12,12,1981,467.2
+sector 12,products 12,12,1981,456.2
 component_imports,sector 13,component,1981,16.8
 sector 13,products 13,13,1981,348.0
-sector 14,products 14,14,1981,4370.0
+sector 14,products 14,14,1981,4346.2
 component_imports,sector 15a,component,1981,157.0
-sector 15a,products 15a,15a,1981,584.4
+sector 15a,products 15a,15a,1981,744.1
 component_imports,sector 15b,component,1981,143.4
 sector 15b,products 15b,15b,1981,599.4
 component_imports,sector 16,component,1981,13.6
@@ -633,7 +613,7 @@ sector 17,products 17,17,1981,186.4
 component_imports,sector 18,component,1981,1.3
 sector 18,products 18,18,1981,175.4
 sector 19,products 19,19,1981,5.0
-sector 20,products 20,20,1981,717.8
+sector 20,products 20,20,1981,711.5
 products 4,product_exports,4,1981,34.2
 products 4,uk_demand,4,1981,230.5
 product_imports,uk_demand,4,1981,59.4
@@ -641,13 +621,13 @@ products 5,product_exports,5,1981,170.1
 imbalance,products 5,5,1981,119.3
 product_imports,uk_demand,5,1981,121.1
 products 6,product_exports,6,1981,62.5
-products 6,uk_demand,6,1981,1468.5
+products 6,uk_demand,6,1981,1260.5
 product_imports,uk_demand,6,1981,19.3
 products 7,product_exports,7,1981,133.9
-products 7,uk_demand,7,1981,274.0
+products 7,uk_demand,7,1981,220.7
 product_imports,uk_demand,7,1981,129.8
 products 8,product_exports,8,1981,126.4
-products 8,uk_demand,8,1981,280.6
+products 8,uk_demand,8,1981,331.2
 product_imports,uk_demand,8,1981,112.8
 products 9,product_exports,9,1981,229.1
 imbalance,products 9,9,1981,125.9
@@ -659,16 +639,16 @@ products 11,product_exports,11,1981,356.1
 imbalance,products 11,11,1981,11.9
 product_imports,uk_demand,11,1981,112.9
 products 12,product_exports,12,1981,420.6
-products 12,uk_demand,12,1981,46.6
+products 12,uk_demand,12,1981,35.6
 product_imports,uk_demand,12,1981,189.7
 products 13,product_exports,13,1981,196.5
 products 13,uk_demand,13,1981,151.5
 product_imports,uk_demand,13,1981,76.6
 products 14,product_exports,14,1981,349.8
-products 14,uk_demand,14,1981,4020.2
+products 14,uk_demand,14,1981,3996.4
 product_imports,uk_demand,14,1981,87.7
 products 15a,product_exports,15a,1981,443.2
-products 15a,uk_demand,15a,1981,141.2
+products 15a,uk_demand,15a,1981,300.9
 product_imports,uk_demand,15a,1981,360.7
 products 15b,product_exports,15b,1981,347.4
 products 15b,uk_demand,15b,1981,252.0
@@ -681,7 +661,7 @@ products 18,product_exports,18,1981,17.9
 products 18,uk_demand,18,1981,157.5
 product_imports,uk_demand,18,1981,0.3
 products 19,uk_demand,19,1981,5.0
-products 20,uk_demand,20,1981,717.8
+products 20,uk_demand,20,1981,711.5
 uk_production,exports,Cold rolled,1982,27.0
 uk_production,sector 5,Cold rolled,1982,5.7
 imports,sector 5,Cold rolled,1982,2.0
@@ -714,21 +694,11 @@ uk_production,sector 8,Electro coated,1982,141.8
 imports,sector 8,Electro coated,1982,67.4
 sector 8,scrap,scrap Electro coated,1982,41.8
 uk_production,exports,Hot dipped galvanised,1982,126.8
-uk_production,sector 6,Hot dipped galvanised,1982,226.4
-sector 6,scrap,scrap Hot dipped galvanised,1982,22.6
-uk_production,sector 7,Hot dipped galvanised,1982,62.8
-sector 7,scrap,scrap Hot dipped galvanised,1982,10.7
-uk_production,sector 8,Hot dipped galvanised,1982,34.0
-sector 8,scrap,scrap Hot dipped galvanised,1982,6.8
-uk_production,sector 12,Hot dipped galvanised,1982,13.5
-sector 12,scrap,scrap Hot dipped galvanised,1982,2.7
-uk_production,sector 14,Hot dipped galvanised,1982,26.2
-sector 14,scrap,scrap Hot dipped galvanised,1982,2.9
-uk_production,sector 15a,Hot dipped galvanised,1982,65.9
+uk_production,sector 8,Hot dipped galvanised,1982,96.0
+sector 8,scrap,scrap Hot dipped galvanised,1982,19.2
+uk_production,sector 15a,Hot dipped galvanised,1982,340.2
 imports,sector 15a,Hot dipped galvanised,1982,207.5
-sector 15a,scrap,scrap Hot dipped galvanised,1982,117.5
-uk_production,sector 20,Hot dipped galvanised,1982,7.4
-sector 20,scrap,scrap Hot dipped galvanised,1982,1.3
+sector 15a,scrap,scrap Hot dipped galvanised,1982,235.5
 uk_production,exports,Hot rolled,1982,359.9
 uk_production,sector 6,Hot rolled,1982,255.3
 imports,sector 6,Hot rolled,1982,161.4
@@ -942,11 +912,11 @@ sector 20,scrap,scrap Rods,1982,15.9
 sector 4,products 4,4,1982,246.0
 component_imports,sector 5,component,1982,0.7
 sector 5,products 5,5,1982,48.2
-sector 6,products 6,6,1982,1395.7
+sector 6,products 6,6,1982,1191.9
 component_imports,sector 7,component,1982,6.6
-sector 7,products 7,7,1982,373.3
+sector 7,products 7,7,1982,321.2
 component_imports,sector 8,component,1982,1.8
-sector 8,products 8,8,1982,457.7
+sector 8,products 8,8,1982,507.3
 component_imports,sector 9,component,1982,17.3
 sector 9,products 9,9,1982,83.3
 component_imports,sector 10,component,1982,9.8
@@ -954,12 +924,12 @@ sector 10,products 10,10,1982,24.8
 component_imports,sector 11,component,1982,64.2
 sector 11,products 11,11,1982,315.5
 component_imports,sector 12,component,1982,40.4
-sector 12,products 12,12,1982,432.7
+sector 12,products 12,12,1982,421.8
 component_imports,sector 13,component,1982,19.6
 sector 13,products 13,13,1982,325.3
-sector 14,products 14,14,1982,3906.6
+sector 14,products 14,14,1982,3883.3
 component_imports,sector 15a,component,1982,203.5
-sector 15a,products 15a,15a,1982,560.5
+sector 15a,products 15a,15a,1982,716.9
 component_imports,sector 15b,component,1982,171.3
 sector 15b,products 15b,15b,1982,587.2
 component_imports,sector 16,component,1982,15.3
@@ -968,7 +938,7 @@ sector 17,products 17,17,1982,166.0
 component_imports,sector 18,component,1982,1.6
 sector 18,products 18,18,1982,156.6
 sector 19,products 19,19,1982,4.9
-sector 20,products 20,20,1982,685.4
+sector 20,products 20,20,1982,679.2
 products 4,product_exports,4,1982,30.0
 products 4,uk_demand,4,1982,216.0
 product_imports,uk_demand,4,1982,79.2
@@ -976,13 +946,13 @@ products 5,product_exports,5,1982,175.4
 imbalance,products 5,5,1982,127.2
 product_imports,uk_demand,5,1982,287.7
 products 6,product_exports,6,1982,53.6
-products 6,uk_demand,6,1982,1342.1
+products 6,uk_demand,6,1982,1138.3
 product_imports,uk_demand,6,1982,28.7
 products 7,product_exports,7,1982,120.9
-products 7,uk_demand,7,1982,252.4
+products 7,uk_demand,7,1982,200.3
 product_imports,uk_demand,7,1982,140.2
 products 8,product_exports,8,1982,134.1
-products 8,uk_demand,8,1982,323.6
+products 8,uk_demand,8,1982,373.2
 product_imports,uk_demand,8,1982,640.5
 products 9,product_exports,9,1982,199.0
 imbalance,products 9,9,1982,115.7
@@ -994,16 +964,16 @@ products 11,product_exports,11,1982,322.0
 imbalance,products 11,11,1982,6.5
 product_imports,uk_demand,11,1982,129.8
 products 12,product_exports,12,1982,419.1
-products 12,uk_demand,12,1982,13.6
+products 12,uk_demand,12,1982,2.7
 product_imports,uk_demand,12,1982,217.2
 products 13,product_exports,13,1982,209.7
 products 13,uk_demand,13,1982,115.6
 product_imports,uk_demand,13,1982,86.4
 products 14,product_exports,14,1982,396.2
-products 14,uk_demand,14,1982,3510.4
+products 14,uk_demand,14,1982,3487.1
 product_imports,uk_demand,14,1982,104.5
 products 15a,product_exports,15a,1982,396.2
-products 15a,uk_demand,15a,1982,164.3
+products 15a,uk_demand,15a,1982,320.7
 product_imports,uk_demand,15a,1982,436.3
 products 15b,product_exports,15b,1982,311.5
 products 15b,uk_demand,15b,1982,275.7
@@ -1016,7 +986,7 @@ products 18,product_exports,18,1982,17.3
 products 18,uk_demand,18,1982,139.3
 product_imports,uk_demand,18,1982,0.3
 products 19,uk_demand,19,1982,4.9
-products 20,uk_demand,20,1982,685.4
+products 20,uk_demand,20,1982,679.2
 uk_production,exports,Cold rolled,1983,22.3
 uk_production,sector 5,Cold rolled,1983,5.8
 imports,sector 5,Cold rolled,1983,2.2
@@ -1960,21 +1930,11 @@ sector 15a,scrap,scrap Cold rolled,1986,87.5
 uk_production,sector 20,Cold rolled,1986,15.3
 sector 20,scrap,scrap Cold rolled,1986,2.6
 uk_production,exports,Hot dipped galvanised,1986,297.2
-uk_production,sector 6,Hot dipped galvanised,1986,337.2
-sector 6,scrap,scrap Hot dipped galvanised,1986,33.7
-uk_production,sector 7,Hot dipped galvanised,1986,93.6
-sector 7,scrap,scrap Hot dipped galvanised,1986,15.9
-uk_production,sector 8,Hot dipped galvanised,1986,50.7
-sector 8,scrap,scrap Hot dipped galvanised,1986,10.1
-uk_production,sector 12,Hot dipped galvanised,1986,20.1
-sector 12,scrap,scrap Hot dipped galvanised,1986,4.0
-uk_production,sector 14,Hot dipped galvanised,1986,39.0
-sector 14,scrap,scrap Hot dipped galvanised,1986,4.3
-uk_production,sector 15a,Hot dipped galvanised,1986,98.1
+uk_production,sector 8,Hot dipped galvanised,1986,143.0
+sector 8,scrap,scrap Hot dipped galvanised,1986,28.6
+uk_production,sector 15a,Hot dipped galvanised,1986,506.8
 imports,sector 15a,Hot dipped galvanised,1986,366.5
-sector 15a,scrap,scrap Hot dipped galvanised,1986,199.8
-uk_production,sector 20,Hot dipped galvanised,1986,11.0
-sector 20,scrap,scrap Hot dipped galvanised,1986,1.9
+sector 15a,scrap,scrap Hot dipped galvanised,1986,375.5
 uk_production,exports,Hot rolled,1986,680.9
 uk_production,sector 6,Hot rolled,1986,325.7
 imports,sector 6,Hot rolled,1986,230.1
@@ -2190,11 +2150,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1986,0.0
 sector 4,products 4,4,1986,250.4
 component_imports,sector 5,component,1986,0.7
 sector 5,products 5,5,1986,45.1
-sector 6,products 6,6,1986,1524.9
+sector 6,products 6,6,1986,1221.4
 component_imports,sector 7,component,1986,11.7
-sector 7,products 7,7,1986,402.0
+sector 7,products 7,7,1986,324.4
 component_imports,sector 8,component,1986,1.9
-sector 8,products 8,8,1986,229.9
+sector 8,products 8,8,1986,303.7
 component_imports,sector 9,component,1986,15.9
 sector 9,products 9,9,1986,90.7
 component_imports,sector 10,component,1986,15.3
@@ -2202,12 +2162,12 @@ sector 10,products 10,10,1986,30.0
 component_imports,sector 11,component,1986,93.7
 sector 11,products 11,11,1986,328.8
 component_imports,sector 12,component,1986,43.6
-sector 12,products 12,12,1986,451.7
+sector 12,products 12,12,1986,435.6
 component_imports,sector 13,component,1986,19.0
 sector 13,products 13,13,1986,295.1
-sector 14,products 14,14,1986,4141.1
+sector 14,products 14,14,1986,4106.4
 component_imports,sector 15a,component,1986,292.5
-sector 15a,products 15a,15a,1986,759.9
+sector 15a,products 15a,15a,1986,992.9
 component_imports,sector 15b,component,1986,253.2
 sector 15b,products 15b,15b,1986,670.4
 component_imports,sector 16,component,1986,16.6
@@ -2216,7 +2176,7 @@ sector 17,products 17,17,1986,169.1
 component_imports,sector 18,component,1986,3.4
 sector 18,products 18,18,1986,161.3
 sector 19,products 19,19,1986,4.3
-sector 20,products 20,20,1986,648.3
+sector 20,products 20,20,1986,639.1
 products 4,product_exports,4,1986,32.9
 products 4,uk_demand,4,1986,217.5
 product_imports,uk_demand,4,1986,100.0
@@ -2224,13 +2184,13 @@ products 5,product_exports,5,1986,181.5
 imbalance,products 5,5,1986,136.4
 product_imports,uk_demand,5,1986,158.9
 products 6,product_exports,6,1986,65.2
-products 6,uk_demand,6,1986,1459.7
+products 6,uk_demand,6,1986,1156.2
 product_imports,uk_demand,6,1986,44.0
 products 7,product_exports,7,1986,102.7
-products 7,uk_demand,7,1986,299.3
+products 7,uk_demand,7,1986,221.7
 product_imports,uk_demand,7,1986,187.2
 products 8,product_exports,8,1986,132.4
-products 8,uk_demand,8,1986,97.5
+products 8,uk_demand,8,1986,171.3
 product_imports,uk_demand,8,1986,194.3
 products 9,product_exports,9,1986,162.7
 imbalance,products 9,9,1986,72.0
@@ -2242,16 +2202,16 @@ products 11,product_exports,11,1986,322.5
 products 11,uk_demand,11,1986,6.3
 product_imports,uk_demand,11,1986,138.3
 products 12,product_exports,12,1986,394.1
-products 12,uk_demand,12,1986,57.6
+products 12,uk_demand,12,1986,41.5
 product_imports,uk_demand,12,1986,274.5
 products 13,product_exports,13,1986,188.2
 products 13,uk_demand,13,1986,106.9
 product_imports,uk_demand,13,1986,119.4
 products 14,product_exports,14,1986,232.1
-products 14,uk_demand,14,1986,3909.0
+products 14,uk_demand,14,1986,3874.3
 product_imports,uk_demand,14,1986,153.0
 products 15a,product_exports,15a,1986,384.6
-products 15a,uk_demand,15a,1986,375.3
+products 15a,uk_demand,15a,1986,608.3
 product_imports,uk_demand,15a,1986,525.8
 products 15b,product_exports,15b,1986,282.5
 products 15b,uk_demand,15b,1986,387.9
@@ -2264,7 +2224,7 @@ products 18,product_exports,18,1986,19.2
 products 18,uk_demand,18,1986,142.1
 product_imports,uk_demand,18,1986,0.5
 products 19,uk_demand,19,1986,4.3
-products 20,uk_demand,20,1986,648.3
+products 20,uk_demand,20,1986,639.1
 uk_production,exports,Cold rolled,1987,34.2
 uk_production,sector 5,Cold rolled,1987,6.5
 imports,sector 5,Cold rolled,1987,2.8
@@ -2293,21 +2253,11 @@ sector 15a,scrap,scrap Cold rolled,1987,94.9
 uk_production,sector 20,Cold rolled,1987,16.8
 sector 20,scrap,scrap Cold rolled,1987,2.9
 uk_production,exports,Hot dipped galvanised,1987,361.2
-uk_production,sector 6,Hot dipped galvanised,1987,386.0
-sector 6,scrap,scrap Hot dipped galvanised,1987,38.6
-uk_production,sector 7,Hot dipped galvanised,1987,107.1
-sector 7,scrap,scrap Hot dipped galvanised,1987,18.2
-uk_production,sector 8,Hot dipped galvanised,1987,58.0
-sector 8,scrap,scrap Hot dipped galvanised,1987,11.6
-uk_production,sector 12,Hot dipped galvanised,1987,23.1
-sector 12,scrap,scrap Hot dipped galvanised,1987,4.6
-uk_production,sector 14,Hot dipped galvanised,1987,44.6
-sector 14,scrap,scrap Hot dipped galvanised,1987,4.9
-uk_production,sector 15a,Hot dipped galvanised,1987,112.3
+uk_production,sector 8,Hot dipped galvanised,1987,163.6
+sector 8,scrap,scrap Hot dipped galvanised,1987,32.7
+uk_production,sector 15a,Hot dipped galvanised,1987,580.2
 imports,sector 15a,Hot dipped galvanised,1987,525.6
-sector 15a,scrap,scrap Hot dipped galvanised,1987,274.3
-uk_production,sector 20,Hot dipped galvanised,1987,12.6
-sector 20,scrap,scrap Hot dipped galvanised,1987,2.1
+sector 15a,scrap,scrap Hot dipped galvanised,1987,475.5
 uk_production,exports,Hot rolled,1987,789.0
 uk_production,sector 6,Hot rolled,1987,340.0
 imports,sector 6,Hot rolled,1987,314.6
@@ -2524,11 +2474,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1987,0.0
 sector 4,products 4,4,1987,274.6
 component_imports,sector 5,component,1987,0.9
 sector 5,products 5,5,1987,46.8
-sector 6,products 6,6,1987,1816.1
+sector 6,products 6,6,1987,1468.7
 component_imports,sector 7,component,1987,12.4
-sector 7,products 7,7,1987,440.5
+sector 7,products 7,7,1987,351.6
 component_imports,sector 8,component,1987,2.2
-sector 8,products 8,8,1987,245.2
+sector 8,products 8,8,1987,329.7
 component_imports,sector 9,component,1987,16.2
 sector 9,products 9,9,1987,87.6
 component_imports,sector 10,component,1987,13.0
@@ -2536,12 +2486,12 @@ sector 10,products 10,10,1987,28.4
 component_imports,sector 11,component,1987,88.1
 sector 11,products 11,11,1987,325.5
 component_imports,sector 12,component,1987,50.1
-sector 12,products 12,12,1987,483.5
+sector 12,products 12,12,1987,465.1
 component_imports,sector 13,component,1987,19.6
 sector 13,products 13,13,1987,297.6
-sector 14,products 14,14,1987,4597.1
+sector 14,products 14,14,1987,4557.4
 component_imports,sector 15a,component,1987,341.1
-sector 15a,products 15a,15a,1987,917.5
+sector 15a,products 15a,15a,1987,1184.2
 component_imports,sector 15b,component,1987,304.6
 sector 15b,products 15b,15b,1987,733.1
 component_imports,sector 16,component,1987,21.1
@@ -2550,7 +2500,7 @@ sector 17,products 17,17,1987,172.7
 component_imports,sector 18,component,1987,3.8
 sector 18,products 18,18,1987,165.1
 sector 19,products 19,19,1987,4.4
-sector 20,products 20,20,1987,691.6
+sector 20,products 20,20,1987,681.1
 products 4,product_exports,4,1987,34.1
 products 4,uk_demand,4,1987,240.5
 product_imports,uk_demand,4,1987,118.0
@@ -2558,13 +2508,13 @@ products 5,product_exports,5,1987,188.8
 imbalance,products 5,5,1987,142.0
 product_imports,uk_demand,5,1987,173.5
 products 6,product_exports,6,1987,69.8
-products 6,uk_demand,6,1987,1746.3
+products 6,uk_demand,6,1987,1398.9
 product_imports,uk_demand,6,1987,61.5
 products 7,product_exports,7,1987,109.3
-products 7,uk_demand,7,1987,331.2
+products 7,uk_demand,7,1987,242.3
 product_imports,uk_demand,7,1987,201.2
 products 8,product_exports,8,1987,139.7
-products 8,uk_demand,8,1987,105.5
+products 8,uk_demand,8,1987,190.0
 product_imports,uk_demand,8,1987,203.9
 products 9,product_exports,9,1987,211.0
 imbalance,products 9,9,1987,123.4
@@ -2576,16 +2526,16 @@ products 11,product_exports,11,1987,340.0
 imbalance,products 11,11,1987,14.5
 product_imports,uk_demand,11,1987,152.8
 products 12,product_exports,12,1987,386.0
-products 12,uk_demand,12,1987,97.5
+products 12,uk_demand,12,1987,79.1
 product_imports,uk_demand,12,1987,301.2
 products 13,product_exports,13,1987,181.5
 products 13,uk_demand,13,1987,116.1
 product_imports,uk_demand,13,1987,142.5
 products 14,product_exports,14,1987,226.9
-products 14,uk_demand,14,1987,4370.2
+products 14,uk_demand,14,1987,4330.5
 product_imports,uk_demand,14,1987,199.4
 products 15a,product_exports,15a,1987,436.1
-products 15a,uk_demand,15a,1987,481.4
+products 15a,uk_demand,15a,1987,748.1
 product_imports,uk_demand,15a,1987,512.8
 products 15b,product_exports,15b,1987,309.1
 products 15b,uk_demand,15b,1987,424.0
@@ -2598,7 +2548,7 @@ products 18,product_exports,18,1987,17.0
 products 18,uk_demand,18,1987,148.1
 product_imports,uk_demand,18,1987,0.9
 products 19,uk_demand,19,1987,4.4
-products 20,uk_demand,20,1987,691.6
+products 20,uk_demand,20,1987,681.1
 uk_production,exports,Cold rolled,1988,38.3
 uk_production,sector 5,Cold rolled,1988,7.8
 imports,sector 5,Cold rolled,1988,1.6
@@ -2631,21 +2581,11 @@ uk_production,sector 8,Electro coated,1988,139.5
 imports,sector 8,Electro coated,1988,84.7
 sector 8,scrap,scrap Electro coated,1988,44.8
 uk_production,exports,Hot dipped galvanised,1988,376.7
-uk_production,sector 6,Hot dipped galvanised,1988,451.2
-sector 6,scrap,scrap Hot dipped galvanised,1988,45.1
-uk_production,sector 7,Hot dipped galvanised,1988,125.2
-sector 7,scrap,scrap Hot dipped galvanised,1988,21.3
-uk_production,sector 8,Hot dipped galvanised,1988,67.8
-sector 8,scrap,scrap Hot dipped galvanised,1988,13.6
-uk_production,sector 12,Hot dipped galvanised,1988,26.9
-sector 12,scrap,scrap Hot dipped galvanised,1988,5.4
-uk_production,sector 14,Hot dipped galvanised,1988,52.2
-sector 14,scrap,scrap Hot dipped galvanised,1988,5.7
-uk_production,sector 15a,Hot dipped galvanised,1988,131.3
+uk_production,sector 8,Hot dipped galvanised,1988,191.2
+sector 8,scrap,scrap Hot dipped galvanised,1988,38.2
+uk_production,sector 15a,Hot dipped galvanised,1988,678.1
 imports,sector 15a,Hot dipped galvanised,1988,527.9
-sector 15a,scrap,scrap Hot dipped galvanised,1988,283.4
-uk_production,sector 20,Hot dipped galvanised,1988,14.8
-sector 20,scrap,scrap Hot dipped galvanised,1988,2.5
+sector 15a,scrap,scrap Hot dipped galvanised,1988,518.6
 uk_production,exports,Hot rolled,1988,745.1
 uk_production,sector 6,Hot rolled,1988,356.2
 imports,sector 6,Hot rolled,1988,286.2
@@ -2867,11 +2807,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1988,2.0
 sector 4,products 4,4,1988,322.9
 component_imports,sector 5,component,1988,1.3
 sector 5,products 5,5,1988,52.1
-sector 6,products 6,6,1988,1799.5
+sector 6,products 6,6,1988,1393.4
 component_imports,sector 7,component,1988,13.3
-sector 7,products 7,7,1988,473.9
+sector 7,products 7,7,1988,370.0
 component_imports,sector 8,component,1988,1.6
-sector 8,products 8,8,1988,464.6
+sector 8,products 8,8,1988,563.3
 component_imports,sector 9,component,1988,17.2
 sector 9,products 9,9,1988,81.8
 component_imports,sector 10,component,1988,16.7
@@ -2879,12 +2819,12 @@ sector 10,products 10,10,1988,33.9
 component_imports,sector 11,component,1988,100.6
 sector 11,products 11,11,1988,378.5
 component_imports,sector 12,component,1988,64.3
-sector 12,products 12,12,1988,557.5
+sector 12,products 12,12,1988,536.0
 component_imports,sector 13,component,1988,22.6
 sector 13,products 13,13,1988,329.2
-sector 14,products 14,14,1988,5236.2
+sector 14,products 14,14,1988,5189.8
 component_imports,sector 15a,component,1988,369.5
-sector 15a,products 15a,15a,1988,970.0
+sector 15a,products 15a,15a,1988,1281.6
 component_imports,sector 15b,component,1988,334.3
 sector 15b,products 15b,15b,1988,853.8
 component_imports,sector 16,component,1988,31.7
@@ -2893,7 +2833,7 @@ sector 17,products 17,17,1988,218.1
 component_imports,sector 18,component,1988,4.8
 sector 18,products 18,18,1988,207.2
 sector 19,products 19,19,1988,4.9
-sector 20,products 20,20,1988,832.5
+sector 20,products 20,20,1988,820.2
 products 4,product_exports,4,1988,33.5
 products 4,uk_demand,4,1988,289.4
 product_imports,uk_demand,4,1988,147.5
@@ -2901,13 +2841,13 @@ products 5,product_exports,5,1988,163.0
 imbalance,products 5,5,1988,110.9
 product_imports,uk_demand,5,1988,191.7
 products 6,product_exports,6,1988,65.3
-products 6,uk_demand,6,1988,1734.2
+products 6,uk_demand,6,1988,1328.1
 product_imports,uk_demand,6,1988,56.7
 products 7,product_exports,7,1988,121.1
-products 7,uk_demand,7,1988,352.8
+products 7,uk_demand,7,1988,248.9
 product_imports,uk_demand,7,1988,246.6
 products 8,product_exports,8,1988,127.6
-products 8,uk_demand,8,1988,337.0
+products 8,uk_demand,8,1988,435.7
 product_imports,uk_demand,8,1988,240.8
 products 9,product_exports,9,1988,224.5
 imbalance,products 9,9,1988,142.7
@@ -2919,16 +2859,16 @@ products 11,product_exports,11,1988,353.8
 products 11,uk_demand,11,1988,24.7
 product_imports,uk_demand,11,1988,233.0
 products 12,product_exports,12,1988,401.7
-products 12,uk_demand,12,1988,155.8
+products 12,uk_demand,12,1988,134.3
 product_imports,uk_demand,12,1988,350.3
 products 13,product_exports,13,1988,182.6
 products 13,uk_demand,13,1988,146.6
 product_imports,uk_demand,13,1988,181.6
 products 14,product_exports,14,1988,181.5
-products 14,uk_demand,14,1988,5054.7
+products 14,uk_demand,14,1988,5008.3
 product_imports,uk_demand,14,1988,208.0
 products 15a,product_exports,15a,1988,417.8
-products 15a,uk_demand,15a,1988,552.2
+products 15a,uk_demand,15a,1988,863.8
 product_imports,uk_demand,15a,1988,683.1
 products 15b,product_exports,15b,1988,330.2
 products 15b,uk_demand,15b,1988,523.6
@@ -2941,7 +2881,7 @@ products 18,product_exports,18,1988,12.8
 products 18,uk_demand,18,1988,194.4
 product_imports,uk_demand,18,1988,1.0
 products 19,uk_demand,19,1988,4.9
-products 20,uk_demand,20,1988,832.5
+products 20,uk_demand,20,1988,820.2
 uk_production,exports,Cold rolled,1989,35.4
 uk_production,sector 5,Cold rolled,1989,7.7
 imports,sector 5,Cold rolled,1989,1.6
@@ -2974,21 +2914,11 @@ uk_production,sector 8,Electro coated,1989,141.0
 imports,sector 8,Electro coated,1989,86.2
 sector 8,scrap,scrap Electro coated,1989,45.4
 uk_production,exports,Hot dipped galvanised,1989,398.7
-uk_production,sector 6,Hot dipped galvanised,1989,478.2
-sector 6,scrap,scrap Hot dipped galvanised,1989,47.8
-uk_production,sector 7,Hot dipped galvanised,1989,132.7
-sector 7,scrap,scrap Hot dipped galvanised,1989,22.6
-uk_production,sector 8,Hot dipped galvanised,1989,71.9
-sector 8,scrap,scrap Hot dipped galvanised,1989,14.4
-uk_production,sector 12,Hot dipped galvanised,1989,28.6
-sector 12,scrap,scrap Hot dipped galvanised,1989,5.7
-uk_production,sector 14,Hot dipped galvanised,1989,55.3
-sector 14,scrap,scrap Hot dipped galvanised,1989,6.1
-uk_production,sector 15a,Hot dipped galvanised,1989,139.1
+uk_production,sector 8,Hot dipped galvanised,1989,202.7
+sector 8,scrap,scrap Hot dipped galvanised,1989,40.5
+uk_production,sector 15a,Hot dipped galvanised,1989,718.6
 imports,sector 15a,Hot dipped galvanised,1989,563.2
-sector 15a,scrap,scrap Hot dipped galvanised,1989,302.0
-uk_production,sector 20,Hot dipped galvanised,1989,15.7
-sector 20,scrap,scrap Hot dipped galvanised,1989,2.7
+sector 15a,scrap,scrap Hot dipped galvanised,1989,551.2
 uk_production,exports,Hot rolled,1989,739.1
 uk_production,sector 6,Hot rolled,1989,371.5
 imports,sector 6,Hot rolled,1989,286.1
@@ -3210,11 +3140,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1989,1.9
 sector 4,products 4,4,1989,442.9
 component_imports,sector 5,component,1989,1.5
 sector 5,products 5,5,1989,53.6
-sector 6,products 6,6,1989,1795.0
+sector 6,products 6,6,1989,1364.7
 component_imports,sector 7,component,1989,14.8
-sector 7,products 7,7,1989,492.6
+sector 7,products 7,7,1989,382.4
 component_imports,sector 8,component,1989,1.3
-sector 8,products 8,8,1989,480.3
+sector 8,products 8,8,1989,584.9
 component_imports,sector 9,component,1989,19.7
 sector 9,products 9,9,1989,90.5
 component_imports,sector 10,component,1989,20.1
@@ -3222,12 +3152,12 @@ sector 10,products 10,10,1989,36.5
 component_imports,sector 11,component,1989,112.9
 sector 11,products 11,11,1989,407.3
 component_imports,sector 12,component,1989,74.3
-sector 12,products 12,12,1989,584.5
+sector 12,products 12,12,1989,561.7
 component_imports,sector 13,component,1989,24.8
 sector 13,products 13,13,1989,355.4
-sector 14,products 14,14,1989,5217.3
+sector 14,products 14,14,1989,5168.1
 component_imports,sector 15a,component,1989,434.1
-sector 15a,products 15a,15a,1989,1066.8
+sector 15a,products 15a,15a,1989,1397.1
 component_imports,sector 15b,component,1989,388.2
 sector 15b,products 15b,15b,1989,930.3
 component_imports,sector 16,component,1989,31.9
@@ -3236,7 +3166,7 @@ sector 17,products 17,17,1989,231.2
 component_imports,sector 18,component,1989,5.6
 sector 18,products 18,18,1989,220.3
 sector 19,products 19,19,1989,5.2
-sector 20,products 20,20,1989,955.2
+sector 20,products 20,20,1989,942.2
 products 4,product_exports,4,1989,36.9
 products 4,uk_demand,4,1989,406.0
 product_imports,uk_demand,4,1989,154.5
@@ -3244,13 +3174,13 @@ products 5,product_exports,5,1989,178.9
 imbalance,products 5,5,1989,125.3
 product_imports,uk_demand,5,1989,221.3
 products 6,product_exports,6,1989,58.9
-products 6,uk_demand,6,1989,1736.1
+products 6,uk_demand,6,1989,1305.8
 product_imports,uk_demand,6,1989,61.3
 products 7,product_exports,7,1989,135.1
-products 7,uk_demand,7,1989,357.5
+products 7,uk_demand,7,1989,247.3
 product_imports,uk_demand,7,1989,256.5
 products 8,product_exports,8,1989,133.0
-products 8,uk_demand,8,1989,347.3
+products 8,uk_demand,8,1989,451.9
 product_imports,uk_demand,8,1989,239.8
 products 9,product_exports,9,1989,236.4
 imbalance,products 9,9,1989,145.9
@@ -3262,16 +3192,16 @@ products 11,product_exports,11,1989,401.4
 products 11,uk_demand,11,1989,5.9
 product_imports,uk_demand,11,1989,254.8
 products 12,product_exports,12,1989,429.9
-products 12,uk_demand,12,1989,154.6
+products 12,uk_demand,12,1989,131.8
 product_imports,uk_demand,12,1989,373.6
 products 13,product_exports,13,1989,190.3
 products 13,uk_demand,13,1989,165.1
 product_imports,uk_demand,13,1989,177.3
 products 14,product_exports,14,1989,207.7
-products 14,uk_demand,14,1989,5009.6
+products 14,uk_demand,14,1989,4960.4
 product_imports,uk_demand,14,1989,277.0
 products 15a,product_exports,15a,1989,492.7
-products 15a,uk_demand,15a,1989,574.1
+products 15a,uk_demand,15a,1989,904.4
 product_imports,uk_demand,15a,1989,708.6
 products 15b,product_exports,15b,1989,385.3
 products 15b,uk_demand,15b,1989,545.0
@@ -3284,7 +3214,7 @@ products 18,product_exports,18,1989,17.8
 products 18,uk_demand,18,1989,202.5
 product_imports,uk_demand,18,1989,1.2
 products 19,uk_demand,19,1989,5.2
-products 20,uk_demand,20,1989,955.2
+products 20,uk_demand,20,1989,942.2
 uk_production,exports,Cold rolled,1990,31.7
 uk_production,sector 5,Cold rolled,1990,7.1
 imports,sector 5,Cold rolled,1990,1.6
@@ -3317,21 +3247,11 @@ uk_production,sector 8,Electro coated,1990,132.7
 imports,sector 8,Electro coated,1990,90.3
 sector 8,scrap,scrap Electro coated,1990,44.6
 uk_production,exports,Hot dipped galvanised,1990,441.5
-uk_production,sector 6,Hot dipped galvanised,1990,465.3
-sector 6,scrap,scrap Hot dipped galvanised,1990,46.5
-uk_production,sector 7,Hot dipped galvanised,1990,129.1
-sector 7,scrap,scrap Hot dipped galvanised,1990,21.9
-uk_production,sector 8,Hot dipped galvanised,1990,69.9
-sector 8,scrap,scrap Hot dipped galvanised,1990,14.0
-uk_production,sector 12,Hot dipped galvanised,1990,27.8
-sector 12,scrap,scrap Hot dipped galvanised,1990,5.6
-uk_production,sector 14,Hot dipped galvanised,1990,53.8
-sector 14,scrap,scrap Hot dipped galvanised,1990,5.9
-uk_production,sector 15a,Hot dipped galvanised,1990,135.4
+uk_production,sector 8,Hot dipped galvanised,1990,197.2
+sector 8,scrap,scrap Hot dipped galvanised,1990,39.4
+uk_production,sector 15a,Hot dipped galvanised,1990,699.3
 imports,sector 15a,Hot dipped galvanised,1990,610.0
-sector 15a,scrap,scrap Hot dipped galvanised,1990,320.5
-uk_production,sector 20,Hot dipped galvanised,1990,15.2
-sector 20,scrap,scrap Hot dipped galvanised,1990,2.6
+sector 15a,scrap,scrap Hot dipped galvanised,1990,563.0
 uk_production,exports,Hot rolled,1990,596.9
 uk_production,sector 6,Hot rolled,1990,221.5
 imports,sector 6,Hot rolled,1990,226.0
@@ -3563,11 +3483,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1990,1.9
 sector 4,products 4,4,1990,422.3
 component_imports,sector 5,component,1990,1.7
 sector 5,products 5,5,1990,49.6
-sector 6,products 6,6,1990,1668.7
+sector 6,products 6,6,1990,1249.9
 component_imports,sector 7,component,1990,14.9
-sector 7,products 7,7,1990,458.9
+sector 7,products 7,7,1990,351.7
 component_imports,sector 8,component,1990,1.7
-sector 8,products 8,8,1990,641.8
+sector 8,products 8,8,1990,743.7
 component_imports,sector 9,component,1990,19.0
 sector 9,products 9,9,1990,94.7
 component_imports,sector 10,component,1990,19.5
@@ -3575,12 +3495,12 @@ sector 10,products 10,10,1990,34.8
 component_imports,sector 11,component,1990,102.5
 sector 11,products 11,11,1990,381.8
 component_imports,sector 12,component,1990,74.1
-sector 12,products 12,12,1990,534.5
+sector 12,products 12,12,1990,512.3
 component_imports,sector 13,component,1990,25.3
 sector 13,products 13,13,1990,327.4
-sector 14,products 14,14,1990,4358.7
+sector 14,products 14,14,1990,4310.8
 component_imports,sector 15a,component,1990,420.9
-sector 15a,products 15a,15a,1990,1060.3
+sector 15a,products 15a,15a,1990,1381.7
 component_imports,sector 15b,component,1990,372.9
 sector 15b,products 15b,15b,1990,898.0
 component_imports,sector 16,component,1990,32.1
@@ -3589,7 +3509,7 @@ sector 17,products 17,17,1990,226.7
 component_imports,sector 18,component,1990,7.3
 sector 18,products 18,18,1990,217.8
 sector 19,products 19,19,1990,4.7
-sector 20,products 20,20,1990,867.5
+sector 20,products 20,20,1990,854.8
 products 4,product_exports,4,1990,38.5
 products 4,uk_demand,4,1990,383.8
 product_imports,uk_demand,4,1990,129.2
@@ -3597,13 +3517,13 @@ products 5,product_exports,5,1990,209.2
 imbalance,products 5,5,1990,159.6
 product_imports,uk_demand,5,1990,237.2
 products 6,product_exports,6,1990,100.4
-products 6,uk_demand,6,1990,1568.3
+products 6,uk_demand,6,1990,1149.5
 product_imports,uk_demand,6,1990,47.1
 products 7,product_exports,7,1990,146.4
-products 7,uk_demand,7,1990,312.5
+products 7,uk_demand,7,1990,205.3
 product_imports,uk_demand,7,1990,260.3
 products 8,product_exports,8,1990,141.4
-products 8,uk_demand,8,1990,500.4
+products 8,uk_demand,8,1990,602.3
 product_imports,uk_demand,8,1990,243.0
 products 9,product_exports,9,1990,277.9
 imbalance,products 9,9,1990,183.2
@@ -3615,16 +3535,16 @@ products 11,product_exports,11,1990,421.2
 imbalance,products 11,11,1990,39.4
 product_imports,uk_demand,11,1990,196.5
 products 12,product_exports,12,1990,442.9
-products 12,uk_demand,12,1990,91.6
+products 12,uk_demand,12,1990,69.4
 product_imports,uk_demand,12,1990,333.5
 products 13,product_exports,13,1990,256.1
 products 13,uk_demand,13,1990,71.3
 product_imports,uk_demand,13,1990,146.8
 products 14,product_exports,14,1990,236.6
-products 14,uk_demand,14,1990,4122.1
+products 14,uk_demand,14,1990,4074.2
 product_imports,uk_demand,14,1990,250.9
 products 15a,product_exports,15a,1990,547.1
-products 15a,uk_demand,15a,1990,513.2
+products 15a,uk_demand,15a,1990,834.6
 product_imports,uk_demand,15a,1990,591.9
 products 15b,product_exports,15b,1990,422.9
 products 15b,uk_demand,15b,1990,475.1
@@ -3637,7 +3557,7 @@ products 18,product_exports,18,1990,16.2
 products 18,uk_demand,18,1990,201.6
 product_imports,uk_demand,18,1990,1.8
 products 19,uk_demand,19,1990,4.7
-products 20,uk_demand,20,1990,867.5
+products 20,uk_demand,20,1990,854.8
 uk_production,exports,Cold rolled,1993,36.7
 uk_production,sector 5,Cold rolled,1993,4.2
 imports,sector 5,Cold rolled,1993,1.7
@@ -3670,21 +3590,11 @@ uk_production,sector 8,Electro coated,1993,112.8
 imports,sector 8,Electro coated,1993,78.2
 sector 8,scrap,scrap Electro coated,1993,38.2
 uk_production,exports,Hot dipped galvanised,1993,616.9
-uk_production,sector 6,Hot dipped galvanised,1993,450.0
-sector 6,scrap,scrap Hot dipped galvanised,1993,45.0
-uk_production,sector 7,Hot dipped galvanised,1993,124.9
-sector 7,scrap,scrap Hot dipped galvanised,1993,21.2
-uk_production,sector 8,Hot dipped galvanised,1993,67.6
-sector 8,scrap,scrap Hot dipped galvanised,1993,13.5
-uk_production,sector 12,Hot dipped galvanised,1993,26.9
-sector 12,scrap,scrap Hot dipped galvanised,1993,5.4
-uk_production,sector 14,Hot dipped galvanised,1993,52.0
-sector 14,scrap,scrap Hot dipped galvanised,1993,5.7
-uk_production,sector 15a,Hot dipped galvanised,1993,130.9
+uk_production,sector 8,Hot dipped galvanised,1993,190.8
+sector 8,scrap,scrap Hot dipped galvanised,1993,38.2
+uk_production,sector 15a,Hot dipped galvanised,1993,676.3
 imports,sector 15a,Hot dipped galvanised,1993,601.6
-sector 15a,scrap,scrap Hot dipped galvanised,1993,315.0
-uk_production,sector 20,Hot dipped galvanised,1993,14.7
-sector 20,scrap,scrap Hot dipped galvanised,1993,2.5
+sector 15a,scrap,scrap Hot dipped galvanised,1993,549.5
 uk_production,exports,Hot rolled,1993,657.7
 uk_production,sector 6,Hot rolled,1993,173.7
 imports,sector 6,Hot rolled,1993,175.8
@@ -3916,11 +3826,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1993,1.1
 sector 4,products 4,4,1993,347.8
 component_imports,sector 5,component,1993,1.3
 sector 5,products 5,5,1993,44.7
-sector 6,products 6,6,1993,1438.0
+sector 6,products 6,6,1993,1032.9
 component_imports,sector 7,component,1993,17.4
-sector 7,products 7,7,1993,417.7
+sector 7,products 7,7,1993,314.0
 component_imports,sector 8,component,1993,1.3
-sector 8,products 8,8,1993,522.9
+sector 8,products 8,8,1993,621.4
 component_imports,sector 9,component,1993,17.4
 sector 9,products 9,9,1993,107.0
 component_imports,sector 10,component,1993,9.3
@@ -3928,12 +3838,12 @@ sector 10,products 10,10,1993,21.9
 component_imports,sector 11,component,1993,123.8
 sector 11,products 11,11,1993,398.6
 component_imports,sector 12,component,1993,49.5
-sector 12,products 12,12,1993,424.4
+sector 12,products 12,12,1993,402.9
 component_imports,sector 13,component,1993,29.6
 sector 13,products 13,13,1993,309.3
-sector 14,products 14,14,1993,3415.8
+sector 14,products 14,14,1993,3369.5
 component_imports,sector 15a,component,1993,443.5
-sector 15a,products 15a,15a,1993,1031.4
+sector 15a,products 15a,15a,1993,1342.3
 component_imports,sector 15b,component,1993,360.4
 sector 15b,products 15b,15b,1993,753.2
 component_imports,sector 16,component,1993,37.3
@@ -3942,7 +3852,7 @@ sector 17,products 17,17,1993,163.0
 component_imports,sector 18,component,1993,6.7
 sector 18,products 18,18,1993,158.1
 sector 19,products 19,19,1993,4.9
-sector 20,products 20,20,1993,719.3
+sector 20,products 20,20,1993,707.0
 products 4,product_exports,4,1993,43.9
 products 4,uk_demand,4,1993,303.9
 product_imports,uk_demand,4,1993,135.0
@@ -3950,13 +3860,13 @@ products 5,product_exports,5,1993,200.3
 imbalance,products 5,5,1993,155.6
 product_imports,uk_demand,5,1993,297.5
 products 6,product_exports,6,1993,61.3
-products 6,uk_demand,6,1993,1376.7
+products 6,uk_demand,6,1993,971.6
 product_imports,uk_demand,6,1993,41.6
 products 7,product_exports,7,1993,171.1
-products 7,uk_demand,7,1993,246.6
+products 7,uk_demand,7,1993,142.9
 product_imports,uk_demand,7,1993,270.2
 products 8,product_exports,8,1993,178.2
-products 8,uk_demand,8,1993,344.7
+products 8,uk_demand,8,1993,443.2
 product_imports,uk_demand,8,1993,273.5
 products 9,product_exports,9,1993,200.0
 imbalance,products 9,9,1993,93.0
@@ -3968,16 +3878,16 @@ products 11,product_exports,11,1993,373.0
 products 11,uk_demand,11,1993,25.6
 product_imports,uk_demand,11,1993,119.6
 products 12,product_exports,12,1993,608.7
-imbalance,products 12,12,1993,184.3
+imbalance,products 12,12,1993,205.8
 product_imports,uk_demand,12,1993,308.3
 products 13,product_exports,13,1993,410.0
 imbalance,products 13,13,1993,100.7
 product_imports,uk_demand,13,1993,136.0
 products 14,product_exports,14,1993,310.8
-products 14,uk_demand,14,1993,3105.0
+products 14,uk_demand,14,1993,3058.7
 product_imports,uk_demand,14,1993,137.8
 products 15a,product_exports,15a,1993,546.4
-products 15a,uk_demand,15a,1993,485.0
+products 15a,uk_demand,15a,1993,795.9
 product_imports,uk_demand,15a,1993,566.5
 products 15b,product_exports,15b,1993,414.0
 products 15b,uk_demand,15b,1993,339.2
@@ -3990,7 +3900,7 @@ products 18,product_exports,18,1993,21.5
 products 18,uk_demand,18,1993,136.6
 product_imports,uk_demand,18,1993,1.2
 products 19,uk_demand,19,1993,4.9
-products 20,uk_demand,20,1993,719.3
+products 20,uk_demand,20,1993,707.0
 uk_production,exports,Cold rolled,1995,53.6
 uk_production,sector 5,Cold rolled,1995,4.7
 imports,sector 5,Cold rolled,1995,2.2
@@ -4023,21 +3933,11 @@ uk_production,sector 8,Electro coated,1995,141.3
 imports,sector 8,Electro coated,1995,104.1
 sector 8,scrap,scrap Electro coated,1995,49.1
 uk_production,exports,Hot dipped galvanised,1995,742.2
-uk_production,sector 6,Hot dipped galvanised,1995,556.8
-sector 6,scrap,scrap Hot dipped galvanised,1995,55.7
-uk_production,sector 7,Hot dipped galvanised,1995,154.5
-sector 7,scrap,scrap Hot dipped galvanised,1995,26.3
-uk_production,sector 8,Hot dipped galvanised,1995,83.7
-sector 8,scrap,scrap Hot dipped galvanised,1995,16.7
-uk_production,sector 12,Hot dipped galvanised,1995,33.3
-sector 12,scrap,scrap Hot dipped galvanised,1995,6.7
-uk_production,sector 14,Hot dipped galvanised,1995,64.4
-sector 14,scrap,scrap Hot dipped galvanised,1995,7.1
-uk_production,sector 15a,Hot dipped galvanised,1995,162.0
+uk_production,sector 8,Hot dipped galvanised,1995,236.0
+sector 8,scrap,scrap Hot dipped galvanised,1995,47.2
+uk_production,sector 15a,Hot dipped galvanised,1995,836.8
 imports,sector 15a,Hot dipped galvanised,1995,790.7
-sector 15a,scrap,scrap Hot dipped galvanised,1995,409.7
-uk_production,sector 20,Hot dipped galvanised,1995,18.2
-sector 20,scrap,scrap Hot dipped galvanised,1995,3.1
+sector 15a,scrap,scrap Hot dipped galvanised,1995,699.8
 uk_production,exports,Hot rolled,1995,630.1
 uk_production,sector 6,Hot rolled,1995,125.7
 imports,sector 6,Hot rolled,1995,184.0
@@ -4269,11 +4169,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1995,1.1
 sector 4,products 4,4,1995,402.2
 component_imports,sector 5,component,1995,2.0
 sector 5,products 5,5,1995,60.5
-sector 6,products 6,6,1995,1537.3
+sector 6,products 6,6,1995,1036.2
 component_imports,sector 7,component,1995,20.7
-sector 7,products 7,7,1995,515.5
+sector 7,products 7,7,1995,387.3
 component_imports,sector 8,component,1995,1.8
-sector 8,products 8,8,1995,655.9
+sector 8,products 8,8,1995,777.8
 component_imports,sector 9,component,1995,22.7
 sector 9,products 9,9,1995,137.4
 component_imports,sector 10,component,1995,18.3
@@ -4281,12 +4181,12 @@ sector 10,products 10,10,1995,35.7
 component_imports,sector 11,component,1995,174.3
 sector 11,products 11,11,1995,539.8
 component_imports,sector 12,component,1995,59.3
-sector 12,products 12,12,1995,512.9
+sector 12,products 12,12,1995,486.2
 component_imports,sector 13,component,1995,33.5
 sector 13,products 13,13,1995,396.2
-sector 14,products 14,14,1995,3708.0
+sector 14,products 14,14,1995,3650.7
 component_imports,sector 15a,component,1995,595.5
-sector 15a,products 15a,15a,1995,1350.7
+sector 15a,products 15a,15a,1995,1735.3
 component_imports,sector 15b,component,1995,485.2
 sector 15b,products 15b,15b,1995,955.3
 component_imports,sector 16,component,1995,55.2
@@ -4295,7 +4195,7 @@ sector 17,products 17,17,1995,186.5
 component_imports,sector 18,component,1995,11.3
 sector 18,products 18,18,1995,184.6
 sector 19,products 19,19,1995,6.8
-sector 20,products 20,20,1995,835.2
+sector 20,products 20,20,1995,820.0
 products 4,product_exports,4,1995,65.1
 products 4,uk_demand,4,1995,337.1
 product_imports,uk_demand,4,1995,187.6
@@ -4303,13 +4203,13 @@ products 5,product_exports,5,1995,240.8
 imbalance,products 5,5,1995,180.3
 product_imports,uk_demand,5,1995,286.0
 products 6,product_exports,6,1995,64.9
-products 6,uk_demand,6,1995,1472.4
+products 6,uk_demand,6,1995,971.3
 product_imports,uk_demand,6,1995,55.4
 products 7,product_exports,7,1995,232.6
-products 7,uk_demand,7,1995,282.9
+products 7,uk_demand,7,1995,154.7
 product_imports,uk_demand,7,1995,343.3
 products 8,product_exports,8,1995,224.0
-products 8,uk_demand,8,1995,431.9
+products 8,uk_demand,8,1995,553.8
 product_imports,uk_demand,8,1995,443.7
 products 9,product_exports,9,1995,255.4
 imbalance,products 9,9,1995,118.0
@@ -4321,16 +4221,16 @@ products 11,product_exports,11,1995,564.7
 imbalance,products 11,11,1995,24.9
 product_imports,uk_demand,11,1995,193.9
 products 12,product_exports,12,1995,612.8
-imbalance,products 12,12,1995,99.9
+imbalance,products 12,12,1995,126.6
 product_imports,uk_demand,12,1995,420.9
 products 13,product_exports,13,1995,261.5
 products 13,uk_demand,13,1995,134.7
 product_imports,uk_demand,13,1995,173.8
 products 14,product_exports,14,1995,327.2
-products 14,uk_demand,14,1995,3380.8
+products 14,uk_demand,14,1995,3323.5
 product_imports,uk_demand,14,1995,200.3
 products 15a,product_exports,15a,1995,784.4
-products 15a,uk_demand,15a,1995,566.3
+products 15a,uk_demand,15a,1995,950.9
 product_imports,uk_demand,15a,1995,671.3
 products 15b,product_exports,15b,1995,593.6
 products 15b,uk_demand,15b,1995,361.7
@@ -4343,7 +4243,7 @@ products 18,product_exports,18,1995,25.5
 products 18,uk_demand,18,1995,159.1
 product_imports,uk_demand,18,1995,2.0
 products 19,uk_demand,19,1995,6.8
-products 20,uk_demand,20,1995,835.2
+products 20,uk_demand,20,1995,820.0
 uk_production,exports,Cold rolled,1996,41.6
 uk_production,sector 5,Cold rolled,1996,4.5
 imports,sector 5,Cold rolled,1996,1.6
@@ -4376,21 +4276,11 @@ uk_production,sector 8,Electro coated,1996,127.9
 imports,sector 8,Electro coated,1996,88.4
 sector 8,scrap,scrap Electro coated,1996,43.3
 uk_production,exports,Hot dipped galvanised,1996,776.4
-uk_production,sector 6,Hot dipped galvanised,1996,571.7
-sector 6,scrap,scrap Hot dipped galvanised,1996,57.2
-uk_production,sector 7,Hot dipped galvanised,1996,158.6
-sector 7,scrap,scrap Hot dipped galvanised,1996,27.0
-uk_production,sector 8,Hot dipped galvanised,1996,85.9
-sector 8,scrap,scrap Hot dipped galvanised,1996,17.2
-uk_production,sector 12,Hot dipped galvanised,1996,34.1
-sector 12,scrap,scrap Hot dipped galvanised,1996,6.8
-uk_production,sector 14,Hot dipped galvanised,1996,66.1
-sector 14,scrap,scrap Hot dipped galvanised,1996,7.3
-uk_production,sector 15a,Hot dipped galvanised,1996,166.3
+uk_production,sector 8,Hot dipped galvanised,1996,242.4
+sector 8,scrap,scrap Hot dipped galvanised,1996,48.5
+uk_production,sector 15a,Hot dipped galvanised,1996,859.2
 imports,sector 15a,Hot dipped galvanised,1996,761.5
-sector 15a,scrap,scrap Hot dipped galvanised,1996,399.0
-uk_production,sector 20,Hot dipped galvanised,1996,18.7
-sector 20,scrap,scrap Hot dipped galvanised,1996,3.2
+sector 15a,scrap,scrap Hot dipped galvanised,1996,696.9
 uk_production,exports,Hot rolled,1996,830.5
 uk_production,sector 6,Hot rolled,1996,207.6
 imports,sector 6,Hot rolled,1996,223.3
@@ -4622,11 +4512,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1996,1.3
 sector 4,products 4,4,1996,376.4
 component_imports,sector 5,component,1996,1.2
 sector 5,products 5,5,1996,53.8
-sector 6,products 6,6,1996,1600.9
+sector 6,products 6,6,1996,1086.3
 component_imports,sector 7,component,1996,22.1
-sector 7,products 7,7,1996,534.6
+sector 7,products 7,7,1996,402.9
 component_imports,sector 8,component,1996,2.1
-sector 8,products 8,8,1996,643.6
+sector 8,products 8,8,1996,768.8
 component_imports,sector 9,component,1996,21.7
 sector 9,products 9,9,1996,113.6
 component_imports,sector 10,component,1996,16.9
@@ -4634,12 +4524,12 @@ sector 10,products 10,10,1996,32.5
 component_imports,sector 11,component,1996,228.9
 sector 11,products 11,11,1996,555.3
 component_imports,sector 12,component,1996,66.3
-sector 12,products 12,12,1996,544.2
+sector 12,products 12,12,1996,516.9
 component_imports,sector 13,component,1996,33.8
 sector 13,products 13,13,1996,344.0
-sector 14,products 14,14,1996,3887.6
+sector 14,products 14,14,1996,3828.8
 component_imports,sector 15a,component,1996,598.0
-sector 15a,products 15a,15a,1996,1307.0
+sector 15a,products 15a,15a,1996,1702.0
 component_imports,sector 15b,component,1996,479.0
 sector 15b,products 15b,15b,1996,979.8
 component_imports,sector 16,component,1996,59.4
@@ -4648,7 +4538,7 @@ sector 17,products 17,17,1996,209.6
 component_imports,sector 18,component,1996,15.4
 sector 18,products 18,18,1996,210.2
 sector 19,products 19,19,1996,6.9
-sector 20,products 20,20,1996,774.1
+sector 20,products 20,20,1996,758.6
 products 4,product_exports,4,1996,61.5
 products 4,uk_demand,4,1996,314.9
 product_imports,uk_demand,4,1996,179.7
@@ -4656,13 +4546,13 @@ products 5,product_exports,5,1996,265.7
 imbalance,products 5,5,1996,211.9
 product_imports,uk_demand,5,1996,279.8
 products 6,product_exports,6,1996,66.0
-products 6,uk_demand,6,1996,1534.9
+products 6,uk_demand,6,1996,1020.3
 product_imports,uk_demand,6,1996,49.3
 products 7,product_exports,7,1996,265.6
-products 7,uk_demand,7,1996,269.0
+products 7,uk_demand,7,1996,137.3
 product_imports,uk_demand,7,1996,353.1
 products 8,product_exports,8,1996,255.6
-products 8,uk_demand,8,1996,388.0
+products 8,uk_demand,8,1996,513.2
 product_imports,uk_demand,8,1996,365.0
 products 9,product_exports,9,1996,272.7
 imbalance,products 9,9,1996,159.1
@@ -4674,16 +4564,16 @@ products 11,product_exports,11,1996,552.2
 products 11,uk_demand,11,1996,3.1
 product_imports,uk_demand,11,1996,234.8
 products 12,product_exports,12,1996,562.6
-imbalance,products 12,12,1996,18.4
+imbalance,products 12,12,1996,45.7
 product_imports,uk_demand,12,1996,514.7
 products 13,product_exports,13,1996,359.5
 imbalance,products 13,13,1996,15.5
 product_imports,uk_demand,13,1996,177.2
 products 14,product_exports,14,1996,378.1
-products 14,uk_demand,14,1996,3509.5
+products 14,uk_demand,14,1996,3450.7
 product_imports,uk_demand,14,1996,203.5
 products 15a,product_exports,15a,1996,940.1
-products 15a,uk_demand,15a,1996,366.9
+products 15a,uk_demand,15a,1996,761.9
 product_imports,uk_demand,15a,1996,737.2
 products 15b,product_exports,15b,1996,678.4
 products 15b,uk_demand,15b,1996,301.4
@@ -4696,7 +4586,7 @@ products 18,product_exports,18,1996,41.0
 products 18,uk_demand,18,1996,169.2
 product_imports,uk_demand,18,1996,1.3
 products 19,uk_demand,19,1996,6.9
-products 20,uk_demand,20,1996,774.1
+products 20,uk_demand,20,1996,758.6
 uk_production,exports,Cold rolled,1997,45.6
 uk_production,sector 5,Cold rolled,1997,4.3
 imports,sector 5,Cold rolled,1997,2.2
@@ -4729,21 +4619,11 @@ uk_production,sector 8,Electro coated,1997,132.5
 imports,sector 8,Electro coated,1997,97.8
 sector 8,scrap,scrap Electro coated,1997,46.1
 uk_production,exports,Hot dipped galvanised,1997,872.9
-uk_production,sector 6,Hot dipped galvanised,1997,597.4
-sector 6,scrap,scrap Hot dipped galvanised,1997,59.7
-uk_production,sector 7,Hot dipped galvanised,1997,165.8
-sector 7,scrap,scrap Hot dipped galvanised,1997,28.2
-uk_production,sector 8,Hot dipped galvanised,1997,89.8
-sector 8,scrap,scrap Hot dipped galvanised,1997,18.0
-uk_production,sector 12,Hot dipped galvanised,1997,35.7
-sector 12,scrap,scrap Hot dipped galvanised,1997,7.1
-uk_production,sector 14,Hot dipped galvanised,1997,69.1
-sector 14,scrap,scrap Hot dipped galvanised,1997,7.6
-uk_production,sector 15a,Hot dipped galvanised,1997,173.8
+uk_production,sector 8,Hot dipped galvanised,1997,253.2
+sector 8,scrap,scrap Hot dipped galvanised,1997,50.6
+uk_production,sector 15a,Hot dipped galvanised,1997,897.9
 imports,sector 15a,Hot dipped galvanised,1997,849.9
-sector 15a,scrap,scrap Hot dipped galvanised,1997,440.2
-uk_production,sector 20,Hot dipped galvanised,1997,19.6
-sector 20,scrap,scrap Hot dipped galvanised,1997,3.3
+sector 15a,scrap,scrap Hot dipped galvanised,1997,751.5
 uk_production,exports,Hot rolled,1997,925.3
 uk_production,sector 6,Hot rolled,1997,222.4
 imports,sector 6,Hot rolled,1997,246.9
@@ -4975,11 +4855,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1997,1.5
 sector 4,products 4,4,1997,464.1
 component_imports,sector 5,component,1997,2.0
 sector 5,products 5,5,1997,56.6
-sector 6,products 6,6,1997,1676.6
+sector 6,products 6,6,1997,1138.9
 component_imports,sector 7,component,1997,24.0
-sector 7,products 7,7,1997,560.4
+sector 7,products 7,7,1997,422.8
 component_imports,sector 8,component,1997,1.3
-sector 8,products 8,8,1997,664.8
+sector 8,products 8,8,1997,795.6
 component_imports,sector 9,component,1997,39.0
 sector 9,products 9,9,1997,131.5
 component_imports,sector 10,component,1997,18.1
@@ -4987,12 +4867,12 @@ sector 10,products 10,10,1997,34.7
 component_imports,sector 11,component,1997,233.8
 sector 11,products 11,11,1997,571.5
 component_imports,sector 12,component,1997,77.7
-sector 12,products 12,12,1997,569.4
+sector 12,products 12,12,1997,540.8
 component_imports,sector 13,component,1997,46.2
 sector 13,products 13,13,1997,365.6
-sector 14,products 14,14,1997,4336.4
+sector 14,products 14,14,1997,4274.9
 component_imports,sector 15a,component,1997,548.7
-sector 15a,products 15a,15a,1997,1318.8
+sector 15a,products 15a,15a,1997,1731.5
 component_imports,sector 15b,component,1997,448.8
 sector 15b,products 15b,15b,1997,955.7
 component_imports,sector 16,component,1997,60.9
@@ -5001,7 +4881,7 @@ sector 17,products 17,17,1997,208.1
 component_imports,sector 18,component,1997,12.6
 sector 18,products 18,18,1997,205.9
 sector 19,products 19,19,1997,7.1
-sector 20,products 20,20,1997,797.1
+sector 20,products 20,20,1997,780.8
 products 4,product_exports,4,1997,61.5
 products 4,uk_demand,4,1997,402.6
 product_imports,uk_demand,4,1997,193.2
@@ -5009,13 +4889,13 @@ products 5,product_exports,5,1997,276.3
 imbalance,products 5,5,1997,219.7
 product_imports,uk_demand,5,1997,326.6
 products 6,product_exports,6,1997,67.6
-products 6,uk_demand,6,1997,1609.0
+products 6,uk_demand,6,1997,1071.3
 product_imports,uk_demand,6,1997,51.0
 products 7,product_exports,7,1997,266.5
-products 7,uk_demand,7,1997,293.9
+products 7,uk_demand,7,1997,156.3
 product_imports,uk_demand,7,1997,414.6
 products 8,product_exports,8,1997,259.9
-products 8,uk_demand,8,1997,404.9
+products 8,uk_demand,8,1997,535.7
 product_imports,uk_demand,8,1997,466.7
 products 9,product_exports,9,1997,279.2
 imbalance,products 9,9,1997,147.7
@@ -5027,16 +4907,16 @@ products 11,product_exports,11,1997,725.9
 imbalance,products 11,11,1997,154.4
 product_imports,uk_demand,11,1997,224.2
 products 12,product_exports,12,1997,622.2
-imbalance,products 12,12,1997,52.8
+imbalance,products 12,12,1997,81.4
 product_imports,uk_demand,12,1997,633.2
 products 13,product_exports,13,1997,279.3
 products 13,uk_demand,13,1997,86.3
 product_imports,uk_demand,13,1997,202.5
 products 14,product_exports,14,1997,359.8
-products 14,uk_demand,14,1997,3976.6
+products 14,uk_demand,14,1997,3915.1
 product_imports,uk_demand,14,1997,270.9
 products 15a,product_exports,15a,1997,1008.0
-products 15a,uk_demand,15a,1997,310.8
+products 15a,uk_demand,15a,1997,723.5
 product_imports,uk_demand,15a,1997,892.4
 products 15b,product_exports,15b,1997,734.3
 products 15b,uk_demand,15b,1997,221.4
@@ -5049,7 +4929,7 @@ products 18,product_exports,18,1997,65.6
 products 18,uk_demand,18,1997,140.3
 product_imports,uk_demand,18,1997,3.6
 products 19,uk_demand,19,1997,7.1
-products 20,uk_demand,20,1997,797.1
+products 20,uk_demand,20,1997,780.8
 uk_production,exports,Cold rolled,1998,54.2
 uk_production,sector 5,Cold rolled,1998,4.4
 imports,sector 5,Cold rolled,1998,2.1
@@ -5082,21 +4962,11 @@ uk_production,sector 8,Electro coated,1998,126.5
 imports,sector 8,Electro coated,1998,115.0
 sector 8,scrap,scrap Electro coated,1998,48.3
 uk_production,exports,Hot dipped galvanised,1998,804.4
-uk_production,sector 6,Hot dipped galvanised,1998,625.2
-sector 6,scrap,scrap Hot dipped galvanised,1998,62.5
-uk_production,sector 7,Hot dipped galvanised,1998,173.5
-sector 7,scrap,scrap Hot dipped galvanised,1998,29.5
-uk_production,sector 8,Hot dipped galvanised,1998,94.0
-sector 8,scrap,scrap Hot dipped galvanised,1998,18.8
-uk_production,sector 12,Hot dipped galvanised,1998,37.3
-sector 12,scrap,scrap Hot dipped galvanised,1998,7.5
-uk_production,sector 14,Hot dipped galvanised,1998,72.3
-sector 14,scrap,scrap Hot dipped galvanised,1998,8.0
-uk_production,sector 15a,Hot dipped galvanised,1998,181.9
+uk_production,sector 8,Hot dipped galvanised,1998,265.0
+sector 8,scrap,scrap Hot dipped galvanised,1998,53.0
+uk_production,sector 15a,Hot dipped galvanised,1998,939.6
 imports,sector 15a,Hot dipped galvanised,1998,1095.1
-sector 15a,scrap,scrap Hot dipped galvanised,1998,549.1
-uk_production,sector 20,Hot dipped galvanised,1998,20.5
-sector 20,scrap,scrap Hot dipped galvanised,1998,3.5
+sector 15a,scrap,scrap Hot dipped galvanised,1998,874.9
 uk_production,exports,Hot rolled,1998,688.5
 uk_production,sector 6,Hot rolled,1998,145.4
 imports,sector 6,Hot rolled,1998,256.9
@@ -5328,11 +5198,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1998,1.4
 sector 4,products 4,4,1998,416.7
 component_imports,sector 5,component,1998,2.2
 sector 5,products 5,5,1998,56.7
-sector 6,products 6,6,1998,1768.7
+sector 6,products 6,6,1998,1206.0
 component_imports,sector 7,component,1998,28.4
-sector 7,products 7,7,1998,560.6
+sector 7,products 7,7,1998,416.6
 component_imports,sector 8,component,1998,3.0
-sector 8,products 8,8,1998,744.5
+sector 8,products 8,8,1998,881.3
 component_imports,sector 9,component,1998,18.3
 sector 9,products 9,9,1998,120.6
 component_imports,sector 10,component,1998,67.5
@@ -5340,12 +5210,12 @@ sector 10,products 10,10,1998,83.8
 component_imports,sector 11,component,1998,287.0
 sector 11,products 11,11,1998,635.9
 component_imports,sector 12,component,1998,242.5
-sector 12,products 12,12,1998,742.6
+sector 12,products 12,12,1998,712.8
 component_imports,sector 13,component,1998,130.1
 sector 13,products 13,13,1998,455.1
-sector 14,products 14,14,1998,4026.7
+sector 14,products 14,14,1998,3962.4
 component_imports,sector 15a,component,1998,620.8
-sector 15a,products 15a,15a,1998,1539.4
+sector 15a,products 15a,15a,1998,1971.3
 component_imports,sector 15b,component,1998,503.0
 sector 15b,products 15b,15b,1998,1045.4
 component_imports,sector 16,component,1998,71.8
@@ -5354,7 +5224,7 @@ sector 17,products 17,17,1998,230.6
 component_imports,sector 18,component,1998,11.5
 sector 18,products 18,18,1998,225.8
 sector 19,products 19,19,1998,6.9
-sector 20,products 20,20,1998,789.9
+sector 20,products 20,20,1998,772.9
 products 4,product_exports,4,1998,69.5
 products 4,uk_demand,4,1998,347.2
 product_imports,uk_demand,4,1998,268.3
@@ -5362,13 +5232,13 @@ products 5,product_exports,5,1998,325.9
 imbalance,products 5,5,1998,269.2
 product_imports,uk_demand,5,1998,428.5
 products 6,product_exports,6,1998,52.8
-products 6,uk_demand,6,1998,1715.9
+products 6,uk_demand,6,1998,1153.2
 product_imports,uk_demand,6,1998,52.2
 products 7,product_exports,7,1998,420.5
-products 7,uk_demand,7,1998,140.1
+imbalance,products 7,7,1998,3.9
 product_imports,uk_demand,7,1998,518.2
 products 8,product_exports,8,1998,365.5
-products 8,uk_demand,8,1998,379.0
+products 8,uk_demand,8,1998,515.8
 product_imports,uk_demand,8,1998,489.2
 products 9,product_exports,9,1998,282.9
 imbalance,products 9,9,1998,162.3
@@ -5380,16 +5250,16 @@ products 11,product_exports,11,1998,652.4
 imbalance,products 11,11,1998,16.5
 product_imports,uk_demand,11,1998,365.9
 products 12,product_exports,12,1998,696.2
-products 12,uk_demand,12,1998,46.4
+products 12,uk_demand,12,1998,16.6
 product_imports,uk_demand,12,1998,671.8
 products 13,product_exports,13,1998,278.2
 products 13,uk_demand,13,1998,176.9
 product_imports,uk_demand,13,1998,244.0
 products 14,product_exports,14,1998,356.5
-products 14,uk_demand,14,1998,3670.2
+products 14,uk_demand,14,1998,3605.9
 product_imports,uk_demand,14,1998,309.2
 products 15a,product_exports,15a,1998,1045.0
-products 15a,uk_demand,15a,1998,494.4
+products 15a,uk_demand,15a,1998,926.3
 product_imports,uk_demand,15a,1998,934.2
 products 15b,product_exports,15b,1998,745.6
 products 15b,uk_demand,15b,1998,299.8
@@ -5402,7 +5272,7 @@ products 18,product_exports,18,1998,31.1
 products 18,uk_demand,18,1998,194.7
 product_imports,uk_demand,18,1998,5.9
 products 19,uk_demand,19,1998,6.9
-products 20,uk_demand,20,1998,789.9
+products 20,uk_demand,20,1998,772.9
 uk_production,exports,Cold rolled,1999,59.2
 uk_production,sector 5,Cold rolled,1999,3.8
 imports,sector 5,Cold rolled,1999,2.1
@@ -5435,21 +5305,11 @@ uk_production,sector 8,Electro coated,1999,104.0
 imports,sector 8,Electro coated,1999,99.9
 sector 8,scrap,scrap Electro coated,1999,40.8
 uk_production,exports,Hot dipped galvanised,1999,842.8
-uk_production,sector 6,Hot dipped galvanised,1999,568.4
-sector 6,scrap,scrap Hot dipped galvanised,1999,56.8
-uk_production,sector 7,Hot dipped galvanised,1999,157.7
-sector 7,scrap,scrap Hot dipped galvanised,1999,26.8
-uk_production,sector 8,Hot dipped galvanised,1999,85.4
-sector 8,scrap,scrap Hot dipped galvanised,1999,17.1
-uk_production,sector 12,Hot dipped galvanised,1999,34.0
-sector 12,scrap,scrap Hot dipped galvanised,1999,6.8
-uk_production,sector 14,Hot dipped galvanised,1999,65.7
-sector 14,scrap,scrap Hot dipped galvanised,1999,7.2
-uk_production,sector 15a,Hot dipped galvanised,1999,165.4
+uk_production,sector 8,Hot dipped galvanised,1999,240.9
+sector 8,scrap,scrap Hot dipped galvanised,1999,48.2
+uk_production,sector 15a,Hot dipped galvanised,1999,854.3
 imports,sector 15a,Hot dipped galvanised,1999,1051.8
-sector 15a,scrap,scrap Hot dipped galvanised,1999,523.4
-uk_production,sector 20,Hot dipped galvanised,1999,18.6
-sector 20,scrap,scrap Hot dipped galvanised,1999,3.2
+sector 15a,scrap,scrap Hot dipped galvanised,1999,819.6
 uk_production,exports,Hot rolled,1999,702.8
 uk_production,sector 6,Hot rolled,1999,150.0
 imports,sector 6,Hot rolled,1999,240.4
@@ -5681,11 +5541,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,1999,1.2
 sector 4,products 4,4,1999,468.8
 component_imports,sector 5,component,1999,1.4
 sector 5,products 5,5,1999,49.4
-sector 6,products 6,6,1999,1662.2
+sector 6,products 6,6,1999,1150.6
 component_imports,sector 7,component,1999,34.7
-sector 7,products 7,7,1999,514.5
+sector 7,products 7,7,1999,383.6
 component_imports,sector 8,component,1999,2.3
-sector 8,products 8,8,1999,657.6
+sector 8,products 8,8,1999,782.0
 component_imports,sector 9,component,1999,18.3
 sector 9,products 9,9,1999,120.7
 component_imports,sector 10,component,1999,23.7
@@ -5693,12 +5553,12 @@ sector 10,products 10,10,1999,37.7
 component_imports,sector 11,component,1999,220.6
 sector 11,products 11,11,1999,539.2
 component_imports,sector 12,component,1999,123.6
-sector 12,products 12,12,1999,543.9
+sector 12,products 12,12,1999,516.7
 component_imports,sector 13,component,1999,74.0
 sector 13,products 13,13,1999,371.9
-sector 14,products 14,14,1999,3994.5
+sector 14,products 14,14,1999,3936.0
 component_imports,sector 15a,component,1999,933.7
-sector 15a,products 15a,15a,1999,1802.6
+sector 15a,products 15a,15a,1999,2195.2
 component_imports,sector 15b,component,1999,683.0
 sector 15b,products 15b,15b,1999,1114.9
 component_imports,sector 16,component,1999,94.3
@@ -5707,7 +5567,7 @@ sector 17,products 17,17,1999,177.3
 component_imports,sector 18,component,1999,15.5
 sector 18,products 18,18,1999,180.2
 sector 19,products 19,19,1999,5.8
-sector 20,products 20,20,1999,720.2
+sector 20,products 20,20,1999,704.7
 products 4,product_exports,4,1999,64.7
 products 4,uk_demand,4,1999,404.1
 product_imports,uk_demand,4,1999,208.9
@@ -5715,13 +5575,13 @@ products 5,product_exports,5,1999,461.2
 imbalance,products 5,5,1999,411.8
 product_imports,uk_demand,5,1999,444.8
 products 6,product_exports,6,1999,50.6
-products 6,uk_demand,6,1999,1611.6
+products 6,uk_demand,6,1999,1100.0
 product_imports,uk_demand,6,1999,53.6
 products 7,product_exports,7,1999,294.3
-products 7,uk_demand,7,1999,220.2
+products 7,uk_demand,7,1999,89.3
 product_imports,uk_demand,7,1999,780.5
 products 8,product_exports,8,1999,318.5
-products 8,uk_demand,8,1999,339.1
+products 8,uk_demand,8,1999,463.5
 product_imports,uk_demand,8,1999,513.0
 products 9,product_exports,9,1999,249.9
 imbalance,products 9,9,1999,129.2
@@ -5733,16 +5593,16 @@ products 11,product_exports,11,1999,571.7
 imbalance,products 11,11,1999,32.5
 product_imports,uk_demand,11,1999,284.0
 products 12,product_exports,12,1999,535.9
-products 12,uk_demand,12,1999,8.0
+imbalance,products 12,12,1999,19.2
 product_imports,uk_demand,12,1999,702.2
 products 13,product_exports,13,1999,249.4
 products 13,uk_demand,13,1999,122.5
 product_imports,uk_demand,13,1999,240.3
 products 14,product_exports,14,1999,321.5
-products 14,uk_demand,14,1999,3673.0
+products 14,uk_demand,14,1999,3614.5
 product_imports,uk_demand,14,1999,349.0
 products 15a,product_exports,15a,1999,1097.5
-products 15a,uk_demand,15a,1999,705.1
+products 15a,uk_demand,15a,1999,1097.7
 product_imports,uk_demand,15a,1999,1001.7
 products 15b,product_exports,15b,1999,766.5
 products 15b,uk_demand,15b,1999,348.4
@@ -5755,7 +5615,7 @@ products 18,product_exports,18,1999,21.9
 products 18,uk_demand,18,1999,158.3
 product_imports,uk_demand,18,1999,5.1
 products 19,uk_demand,19,1999,5.8
-products 20,uk_demand,20,1999,720.2
+products 20,uk_demand,20,1999,704.7
 uk_production,exports,Cold rolled,2000,69.4
 uk_production,sector 5,Cold rolled,2000,3.3
 imports,sector 5,Cold rolled,2000,3.1
@@ -5788,21 +5648,11 @@ uk_production,sector 8,Electro coated,2000,125.2
 imports,sector 8,Electro coated,2000,135.0
 sector 8,scrap,scrap Electro coated,2000,52.0
 uk_production,exports,Hot dipped galvanised,2000,883.6
-uk_production,sector 6,Hot dipped galvanised,2000,527.5
-sector 6,scrap,scrap Hot dipped galvanised,2000,52.8
-uk_production,sector 7,Hot dipped galvanised,2000,146.4
-sector 7,scrap,scrap Hot dipped galvanised,2000,24.9
-uk_production,sector 8,Hot dipped galvanised,2000,79.3
-sector 8,scrap,scrap Hot dipped galvanised,2000,15.9
-uk_production,sector 12,Hot dipped galvanised,2000,31.5
-sector 12,scrap,scrap Hot dipped galvanised,2000,6.3
-uk_production,sector 14,Hot dipped galvanised,2000,61.0
-sector 14,scrap,scrap Hot dipped galvanised,2000,6.7
-uk_production,sector 15a,Hot dipped galvanised,2000,153.5
+uk_production,sector 8,Hot dipped galvanised,2000,223.6
+sector 8,scrap,scrap Hot dipped galvanised,2000,44.7
+uk_production,sector 15a,Hot dipped galvanised,2000,792.8
 imports,sector 15a,Hot dipped galvanised,2000,1096.4
-sector 15a,scrap,scrap Hot dipped galvanised,2000,537.4
-uk_production,sector 20,Hot dipped galvanised,2000,17.3
-sector 20,scrap,scrap Hot dipped galvanised,2000,2.9
+sector 15a,scrap,scrap Hot dipped galvanised,2000,812.4
 uk_production,exports,Hot rolled,2000,739.4
 uk_production,sector 6,Hot rolled,2000,148.6
 imports,sector 6,Hot rolled,2000,251.4
@@ -6034,11 +5884,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2000,1.6
 sector 4,products 4,4,2000,464.9
 component_imports,sector 5,component,2000,1.5
 sector 5,products 5,5,2000,48.7
-sector 6,products 6,6,2000,1651.2
+sector 6,products 6,6,2000,1176.4
 component_imports,sector 7,component,2000,43.4
-sector 7,products 7,7,2000,513.1
+sector 7,products 7,7,2000,391.6
 component_imports,sector 8,component,2000,1.6
-sector 8,products 8,8,2000,713.3
+sector 8,products 8,8,2000,828.8
 component_imports,sector 9,component,2000,17.7
 sector 9,products 9,9,2000,106.6
 component_imports,sector 10,component,2000,20.4
@@ -6046,12 +5896,12 @@ sector 10,products 10,10,2000,35.2
 component_imports,sector 11,component,2000,245.2
 sector 11,products 11,11,2000,549.4
 component_imports,sector 12,component,2000,310.5
-sector 12,products 12,12,2000,743.9
+sector 12,products 12,12,2000,718.7
 component_imports,sector 13,component,2000,63.7
 sector 13,products 13,13,2000,341.7
-sector 14,products 14,14,2000,3955.8
+sector 14,products 14,14,2000,3901.5
 component_imports,sector 15a,component,2000,807.1
-sector 15a,products 15a,15a,2000,1692.9
+sector 15a,products 15a,15a,2000,2057.3
 component_imports,sector 15b,component,2000,639.4
 sector 15b,products 15b,15b,2000,1103.5
 component_imports,sector 16,component,2000,100.6
@@ -6060,7 +5910,7 @@ sector 17,products 17,17,2000,193.3
 component_imports,sector 18,component,2000,13.8
 sector 18,products 18,18,2000,193.1
 sector 19,products 19,19,2000,5.7
-sector 20,products 20,20,2000,671.0
+sector 20,products 20,20,2000,656.7
 products 4,product_exports,4,2000,55.8
 products 4,uk_demand,4,2000,409.1
 product_imports,uk_demand,4,2000,312.8
@@ -6068,13 +5918,13 @@ products 5,product_exports,5,2000,389.5
 imbalance,products 5,5,2000,340.8
 product_imports,uk_demand,5,2000,561.4
 products 6,product_exports,6,2000,68.3
-products 6,uk_demand,6,2000,1582.9
+products 6,uk_demand,6,2000,1108.1
 product_imports,uk_demand,6,2000,63.1
 products 7,product_exports,7,2000,283.0
-products 7,uk_demand,7,2000,230.1
+products 7,uk_demand,7,2000,108.6
 product_imports,uk_demand,7,2000,797.8
 products 8,product_exports,8,2000,316.9
-products 8,uk_demand,8,2000,396.4
+products 8,uk_demand,8,2000,511.9
 product_imports,uk_demand,8,2000,577.1
 products 9,product_exports,9,2000,218.1
 imbalance,products 9,9,2000,111.5
@@ -6086,16 +5936,16 @@ products 11,product_exports,11,2000,592.4
 imbalance,products 11,11,2000,43.0
 product_imports,uk_demand,11,2000,293.3
 products 12,product_exports,12,2000,696.1
-products 12,uk_demand,12,2000,47.8
+products 12,uk_demand,12,2000,22.6
 product_imports,uk_demand,12,2000,659.0
 products 13,product_exports,13,2000,878.2
 imbalance,products 13,13,2000,536.5
 product_imports,uk_demand,13,2000,224.3
 products 14,product_exports,14,2000,326.7
-products 14,uk_demand,14,2000,3629.1
+products 14,uk_demand,14,2000,3574.8
 product_imports,uk_demand,14,2000,332.8
 products 15a,product_exports,15a,2000,1228.8
-products 15a,uk_demand,15a,2000,464.1
+products 15a,uk_demand,15a,2000,828.5
 product_imports,uk_demand,15a,2000,1122.1
 products 15b,product_exports,15b,2000,849.2
 products 15b,uk_demand,15b,2000,254.3
@@ -6109,7 +5959,7 @@ products 18,uk_demand,18,2000,170.4
 product_imports,uk_demand,18,2000,1.7
 products 19,uk_demand,19,2000,5.7
 products 20,product_exports,20,2000,0.8
-products 20,uk_demand,20,2000,670.2
+products 20,uk_demand,20,2000,655.9
 product_imports,uk_demand,20,2000,6.6
 uk_production,exports,Cold rolled,2001,67.3
 uk_production,sector 5,Cold rolled,2001,2.9
@@ -6143,21 +5993,11 @@ uk_production,sector 8,Electro coated,2001,113.0
 imports,sector 8,Electro coated,2001,14.3
 sector 8,scrap,scrap Electro coated,2001,25.5
 uk_production,exports,Hot dipped galvanised,2001,479.1
-uk_production,sector 6,Hot dipped galvanised,2001,446.3
-sector 6,scrap,scrap Hot dipped galvanised,2001,44.6
-uk_production,sector 7,Hot dipped galvanised,2001,123.8
-sector 7,scrap,scrap Hot dipped galvanised,2001,21.1
-uk_production,sector 8,Hot dipped galvanised,2001,67.1
-sector 8,scrap,scrap Hot dipped galvanised,2001,13.4
-uk_production,sector 12,Hot dipped galvanised,2001,26.7
-sector 12,scrap,scrap Hot dipped galvanised,2001,5.3
-uk_production,sector 14,Hot dipped galvanised,2001,51.6
-sector 14,scrap,scrap Hot dipped galvanised,2001,5.7
-uk_production,sector 15a,Hot dipped galvanised,2001,129.8
+uk_production,sector 8,Hot dipped galvanised,2001,189.2
+sector 8,scrap,scrap Hot dipped galvanised,2001,37.8
+uk_production,sector 15a,Hot dipped galvanised,2001,670.7
 imports,sector 15a,Hot dipped galvanised,2001,108.7
-sector 15a,scrap,scrap Hot dipped galvanised,2001,102.6
-uk_production,sector 20,Hot dipped galvanised,2001,14.6
-sector 20,scrap,scrap Hot dipped galvanised,2001,2.5
+sector 15a,scrap,scrap Hot dipped galvanised,2001,335.2
 uk_production,exports,Hot rolled,2001,394.6
 uk_production,sector 6,Hot rolled,2001,124.9
 imports,sector 6,Hot rolled,2001,24.6
@@ -6389,11 +6229,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2001,1.5
 sector 4,products 4,4,2001,427.6
 component_imports,sector 5,component,2001,1.9
 sector 5,products 5,5,2001,47.3
-sector 6,products 6,6,2001,960.7
+sector 6,products 6,6,2001,559.0
 component_imports,sector 7,component,2001,46.6
-sector 7,products 7,7,2001,410.4
+sector 7,products 7,7,2001,307.6
 component_imports,sector 8,component,2001,3.1
-sector 8,products 8,8,2001,487.8
+sector 8,products 8,8,2001,585.5
 component_imports,sector 9,component,2001,26.9
 sector 9,products 9,9,2001,139.6
 component_imports,sector 10,component,2001,21.0
@@ -6401,12 +6241,12 @@ sector 10,products 10,10,2001,34.7
 component_imports,sector 11,component,2001,451.6
 sector 11,products 11,11,2001,782.7
 component_imports,sector 12,component,2001,123.2
-sector 12,products 12,12,2001,546.8
+sector 12,products 12,12,2001,525.5
 component_imports,sector 13,component,2001,49.2
 sector 13,products 13,13,2001,343.0
-sector 14,products 14,14,2001,3603.7
+sector 14,products 14,14,2001,3557.8
 component_imports,sector 15a,component,2001,697.3
-sector 15a,products 15a,15a,2001,990.6
+sector 15a,products 15a,15a,2001,1298.9
 component_imports,sector 15b,component,2001,1189.1
 sector 15b,products 15b,15b,2001,1724.0
 component_imports,sector 16,component,2001,102.5
@@ -6415,7 +6255,7 @@ sector 17,products 17,17,2001,238.2
 component_imports,sector 18,component,2001,18.4
 sector 18,products 18,18,2001,239.5
 sector 19,products 19,19,2001,5.4
-sector 20,products 20,20,2001,638.8
+sector 20,products 20,20,2001,626.6
 products 4,product_exports,4,2001,57.9
 products 4,uk_demand,4,2001,369.7
 product_imports,uk_demand,4,2001,299.6
@@ -6423,13 +6263,13 @@ products 5,product_exports,5,2001,547.8
 imbalance,products 5,5,2001,500.5
 product_imports,uk_demand,5,2001,987.7
 products 6,product_exports,6,2001,62.9
-products 6,uk_demand,6,2001,897.8
+products 6,uk_demand,6,2001,496.1
 product_imports,uk_demand,6,2001,52.8
 products 7,product_exports,7,2001,254.6
-products 7,uk_demand,7,2001,155.8
+products 7,uk_demand,7,2001,53.0
 product_imports,uk_demand,7,2001,1082.0
 products 8,product_exports,8,2001,331.0
-products 8,uk_demand,8,2001,156.8
+products 8,uk_demand,8,2001,254.5
 product_imports,uk_demand,8,2001,699.5
 products 9,product_exports,9,2001,200.3
 imbalance,products 9,9,2001,60.7
@@ -6441,16 +6281,16 @@ products 11,product_exports,11,2001,787.4
 imbalance,products 11,11,2001,4.7
 product_imports,uk_demand,11,2001,301.9
 products 12,product_exports,12,2001,583.7
-imbalance,products 12,12,2001,36.9
+imbalance,products 12,12,2001,58.2
 product_imports,uk_demand,12,2001,957.2
 products 13,product_exports,13,2001,274.7
 products 13,uk_demand,13,2001,68.3
 product_imports,uk_demand,13,2001,219.5
 products 14,product_exports,14,2001,388.7
-products 14,uk_demand,14,2001,3215.0
+products 14,uk_demand,14,2001,3169.1
 product_imports,uk_demand,14,2001,339.2
 products 15a,product_exports,15a,2001,1054.5
-imbalance,products 15a,15a,2001,63.9
+products 15a,uk_demand,15a,2001,244.4
 product_imports,uk_demand,15a,2001,1430.8
 products 15b,product_exports,15b,2001,752.5
 products 15b,uk_demand,15b,2001,971.5
@@ -6464,7 +6304,7 @@ products 18,uk_demand,18,2001,214.4
 product_imports,uk_demand,18,2001,1.1
 products 19,uk_demand,19,2001,5.4
 products 20,product_exports,20,2001,1.1
-products 20,uk_demand,20,2001,637.7
+products 20,uk_demand,20,2001,625.5
 product_imports,uk_demand,20,2001,5.9
 uk_production,exports,Cold rolled,2002,58.4
 uk_production,sector 5,Cold rolled,2002,2.6
@@ -6498,21 +6338,11 @@ uk_production,sector 8,Electro coated,2002,95.7
 imports,sector 8,Electro coated,2002,127.0
 sector 8,scrap,scrap Electro coated,2002,44.5
 uk_production,exports,Hot dipped galvanised,2002,522.0
-uk_production,sector 6,Hot dipped galvanised,2002,437.5
-sector 6,scrap,scrap Hot dipped galvanised,2002,43.8
-uk_production,sector 7,Hot dipped galvanised,2002,121.4
-sector 7,scrap,scrap Hot dipped galvanised,2002,20.6
-uk_production,sector 8,Hot dipped galvanised,2002,65.8
-sector 8,scrap,scrap Hot dipped galvanised,2002,13.2
-uk_production,sector 12,Hot dipped galvanised,2002,26.1
-sector 12,scrap,scrap Hot dipped galvanised,2002,5.2
-uk_production,sector 14,Hot dipped galvanised,2002,50.6
-sector 14,scrap,scrap Hot dipped galvanised,2002,5.6
-uk_production,sector 15a,Hot dipped galvanised,2002,127.3
+uk_production,sector 8,Hot dipped galvanised,2002,185.5
+sector 8,scrap,scrap Hot dipped galvanised,2002,37.1
+uk_production,sector 15a,Hot dipped galvanised,2002,657.5
 imports,sector 15a,Hot dipped galvanised,2002,1118.4
-sector 15a,scrap,scrap Hot dipped galvanised,2002,535.6
-uk_production,sector 20,Hot dipped galvanised,2002,14.3
-sector 20,scrap,scrap Hot dipped galvanised,2002,2.4
+sector 15a,scrap,scrap Hot dipped galvanised,2002,763.7
 uk_production,exports,Hot rolled,2002,429.1
 uk_production,sector 6,Hot rolled,2002,111.7
 imports,sector 6,Hot rolled,2002,252.0
@@ -6744,11 +6574,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2002,1.1
 sector 4,products 4,4,2002,468.5
 component_imports,sector 5,component,2002,20.5
 sector 5,products 5,5,2002,65.4
-sector 6,products 6,6,2002,1509.9
+sector 6,products 6,6,2002,1116.1
 component_imports,sector 7,component,2002,84.9
-sector 7,products 7,7,2002,511.2
+sector 7,products 7,7,2002,410.4
 component_imports,sector 8,component,2002,5.4
-sector 8,products 8,8,2002,656.5
+sector 8,products 8,8,2002,752.2
 component_imports,sector 9,component,2002,21.8
 sector 9,products 9,9,2002,123.6
 component_imports,sector 10,component,2002,18.4
@@ -6756,12 +6586,12 @@ sector 10,products 10,10,2002,31.3
 component_imports,sector 11,component,2002,331.4
 sector 11,products 11,11,2002,647.2
 component_imports,sector 12,component,2002,119.8
-sector 12,products 12,12,2002,529.9
+sector 12,products 12,12,2002,509.0
 component_imports,sector 13,component,2002,449.4
 sector 13,products 13,13,2002,741.7
-sector 14,products 14,14,2002,3936.1
+sector 14,products 14,14,2002,3891.1
 component_imports,sector 15a,component,2002,845.8
-sector 15a,products 15a,15a,2002,1712.1
+sector 15a,products 15a,15a,2002,2014.3
 component_imports,sector 15b,component,2002,741.6
 sector 15b,products 15b,15b,2002,1189.0
 component_imports,sector 16,component,2002,121.6
@@ -6770,7 +6600,7 @@ sector 17,products 17,17,2002,190.3
 component_imports,sector 18,component,2002,16.6
 sector 18,products 18,18,2002,193.3
 sector 19,products 19,19,2002,5.5
-sector 20,products 20,20,2002,632.7
+sector 20,products 20,20,2002,620.8
 products 4,product_exports,4,2002,52.8
 products 4,uk_demand,4,2002,415.7
 product_imports,uk_demand,4,2002,304.2
@@ -6778,13 +6608,13 @@ products 5,product_exports,5,2002,309.7
 imbalance,products 5,5,2002,244.3
 product_imports,uk_demand,5,2002,968.2
 products 6,product_exports,6,2002,55.7
-products 6,uk_demand,6,2002,1454.2
+products 6,uk_demand,6,2002,1060.4
 product_imports,uk_demand,6,2002,226.9
 products 7,product_exports,7,2002,254.5
-products 7,uk_demand,7,2002,256.7
+products 7,uk_demand,7,2002,155.9
 product_imports,uk_demand,7,2002,1356.0
 products 8,product_exports,8,2002,297.1
-products 8,uk_demand,8,2002,359.4
+products 8,uk_demand,8,2002,455.1
 product_imports,uk_demand,8,2002,1119.1
 products 9,product_exports,9,2002,202.6
 imbalance,products 9,9,2002,79.0
@@ -6796,16 +6626,16 @@ products 11,product_exports,11,2002,921.2
 imbalance,products 11,11,2002,274.0
 product_imports,uk_demand,11,2002,329.9
 products 12,product_exports,12,2002,577.8
-imbalance,products 12,12,2002,47.9
+imbalance,products 12,12,2002,68.8
 product_imports,uk_demand,12,2002,704.1
 products 13,product_exports,13,2002,238.5
 products 13,uk_demand,13,2002,503.2
 product_imports,uk_demand,13,2002,437.8
 products 14,product_exports,14,2002,362.1
-products 14,uk_demand,14,2002,3574.0
+products 14,uk_demand,14,2002,3529.0
 product_imports,uk_demand,14,2002,411.4
 products 15a,product_exports,15a,2002,1187.4
-products 15a,uk_demand,15a,2002,524.7
+products 15a,uk_demand,15a,2002,826.9
 product_imports,uk_demand,15a,2002,1526.1
 products 15b,product_exports,15b,2002,831.9
 products 15b,uk_demand,15b,2002,357.1
@@ -6819,7 +6649,7 @@ products 18,uk_demand,18,2002,172.1
 product_imports,uk_demand,18,2002,1.2
 products 19,uk_demand,19,2002,5.5
 products 20,product_exports,20,2002,0.8
-products 20,uk_demand,20,2002,631.9
+products 20,uk_demand,20,2002,620.0
 product_imports,uk_demand,20,2002,6.6
 uk_production,exports,Cold rolled,2003,67.5
 uk_production,sector 5,Cold rolled,2003,2.6
@@ -6853,21 +6683,11 @@ uk_production,sector 8,Electro coated,2003,108.9
 imports,sector 8,Electro coated,2003,126.8
 sector 8,scrap,scrap Electro coated,2003,47.1
 uk_production,exports,Hot dipped galvanised,2003,548.8
-uk_production,sector 6,Hot dipped galvanised,2003,418.4
-sector 6,scrap,scrap Hot dipped galvanised,2003,41.8
-uk_production,sector 7,Hot dipped galvanised,2003,116.1
-sector 7,scrap,scrap Hot dipped galvanised,2003,19.7
-uk_production,sector 8,Hot dipped galvanised,2003,62.9
-sector 8,scrap,scrap Hot dipped galvanised,2003,12.6
-uk_production,sector 12,Hot dipped galvanised,2003,25.0
-sector 12,scrap,scrap Hot dipped galvanised,2003,5.0
-uk_production,sector 14,Hot dipped galvanised,2003,48.4
-sector 14,scrap,scrap Hot dipped galvanised,2003,5.3
-uk_production,sector 15a,Hot dipped galvanised,2003,121.7
+uk_production,sector 8,Hot dipped galvanised,2003,177.4
+sector 8,scrap,scrap Hot dipped galvanised,2003,35.5
+uk_production,sector 15a,Hot dipped galvanised,2003,628.8
 imports,sector 15a,Hot dipped galvanised,2003,939.1
-sector 15a,scrap,scrap Hot dipped galvanised,2003,456.2
-uk_production,sector 20,Hot dipped galvanised,2003,13.7
-sector 20,scrap,scrap Hot dipped galvanised,2003,2.3
+sector 15a,scrap,scrap Hot dipped galvanised,2003,674.2
 uk_production,exports,Hot rolled,2003,572.4
 uk_production,sector 6,Hot rolled,2003,158.8
 imports,sector 6,Hot rolled,2003,268.4
@@ -7099,11 +6919,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2003,0.6
 sector 4,products 4,4,2003,470.1
 component_imports,sector 5,component,2003,19.2
 sector 5,products 5,5,2003,63.3
-sector 6,products 6,6,2003,1414.9
+sector 6,products 6,6,2003,1038.3
 component_imports,sector 7,component,2003,66.0
-sector 7,products 7,7,2003,490.8
+sector 7,products 7,7,2003,394.4
 component_imports,sector 8,component,2003,2.4
-sector 8,products 8,8,2003,660.1
+sector 8,products 8,8,2003,751.7
 component_imports,sector 9,component,2003,23.7
 sector 9,products 9,9,2003,121.9
 component_imports,sector 10,component,2003,19.8
@@ -7111,12 +6931,12 @@ sector 10,products 10,10,2003,33.1
 component_imports,sector 11,component,2003,376.3
 sector 11,products 11,11,2003,674.9
 component_imports,sector 12,component,2003,113.4
-sector 12,products 12,12,2003,547.8
+sector 12,products 12,12,2003,527.8
 component_imports,sector 13,component,2003,89.2
 sector 13,products 13,13,2003,369.4
-sector 14,products 14,14,2003,4033.7
+sector 14,products 14,14,2003,3990.7
 component_imports,sector 15a,component,2003,950.7
-sector 15a,products 15a,15a,2003,1704.3
+sector 15a,products 15a,15a,2003,1993.4
 component_imports,sector 15b,component,2003,741.8
 sector 15b,products 15b,15b,2003,1224.6
 component_imports,sector 16,component,2003,115.2
@@ -7125,7 +6945,7 @@ sector 17,products 17,17,2003,209.1
 component_imports,sector 18,component,2003,18.0
 sector 18,products 18,18,2003,212.8
 sector 19,products 19,19,2003,5.3
-sector 20,products 20,20,2003,577.7
+sector 20,products 20,20,2003,566.3
 products 4,product_exports,4,2003,55.5
 products 4,uk_demand,4,2003,414.6
 product_imports,uk_demand,4,2003,316.6
@@ -7133,13 +6953,13 @@ products 5,product_exports,5,2003,336.3
 imbalance,products 5,5,2003,273.0
 product_imports,uk_demand,5,2003,694.8
 products 6,product_exports,6,2003,51.7
-products 6,uk_demand,6,2003,1363.2
+products 6,uk_demand,6,2003,986.6
 product_imports,uk_demand,6,2003,103.2
 products 7,product_exports,7,2003,271.4
-products 7,uk_demand,7,2003,219.4
+products 7,uk_demand,7,2003,123.0
 product_imports,uk_demand,7,2003,1153.6
 products 8,product_exports,8,2003,286.6
-products 8,uk_demand,8,2003,373.5
+products 8,uk_demand,8,2003,465.1
 product_imports,uk_demand,8,2003,866.7
 products 9,product_exports,9,2003,205.2
 imbalance,products 9,9,2003,83.3
@@ -7151,16 +6971,16 @@ products 11,product_exports,11,2003,871.2
 imbalance,products 11,11,2003,196.3
 product_imports,uk_demand,11,2003,365.6
 products 12,product_exports,12,2003,630.4
-imbalance,products 12,12,2003,82.6
+imbalance,products 12,12,2003,102.6
 product_imports,uk_demand,12,2003,737.8
 products 13,product_exports,13,2003,241.8
 products 13,uk_demand,13,2003,127.6
 product_imports,uk_demand,13,2003,304.3
 products 14,product_exports,14,2003,380.6
-products 14,uk_demand,14,2003,3653.1
+products 14,uk_demand,14,2003,3610.1
 product_imports,uk_demand,14,2003,487.6
 products 15a,product_exports,15a,2003,1252.6
-products 15a,uk_demand,15a,2003,451.7
+products 15a,uk_demand,15a,2003,740.8
 product_imports,uk_demand,15a,2003,1605.6
 products 15b,product_exports,15b,2003,877.3
 products 15b,uk_demand,15b,2003,347.3
@@ -7174,7 +6994,7 @@ products 18,uk_demand,18,2003,190.6
 product_imports,uk_demand,18,2003,1.6
 products 19,uk_demand,19,2003,5.3
 products 20,product_exports,20,2003,0.7
-products 20,uk_demand,20,2003,577.0
+products 20,uk_demand,20,2003,565.6
 product_imports,uk_demand,20,2003,7.5
 uk_production,exports,Cold rolled,2004,61.0
 uk_production,sector 5,Cold rolled,2004,2.1
@@ -7208,21 +7028,11 @@ uk_production,sector 8,Electro coated,2004,112.1
 imports,sector 8,Electro coated,2004,149.8
 sector 8,scrap,scrap Electro coated,2004,52.4
 uk_production,exports,Hot dipped galvanised,2004,492.1
-uk_production,sector 6,Hot dipped galvanised,2004,404.2
-sector 6,scrap,scrap Hot dipped galvanised,2004,40.4
-uk_production,sector 7,Hot dipped galvanised,2004,112.2
-sector 7,scrap,scrap Hot dipped galvanised,2004,19.1
-uk_production,sector 8,Hot dipped galvanised,2004,60.8
-sector 8,scrap,scrap Hot dipped galvanised,2004,12.2
-uk_production,sector 12,Hot dipped galvanised,2004,24.1
-sector 12,scrap,scrap Hot dipped galvanised,2004,4.8
-uk_production,sector 14,Hot dipped galvanised,2004,46.7
-sector 14,scrap,scrap Hot dipped galvanised,2004,5.1
-uk_production,sector 15a,Hot dipped galvanised,2004,117.6
+uk_production,sector 8,Hot dipped galvanised,2004,171.4
+sector 8,scrap,scrap Hot dipped galvanised,2004,34.3
+uk_production,sector 15a,Hot dipped galvanised,2004,607.5
 imports,sector 15a,Hot dipped galvanised,2004,1040.8
-sector 15a,scrap,scrap Hot dipped galvanised,2004,498.1
-uk_production,sector 20,Hot dipped galvanised,2004,13.2
-sector 20,scrap,scrap Hot dipped galvanised,2004,2.3
+sector 15a,scrap,scrap Hot dipped galvanised,2004,708.8
 uk_production,exports,Hot rolled,2004,499.8
 uk_production,sector 6,Hot rolled,2004,152.2
 imports,sector 6,Hot rolled,2004,289.7
@@ -7454,11 +7264,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2004,1.3
 sector 4,products 4,4,2004,415.0
 component_imports,sector 5,component,2004,9.8
 sector 5,products 5,5,2004,56.0
-sector 6,products 6,6,2004,1670.8
+sector 6,products 6,6,2004,1307.0
 component_imports,sector 7,component,2004,62.9
-sector 7,products 7,7,2004,496.2
+sector 7,products 7,7,2004,403.1
 component_imports,sector 8,component,2004,2.6
-sector 8,products 8,8,2004,724.4
+sector 8,products 8,8,2004,812.9
 component_imports,sector 9,component,2004,27.4
 sector 9,products 9,9,2004,123.1
 component_imports,sector 10,component,2004,27.5
@@ -7466,12 +7276,12 @@ sector 10,products 10,10,2004,40.7
 component_imports,sector 11,component,2004,564.0
 sector 11,products 11,11,2004,884.3
 component_imports,sector 12,component,2004,109.1
-sector 12,products 12,12,2004,569.8
+sector 12,products 12,12,2004,550.5
 component_imports,sector 13,component,2004,45.8
 sector 13,products 13,13,2004,359.9
-sector 14,products 14,14,2004,4416.1
+sector 14,products 14,14,2004,4374.5
 component_imports,sector 15a,component,2004,891.3
-sector 15a,products 15a,15a,2004,1715.7
+sector 15a,products 15a,15a,2004,1995.0
 component_imports,sector 15b,component,2004,722.4
 sector 15b,products 15b,15b,2004,1247.8
 component_imports,sector 16,component,2004,122.5
@@ -7480,7 +7290,7 @@ sector 17,products 17,17,2004,234.2
 component_imports,sector 18,component,2004,21.7
 sector 18,products 18,18,2004,239.3
 sector 19,products 19,19,2004,5.4
-sector 20,products 20,20,2004,695.7
+sector 20,products 20,20,2004,684.7
 products 4,product_exports,4,2004,59.5
 products 4,uk_demand,4,2004,355.5
 product_imports,uk_demand,4,2004,321.7
@@ -7488,13 +7298,13 @@ products 5,product_exports,5,2004,318.3
 imbalance,products 5,5,2004,262.3
 product_imports,uk_demand,5,2004,1070.5
 products 6,product_exports,6,2004,50.5
-products 6,uk_demand,6,2004,1620.3
+products 6,uk_demand,6,2004,1256.5
 product_imports,uk_demand,6,2004,71.7
 products 7,product_exports,7,2004,1450.1
-imbalance,products 7,7,2004,953.9
+imbalance,products 7,7,2004,1047.0
 product_imports,uk_demand,7,2004,1229.2
 products 8,product_exports,8,2004,255.2
-products 8,uk_demand,8,2004,469.2
+products 8,uk_demand,8,2004,557.7
 product_imports,uk_demand,8,2004,766.8
 products 9,product_exports,9,2004,230.8
 imbalance,products 9,9,2004,107.7
@@ -7506,16 +7316,16 @@ products 11,product_exports,11,2004,2101.7
 imbalance,products 11,11,2004,1217.4
 product_imports,uk_demand,11,2004,522.7
 products 12,product_exports,12,2004,681.3
-imbalance,products 12,12,2004,111.5
+imbalance,products 12,12,2004,130.8
 product_imports,uk_demand,12,2004,884.5
 products 13,product_exports,13,2004,252.7
 products 13,uk_demand,13,2004,107.2
 product_imports,uk_demand,13,2004,258.5
 products 14,product_exports,14,2004,386.3
-products 14,uk_demand,14,2004,4029.8
+products 14,uk_demand,14,2004,3988.2
 product_imports,uk_demand,14,2004,741.1
 products 15a,product_exports,15a,2004,1312.5
-products 15a,uk_demand,15a,2004,403.2
+products 15a,uk_demand,15a,2004,682.5
 product_imports,uk_demand,15a,2004,1605.1
 products 15b,product_exports,15b,2004,923.1
 products 15b,uk_demand,15b,2004,324.7
@@ -7529,7 +7339,7 @@ products 18,uk_demand,18,2004,211.5
 product_imports,uk_demand,18,2004,1.2
 products 19,uk_demand,19,2004,5.4
 products 20,product_exports,20,2004,0.8
-products 20,uk_demand,20,2004,694.9
+products 20,uk_demand,20,2004,683.9
 product_imports,uk_demand,20,2004,8.4
 uk_production,exports,Cold rolled,2005,52.0
 uk_production,sector 5,Cold rolled,2005,1.7
@@ -7563,21 +7373,11 @@ uk_production,sector 8,Electro coated,2005,81.0
 imports,sector 8,Electro coated,2005,102.4
 sector 8,scrap,scrap Electro coated,2005,36.7
 uk_production,exports,Hot dipped galvanised,2005,544.6
-uk_production,sector 6,Hot dipped galvanised,2005,363.5
-sector 6,scrap,scrap Hot dipped galvanised,2005,36.4
-uk_production,sector 7,Hot dipped galvanised,2005,100.9
-sector 7,scrap,scrap Hot dipped galvanised,2005,17.1
-uk_production,sector 8,Hot dipped galvanised,2005,54.6
-sector 8,scrap,scrap Hot dipped galvanised,2005,10.9
-uk_production,sector 12,Hot dipped galvanised,2005,21.7
-sector 12,scrap,scrap Hot dipped galvanised,2005,4.3
-uk_production,sector 14,Hot dipped galvanised,2005,42.0
-sector 14,scrap,scrap Hot dipped galvanised,2005,4.6
-uk_production,sector 15a,Hot dipped galvanised,2005,105.8
+uk_production,sector 8,Hot dipped galvanised,2005,154.1
+sector 8,scrap,scrap Hot dipped galvanised,2005,30.8
+uk_production,sector 15a,Hot dipped galvanised,2005,546.3
 imports,sector 15a,Hot dipped galvanised,2005,885.2
-sector 15a,scrap,scrap Hot dipped galvanised,2005,426.1
-uk_production,sector 20,Hot dipped galvanised,2005,11.9
-sector 20,scrap,scrap Hot dipped galvanised,2005,2.0
+sector 15a,scrap,scrap Hot dipped galvanised,2005,615.6
 uk_production,exports,Hot rolled,2005,585.4
 uk_production,sector 6,Hot rolled,2005,160.0
 imports,sector 6,Hot rolled,2005,260.8
@@ -7809,11 +7609,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2005,0.9
 sector 4,products 4,4,2005,369.4
 component_imports,sector 5,component,2005,6.0
 sector 5,products 5,5,2005,49.1
-sector 6,products 6,6,2005,1312.8
+sector 6,products 6,6,2005,985.6
 component_imports,sector 7,component,2005,62.7
-sector 7,products 7,7,2005,458.4
+sector 7,products 7,7,2005,374.7
 component_imports,sector 8,component,2005,7.2
-sector 8,products 8,8,2005,595.7
+sector 8,products 8,8,2005,675.3
 component_imports,sector 9,component,2005,27.0
 sector 9,products 9,9,2005,108.4
 component_imports,sector 10,component,2005,28.9
@@ -7821,12 +7621,12 @@ sector 10,products 10,10,2005,41.4
 component_imports,sector 11,component,2005,446.1
 sector 11,products 11,11,2005,738.9
 component_imports,sector 12,component,2005,3351.7
-sector 12,products 12,12,2005,3783.0
+sector 12,products 12,12,2005,3765.7
 component_imports,sector 13,component,2005,48.3
 sector 13,products 13,13,2005,339.2
-sector 14,products 14,14,2005,3881.7
+sector 14,products 14,14,2005,3844.3
 component_imports,sector 15a,component,2005,832.9
-sector 15a,products 15a,15a,2005,1544.3
+sector 15a,products 15a,15a,2005,1795.4
 component_imports,sector 15b,component,2005,728.7
 sector 15b,products 15b,15b,2005,1219.0
 component_imports,sector 16,component,2005,135.6
@@ -7835,7 +7635,7 @@ sector 17,products 17,17,2005,218.1
 component_imports,sector 18,component,2005,26.1
 sector 18,products 18,18,2005,229.0
 sector 19,products 19,19,2005,5.0
-sector 20,products 20,20,2005,629.6
+sector 20,products 20,20,2005,619.7
 products 4,product_exports,4,2005,61.8
 products 4,uk_demand,4,2005,307.6
 product_imports,uk_demand,4,2005,319.6
@@ -7843,13 +7643,13 @@ products 5,product_exports,5,2005,328.3
 imbalance,products 5,5,2005,279.2
 product_imports,uk_demand,5,2005,1215.2
 products 6,product_exports,6,2005,60.8
-products 6,uk_demand,6,2005,1252.0
+products 6,uk_demand,6,2005,924.8
 product_imports,uk_demand,6,2005,76.4
 products 7,product_exports,7,2005,395.6
-products 7,uk_demand,7,2005,62.8
+imbalance,products 7,7,2005,20.9
 product_imports,uk_demand,7,2005,1252.4
 products 8,product_exports,8,2005,377.3
-products 8,uk_demand,8,2005,218.4
+products 8,uk_demand,8,2005,298.0
 product_imports,uk_demand,8,2005,996.6
 products 9,product_exports,9,2005,205.6
 imbalance,products 9,9,2005,97.2
@@ -7861,16 +7661,16 @@ products 11,product_exports,11,2005,1314.8
 imbalance,products 11,11,2005,575.9
 product_imports,uk_demand,11,2005,741.3
 products 12,product_exports,12,2005,739.5
-products 12,uk_demand,12,2005,3043.5
+products 12,uk_demand,12,2005,3026.2
 product_imports,uk_demand,12,2005,805.0
 products 13,product_exports,13,2005,240.4
 products 13,uk_demand,13,2005,98.8
 product_imports,uk_demand,13,2005,323.5
 products 14,product_exports,14,2005,462.7
-products 14,uk_demand,14,2005,3419.0
+products 14,uk_demand,14,2005,3381.6
 product_imports,uk_demand,14,2005,1125.9
 products 15a,product_exports,15a,2005,1333.1
-products 15a,uk_demand,15a,2005,211.2
+products 15a,uk_demand,15a,2005,462.3
 product_imports,uk_demand,15a,2005,1507.7
 products 15b,product_exports,15b,2005,919.4
 products 15b,uk_demand,15b,2005,299.6
@@ -7884,7 +7684,7 @@ products 18,uk_demand,18,2005,206.6
 product_imports,uk_demand,18,2005,2.1
 products 19,uk_demand,19,2005,5.0
 products 20,product_exports,20,2005,0.8
-products 20,uk_demand,20,2005,628.8
+products 20,uk_demand,20,2005,618.9
 product_imports,uk_demand,20,2005,8.3
 uk_production,exports,Cold rolled,2007,30.9
 uk_production,sector 5,Cold rolled,2007,1.1
@@ -7918,21 +7718,11 @@ uk_production,sector 8,Electro coated,2007,81.7
 imports,sector 8,Electro coated,2007,102.6
 sector 8,scrap,scrap Electro coated,2007,36.9
 uk_production,exports,Hot dipped galvanised,2007,435.0
-uk_production,sector 6,Hot dipped galvanised,2007,406.9
-sector 6,scrap,scrap Hot dipped galvanised,2007,40.7
-uk_production,sector 7,Hot dipped galvanised,2007,112.9
-sector 7,scrap,scrap Hot dipped galvanised,2007,19.2
-uk_production,sector 8,Hot dipped galvanised,2007,61.2
-sector 8,scrap,scrap Hot dipped galvanised,2007,12.2
-uk_production,sector 12,Hot dipped galvanised,2007,24.3
-sector 12,scrap,scrap Hot dipped galvanised,2007,4.9
-uk_production,sector 14,Hot dipped galvanised,2007,47.0
-sector 14,scrap,scrap Hot dipped galvanised,2007,5.2
-uk_production,sector 15a,Hot dipped galvanised,2007,118.4
+uk_production,sector 8,Hot dipped galvanised,2007,172.5
+sector 8,scrap,scrap Hot dipped galvanised,2007,34.5
+uk_production,sector 15a,Hot dipped galvanised,2007,611.5
 imports,sector 15a,Hot dipped galvanised,2007,985.2
-sector 15a,scrap,scrap Hot dipped galvanised,2007,474.5
-uk_production,sector 20,Hot dipped galvanised,2007,13.3
-sector 20,scrap,scrap Hot dipped galvanised,2007,2.3
+sector 15a,scrap,scrap Hot dipped galvanised,2007,686.6
 uk_production,exports,Hot rolled,2007,363.6
 uk_production,sector 6,Hot rolled,2007,136.4
 imports,sector 6,Hot rolled,2007,225.7
@@ -8164,11 +7954,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2007,1.6
 sector 4,products 4,4,2007,423.1
 component_imports,sector 5,component,2007,8.3
 sector 5,products 5,5,2007,57.4
-sector 6,products 6,6,2007,1371.3
+sector 6,products 6,6,2007,1005.1
 component_imports,sector 7,component,2007,77.5
-sector 7,products 7,7,2007,494.9
+sector 7,products 7,7,2007,401.2
 component_imports,sector 8,component,2007,15.0
-sector 8,products 8,8,2007,661.5
+sector 8,products 8,8,2007,750.5
 component_imports,sector 9,component,2007,31.7
 sector 9,products 9,9,2007,203.7
 component_imports,sector 10,component,2007,21.8
@@ -8176,12 +7966,12 @@ sector 10,products 10,10,2007,33.2
 component_imports,sector 11,component,2007,494.2
 sector 11,products 11,11,2007,923.5
 component_imports,sector 12,component,2007,142.0
-sector 12,products 12,12,2007,587.2
+sector 12,products 12,12,2007,567.8
 component_imports,sector 13,component,2007,84.0
 sector 13,products 13,13,2007,479.6
-sector 14,products 14,14,2007,4689.5
+sector 14,products 14,14,2007,4647.7
 component_imports,sector 15a,component,2007,1293.0
-sector 15a,products 15a,15a,2007,2092.6
+sector 15a,products 15a,15a,2007,2373.7
 component_imports,sector 15b,component,2007,1253.3
 sector 15b,products 15b,15b,2007,1760.0
 component_imports,sector 16,component,2007,142.3
@@ -8190,7 +7980,7 @@ sector 17,products 17,17,2007,229.2
 component_imports,sector 18,component,2007,33.9
 sector 18,products 18,18,2007,246.4
 sector 19,products 19,19,2007,5.5
-sector 20,products 20,20,2007,620.7
+sector 20,products 20,20,2007,609.6
 products 4,product_exports,4,2007,70.8
 products 4,uk_demand,4,2007,352.3
 product_imports,uk_demand,4,2007,327.9
@@ -8198,13 +7988,13 @@ products 5,product_exports,5,2007,438.8
 imbalance,products 5,5,2007,381.4
 product_imports,uk_demand,5,2007,800.6
 products 6,product_exports,6,2007,65.6
-products 6,uk_demand,6,2007,1305.7
+products 6,uk_demand,6,2007,939.5
 product_imports,uk_demand,6,2007,93.6
 products 7,product_exports,7,2007,281.0
-products 7,uk_demand,7,2007,213.9
+products 7,uk_demand,7,2007,120.2
 product_imports,uk_demand,7,2007,1395.9
 products 8,product_exports,8,2007,228.1
-products 8,uk_demand,8,2007,433.4
+products 8,uk_demand,8,2007,522.4
 product_imports,uk_demand,8,2007,1265.7
 products 9,product_exports,9,2007,195.9
 products 9,uk_demand,9,2007,7.8
@@ -8216,16 +8006,16 @@ products 11,product_exports,11,2007,1109.9
 imbalance,products 11,11,2007,186.4
 product_imports,uk_demand,11,2007,638.1
 products 12,product_exports,12,2007,837.1
-imbalance,products 12,12,2007,249.9
+imbalance,products 12,12,2007,269.3
 product_imports,uk_demand,12,2007,932.1
 products 13,product_exports,13,2007,270.0
 products 13,uk_demand,13,2007,209.6
 product_imports,uk_demand,13,2007,353.5
 products 14,product_exports,14,2007,439.5
-products 14,uk_demand,14,2007,4250.0
+products 14,uk_demand,14,2007,4208.2
 product_imports,uk_demand,14,2007,850.4
 products 15a,product_exports,15a,2007,1488.9
-products 15a,uk_demand,15a,2007,603.7
+products 15a,uk_demand,15a,2007,884.8
 product_imports,uk_demand,15a,2007,1675.2
 products 15b,product_exports,15b,2007,1086.6
 products 15b,uk_demand,15b,2007,673.4
@@ -8239,7 +8029,7 @@ products 18,uk_demand,18,2007,224.1
 product_imports,uk_demand,18,2007,3.1
 products 19,uk_demand,19,2007,5.5
 products 20,product_exports,20,2007,0.7
-products 20,uk_demand,20,2007,620.0
+products 20,uk_demand,20,2007,608.9
 product_imports,uk_demand,20,2007,6.9
 uk_production,exports,Cold rolled,2008,23.6
 uk_production,sector 5,Cold rolled,2008,1.1
@@ -8273,21 +8063,11 @@ uk_production,sector 8,Electro coated,2008,59.9
 imports,sector 8,Electro coated,2008,67.8
 sector 8,scrap,scrap Electro coated,2008,25.5
 uk_production,exports,Hot dipped galvanised,2008,354.2
-uk_production,sector 6,Hot dipped galvanised,2008,365.8
-sector 6,scrap,scrap Hot dipped galvanised,2008,36.6
-uk_production,sector 7,Hot dipped galvanised,2008,101.5
-sector 7,scrap,scrap Hot dipped galvanised,2008,17.3
-uk_production,sector 8,Hot dipped galvanised,2008,55.0
-sector 8,scrap,scrap Hot dipped galvanised,2008,11.0
-uk_production,sector 12,Hot dipped galvanised,2008,21.8
-sector 12,scrap,scrap Hot dipped galvanised,2008,4.4
-uk_production,sector 14,Hot dipped galvanised,2008,42.3
-sector 14,scrap,scrap Hot dipped galvanised,2008,4.7
-uk_production,sector 15a,Hot dipped galvanised,2008,106.4
+uk_production,sector 8,Hot dipped galvanised,2008,155.1
+sector 8,scrap,scrap Hot dipped galvanised,2008,31.0
+uk_production,sector 15a,Hot dipped galvanised,2008,549.7
 imports,sector 15a,Hot dipped galvanised,2008,797.5
-sector 15a,scrap,scrap Hot dipped galvanised,2008,388.7
-uk_production,sector 20,Hot dipped galvanised,2008,12.0
-sector 20,scrap,scrap Hot dipped galvanised,2008,2.0
+sector 15a,scrap,scrap Hot dipped galvanised,2008,579.3
 uk_production,exports,Hot rolled,2008,320.9
 uk_production,sector 6,Hot rolled,2008,132.1
 imports,sector 6,Hot rolled,2008,198.0
@@ -8519,11 +8299,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2008,1.7
 sector 4,products 4,4,2008,341.4
 component_imports,sector 5,component,2008,6.8
 sector 5,products 5,5,2008,51.9
-sector 6,products 6,6,2008,1297.8
+sector 6,products 6,6,2008,968.5
 component_imports,sector 7,component,2008,98.2
-sector 7,products 7,7,2008,488.7
+sector 7,products 7,7,2008,404.5
 component_imports,sector 8,component,2008,8.2
-sector 8,products 8,8,2008,573.4
+sector 8,products 8,8,2008,653.5
 component_imports,sector 9,component,2008,42.1
 sector 9,products 9,9,2008,184.2
 component_imports,sector 10,component,2008,30.7
@@ -8531,12 +8311,12 @@ sector 10,products 10,10,2008,41.2
 component_imports,sector 11,component,2008,431.7
 sector 11,products 11,11,2008,827.8
 component_imports,sector 12,component,2008,142.5
-sector 12,products 12,12,2008,559.0
+sector 12,products 12,12,2008,541.5
 component_imports,sector 13,component,2008,79.7
 sector 13,products 13,13,2008,422.0
-sector 14,products 14,14,2008,4282.2
+sector 14,products 14,14,2008,4244.6
 component_imports,sector 15a,component,2008,825.2
-sector 15a,products 15a,15a,2008,1489.0
+sector 15a,products 15a,15a,2008,1741.6
 component_imports,sector 15b,component,2008,804.2
 sector 15b,products 15b,15b,2008,1276.9
 component_imports,sector 16,component,2008,128.9
@@ -8545,7 +8325,7 @@ sector 17,products 17,17,2008,215.5
 component_imports,sector 18,component,2008,39.4
 sector 18,products 18,18,2008,239.1
 sector 19,products 19,19,2008,5.5
-sector 20,products 20,20,2008,565.4
+sector 20,products 20,20,2008,555.5
 products 4,product_exports,4,2008,61.8
 products 4,uk_demand,4,2008,279.6
 product_imports,uk_demand,4,2008,375.1
@@ -8553,13 +8333,13 @@ products 5,product_exports,5,2008,495.5
 imbalance,products 5,5,2008,443.6
 product_imports,uk_demand,5,2008,842.1
 products 6,product_exports,6,2008,63.6
-products 6,uk_demand,6,2008,1234.2
+products 6,uk_demand,6,2008,904.9
 product_imports,uk_demand,6,2008,86.7
 products 7,product_exports,7,2008,277.0
-products 7,uk_demand,7,2008,211.7
+products 7,uk_demand,7,2008,127.5
 product_imports,uk_demand,7,2008,1224.2
 products 8,product_exports,8,2008,219.1
-products 8,uk_demand,8,2008,354.3
+products 8,uk_demand,8,2008,434.4
 product_imports,uk_demand,8,2008,938.1
 products 9,product_exports,9,2008,198.2
 imbalance,products 9,9,2008,14.0
@@ -8571,16 +8351,16 @@ products 11,product_exports,11,2008,1068.4
 imbalance,products 11,11,2008,240.6
 product_imports,uk_demand,11,2008,458.4
 products 12,product_exports,12,2008,1083.3
-imbalance,products 12,12,2008,524.3
+imbalance,products 12,12,2008,541.8
 product_imports,uk_demand,12,2008,834.7
 products 13,product_exports,13,2008,272.5
 products 13,uk_demand,13,2008,149.5
 product_imports,uk_demand,13,2008,322.9
 products 14,product_exports,14,2008,466.2
-products 14,uk_demand,14,2008,3816.0
+products 14,uk_demand,14,2008,3778.4
 product_imports,uk_demand,14,2008,692.0
 products 15a,product_exports,15a,2008,1295.4
-products 15a,uk_demand,15a,2008,193.6
+products 15a,uk_demand,15a,2008,446.2
 product_imports,uk_demand,15a,2008,1411.9
 products 15b,product_exports,15b,2008,963.6
 products 15b,uk_demand,15b,2008,313.3
@@ -8594,7 +8374,7 @@ products 18,uk_demand,18,2008,219.0
 product_imports,uk_demand,18,2008,26.8
 products 19,uk_demand,19,2008,5.5
 products 20,product_exports,20,2008,0.8
-products 20,uk_demand,20,2008,564.6
+products 20,uk_demand,20,2008,554.7
 product_imports,uk_demand,20,2008,6.9
 uk_production,exports,Cold rolled,2009,9.8
 uk_production,sector 5,Cold rolled,2009,0.6
@@ -8628,21 +8408,11 @@ uk_production,sector 8,Electro coated,2009,32.2
 imports,sector 8,Electro coated,2009,44.3
 sector 8,scrap,scrap Electro coated,2009,15.3
 uk_production,exports,Hot dipped galvanised,2009,332.7
-uk_production,sector 6,Hot dipped galvanised,2009,255.5
-sector 6,scrap,scrap Hot dipped galvanised,2009,25.6
-uk_production,sector 7,Hot dipped galvanised,2009,70.9
-sector 7,scrap,scrap Hot dipped galvanised,2009,12.1
-uk_production,sector 8,Hot dipped galvanised,2009,38.4
-sector 8,scrap,scrap Hot dipped galvanised,2009,7.7
-uk_production,sector 12,Hot dipped galvanised,2009,15.3
-sector 12,scrap,scrap Hot dipped galvanised,2009,3.1
-uk_production,sector 14,Hot dipped galvanised,2009,29.5
-sector 14,scrap,scrap Hot dipped galvanised,2009,3.2
-uk_production,sector 15a,Hot dipped galvanised,2009,74.3
+uk_production,sector 8,Hot dipped galvanised,2009,108.3
+sector 8,scrap,scrap Hot dipped galvanised,2009,21.7
+uk_production,sector 15a,Hot dipped galvanised,2009,384.0
 imports,sector 15a,Hot dipped galvanised,2009,676.4
-sector 15a,scrap,scrap Hot dipped galvanised,2009,322.8
-uk_production,sector 20,Hot dipped galvanised,2009,8.4
-sector 20,scrap,scrap Hot dipped galvanised,2009,1.4
+sector 15a,scrap,scrap Hot dipped galvanised,2009,456.0
 uk_production,exports,Hot rolled,2009,397.4
 uk_production,sector 6,Hot rolled,2009,137.0
 imports,sector 6,Hot rolled,2009,221.5
@@ -8874,11 +8644,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2009,0.3
 sector 4,products 4,4,2009,209.8
 component_imports,sector 5,component,2009,3.4
 sector 5,products 5,5,2009,22.5
-sector 6,products 6,6,2009,1036.4
+sector 6,products 6,6,2009,806.4
 component_imports,sector 7,component,2009,72.0
-sector 7,products 7,7,2009,304.7
+sector 7,products 7,7,2009,245.8
 component_imports,sector 8,component,2009,5.4
-sector 8,products 8,8,2009,312.2
+sector 8,products 8,8,2009,368.1
 component_imports,sector 9,component,2009,34.5
 sector 9,products 9,9,2009,52.0
 component_imports,sector 10,component,2009,10.9
@@ -8886,12 +8656,12 @@ sector 10,products 10,10,2009,16.6
 component_imports,sector 11,component,2009,219.4
 sector 11,products 11,11,2009,340.9
 component_imports,sector 12,component,2009,117.8
-sector 12,products 12,12,2009,369.9
+sector 12,products 12,12,2009,357.7
 component_imports,sector 13,component,2009,66.6
 sector 13,products 13,13,2009,201.5
-sector 14,products 14,14,2009,2602.1
+sector 14,products 14,14,2009,2575.8
 component_imports,sector 15a,component,2009,392.5
-sector 15a,products 15a,15a,2009,885.1
+sector 15a,products 15a,15a,2009,1061.6
 component_imports,sector 15b,component,2009,414.9
 sector 15b,products 15b,15b,2009,696.5
 component_imports,sector 16,component,2009,83.2
@@ -8900,7 +8670,7 @@ sector 17,products 17,17,2009,130.9
 component_imports,sector 18,component,2009,23.7
 sector 18,products 18,18,2009,145.8
 sector 19,products 19,19,2009,2.3
-sector 20,products 20,20,2009,392.1
+sector 20,products 20,20,2009,385.2
 products 4,product_exports,4,2009,45.2
 products 4,uk_demand,4,2009,164.6
 product_imports,uk_demand,4,2009,222.9
@@ -8908,13 +8678,13 @@ products 5,product_exports,5,2009,342.3
 imbalance,products 5,5,2009,319.8
 product_imports,uk_demand,5,2009,582.4
 products 6,product_exports,6,2009,52.1
-products 6,uk_demand,6,2009,984.3
+products 6,uk_demand,6,2009,754.3
 product_imports,uk_demand,6,2009,63.7
 products 7,product_exports,7,2009,214.2
-products 7,uk_demand,7,2009,90.5
+products 7,uk_demand,7,2009,31.6
 product_imports,uk_demand,7,2009,1227.3
 products 8,product_exports,8,2009,151.9
-products 8,uk_demand,8,2009,160.3
+products 8,uk_demand,8,2009,216.2
 product_imports,uk_demand,8,2009,654.2
 products 9,product_exports,9,2009,155.1
 imbalance,products 9,9,2009,103.1
@@ -8926,16 +8696,16 @@ products 11,product_exports,11,2009,606.1
 imbalance,products 11,11,2009,265.2
 product_imports,uk_demand,11,2009,231.2
 products 12,product_exports,12,2009,589.6
-imbalance,products 12,12,2009,219.7
+imbalance,products 12,12,2009,231.9
 product_imports,uk_demand,12,2009,616.6
 products 13,product_exports,13,2009,212.0
 imbalance,products 13,13,2009,10.5
 product_imports,uk_demand,13,2009,240.2
 products 14,product_exports,14,2009,353.1
-products 14,uk_demand,14,2009,2249.0
+products 14,uk_demand,14,2009,2222.7
 product_imports,uk_demand,14,2009,386.8
 products 15a,product_exports,15a,2009,828.6
-products 15a,uk_demand,15a,2009,56.5
+products 15a,uk_demand,15a,2009,233.0
 product_imports,uk_demand,15a,2009,1070.0
 products 15b,product_exports,15b,2009,628.4
 products 15b,uk_demand,15b,2009,68.1
@@ -8949,7 +8719,7 @@ products 18,uk_demand,18,2009,130.8
 product_imports,uk_demand,18,2009,3.6
 products 19,uk_demand,19,2009,2.3
 products 20,product_exports,20,2009,0.6
-products 20,uk_demand,20,2009,391.5
+products 20,uk_demand,20,2009,384.6
 product_imports,uk_demand,20,2009,6.6
 uk_production,exports,Cold rolled,2010,9.5
 uk_production,sector 5,Cold rolled,2010,0.8
@@ -8983,21 +8753,11 @@ uk_production,sector 8,Electro coated,2010,43.1
 imports,sector 8,Electro coated,2010,68.3
 sector 8,scrap,scrap Electro coated,2010,22.3
 uk_production,exports,Hot dipped galvanised,2010,370.3
-uk_production,sector 6,Hot dipped galvanised,2010,297.2
-sector 6,scrap,scrap Hot dipped galvanised,2010,29.7
-uk_production,sector 7,Hot dipped galvanised,2010,82.5
-sector 7,scrap,scrap Hot dipped galvanised,2010,14.0
-uk_production,sector 8,Hot dipped galvanised,2010,44.7
-sector 8,scrap,scrap Hot dipped galvanised,2010,8.9
-uk_production,sector 12,Hot dipped galvanised,2010,17.8
-sector 12,scrap,scrap Hot dipped galvanised,2010,3.6
-uk_production,sector 14,Hot dipped galvanised,2010,34.4
-sector 14,scrap,scrap Hot dipped galvanised,2010,3.8
-uk_production,sector 15a,Hot dipped galvanised,2010,86.5
+uk_production,sector 8,Hot dipped galvanised,2010,126.0
+sector 8,scrap,scrap Hot dipped galvanised,2010,25.2
+uk_production,sector 15a,Hot dipped galvanised,2010,446.7
 imports,sector 15a,Hot dipped galvanised,2010,906.7
-sector 15a,scrap,scrap Hot dipped galvanised,2010,427.1
-uk_production,sector 20,Hot dipped galvanised,2010,9.7
-sector 20,scrap,scrap Hot dipped galvanised,2010,1.7
+sector 15a,scrap,scrap Hot dipped galvanised,2010,582.0
 uk_production,exports,Hot rolled,2010,519.6
 uk_production,sector 6,Hot rolled,2010,186.0
 imports,sector 6,Hot rolled,2010,348.7
@@ -9219,11 +8979,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2010,0.5
 sector 4,products 4,4,2010,247.4
 component_imports,sector 5,component,2010,5.1
 sector 5,products 5,5,2010,29.5
-sector 6,products 6,6,2010,1267.7
+sector 6,products 6,6,2010,1000.2
 component_imports,sector 7,component,2010,80.1
-sector 7,products 7,7,2010,358.9
+sector 7,products 7,7,2010,290.5
 component_imports,sector 8,component,2010,4.3
-sector 8,products 8,8,2010,281.4
+sector 8,products 8,8,2010,346.4
 component_imports,sector 9,component,2010,33.2
 sector 9,products 9,9,2010,59.3
 component_imports,sector 10,component,2010,15.6
@@ -9231,12 +8991,12 @@ sector 10,products 10,10,2010,24.5
 component_imports,sector 11,component,2010,303.9
 sector 11,products 11,11,2010,458.1
 component_imports,sector 12,component,2010,146.6
-sector 12,products 12,12,2010,484.7
+sector 12,products 12,12,2010,470.5
 component_imports,sector 13,component,2010,58.7
 sector 13,products 13,13,2010,230.4
-sector 14,products 14,14,2010,3361.8
+sector 14,products 14,14,2010,3331.3
 component_imports,sector 15a,component,2010,652.8
-sector 15a,products 15a,15a,2010,1298.7
+sector 15a,products 15a,15a,2010,1504.0
 component_imports,sector 15b,component,2010,611.2
 sector 15b,products 15b,15b,2010,987.5
 component_imports,sector 16,component,2010,102.8
@@ -9245,7 +9005,7 @@ sector 17,products 17,17,2010,171.5
 component_imports,sector 18,component,2010,36.6
 sector 18,products 18,18,2010,196.3
 sector 19,products 19,19,2010,2.6
-sector 20,products 20,20,2010,464.3
+sector 20,products 20,20,2010,456.3
 products 4,product_exports,4,2010,52.9
 products 4,uk_demand,4,2010,194.5
 product_imports,uk_demand,4,2010,295.2
@@ -9253,13 +9013,13 @@ products 5,product_exports,5,2010,340.5
 imbalance,products 5,5,2010,311.0
 product_imports,uk_demand,5,2010,651.2
 products 6,product_exports,6,2010,52.7
-products 6,uk_demand,6,2010,1215.0
+products 6,uk_demand,6,2010,947.5
 product_imports,uk_demand,6,2010,75.5
 products 7,product_exports,7,2010,235.7
-products 7,uk_demand,7,2010,123.2
+products 7,uk_demand,7,2010,54.8
 product_imports,uk_demand,7,2010,1142.7
 products 8,product_exports,8,2010,196.9
-products 8,uk_demand,8,2010,84.5
+products 8,uk_demand,8,2010,149.5
 product_imports,uk_demand,8,2010,755.2
 products 9,product_exports,9,2010,173.9
 imbalance,products 9,9,2010,114.6
@@ -9271,16 +9031,16 @@ products 11,product_exports,11,2010,773.5
 imbalance,products 11,11,2010,315.4
 product_imports,uk_demand,11,2010,297.7
 products 12,product_exports,12,2010,662.8
-imbalance,products 12,12,2010,178.1
+imbalance,products 12,12,2010,192.3
 product_imports,uk_demand,12,2010,766.4
 products 13,product_exports,13,2010,224.9
 products 13,uk_demand,13,2010,5.5
 product_imports,uk_demand,13,2010,275.6
 products 14,product_exports,14,2010,356.4
-products 14,uk_demand,14,2010,3005.4
+products 14,uk_demand,14,2010,2974.9
 product_imports,uk_demand,14,2010,580.8
 products 15a,product_exports,15a,2010,1094.3
-products 15a,uk_demand,15a,2010,204.4
+products 15a,uk_demand,15a,2010,409.7
 product_imports,uk_demand,15a,2010,1345.7
 products 15b,product_exports,15b,2010,821.8
 products 15b,uk_demand,15b,2010,165.7
@@ -9294,7 +9054,7 @@ products 18,uk_demand,18,2010,180.3
 product_imports,uk_demand,18,2010,5.0
 products 19,uk_demand,19,2010,2.6
 products 20,product_exports,20,2010,0.7
-products 20,uk_demand,20,2010,463.6
+products 20,uk_demand,20,2010,455.6
 product_imports,uk_demand,20,2010,6.9
 uk_production,exports,Cold rolled,2011,7.3
 uk_production,sector 5,Cold rolled,2011,0.8
@@ -9328,21 +9088,11 @@ uk_production,sector 8,Electro coated,2011,43.2
 imports,sector 8,Electro coated,2011,75.2
 sector 8,scrap,scrap Electro coated,2011,23.7
 uk_production,exports,Hot dipped galvanised,2011,408.2
-uk_production,sector 6,Hot dipped galvanised,2011,287.4
-sector 6,scrap,scrap Hot dipped galvanised,2011,28.7
-uk_production,sector 7,Hot dipped galvanised,2011,79.7
-sector 7,scrap,scrap Hot dipped galvanised,2011,13.6
-uk_production,sector 8,Hot dipped galvanised,2011,43.2
-sector 8,scrap,scrap Hot dipped galvanised,2011,8.6
-uk_production,sector 12,Hot dipped galvanised,2011,17.2
-sector 12,scrap,scrap Hot dipped galvanised,2011,3.4
-uk_production,sector 14,Hot dipped galvanised,2011,33.2
-sector 14,scrap,scrap Hot dipped galvanised,2011,3.7
-uk_production,sector 15a,Hot dipped galvanised,2011,83.6
+uk_production,sector 8,Hot dipped galvanised,2011,121.8
+sector 8,scrap,scrap Hot dipped galvanised,2011,24.4
+uk_production,sector 15a,Hot dipped galvanised,2011,432.0
 imports,sector 15a,Hot dipped galvanised,2011,964.5
-sector 15a,scrap,scrap Hot dipped galvanised,2011,450.7
-uk_production,sector 20,Hot dipped galvanised,2011,9.4
-sector 20,scrap,scrap Hot dipped galvanised,2011,1.6
+sector 15a,scrap,scrap Hot dipped galvanised,2011,600.5
 uk_production,exports,Hot rolled,2011,516.7
 uk_production,sector 6,Hot rolled,2011,157.4
 imports,sector 6,Hot rolled,2011,334.6
@@ -9574,11 +9324,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2011,1.1
 sector 4,products 4,4,2011,272.1
 component_imports,sector 5,component,2011,6.1
 sector 5,products 5,5,2011,32.7
-sector 6,products 6,6,2011,1197.6
+sector 6,products 6,6,2011,938.9
 component_imports,sector 7,component,2011,80.7
-sector 7,products 7,7,2011,358.6
+sector 7,products 7,7,2011,292.4
 component_imports,sector 8,component,2011,2.0
-sector 8,products 8,8,2011,344.7
+sector 8,products 8,8,2011,407.6
 component_imports,sector 9,component,2011,33.4
 sector 9,products 9,9,2011,61.6
 component_imports,sector 10,component,2011,18.8
@@ -9586,12 +9336,12 @@ sector 10,products 10,10,2011,29.9
 component_imports,sector 11,component,2011,416.0
 sector 11,products 11,11,2011,596.8
 component_imports,sector 12,component,2011,171.0
-sector 12,products 12,12,2011,537.9
+sector 12,products 12,12,2011,524.2
 component_imports,sector 13,component,2011,55.3
 sector 13,products 13,13,2011,221.6
-sector 14,products 14,14,2011,3361.6
+sector 14,products 14,14,2011,3332.0
 component_imports,sector 15a,component,2011,744.2
-sector 15a,products 15a,15a,2011,1421.5
+sector 15a,products 15a,15a,2011,1620.1
 component_imports,sector 15b,component,2011,692.4
 sector 15b,products 15b,15b,2011,1129.2
 component_imports,sector 16,component,2011,108.5
@@ -9600,7 +9350,7 @@ sector 17,products 17,17,2011,199.8
 component_imports,sector 18,component,2011,39.2
 sector 18,products 18,18,2011,224.6
 sector 19,products 19,19,2011,2.7
-sector 20,products 20,20,2011,477.8
+sector 20,products 20,20,2011,470.0
 products 4,product_exports,4,2011,70.6
 products 4,uk_demand,4,2011,201.5
 product_imports,uk_demand,4,2011,324.7
@@ -9608,13 +9358,13 @@ products 5,product_exports,5,2011,315.2
 imbalance,products 5,5,2011,282.5
 product_imports,uk_demand,5,2011,662.7
 products 6,product_exports,6,2011,51.1
-products 6,uk_demand,6,2011,1146.5
+products 6,uk_demand,6,2011,887.8
 product_imports,uk_demand,6,2011,116.1
 products 7,product_exports,7,2011,238.3
-products 7,uk_demand,7,2011,120.3
+products 7,uk_demand,7,2011,54.1
 product_imports,uk_demand,7,2011,1104.9
 products 8,product_exports,8,2011,204.1
-products 8,uk_demand,8,2011,140.6
+products 8,uk_demand,8,2011,203.5
 product_imports,uk_demand,8,2011,768.9
 products 9,product_exports,9,2011,200.6
 imbalance,products 9,9,2011,139.0
@@ -9626,16 +9376,16 @@ products 11,product_exports,11,2011,880.9
 imbalance,products 11,11,2011,284.1
 product_imports,uk_demand,11,2011,346.8
 products 12,product_exports,12,2011,743.5
-imbalance,products 12,12,2011,205.6
+imbalance,products 12,12,2011,219.3
 product_imports,uk_demand,12,2011,819.9
 products 13,product_exports,13,2011,247.1
 imbalance,products 13,13,2011,25.5
 product_imports,uk_demand,13,2011,330.1
 products 14,product_exports,14,2011,348.2
-products 14,uk_demand,14,2011,3013.4
+products 14,uk_demand,14,2011,2983.8
 product_imports,uk_demand,14,2011,628.4
 products 15a,product_exports,15a,2011,1260.2
-products 15a,uk_demand,15a,2011,161.3
+products 15a,uk_demand,15a,2011,359.9
 product_imports,uk_demand,15a,2011,1366.7
 products 15b,product_exports,15b,2011,941.1
 products 15b,uk_demand,15b,2011,188.1
@@ -9649,7 +9399,7 @@ products 18,uk_demand,18,2011,203.3
 product_imports,uk_demand,18,2011,3.4
 products 19,uk_demand,19,2011,2.7
 products 20,product_exports,20,2011,2.0
-products 20,uk_demand,20,2011,475.8
+products 20,uk_demand,20,2011,468.0
 product_imports,uk_demand,20,2011,6.4
 uk_production,exports,Cold rolled,2012,4.1
 uk_production,sector 5,Cold rolled,2012,0.8
@@ -9683,21 +9433,11 @@ uk_production,sector 8,Electro coated,2012,41.7
 imports,sector 8,Electro coated,2012,75.3
 sector 8,scrap,scrap Electro coated,2012,23.4
 uk_production,exports,Hot dipped galvanised,2012,307.8
-uk_production,sector 6,Hot dipped galvanised,2012,286.6
-sector 6,scrap,scrap Hot dipped galvanised,2012,28.7
-uk_production,sector 7,Hot dipped galvanised,2012,79.5
-sector 7,scrap,scrap Hot dipped galvanised,2012,13.5
-uk_production,sector 8,Hot dipped galvanised,2012,43.1
-sector 8,scrap,scrap Hot dipped galvanised,2012,8.6
-uk_production,sector 12,Hot dipped galvanised,2012,17.1
-sector 12,scrap,scrap Hot dipped galvanised,2012,3.4
-uk_production,sector 14,Hot dipped galvanised,2012,33.1
-sector 14,scrap,scrap Hot dipped galvanised,2012,3.6
-uk_production,sector 15a,Hot dipped galvanised,2012,83.4
+uk_production,sector 8,Hot dipped galvanised,2012,121.5
+sector 8,scrap,scrap Hot dipped galvanised,2012,24.3
+uk_production,sector 15a,Hot dipped galvanised,2012,430.7
 imports,sector 15a,Hot dipped galvanised,2012,995.9
-sector 15a,scrap,scrap Hot dipped galvanised,2012,464.1
-uk_production,sector 20,Hot dipped galvanised,2012,9.4
-sector 20,scrap,scrap Hot dipped galvanised,2012,1.6
+sector 15a,scrap,scrap Hot dipped galvanised,2012,613.4
 uk_production,exports,Hot rolled,2012,245.7
 uk_production,sector 6,Hot rolled,2012,91.4
 imports,sector 6,Hot rolled,2012,217.9
@@ -9929,11 +9669,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2012,0.7
 sector 4,products 4,4,2012,259.1
 component_imports,sector 5,component,2012,5.1
 sector 5,products 5,5,2012,29.4
-sector 6,products 6,6,2012,1263.3
+sector 6,products 6,6,2012,1005.3
 component_imports,sector 7,component,2012,97.1
-sector 7,products 7,7,2012,362.9
+sector 7,products 7,7,2012,296.9
 component_imports,sector 8,component,2012,1.7
-sector 8,products 8,8,2012,510.1
+sector 8,products 8,8,2012,572.9
 component_imports,sector 9,component,2012,29.0
 sector 9,products 9,9,2012,61.5
 component_imports,sector 10,component,2012,20.1
@@ -9941,12 +9681,12 @@ sector 10,products 10,10,2012,29.6
 component_imports,sector 11,component,2012,379.5
 sector 11,products 11,11,2012,551.1
 component_imports,sector 12,component,2012,205.4
-sector 12,products 12,12,2012,512.1
+sector 12,products 12,12,2012,498.4
 component_imports,sector 13,component,2012,53.7
 sector 13,products 13,13,2012,217.5
-sector 14,products 14,14,2012,2920.0
+sector 14,products 14,14,2012,2890.5
 component_imports,sector 15a,component,2012,670.9
-sector 15a,products 15a,15a,2012,1364.2
+sector 15a,products 15a,15a,2012,1562.2
 component_imports,sector 15b,component,2012,615.2
 sector 15b,products 15b,15b,2012,997.4
 component_imports,sector 16,component,2012,100.8
@@ -9955,7 +9695,7 @@ sector 17,products 17,17,2012,173.8
 component_imports,sector 18,component,2012,41.1
 sector 18,products 18,18,2012,202.6
 sector 19,products 19,19,2012,2.5
-sector 20,products 20,20,2012,395.0
+sector 20,products 20,20,2012,387.2
 products 4,product_exports,4,2012,61.1
 products 4,uk_demand,4,2012,198.0
 product_imports,uk_demand,4,2012,295.3
@@ -9963,13 +9703,13 @@ products 5,product_exports,5,2012,270.1
 imbalance,products 5,5,2012,240.7
 product_imports,uk_demand,5,2012,593.0
 products 6,product_exports,6,2012,66.2
-products 6,uk_demand,6,2012,1197.1
+products 6,uk_demand,6,2012,939.1
 product_imports,uk_demand,6,2012,116.6
 products 7,product_exports,7,2012,213.9
-products 7,uk_demand,7,2012,149.0
+products 7,uk_demand,7,2012,83.0
 product_imports,uk_demand,7,2012,1018.8
 products 8,product_exports,8,2012,211.7
-products 8,uk_demand,8,2012,298.4
+products 8,uk_demand,8,2012,361.2
 product_imports,uk_demand,8,2012,692.3
 products 9,product_exports,9,2012,212.7
 imbalance,products 9,9,2012,151.2
@@ -9981,16 +9721,16 @@ products 11,product_exports,11,2012,860.6
 imbalance,products 11,11,2012,309.5
 product_imports,uk_demand,11,2012,333.5
 products 12,product_exports,12,2012,683.8
-imbalance,products 12,12,2012,171.7
+imbalance,products 12,12,2012,185.4
 product_imports,uk_demand,12,2012,731.4
 products 13,product_exports,13,2012,247.9
 imbalance,products 13,13,2012,30.4
 product_imports,uk_demand,13,2012,340.1
 products 14,product_exports,14,2012,272.6
-products 14,uk_demand,14,2012,2647.4
+products 14,uk_demand,14,2012,2617.9
 product_imports,uk_demand,14,2012,560.2
 products 15a,product_exports,15a,2012,1316.5
-products 15a,uk_demand,15a,2012,47.7
+products 15a,uk_demand,15a,2012,245.7
 product_imports,uk_demand,15a,2012,1222.9
 products 15b,product_exports,15b,2012,943.2
 products 15b,uk_demand,15b,2012,54.2
@@ -10004,7 +9744,7 @@ products 18,uk_demand,18,2012,185.8
 product_imports,uk_demand,18,2012,3.7
 products 19,uk_demand,19,2012,2.5
 products 20,product_exports,20,2012,1.7
-products 20,uk_demand,20,2012,393.3
+products 20,uk_demand,20,2012,385.5
 product_imports,uk_demand,20,2012,5.5
 uk_production,exports,Cold rolled,2013,4.7
 uk_production,sector 5,Cold rolled,2013,0.7
@@ -10038,21 +9778,11 @@ uk_production,sector 8,Electro coated,2013,31.4
 imports,sector 8,Electro coated,2013,28.5
 sector 8,scrap,scrap Electro coated,2013,12.0
 uk_production,exports,Hot dipped galvanised,2013,492.2
-uk_production,sector 6,Hot dipped galvanised,2013,290.5
-sector 6,scrap,scrap Hot dipped galvanised,2013,29.1
-uk_production,sector 7,Hot dipped galvanised,2013,80.6
-sector 7,scrap,scrap Hot dipped galvanised,2013,13.7
-uk_production,sector 8,Hot dipped galvanised,2013,43.7
-sector 8,scrap,scrap Hot dipped galvanised,2013,8.7
-uk_production,sector 12,Hot dipped galvanised,2013,17.4
-sector 12,scrap,scrap Hot dipped galvanised,2013,3.5
-uk_production,sector 14,Hot dipped galvanised,2013,33.6
-sector 14,scrap,scrap Hot dipped galvanised,2013,3.7
-uk_production,sector 15a,Hot dipped galvanised,2013,84.5
+uk_production,sector 8,Hot dipped galvanised,2013,123.2
+sector 8,scrap,scrap Hot dipped galvanised,2013,24.6
+uk_production,sector 15a,Hot dipped galvanised,2013,436.6
 imports,sector 15a,Hot dipped galvanised,2013,508.2
-sector 15a,scrap,scrap Hot dipped galvanised,2013,254.9
-uk_production,sector 20,Hot dipped galvanised,2013,9.5
-sector 20,scrap,scrap Hot dipped galvanised,2013,1.6
+sector 15a,scrap,scrap Hot dipped galvanised,2013,406.3
 uk_production,exports,Hot rolled,2013,536.1
 uk_production,sector 6,Hot rolled,2013,138.5
 imports,sector 6,Hot rolled,2013,151.7
@@ -10284,11 +10014,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2013,0.2
 sector 4,products 4,4,2013,279.8
 component_imports,sector 5,component,2013,5.0
 sector 5,products 5,5,2013,28.7
-sector 6,products 6,6,2013,925.6
+sector 6,products 6,6,2013,664.1
 component_imports,sector 7,component,2013,83.3
-sector 7,products 7,7,2013,325.9
+sector 7,products 7,7,2013,259.0
 component_imports,sector 8,component,2013,1.7
-sector 8,products 8,8,2013,345.4
+sector 8,products 8,8,2013,409.0
 component_imports,sector 9,component,2013,30.6
 sector 9,products 9,9,2013,61.9
 component_imports,sector 10,component,2013,23.4
@@ -10296,12 +10026,12 @@ sector 10,products 10,10,2013,32.5
 component_imports,sector 11,component,2013,393.2
 sector 11,products 11,11,2013,554.6
 component_imports,sector 12,component,2013,178.1
-sector 12,products 12,12,2013,461.6
+sector 12,products 12,12,2013,447.7
 component_imports,sector 13,component,2013,47.6
 sector 13,products 13,13,2013,217.8
-sector 14,products 14,14,2013,2977.5
+sector 14,products 14,14,2013,2947.6
 component_imports,sector 15a,component,2013,681.4
-sector 15a,products 15a,15a,2013,1098.3
+sector 15a,products 15a,15a,2013,1299.0
 component_imports,sector 15b,component,2013,620.4
 sector 15b,products 15b,15b,2013,967.1
 component_imports,sector 16,component,2013,110.2
@@ -10310,7 +10040,7 @@ sector 17,products 17,17,2013,153.9
 component_imports,sector 18,component,2013,60.6
 sector 18,products 18,18,2013,204.2
 sector 19,products 19,19,2013,2.3
-sector 20,products 20,20,2013,391.1
+sector 20,products 20,20,2013,383.2
 products 4,product_exports,4,2013,65.9
 products 4,uk_demand,4,2013,213.9
 product_imports,uk_demand,4,2013,327.1
@@ -10318,13 +10048,13 @@ products 5,product_exports,5,2013,292.2
 imbalance,products 5,5,2013,263.5
 product_imports,uk_demand,5,2013,678.8
 products 6,product_exports,6,2013,64.8
-products 6,uk_demand,6,2013,860.8
+products 6,uk_demand,6,2013,599.3
 product_imports,uk_demand,6,2013,338.1
 products 7,product_exports,7,2013,227.3
-products 7,uk_demand,7,2013,98.6
+products 7,uk_demand,7,2013,31.7
 product_imports,uk_demand,7,2013,1050.1
 products 8,product_exports,8,2013,193.7
-products 8,uk_demand,8,2013,151.7
+products 8,uk_demand,8,2013,215.3
 product_imports,uk_demand,8,2013,754.5
 products 9,product_exports,9,2013,209.3
 imbalance,products 9,9,2013,147.4
@@ -10336,16 +10066,16 @@ products 11,product_exports,11,2013,812.9
 imbalance,products 11,11,2013,258.3
 product_imports,uk_demand,11,2013,359.6
 products 12,product_exports,12,2013,653.4
-imbalance,products 12,12,2013,191.8
+imbalance,products 12,12,2013,205.7
 product_imports,uk_demand,12,2013,812.7
 products 13,product_exports,13,2013,243.7
 imbalance,products 13,13,2013,25.9
 product_imports,uk_demand,13,2013,648.9
 products 14,product_exports,14,2013,289.8
-products 14,uk_demand,14,2013,2687.7
+products 14,uk_demand,14,2013,2657.8
 product_imports,uk_demand,14,2013,592.8
 products 15a,product_exports,15a,2013,1382.3
-imbalance,products 15a,15a,2013,284.0
+imbalance,products 15a,15a,2013,83.3
 product_imports,uk_demand,15a,2013,1414.6
 products 15b,product_exports,15b,2013,983.7
 imbalance,products 15b,15b,2013,16.6
@@ -10359,7 +10089,7 @@ products 18,uk_demand,18,2013,187.1
 product_imports,uk_demand,18,2013,3.1
 products 19,uk_demand,19,2013,2.3
 products 20,product_exports,20,2013,0.8
-products 20,uk_demand,20,2013,390.3
+products 20,uk_demand,20,2013,382.4
 product_imports,uk_demand,20,2013,5.7
 uk_production,exports,Cold rolled,2014,6.8
 uk_production,sector 5,Cold rolled,2014,0.6
@@ -10393,21 +10123,11 @@ uk_production,sector 8,Electro coated,2014,31.6
 imports,sector 8,Electro coated,2014,62.9
 sector 8,scrap,scrap Electro coated,2014,18.9
 uk_production,exports,Hot dipped galvanised,2014,529.9
-uk_production,sector 6,Hot dipped galvanised,2014,286.5
-sector 6,scrap,scrap Hot dipped galvanised,2014,28.7
-uk_production,sector 7,Hot dipped galvanised,2014,79.5
-sector 7,scrap,scrap Hot dipped galvanised,2014,13.5
-uk_production,sector 8,Hot dipped galvanised,2014,43.1
-sector 8,scrap,scrap Hot dipped galvanised,2014,8.6
-uk_production,sector 12,Hot dipped galvanised,2014,17.1
-sector 12,scrap,scrap Hot dipped galvanised,2014,3.4
-uk_production,sector 14,Hot dipped galvanised,2014,33.1
-sector 14,scrap,scrap Hot dipped galvanised,2014,3.6
-uk_production,sector 15a,Hot dipped galvanised,2014,83.4
+uk_production,sector 8,Hot dipped galvanised,2014,121.5
+sector 8,scrap,scrap Hot dipped galvanised,2014,24.3
+uk_production,sector 15a,Hot dipped galvanised,2014,430.6
 imports,sector 15a,Hot dipped galvanised,2014,1097.5
-sector 15a,scrap,scrap Hot dipped galvanised,2014,507.8
-uk_production,sector 20,Hot dipped galvanised,2014,9.4
-sector 20,scrap,scrap Hot dipped galvanised,2014,1.6
+sector 15a,scrap,scrap Hot dipped galvanised,2014,657.1
 uk_production,exports,Hot rolled,2014,563.4
 uk_production,sector 6,Hot rolled,2014,129.5
 imports,sector 6,Hot rolled,2014,319.8
@@ -10639,11 +10359,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2014,0.3
 sector 4,products 4,4,2014,337.0
 component_imports,sector 5,component,2014,5.8
 sector 5,products 5,5,2014,30.6
-sector 6,products 6,6,2014,1285.0
+sector 6,products 6,6,2014,1027.1
 component_imports,sector 7,component,2014,74.2
-sector 7,products 7,7,2014,358.6
+sector 7,products 7,7,2014,292.6
 component_imports,sector 8,component,2014,2.0
-sector 8,products 8,8,2014,451.3
+sector 8,products 8,8,2014,514.0
 component_imports,sector 9,component,2014,39.6
 sector 9,products 9,9,2014,77.0
 component_imports,sector 10,component,2014,23.3
@@ -10651,12 +10371,12 @@ sector 10,products 10,10,2014,32.7
 component_imports,sector 11,component,2014,391.9
 sector 11,products 11,11,2014,570.8
 component_imports,sector 12,component,2014,145.9
-sector 12,products 12,12,2014,481.5
+sector 12,products 12,12,2014,467.8
 component_imports,sector 13,component,2014,47.7
 sector 13,products 13,13,2014,230.1
-sector 14,products 14,14,2014,3608.8
+sector 14,products 14,14,2014,3579.3
 component_imports,sector 15a,component,2014,680.8
-sector 15a,products 15a,15a,2014,1439.3
+sector 15a,products 15a,15a,2014,1637.2
 component_imports,sector 15b,component,2014,643.0
 sector 15b,products 15b,15b,2014,1045.1
 component_imports,sector 16,component,2014,140.7
@@ -10665,7 +10385,7 @@ sector 17,products 17,17,2014,183.4
 component_imports,sector 18,component,2014,36.0
 sector 18,products 18,18,2014,207.0
 sector 19,products 19,19,2014,2.4
-sector 20,products 20,20,2014,409.5
+sector 20,products 20,20,2014,401.7
 products 4,product_exports,4,2014,67.9
 products 4,uk_demand,4,2014,269.1
 product_imports,uk_demand,4,2014,336.1
@@ -10673,13 +10393,13 @@ products 5,product_exports,5,2014,294.2
 imbalance,products 5,5,2014,263.6
 product_imports,uk_demand,5,2014,700.7
 products 6,product_exports,6,2014,61.3
-products 6,uk_demand,6,2014,1223.7
+products 6,uk_demand,6,2014,965.8
 product_imports,uk_demand,6,2014,241.1
 products 7,product_exports,7,2014,241.0
-products 7,uk_demand,7,2014,117.6
+products 7,uk_demand,7,2014,51.6
 product_imports,uk_demand,7,2014,1174.3
 products 8,product_exports,8,2014,187.9
-products 8,uk_demand,8,2014,263.4
+products 8,uk_demand,8,2014,326.1
 product_imports,uk_demand,8,2014,844.4
 products 9,product_exports,9,2014,208.7
 imbalance,products 9,9,2014,131.7
@@ -10691,16 +10411,16 @@ products 11,product_exports,11,2014,755.8
 imbalance,products 11,11,2014,185.0
 product_imports,uk_demand,11,2014,443.5
 products 12,product_exports,12,2014,642.9
-imbalance,products 12,12,2014,161.4
+imbalance,products 12,12,2014,175.1
 product_imports,uk_demand,12,2014,834.9
 products 13,product_exports,13,2014,238.0
 imbalance,products 13,13,2014,7.9
 product_imports,uk_demand,13,2014,477.7
 products 14,product_exports,14,2014,300.6
-products 14,uk_demand,14,2014,3308.2
+products 14,uk_demand,14,2014,3278.7
 product_imports,uk_demand,14,2014,717.8
 products 15a,product_exports,15a,2014,1269.9
-products 15a,uk_demand,15a,2014,169.4
+products 15a,uk_demand,15a,2014,367.3
 product_imports,uk_demand,15a,2014,1578.4
 products 15b,product_exports,15b,2014,962.9
 products 15b,uk_demand,15b,2014,82.2
@@ -10714,7 +10434,7 @@ products 18,uk_demand,18,2014,192.4
 product_imports,uk_demand,18,2014,2.2
 products 19,uk_demand,19,2014,2.4
 products 20,product_exports,20,2014,0.8
-products 20,uk_demand,20,2014,408.7
+products 20,uk_demand,20,2014,400.9
 product_imports,uk_demand,20,2014,6.2
 uk_production,exports,Cold rolled,2015,8.3
 uk_production,sector 5,Cold rolled,2015,0.5
@@ -10748,21 +10468,11 @@ uk_production,sector 8,Electro coated,2015,35.3
 imports,sector 8,Electro coated,2015,71.8
 sector 8,scrap,scrap Electro coated,2015,21.4
 uk_production,exports,Hot dipped galvanised,2015,500.6
-uk_production,sector 6,Hot dipped galvanised,2015,298.6
-sector 6,scrap,scrap Hot dipped galvanised,2015,29.9
-uk_production,sector 7,Hot dipped galvanised,2015,82.9
-sector 7,scrap,scrap Hot dipped galvanised,2015,14.1
-uk_production,sector 8,Hot dipped galvanised,2015,44.9
-sector 8,scrap,scrap Hot dipped galvanised,2015,9.0
-uk_production,sector 12,Hot dipped galvanised,2015,17.8
-sector 12,scrap,scrap Hot dipped galvanised,2015,3.6
-uk_production,sector 14,Hot dipped galvanised,2015,34.5
-sector 14,scrap,scrap Hot dipped galvanised,2015,3.8
-uk_production,sector 15a,Hot dipped galvanised,2015,86.9
+uk_production,sector 8,Hot dipped galvanised,2015,126.6
+sector 8,scrap,scrap Hot dipped galvanised,2015,25.3
+uk_production,sector 15a,Hot dipped galvanised,2015,448.8
 imports,sector 15a,Hot dipped galvanised,2015,1169.8
-sector 15a,scrap,scrap Hot dipped galvanised,2015,540.4
-uk_production,sector 20,Hot dipped galvanised,2015,9.8
-sector 20,scrap,scrap Hot dipped galvanised,2015,1.7
+sector 15a,scrap,scrap Hot dipped galvanised,2015,696.0
 uk_production,exports,Hot rolled,2015,452.1
 uk_production,sector 6,Hot rolled,2015,115.8
 imports,sector 6,Hot rolled,2015,289.6
@@ -10994,11 +10704,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2015,0.2
 sector 4,products 4,4,2015,336.3
 component_imports,sector 5,component,2015,5.7
 sector 5,products 5,5,2015,27.8
-sector 6,products 6,6,2015,1274.0
+sector 6,products 6,6,2015,1005.2
 component_imports,sector 7,component,2015,84.0
-sector 7,products 7,7,2015,354.2
+sector 7,products 7,7,2015,285.4
 component_imports,sector 8,component,2015,2.2
-sector 8,products 8,8,2015,472.4
+sector 8,products 8,8,2015,537.8
 component_imports,sector 9,component,2015,49.6
 sector 9,products 9,9,2015,75.9
 component_imports,sector 10,component,2015,28.2
@@ -11006,12 +10716,12 @@ sector 10,products 10,10,2015,36.0
 component_imports,sector 11,component,2015,348.9
 sector 11,products 11,11,2015,505.0
 component_imports,sector 12,component,2015,163.4
-sector 12,products 12,12,2015,473.4
+sector 12,products 12,12,2015,459.2
 component_imports,sector 13,component,2015,37.4
 sector 13,products 13,13,2015,200.1
-sector 14,products 14,14,2015,3537.4
+sector 14,products 14,14,2015,3506.7
 component_imports,sector 15a,component,2015,712.1
-sector 15a,products 15a,15a,2015,1509.1
+sector 15a,products 15a,15a,2015,1715.4
 component_imports,sector 15b,component,2015,632.7
 sector 15b,products 15b,15b,2015,1008.5
 component_imports,sector 16,component,2015,138.1
@@ -11020,7 +10730,7 @@ sector 17,products 17,17,2015,175.2
 component_imports,sector 18,component,2015,30.8
 sector 18,products 18,18,2015,194.2
 sector 19,products 19,19,2015,2.1
-sector 20,products 20,20,2015,406.9
+sector 20,products 20,20,2015,398.8
 products 4,product_exports,4,2015,66.3
 products 4,uk_demand,4,2015,270.0
 product_imports,uk_demand,4,2015,332.6
@@ -11028,13 +10738,13 @@ products 5,product_exports,5,2015,351.3
 imbalance,products 5,5,2015,323.5
 product_imports,uk_demand,5,2015,687.2
 products 6,product_exports,6,2015,58.0
-products 6,uk_demand,6,2015,1216.0
+products 6,uk_demand,6,2015,947.2
 product_imports,uk_demand,6,2015,328.7
 products 7,product_exports,7,2015,244.9
-products 7,uk_demand,7,2015,109.3
+products 7,uk_demand,7,2015,40.5
 product_imports,uk_demand,7,2015,1205.0
 products 8,product_exports,8,2015,182.8
-products 8,uk_demand,8,2015,289.6
+products 8,uk_demand,8,2015,355.0
 product_imports,uk_demand,8,2015,991.0
 products 9,product_exports,9,2015,189.0
 imbalance,products 9,9,2015,113.1
@@ -11046,16 +10756,16 @@ products 11,product_exports,11,2015,698.8
 imbalance,products 11,11,2015,193.8
 product_imports,uk_demand,11,2015,456.3
 products 12,product_exports,12,2015,598.0
-imbalance,products 12,12,2015,124.6
+imbalance,products 12,12,2015,138.8
 product_imports,uk_demand,12,2015,849.7
 products 13,product_exports,13,2015,273.5
 imbalance,products 13,13,2015,73.4
 product_imports,uk_demand,13,2015,555.0
 products 14,product_exports,14,2015,299.6
-products 14,uk_demand,14,2015,3237.8
+products 14,uk_demand,14,2015,3207.1
 product_imports,uk_demand,14,2015,723.9
 products 15a,product_exports,15a,2015,1335.4
-products 15a,uk_demand,15a,2015,173.7
+products 15a,uk_demand,15a,2015,380.0
 product_imports,uk_demand,15a,2015,1761.5
 products 15b,product_exports,15b,2015,964.0
 products 15b,uk_demand,15b,2015,44.5
@@ -11069,7 +10779,7 @@ products 18,uk_demand,18,2015,179.4
 product_imports,uk_demand,18,2015,2.8
 products 19,uk_demand,19,2015,2.1
 products 20,product_exports,20,2015,1.1
-products 20,uk_demand,20,2015,405.8
+products 20,uk_demand,20,2015,397.7
 product_imports,uk_demand,20,2015,6.3
 uk_production,exports,Cold rolled,2016,8.5
 uk_production,sector 5,Cold rolled,2016,0.5
@@ -11103,21 +10813,11 @@ uk_production,sector 8,Electro coated,2016,32.7
 imports,sector 8,Electro coated,2016,91.2
 sector 8,scrap,scrap Electro coated,2016,24.8
 uk_production,exports,Hot dipped galvanised,2016,324.4
-uk_production,sector 6,Hot dipped galvanised,2016,246.3
-sector 6,scrap,scrap Hot dipped galvanised,2016,24.6
-uk_production,sector 7,Hot dipped galvanised,2016,68.3
-sector 7,scrap,scrap Hot dipped galvanised,2016,11.6
-uk_production,sector 8,Hot dipped galvanised,2016,37.0
-sector 8,scrap,scrap Hot dipped galvanised,2016,7.4
-uk_production,sector 12,Hot dipped galvanised,2016,14.7
-sector 12,scrap,scrap Hot dipped galvanised,2016,2.9
-uk_production,sector 14,Hot dipped galvanised,2016,28.5
-sector 14,scrap,scrap Hot dipped galvanised,2016,3.1
-uk_production,sector 15a,Hot dipped galvanised,2016,71.7
+uk_production,sector 8,Hot dipped galvanised,2016,104.4
+sector 8,scrap,scrap Hot dipped galvanised,2016,20.9
+uk_production,sector 15a,Hot dipped galvanised,2016,370.2
 imports,sector 15a,Hot dipped galvanised,2016,1324.2
-sector 15a,scrap,scrap Hot dipped galvanised,2016,600.2
-uk_production,sector 20,Hot dipped galvanised,2016,8.1
-sector 20,scrap,scrap Hot dipped galvanised,2016,1.4
+sector 15a,scrap,scrap Hot dipped galvanised,2016,728.6
 uk_production,exports,Hot rolled,2016,224.8
 uk_production,sector 6,Hot rolled,2016,68.2
 imports,sector 6,Hot rolled,2016,251.5
@@ -11349,11 +11049,11 @@ sector 20,scrap,scrap Sheet piling and rolled accessories,2016,0.6
 sector 4,products 4,4,2016,298.1
 component_imports,sector 5,component,2016,5.8
 sector 5,products 5,5,2016,27.7
-sector 6,products 6,6,2016,1400.6
+sector 6,products 6,6,2016,1178.9
 component_imports,sector 7,component,2016,153.8
-sector 7,products 7,7,2016,410.6
+sector 7,products 7,7,2016,353.9
 component_imports,sector 8,component,2016,2.3
-sector 8,products 8,8,2016,599.8
+sector 8,products 8,8,2016,653.7
 component_imports,sector 9,component,2016,44.1
 sector 9,products 9,9,2016,84.1
 component_imports,sector 10,component,2016,34.9
@@ -11361,12 +11061,12 @@ sector 10,products 10,10,2016,41.7
 component_imports,sector 11,component,2016,341.5
 sector 11,products 11,11,2016,507.4
 component_imports,sector 12,component,2016,184.1
-sector 12,products 12,12,2016,487.1
+sector 12,products 12,12,2016,475.3
 component_imports,sector 13,component,2016,40.1
 sector 13,products 13,13,2016,212.4
-sector 14,products 14,14,2016,3476.7
+sector 14,products 14,14,2016,3451.4
 component_imports,sector 15a,component,2016,741.3
-sector 15a,products 15a,15a,2016,1624.1
+sector 15a,products 15a,15a,2016,1794.3
 component_imports,sector 15b,component,2016,649.0
 sector 15b,products 15b,15b,2016,1042.7
 component_imports,sector 16,component,2016,144.0
@@ -11375,7 +11075,7 @@ sector 17,products 17,17,2016,189.8
 component_imports,sector 18,component,2016,40.6
 sector 18,products 18,18,2016,217.2
 sector 19,products 19,19,2016,1.9
-sector 20,products 20,20,2016,402.5
+sector 20,products 20,20,2016,395.8
 products 4,product_exports,4,2016,68.4
 products 4,uk_demand,4,2016,229.7
 product_imports,uk_demand,4,2016,349.5
@@ -11383,13 +11083,13 @@ products 5,product_exports,5,2016,326.2
 imbalance,products 5,5,2016,298.5
 product_imports,uk_demand,5,2016,722.4
 products 6,product_exports,6,2016,54.2
-products 6,uk_demand,6,2016,1346.4
+products 6,uk_demand,6,2016,1124.7
 product_imports,uk_demand,6,2016,286.7
 products 7,product_exports,7,2016,254.5
-products 7,uk_demand,7,2016,156.1
+products 7,uk_demand,7,2016,99.4
 product_imports,uk_demand,7,2016,1277.8
 products 8,product_exports,8,2016,183.6
-products 8,uk_demand,8,2016,416.2
+products 8,uk_demand,8,2016,470.1
 product_imports,uk_demand,8,2016,824.1
 products 9,product_exports,9,2016,202.6
 imbalance,products 9,9,2016,118.5
@@ -11401,16 +11101,16 @@ products 11,product_exports,11,2016,683.2
 imbalance,products 11,11,2016,175.8
 product_imports,uk_demand,11,2016,445.4
 products 12,product_exports,12,2016,614.2
-imbalance,products 12,12,2016,127.1
+imbalance,products 12,12,2016,138.9
 product_imports,uk_demand,12,2016,828.4
 products 13,product_exports,13,2016,436.5
 imbalance,products 13,13,2016,224.1
 product_imports,uk_demand,13,2016,507.9
 products 14,product_exports,14,2016,328.2
-products 14,uk_demand,14,2016,3148.5
+products 14,uk_demand,14,2016,3123.2
 product_imports,uk_demand,14,2016,832.1
 products 15a,product_exports,15a,2016,1432.7
-products 15a,uk_demand,15a,2016,191.4
+products 15a,uk_demand,15a,2016,361.6
 product_imports,uk_demand,15a,2016,1739.3
 products 15b,product_exports,15b,2016,1012.6
 products 15b,uk_demand,15b,2016,30.1
@@ -11424,5 +11124,5 @@ products 18,uk_demand,18,2016,203.4
 product_imports,uk_demand,18,2016,3.5
 products 19,uk_demand,19,2016,1.9
 products 20,product_exports,20,2016,0.9
-products 20,uk_demand,20,2016,401.6
+products 20,uk_demand,20,2016,394.9
 product_imports,uk_demand,20,2016,6.5
