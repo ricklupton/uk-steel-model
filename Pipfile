@@ -4,14 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
+future_fstrings = "*"
+pandas = "==0.23"
 datapackage = "*"
 ipykernel = "*"
 notebook = "*"
 logzero = "*"
-floweaver = "*"
-ipysankeywidget = "*"
-matplotlib = "*"
+zenodo-get = {editable = true,git = "https://gitlab.com/ricklupton/zenodo_get.git",ref = "fix-keywords"}
+goodtables = "*"
 
 [dev-packages]
 pylint = "*"

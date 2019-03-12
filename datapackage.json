@@ -1,0 +1,52 @@
+{
+  "homepage": "https://github.com/ricklupton/uk-steel-model",
+  "name": "uk-steel-model",
+  "title": "UK production, direct trade, indirect trade and consumption of steel and steel-containing goods",
+  "resources": [
+    {
+      "path": "data/flows.csv",
+      "profile": "tabular-data-resource",
+      "name": "flows",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "source",
+            "type": "string",
+            "format": "default",
+            "description": "Source process of the flow"
+          },
+          {
+            "name": "target",
+            "type": "string",
+            "format": "default",
+            "description": "Target process of the flow"
+          },
+          {
+            "name": "material",
+            "type": "string",
+            "format": "default",
+            "description": "Material type of the flow"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default",
+            "description": "Year"
+          },
+          {
+            "name": "value",
+            "type": "number",
+            "format": "default",
+            "description": "Mass of iron content of component/goods in this flow"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

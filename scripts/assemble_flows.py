@@ -26,19 +26,10 @@ logger.info('Starting %s', os.path.basename(__file__))
 ###########################################################################
 
 # find the root path of the other data files, relative to this script.
-ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+INPUT_DATA = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'build', 'input_data'))
 
 # Load data tables
-intermediate = pd.read_csv('data/intermediate_products.csv', index_col=['year', 'product'])
-
-# alloc = load_dataframe('allocations/datapackage.json', 'product_sector_allocations') \
-#     .set_index('product') \
-#     .astype(float)
-# assert all(abs(alloc.sum(axis=1) - 1) < 0.01), 'allocations should sum to 1'
-# alloc = load_dataframe(os.path.join(ROOT, 'issb-statistics/datapackage.json'),
-#                        'deliveries')
-    # .set_index('product') \
-    # .astype(float)
+intermediate = pd.read_csv('build/intermediate_products.csv', index_col=['year', 'product'])
 
 alloc_home = pd.read_csv('allocations/alloc_products_sectors_home.csv', index_col=0) \
     .fillna(0.0)
@@ -52,7 +43,6 @@ check_allocations(alloc_home)
 logger.info('Checking imported deliveries allocation')
 check_allocations(alloc_imports)
 
-
 # sector_yield_losses = load_dataframe('allocations/datapackage.json', 'sector_yield_losses') \
 #     .set_index('product') \
 #     .astype(float)
@@ -63,7 +53,7 @@ assert all(sector_yield_losses >= 0), 'sector yield losses should be greater tha
 
 # XXX what to do with re-imports and re-exports?
 product_trade = load_dataframe(
-    os.path.join(ROOT, 'uk-steel-trade/datapackage.json'), 'trade') \
+    os.path.join(INPUT_DATA, 'uk-steel-trade-v2.0.0.zip'), 'trade') \
     .set_index(['direction', 'stage', 'year', 'sector_code']) \
     ['mass_iron']
 

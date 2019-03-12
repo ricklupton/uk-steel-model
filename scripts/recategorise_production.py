@@ -14,7 +14,6 @@ Created by Rick Lupton, 17 August 2018.
 import pandas as pd
 import os.path
 from logzero import logger
-import os.path
 
 from util import load_datapackage_tables
 
@@ -26,11 +25,11 @@ logger.info('Starting %s', os.path.basename(__file__))
 ###########################################################################
 
 # find the root path of the other data files, relative to this script.
-ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+INPUT_DATA = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'build', 'input_data'))
 
 # Load data tables
-issb_tables = load_datapackage_tables(os.path.join(ROOT, 'issb-statistics/datapackage.json'))
-worldsteel_tables = load_datapackage_tables(os.path.join(ROOT, 'worldsteel-statistics/datapackage.json'))
+issb_tables = load_datapackage_tables(os.path.join(INPUT_DATA, 'uk-issb-statistics-v1.0.0.zip'))
+worldsteel_tables = load_datapackage_tables(os.path.join(INPUT_DATA, 'uk-worldsteel-statistics-v1.0.0.zip'))
 
 # Extract ISSB production tables. The first is just ECSC, which is used for
 # scaling imports & exports for consistency with Andre's spreadsheet. The
@@ -205,7 +204,7 @@ results = pd.concat([
 
 # sort columns and save
 COLUMNS = ['year', 'product', 'product_family', 'production', 'exports', 'imports', 'delivered']
-FILENAME = 'data/intermediate_products.csv'
+FILENAME = 'build/intermediate_products.csv'
 
 results[COLUMNS].to_csv(FILENAME, index=False, float_format='%.1f')
 logger.info('Saved results to %s', FILENAME)
