@@ -40,6 +40,14 @@ set up a Python environment with the necessary packages to prepare the data:
 pipenv install
 ```
 
+Unfortunately this my fail to install the first time due to the use of the
+`future_fstrings` package by the script for getting data from Zenodo. To fix it:
+
+```shell
+pipenv run pip install future_fstrings
+pipenv install
+```
+
 Run the scripts to download and prepare the data and build the model:
 
 ```
@@ -51,3 +59,23 @@ This will:
 - Map the ISSB and worldsteel data to a common categorisation, stored in `build/intermediate_products.csv`
 - Combine everything together to make the complete list of flows, stored in `data/flows.csv`
 
+## Exploration and documentation
+
+To use the Jupyter notebooks in the `docs/` folder, which explain and test some
+of the data, you may want to install some additional packages:
+
+```shell
+pipenv install --dev
+pipenv run install_kernel
+pipenv run jupyter nbextension enable --py --sys-prefix widgetsnbextension
+pipenv run jupyter nbextension enable --py --sys-prefix ipysankeywidget
+```
+
+Open the Jupyter notebook:
+
+```shell
+pipenv run jupyter notebook
+```
+
+The notebooks default to using the "pipenv" kernel which is installed by the
+`install_kernel` script above, so everything is self contained.

@@ -7,15 +7,20 @@ name = "pypi"
 future_fstrings = "*"
 pandas = "==0.23"
 datapackage = "*"
-ipykernel = "*"
-notebook = "*"
 logzero = "*"
 zenodo-get = {editable = true,git = "https://gitlab.com/ricklupton/zenodo_get.git",ref = "fix-keywords"}
 goodtables = "*"
 
 [dev-packages]
+ipykernel = "*"
+notebook = "*"
 pylint = "*"
 ipython = "*"
+palettable = "*"
+matplotlib = "*"
+gitpython = "*"
+floweaver = "*"
+ipysankeywidget = "*"
 
 [requires]
 python_version = "3.6"

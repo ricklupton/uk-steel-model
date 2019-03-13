@@ -43,10 +43,7 @@ check_allocations(alloc_home)
 logger.info('Checking imported deliveries allocation')
 check_allocations(alloc_imports)
 
-# sector_yield_losses = load_dataframe('allocations/datapackage.json', 'sector_yield_losses') \
-#     .set_index('product') \
-#     .astype(float)
-sector_yield_losses = pd.read_csv('allocations/data/yield_losses.csv', index_col=0) \
+sector_yield_losses = pd.read_csv('allocations/yield_losses.csv', index_col=0) \
     .fillna(0.0)
 assert all(sector_yield_losses <= 1), 'sector yield losses should be less than 1'
 assert all(sector_yield_losses >= 0), 'sector yield losses should be greater than 0'

@@ -6,6 +6,8 @@ def load_dataframe(filename, resource):
     """Load one table from a datapackage."""
     package = datapackage.Package(filename)
     r = package.get_resource(resource)
+    if r is None:
+        raise KeyError('No resource found: %s' % resource)
     return pd.DataFrame(r.read(), columns=r.headers)
 
 
