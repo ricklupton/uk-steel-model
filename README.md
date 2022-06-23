@@ -6,7 +6,7 @@ model of steel flows in the UK.
 ## Dependencies
 
 The model depends on these publicly-accessible datapackages:
-- [uk-trade-steel](https://github.com/ricklupton/uk-trade-steel)
+- [uk-steel-trade](https://github.com/ricklupton/uk-steel-trade)
 - [uk-worldsteel-statistics](https://github.com/ricklupton/uk-worldsteel-statistics)
 
 It also depends on data published by ISSB which is not publicly available. The
